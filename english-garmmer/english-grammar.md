@@ -112,7 +112,91 @@ bamboo/bamboos（竹子） cuckoo/cuckoos（布谷鸟，杜鹃鸟）radio/radios
 3. 少数名词后加-s或加-es均可
  memento/memento(e)s（纪念品） motto/motto(e)s（座右铭）volcano/volcano(e)s（火山） manifesto/manifesto(e)
 五、有关以-f或-fe结尾的名词
+1. 一般变f, fe为v，再加-es的词有下面12个：
+  calf/calves（小牛） half/halves（一半）
+  knife/knives（小刀） leaf/leaves（树叶）
+  life/lives（生命） loaf/loaves（一条）
+  self/selves（自身） sheaf/sheaves（一捆，一束）
+  shelf/shelves（架子） thief/thieves（贼）
+  wife/wives（妻子） wolf/wolves（狼）
+2. 一般直接加-s的名词有：
+  belief/beliefs（信仰） chief/chiefs（首领）
+  cliff/cliffs（悬崖） proof/proofs（证据）
+  reef/reefs（暗礁） roof/roofs（屋顶）
+  safe/safes（保险箱）
+3. 少数名词后加-s或变f, fe为v加-es均可：
+  dwarf/dwarfs/dwarves（矮人） handkerchief/handkerchiefs/handkerchieves（手帕）
+  hoof/hoofs/hooves（蹄） scarf/scarfs/scarves（围巾）
+  wharf/wharfs/wharves（码头）
+  另外要注意：beef（牛肉）/beefs（牢骚，抱怨）/beeves（肉用牛，=beef cattle）
+### 1.3.5 不规则的复数名词
+一、以-a结尾的拉丁语名词，词尾变为-ae或-as（少数词）
+alga/algae（海藻） alumna/alumnae（女校友，女毕业生）
+antenna/antennae/antennas（天线） formula/formulae/formulas（公式）larva/larvae/larvas（幼虫）
+二、以-ex或-ix结尾的拉丁语名词，在词尾直接加-es，或把-ex和-ix变为-ices
+apex/apexes/apices（顶点，最高点） appendix/appendixes/appendices（附录；阑尾）index/indexes/indices（索引）
+三、以-is结尾的希腊语名词，变-is为-es。例如：
+  analysis/analyses（分析） basis/bases（基础）
+  crisis/crises（危机） diagnosis/diagnoses（诊断）
+  thesis/theses（论文）
+四、以-on或-um结尾的名词，变-on或-um为-a，有的可在词尾直接加-s。例如：
+  bacterium/bacteria（细菌） criterion/criteria/criterions（标准）datum/data（数据） erratum/errata（错误，错字勘误表）medium/media/mediums（媒介，介质） memorandum/memoranda/memorandums（备忘录）phenomenon/phenomena（现象）
+五、变-oo-为-ee-。例如：
+  foot/feet（脚） tooth/teeth（牙齿）goose/geese（鹅）
+六、变-ouse为-ice。例如：
+mouse/mice（老鼠） louse/lice（虱子）
+七、以-us结尾的拉丁语名词，变-us为-i，有的可在词尾直接加-es。例如：
+  alumnus/alumni（男校友） bacillus/bacilli（杆菌）
+  cactus/cacti/cactuses（仙人掌） fungus/fungi/funguses（真菌）genius/genii/geniuses（天才） nucleus/nuclei/nucleuses（原子核）stimulus/stimuli（刺激物）
+### 1.3.6 复合名词变复数
+一、“man/woman+名词”构成的复合名词
+  由“man/woman+名词”构成的复合名词，两个词均须变为复数。例如：man teacher/men teachers（男老师） man doctor/men doctors（男医生）man servant/men servants（男仆） woman pilot/women pilots（女飞行员）woman journalist/women journalists（女记者）
+二、以-man/-woman/-child结尾的复合名词
+以-man/-woman/-child结尾的复合名词变复数时，将-man/-woman/-child变为复数。例如：
+fireman/firemen（消防员） chairwoman/chairwomen（女主席）horseman/horsemen（骑兵） grandchild/grandchildren（孙子，孙女）policeman/policemen（警察） Englishman/Englishmen（英国人）Frenchman/Frenchmen（法国人）但是German不是一个合成词，所以其复数形式是在词尾直接加-s，即Germans。
+三、“名词+介词或介词短语”构成的复合名词
+  “名词+介词或介词短语”构成的复合名词变复数时，将主体名词（或者说中心名词）变为复数。例如：comrade-in-arms/comrades-in-arms（战友）
+四、由动词短语演变成的复合名词
+由动词短语演变成的复合名词，一般没有主体名词，变复数时在词尾加-s。例如：
+forget-me-not/forget-me-nots（勿忘我） go-between/go-betweens（中间人）grown-up/grown-ups（成年人） take-off/take-offs（起飞）assistant director/assistant directors（助理导演） babysitter/babysitters（保姆）breakdown/breakdowns（崩溃，衰落） close-up/close-ups（特写镜头）takeover/takeovers（接管） sit-in/sit-ins（静坐抗议）stand-by/stand-bys（可以信任的人）
+五、“名词+形容词“构成的复合名词
+“名词+形容词“构成的复合名词变复数是，变名词为复数。例如：
+notary public/notaries public（公证员） secretary general/secretaries general（秘书长）Attorney General/Attorneys General（［美］司法部长，大法官/［英］总检察长）consul general/consuls general（总领事）
+### 1.3.7 单复数同形的名词
+一、动物名称
+1. 永远用作零复数
+sheep（绵羊）从来没有sheeps*这个词形。
+    deer（鹿）从来没有deers*这个词形。
+  2. 通常用作零复数
+bison（北美野牛）：a bison/two bison　grouse（松鸡）：a grouse/two grouse
+quail（鹌鹑）：a quail/two quail　salmon（三文鱼，大马哈鱼）：a salmon/two salmon
+cod（鳕鱼，也叫作codfish。在英国，满大街的快餐Fish and Chips〈炸鱼和炸薯条〉就是常用这种鱼做的。大家有机会到英国不妨尝尝就知道了，非常油腻，绝对是增肥食品）：a cod/two cod
+3. 零复数和规则复数均可
+antelope（羚羊）复数可以是antelope，或者是antelopes。
+reindeer（驯鹿）复数可以是reindeer，或者是reindeers。圣诞节前夜，帮圣诞老人拉雪橇的就是这种鹿。
+fish（鱼）复数可以是fish，或者是fishes。
+flounder（比目鱼）复数可以是flounder，或者是flounders。
+herring（鲱鱼）复数可以是herring，或者是herrings。还要注意，有一个常用的俚语red herring（遮眼法，转移注意力的东西），表示提出不相干的事实或论点，以分散对主题的注意力。
+shrimp（虾）复数可以是shrimp，或者是shrimps。
+二、国籍名称
+以-ese结尾的国籍名词常用零复数
+没有形式变化的名词有三类：
+第一类是不可数名词，如music，它们没有词形的变化，只能用作单数。
+第二类是复数可数名词，如people，它们没有词形的变化，只能用作复数。
+第三类是单复数同形的名词，如sheep，它们没有词形的变化，但既可以用作单数，也可以用作复数。
+### 1.3.8 有新词义的复数名词
+1. arm（手臂） arms（=weapons武器，军事）
+2. custom（风俗） customs（海关）
+3. damage（损坏，损失） damages（赔偿金）
+4. letter（信） letters（文学）
+5. minute（分钟） minutes（会议记录）
+6. spirit（精神） spirits（烈酒）
+7. premise（提前） premises（房屋，营业场所）
+8. security（安全） securities（证劵）
+9. line（行） lines（台词）
 ## 1.4 ‘s所有格的构成及逻辑语义关系
+### 1.4.1 ‘s所有格的构成
+
 ## 1.5 of属格的构成及逻辑语义的关系
 
 ## 1.2 名词的数（一）：可数与不可数
