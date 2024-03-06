@@ -41,12 +41,12 @@
        biology生物学；geometry几何学history历史；chemistry化学；grammar语法；math数学；
 ### 1.2.2 可数与不可数的“相对论”
 所谓可数与不可数的“相对论”，即是指一个名词是可数还是不可数关键在于它所表达的意义，而意义又随语境的不同而改变，因而名词的可数性是与它所使用的上下文语境密切相关的。
-一、规律一：对于物质名词或总称的名词，若是表示不同的种类，或者因为特定的意思，或者是液体表示“几杯”或“几瓶”这样的数量，则转化为可数名词。
-二、规律二：对于抽象名词，若是具体化了，则转化为可数名词。并且，此时往往伴随着词义上或大或小的改变。比如art（艺术）/an art（一项技术，一门特定的艺术）；beauty（美丽）/a beauty（一个美人）；youth（青春）/a youth（一个年轻人）。
-三、规律三：从更广泛的意义上来说，当一个名词表示抽象的、总称的概念（abstract or generic concept）时，一般作为不可数名词来用（比如上面讨论的husband and wife这样的特殊例子）。而当它表示具体的、特定的事物（concrete or particular things）时，则通常用作可数名词。这就是为什么词典中对于某个单词的某一词义，后面标注的既是可数，也是不可数。此时关键要看如何使用这个词义，如果是当作具体的事物来看，则是可数；如果是当作一个概念来看，则是不可数。拿area（面积）来说，如果是指某个地方的具体多大的“面积”，则是可数。
+1. 规律一：对于物质名词或总称的名词，若是表示不同的种类，或者因为特定的意思，或者是液体表示“几杯”或“几瓶”这样的数量，则转化为可数名词。
+2. 规律二：对于抽象名词，若是具体化了，则转化为可数名词。并且，此时往往伴随着词义上或大或小的改变。比如art（艺术）/an art（一项技术，一门特定的艺术）；beauty（美丽）/a beauty（一个美人）；youth（青春）/a youth（一个年轻人）。
+3. 规律三：从更广泛的意义上来说，当一个名词表示抽象的、总称的概念（abstract or generic concept）时，一般作为不可数名词来用（比如上面讨论的husband and wife这样的特殊例子）。而当它表示具体的、特定的事物（concrete or particular things）时，则通常用作可数名词。这就是为什么词典中对于某个单词的某一词义，后面标注的既是可数，也是不可数。此时关键要看如何使用这个词义，如果是当作具体的事物来看，则是可数；如果是当作一个概念来看，则是不可数。拿area（面积）来说，如果是指某个地方的具体多大的“面积”，则是可数。
 ### 1.2.3 不能按中文的思维理解英文名词的可数与不可数
 ### 1.2.4 不可数名词的度量
-一、不可数名词与量词
+1. 不可数名词与量词
 1. 常用piece修饰抽象名词和物质名词
     例如：advice,bread,baggage,chalk,equipment,furniture,information,jewelry,luggage,music和news等。
         a piece of news(一条消息)；
@@ -63,44 +63,44 @@
     a loaf of bread（一长条面包）
     a tube of toothpaste（一管牙膏）
     a slice of meat（一片肉）
-二、不可数名词不能被a(n)修饰
-三、不可数名词不能被基数词修饰
+2. 不可数名词不能被a(n)修饰
+3. 不可数名词不能被基数词修饰
 ## 1.3 单数与复数
 ### 1.3.1 英语名词的单数与复数的概念
 单数表示“一”；复数表示“多于一”，即表示两个或两个以上的数量
 ### 1.3.2 只用作单数的名词
 作单数的名词主要包括不可数名词与专有名词
 ### 1.3.3 只用作复数的名词
-一、 “二合一”的复数名词
+1.  “二合一”的复数名词
 1. 工具和仪器
 glasses（眼镜）spectacles（眼镜）binoculars（双筒望远镜，双目显微镜）scales（天平）clippers（理发剪，指甲刀）forceps（钳子，镊子〈尤指外科医生用的镊子〉）pincers（铁钳，钳子〈比如家用的老虎钳〉）tongs（钳子，夹子，镊子〈比如火钳子〉）tweezers（小钳〈比如女用的夹眉毛的小钳子〉）scissors（剪刀）shears（大剪刀）
 2. 服装
 jeans（牛仔裤）trousers（长裤）shorts（短裤）trunks（男士泳裤）briefs（内裤）pants（短裤）slacks（休闲）slacks（休闲裤）pajamas（睡衣）
 对于这些名词，要说明数量，我们往往要用pair（如a pair of）表示
-二、“单形复义”的名词
+2. “单形复义”的名词
 有些名词虽然没有复数的标记，但用作复数，即形式上是单数但是表达复数的意义。
 1. people 人
 2. cattle 牛群
 3. police 警察
 4. poultry 家禽
 5. livestock 农场里饲养的牲畜
-三、“the+形容词“———表示一类人的复数名词
+3. “the+形容词“———表示一类人的复数名词
 “the+形容词”表示一类人，此时当作复数名词，作主语时，谓语要用复数。
-四、复数专有名词
+4. 复数专有名词
 the Alps 阿尔卑斯山脉
 The Himalayas are the roof of the world. 喜马拉雅山脉是世界屋脊。
 The Great Lakes are a series of five lakes between the USA and Canada. 五大湖是位于美国和加拿大之间的五个湖。
 The Niagara Falls are the falls on the Niagara River. 尼亚加拉瀑布是位于尼亚加拉河上的一个瀑布群。
 ### 1.3.4 规则的复数名词
-一、一般在词尾加-s
+1. 一般在词尾加-s
 比如：desk/desks, book/books, hand/hands, dog/dogs, bee/bees, face/faces, orange/oranges等。
-二、以-s,-x,-ch,-sh结尾的名词加-es
+2. 以-s,-x,-ch,-sh结尾的名词加-es
 比如：class/classes, box/boxes, match/matches, bush/bushes等。
 特别注意：以-ch结尾的名词，若-ch发/k/音，则加-s，例如：stomach/stomachs。
-三、以“辅音字母+y“结尾的名词，变-y为-i，再加-es;而以“元音字母+y“结尾的名词，则加-s
+3. 以“辅音字母+y“结尾的名词，变-y为-i，再加-es;而以“元音字母+y“结尾的名词，则加-s
 比如：country/countries, family/families, baby/babies, lady/ladies;
     play/plays, boy/boys, guy/guys, donkey/donkeys, monkey/monkeys, key/等。
-四、有关以-o结尾的名词
+4. 有关以-o结尾的名词
 1. 一般加-es的名词有：
  tomato/tomatoes（西红柿） hero/heroes（英雄）
   Negro/Negroes（<侮辱>黑人） veto/vetoes（否决）
@@ -111,7 +111,7 @@ The Niagara Falls are the falls on the Niagara River. 尼亚加拉瀑布是位�
 bamboo/bamboos（竹子） cuckoo/cuckoos（布谷鸟，杜鹃鸟）radio/radios（收音机） studio/studios（工作室，演播室）zoo/zoos（动物园）
 3. 少数名词后加-s或加-es均可
  memento/memento(e)s（纪念品） motto/motto(e)s（座右铭）volcano/volcano(e)s（火山） manifesto/manifesto(e)
-五、有关以-f或-fe结尾的名词
+5. 有关以-f或-fe结尾的名词
 1. 一般变f, fe为v，再加-es的词有下面12个：
   calf/calves（小牛） half/halves（一半）
   knife/knives（小刀） leaf/leaves（树叶）
@@ -130,40 +130,40 @@ bamboo/bamboos（竹子） cuckoo/cuckoos（布谷鸟，杜鹃鸟）radio/radios
   wharf/wharfs/wharves（码头）
   另外要注意：beef（牛肉）/beefs（牢骚，抱怨）/beeves（肉用牛，=beef cattle）
 ### 1.3.5 不规则的复数名词
-一、以-a结尾的拉丁语名词，词尾变为-ae或-as（少数词）
+1. 以-a结尾的拉丁语名词，词尾变为-ae或-as（少数词）
 alga/algae（海藻） alumna/alumnae（女校友，女毕业生）
 antenna/antennae/antennas（天线） formula/formulae/formulas（公式）larva/larvae/larvas（幼虫）
-二、以-ex或-ix结尾的拉丁语名词，在词尾直接加-es，或把-ex和-ix变为-ices
+2. 以-ex或-ix结尾的拉丁语名词，在词尾直接加-es，或把-ex和-ix变为-ices
 apex/apexes/apices（顶点，最高点） appendix/appendixes/appendices（附录；阑尾）index/indexes/indices（索引）
-三、以-is结尾的希腊语名词，变-is为-es。例如：
+3. 以-is结尾的希腊语名词，变-is为-es。例如：
   analysis/analyses（分析） basis/bases（基础）
   crisis/crises（危机） diagnosis/diagnoses（诊断）
   thesis/theses（论文）
-四、以-on或-um结尾的名词，变-on或-um为-a，有的可在词尾直接加-s。例如：
+4. 以-on或-um结尾的名词，变-on或-um为-a，有的可在词尾直接加-s。例如：
   bacterium/bacteria（细菌） criterion/criteria/criterions（标准）datum/data（数据） erratum/errata（错误，错字勘误表）medium/media/mediums（媒介，介质） memorandum/memoranda/memorandums（备忘录）phenomenon/phenomena（现象）
-五、变-oo-为-ee-。例如：
+5. 变-oo-为-ee-。例如：
   foot/feet（脚） tooth/teeth（牙齿）goose/geese（鹅）
-六、变-ouse为-ice。例如：
+6. 变-ouse为-ice。例如：
 mouse/mice（老鼠） louse/lice（虱子）
-七、以-us结尾的拉丁语名词，变-us为-i，有的可在词尾直接加-es。例如：
+7. 以-us结尾的拉丁语名词，变-us为-i，有的可在词尾直接加-es。例如：
   alumnus/alumni（男校友） bacillus/bacilli（杆菌）
   cactus/cacti/cactuses（仙人掌） fungus/fungi/funguses（真菌）genius/genii/geniuses（天才） nucleus/nuclei/nucleuses（原子核）stimulus/stimuli（刺激物）
 ### 1.3.6 复合名词变复数
-一、“man/woman+名词”构成的复合名词
+1. “man/woman+名词”构成的复合名词
   由“man/woman+名词”构成的复合名词，两个词均须变为复数。例如：man teacher/men teachers（男老师） man doctor/men doctors（男医生）man servant/men servants（男仆） woman pilot/women pilots（女飞行员）woman journalist/women journalists（女记者）
-二、以-man/-woman/-child结尾的复合名词
+2. 以-man/-woman/-child结尾的复合名词
 以-man/-woman/-child结尾的复合名词变复数时，将-man/-woman/-child变为复数。例如：
 fireman/firemen（消防员） chairwoman/chairwomen（女主席）horseman/horsemen（骑兵） grandchild/grandchildren（孙子，孙女）policeman/policemen（警察） Englishman/Englishmen（英国人）Frenchman/Frenchmen（法国人）但是German不是一个合成词，所以其复数形式是在词尾直接加-s，即Germans。
-三、“名词+介词或介词短语”构成的复合名词
+3. “名词+介词或介词短语”构成的复合名词
   “名词+介词或介词短语”构成的复合名词变复数时，将主体名词（或者说中心名词）变为复数。例如：comrade-in-arms/comrades-in-arms（战友）
-四、由动词短语演变成的复合名词
+4. 由动词短语演变成的复合名词
 由动词短语演变成的复合名词，一般没有主体名词，变复数时在词尾加-s。例如：
 forget-me-not/forget-me-nots（勿忘我） go-between/go-betweens（中间人）grown-up/grown-ups（成年人） take-off/take-offs（起飞）assistant director/assistant directors（助理导演） babysitter/babysitters（保姆）breakdown/breakdowns（崩溃，衰落） close-up/close-ups（特写镜头）takeover/takeovers（接管） sit-in/sit-ins（静坐抗议）stand-by/stand-bys（可以信任的人）
-五、“名词+形容词“构成的复合名词
+5. “名词+形容词“构成的复合名词
 “名词+形容词“构成的复合名词变复数是，变名词为复数。例如：
 notary public/notaries public（公证员） secretary general/secretaries general（秘书长）Attorney General/Attorneys General（［美］司法部长，大法官/［英］总检察长）consul general/consuls general（总领事）
 ### 1.3.7 单复数同形的名词
-一、动物名称
+1. 动物名称
 1. 永远用作零复数
 sheep（绵羊）从来没有sheeps*这个词形。
     deer（鹿）从来没有deers*这个词形。
@@ -178,7 +178,7 @@ fish（鱼）复数可以是fish，或者是fishes。
 flounder（比目鱼）复数可以是flounder，或者是flounders。
 herring（鲱鱼）复数可以是herring，或者是herrings。还要注意，有一个常用的俚语red herring（遮眼法，转移注意力的东西），表示提出不相干的事实或论点，以分散对主题的注意力。
 shrimp（虾）复数可以是shrimp，或者是shrimps。
-二、国籍名称
+2. 国籍名称
 以-ese结尾的国籍名词常用零复数
 没有形式变化的名词有三类：
 第一类是不可数名词，如music，它们没有词形的变化，只能用作单数。
@@ -196,37 +196,37 @@ shrimp（虾）复数可以是shrimp，或者是shrimps。
 9. line（行） lines（台词）
 ## 1.4 ‘s所有格的构成及逻辑语义关系
 ### 1.4.1 ‘s所有格的构成
-一、单数名称
+1. 单数名称
 单数名称的所有格，在词尾家'‘s'，注：对于像actress这样以-s结尾的单数名词
-二、复数名词
+2. 复数名词
 对于复数名词的所有格的构成，要分下面两种情况： 一是，不以-s或-es结尾的特殊变化的复数名词，在词尾加“'s”。二是，以-s结尾的复数名词，在词尾加“'”构成所有格。
-三、复合名词
+3. 复合名词
 复合名词的所有格，在最后一个词的词尾加“'s”构成。
-四、并列名词
+4. 并列名词
 对于由and连接的并列名词，当表示“共有”的情况下，只需在最后一个名词的词尾加“'s”；若表示“各自所有”，则须在每个名词的词尾加“'s”。
 ### 1.4.2 ’s所有格的逻辑语义关系
- 一、所属关系
+ 1. 所属关系
 所谓“所属关系”，就是指某人所拥有的人或物。在以上讨论的例子中，“'s”主要是用来表示所属关系。
 例：my father-in-law's company 我岳父/公公的公司
 另外，所属关系有时是表示某物属于某一类人，而不是属于具体的某个人。
   例：the children's books 儿童读物
 除了表示所属关系之外，名词所有格还可以表示下列逻辑语义关系，包括主谓关系、动宾关系和同位关系等。
- 二、主谓关系
+ 2. 主谓关系
   How will Bhutto's death affect the world?
   妙语点睛 名词短语Bhutto's death相当于说Bhutto died，表示“布托死了”，即相当于一个主谓关系。
   精品译文 布托之死将会如何影响世界？
   由上面这个例子可知，所谓“主谓关系”，是指所有格名词（如Bhutto）相当于主语，而被修饰的名词（如death）相当于一个谓语。此时，这个被修饰的名词通常都是由一个动词转化过来的，比如death对应动词die。
- 三、动宾关系
+ 3. 动宾关系
  Bhutto's assassination rocks Pakistan.
  妙语点睛 这里的名词短语Bhutto's assassination相当于说assassinate Bhutto，表示“刺杀布托”，即相当于一个动宾关系。显然，这里的Bhutto's assassination不是上面所说的主谓关系，即不是表示“布托刺杀别人”。
   精品译文 布托的遇刺事件震惊了整个巴基斯坦。
   由上面的例子可知，所谓“动宾关系”，是指被修饰的名词（如assassination）相当于一个谓语，且是及物动词（如assassinate）。而所有格名词（如Bhutto）相当于这个及物动词的宾语。此时，这个被修饰的名词通常都是由一个动词转化过来的，比如assassination是由动词assassinate转化而来。
- 四、同位关系
+ 4. 同位关系
  For Washington, Bhutto's loss is incalculable.
   妙语点睛 这里的名词短语Bhutto's loss相当于the loss of Bhutto，表示“失去了布托这一损失”或“损失了布托”。这里loss是中心词，表示“损失”，而Bhutto's是用来详述具体损失了什么东西，补充说明loss，即相当于一个同位语。显然，这里的Bhutto's loss既不是上面所说的主谓关系来表示“布托失去了（什么东西）”，也不是动宾关系来表示“某人弄丢了布托”。
   精品译文 对于华盛顿（即指美国）来说，失去了布托这一损失无法估量。
   以上讨论的例子都是关于名词所有格“'s”适用于有生命的名词。名词所有格还可以用于以下“非生命名词”，此时一般都不是表示所属关系。
- 五、表示时间或距离
+ 5. 表示时间或距离
  所有格“'s”用在表示时间的名词后面。比如：
  today's newspaper 今天的报纸
  tomorrow's weather 明天的天气
@@ -241,14 +241,14 @@ shrimp（虾）复数可以是shrimp，或者是shrimps。
  Let's have ten minutes' break. 我们休息10分钟吧。
  My college is fifteen minutes' ride from my home. 我的大学离我家开车15分钟。
  Each morning, people swarm into the offices and factories of America, seeking a day's work for a day's pay. 每天早晨，人们涌进美国的办公室和工厂，来寻找日薪工作。
- 六、表示重量或价值等度量
+ 6. 表示重量或价值等度量
 所有格“'s”用在表示度量的名词后面。比如：
  two pounds' weight 两磅重
  a ton's weight 一吨重
  a ton's steel 一吨钢材
  two dollars' worth of sugar 两美元的白糖
  ten dollars' worth of meat 10美元的肉
- 七、表示国家、城市、国际组织或地理名词等
+ 7. 表示国家、城市、国际组织或地理名词等
  China's population 中国的人口
  China's industrial development 中国的工业发展
  China's exports and imports in January 中国1月份的进出口额
@@ -262,15 +262,15 @@ shrimp（虾）复数可以是shrimp，或者是shrimps。
  the sea's depth 海洋的深度
  the moon's shadow 月球的阴影
  the sun's ray 太阳的光线
- 八、用于交通工具及其部件的所属关系
+ 8. 用于交通工具及其部件的所属关系
  the car's exhaust 汽车的排气管
  the plane's engine 飞机的发动机
  the yacht's mast 游艇的桅杆
  the ship's boiler 轮船上的锅炉
 ### 1.4.3 名词所有格修饰的名词被省去
- 一、避免名词重复
+ 1. 避免名词重复
  具体来说，若名词所有格所修饰的名词已经出现过，则第二次出现在所有格后面的名词可以省去，以避免重复。
- 二、
+ 2. 
 ## 1.5 of属格的构成及逻辑语义的关系
 
 ## 1.2 名词的数（一）：可数与不可数
