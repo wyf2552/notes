@@ -196,7 +196,81 @@ shrimp（虾）复数可以是shrimp，或者是shrimps。
 9. line（行） lines（台词）
 ## 1.4 ‘s所有格的构成及逻辑语义关系
 ### 1.4.1 ‘s所有格的构成
-
+一、单数名称
+单数名称的所有格，在词尾家'‘s'，注：对于像actress这样以-s结尾的单数名词
+二、复数名词
+对于复数名词的所有格的构成，要分下面两种情况： 一是，不以-s或-es结尾的特殊变化的复数名词，在词尾加“'s”。二是，以-s结尾的复数名词，在词尾加“'”构成所有格。
+三、复合名词
+复合名词的所有格，在最后一个词的词尾加“'s”构成。
+四、并列名词
+对于由and连接的并列名词，当表示“共有”的情况下，只需在最后一个名词的词尾加“'s”；若表示“各自所有”，则须在每个名词的词尾加“'s”。
+### 1.4.2 ’s所有格的逻辑语义关系
+一、所属关系
+所谓“所属关系”，就是指某人所拥有的人或物。在以上讨论的例子中，“'s”主要是用来表示所属关系。
+例：my father-in-law's company 我岳父/公公的公司
+另外，所属关系有时是表示某物属于某一类人，而不是属于具体的某个人。
+  例：the children's books 儿童读物
+除了表示所属关系之外，名词所有格还可以表示下列逻辑语义关系，包括主谓关系、动宾关系和同位关系等。
+二、主谓关系
+  How will Bhutto's death affect the world?
+  妙语点睛 名词短语Bhutto's death相当于说Bhutto died，表示“布托死了”，即相当于一个主谓关系。
+  精品译文 布托之死将会如何影响世界？
+  由上面这个例子可知，所谓“主谓关系”，是指所有格名词（如Bhutto）相当于主语，而被修饰的名词（如death）相当于一个谓语。此时，这个被修饰的名词通常都是由一个动词转化过来的，比如death对应动词die。
+三、动宾关系
+ Bhutto's assassination rocks Pakistan.
+ 妙语点睛 这里的名词短语Bhutto's assassination相当于说assassinate Bhutto，表示“刺杀布托”，即相当于一个动宾关系。显然，这里的Bhutto's assassination不是上面所说的主谓关系，即不是表示“布托刺杀别人”。
+  精品译文 布托的遇刺事件震惊了整个巴基斯坦。
+  由上面的例子可知，所谓“动宾关系”，是指被修饰的名词（如assassination）相当于一个谓语，且是及物动词（如assassinate）。而所有格名词（如Bhutto）相当于这个及物动词的宾语。此时，这个被修饰的名词通常都是由一个动词转化过来的，比如assassination是由动词assassinate转化而来。
+四、同位关系
+ For Washington, Bhutto's loss is incalculable.
+  妙语点睛 这里的名词短语Bhutto's loss相当于the loss of Bhutto，表示“失去了布托这一损失”或“损失了布托”。这里loss是中心词，表示“损失”，而Bhutto's是用来详述具体损失了什么东西，补充说明loss，即相当于一个同位语。显然，这里的Bhutto's loss既不是上面所说的主谓关系来表示“布托失去了（什么东西）”，也不是动宾关系来表示“某人弄丢了布托”。
+  精品译文 对于华盛顿（即指美国）来说，失去了布托这一损失无法估量。
+  以上讨论的例子都是关于名词所有格“'s”适用于有生命的名词。名词所有格还可以用于以下“非生命名词”，此时一般都不是表示所属关系。
+五、表示时间或距离
+ 所有格“'s”用在表示时间的名词后面。比如：
+ today's newspaper 今天的报纸
+ tomorrow's weather 明天的天气
+ tonight's TV 今晚的电视节目
+ last night's storm 昨夜的暴风雨
+ a hard day's work 一整天的辛勤劳动
+ a week's holiday 一周的假期
+ a month's salary 一个月的薪水
+ three hours' delay 三小时的耽搁
+ I am very tired after a hard day's work. 辛苦工作了一天之后，我感到非常疲惫。
+ My birthday is in two weeks' time. 我的生日是在两周之后。
+ Let's have ten minutes' break. 我们休息10分钟吧。
+ My college is fifteen minutes' ride from my home. 我的大学离我家开车15分钟。
+ Each morning, people swarm into the offices and factories of America, seeking a day's work for a day's pay. 每天早晨，人们涌进美国的办公室和工厂，来寻找日薪工作。
+六、表示重量或价值等度量
+所有格“'s”用在表示度量的名词后面。比如：
+ two pounds' weight 两磅重
+ a ton's weight 一吨重
+ a ton's steel 一吨钢材
+ two dollars' worth of sugar 两美元的白糖
+ ten dollars' worth of meat 10美元的肉
+七、表示国家、城市、国际组织或地理名词等
+ China's population 中国的人口
+ China's industrial development 中国的工业发展
+ China's exports and imports in January 中国1月份的进出口额
+ America's West Coast 美国的西海岸
+ Shanghai Tower, Shanghai's tallest building 上海中心大厦，上海的第一高楼
+ the city's weather 这个城市的天气
+ the European Union's exports 欧盟的出口额
+ the world's three most famous tenors 世界最著名的三大男高音
+ the world's seven wonders 世界七大奇迹
+ the earth's surface 地球的表面
+ the sea's depth 海洋的深度
+ the moon's shadow 月球的阴影
+ the sun's ray 太阳的光线
+八、用于交通工具及其部件的所属关系
+ the car's exhaust 汽车的排气管
+ the plane's engine 飞机的发动机
+ the yacht's mast 游艇的桅杆
+ the ship's boiler 轮船上的锅炉
+### 1.4.3 名词所有格修饰的名词被省去
+一、避免名词重复
+ 具体来说，若名词所有格所修饰的名词已经出现过，则第二次出现在所有格后面的名词可以省去，以避免重复。
+二、
 ## 1.5 of属格的构成及逻辑语义的关系
 
 ## 1.2 名词的数（一）：可数与不可数
