@@ -81,3 +81,101 @@ while (该字符不是文件结束指示符)
     输出刚读入的字符
 
     读下一个字符
+
+在没有输入时，getchar 函数将返回一个特殊值，这个特殊值与任何实际字符都不同。这个 值称为 EOF(end of file，文件结束)。
+
+EOF 定义在头文件<stdio.h>中，是个整型数，其具体数值是什么并不重要，只要它与 任何 char 类型的值都不相同即可。这里使用符号常量，可以确保程序不需要依赖于其对应的 任何特定的数值。
+### 1.5.2 字符计数
+
+ #include <stdio.h>
+ /* count characters in input; 1st version */
+ main () {
+    long nc;
+    nc = 0;
+    while (getchar() != EOF) {
+        ++nc;
+    }
+
+    printf("%ld\n", nc);
+ }
+
+该字符计数程序使用 long 类型的变量存放计数值，而没有使用 int 类型的变量。long 整型数(长整型)至少要占用 32 位存储单元。在某些机器上 int 与 long 类型的长度相同， 但在一些机器上，int 类型的值可能只有 16 位存储单元的长度(最大值为 32767)，这样，相 当小的输入都可能使 int 类型的计数变量溢出。转换说明%ld 告诉 printf 函数其对应的参 数是 long 整型。
+### 1.5.3 行计数
+
+ #include <stdio.h>
+ /* count lines in inout */
+ main () {
+    int c, nl;
+    nl = 0;
+    while ((c = getchar()) != EOF) {
+        if (c == '\n') {
+            ++nl;
+        }
+    }
+
+    printf("%d\n", nl);
+ }
+
+ ### 1.5.4 单词计数
+
+ #include <stdio.h>
+
+ #define IN  /* inside a word */
+ #define OUT /* outside a word */
+
+ /* count lines, words,and characters in input */
+ main() {
+    int c, nl, nw, nc, state;
+    state = OUT;
+    nl = nw = nc = 0;
+    while ((c = getchar()) != EOF) {
+        ++nc;
+        if (c == '\n') {
+            ++nl;
+        }
+        if (c == ' ' || c == '\n' || c = '\t') {
+            state = OUT;
+        } else if (state == OUT) {
+            state = IN;
+            ++nw;
+        }
+    }
+
+    printf("%d %d %d\n", nl, nw, nc);
+ }
+
+## 1.6 数组
+
+数组下标可以是任何整型表达式，包括整型变量(如 i)以及整型常量。
+
+
+由定义可知，char 类型的字符是小整型，因此 char 类型的变量和常量在算术表达式中 等价于int类型的变量和常量。这样做既自然又方便，例如，c - '0'是一个整型表达式， 如果存储在 c 中的字符是'0'~'9'，其值将为 0~9，因此可以充当数组 ndigit 的合法下 标。
+
+程序中经常使用下列方式表示多路判定:
+
+if (条件1)
+
+语句 1
+
+else if (条件1) 语句 2
+...
+...
+else
+
+在这种方式中，各条件从前往后依次求值，直到满足某个条件，然后执行对应的语句部分。 这部分语句执行完成后，整个语句体执行结束(其中的任何语句都可以是括在花括号中的若 干条语句)。如果所有条件都不满足，则执行位于最后一个 else 之后的语句(如果有的话)。 类似于前面的单词计数程序，如果没有最后一个 else 及对应的语句，该语句体将不执行任何 动作。
+## 1.7 函数
+
+函数定义的一般形式为:
+
+返回值类型 函数名(0 个或多个参数声明)
+
+{
+
+声明部分
+
+语句序列
+
+}
+
+我们通常把函数定义中圆括号内列表中出现的变量称为形式参数，而把函数调用中与形 式参数对应的值称为实际参数。
+
