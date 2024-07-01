@@ -534,6 +534,56 @@ the earth 地球
 
 各种数量词中也含有不定冠词a，此时不能换成one，比如：a few, a little, a great many以及a large number of等等。因为这些是固定短语，所以不能把其中的a替换成one，比如不能说：one few* 或one little*等。
 ### 2.6.4 不定冠词a/an与this
+在口头叙述中，当说话者想强调某个人、某个地方或某件事，并使他们变得更加生动时，就可以用this代替a。这个用法在讲笑话时尤为常见。
+
+So I go in this queue, and I'm waiting, so I saw them taking names and writing things down, so I had this feeling I was in the wrong place, so I thought to myself, “Oh, I'm going from here.” But as I was standing at the table this person said, “Now then, you're next!”
+
+  妙语点睛 我们看到，这里作者用了this来描述queue, feeling和person，显得作者是在轻松地讲述自己排错队的笑话。如果这里作者用不定冠词a来代替这些this，那么就显得很正式，而失去了幽默的效果。
+
+  精品译文 于是我就排到这个队伍里，我在那等着，我看到他们记下名字并写了些什么。这时我感觉我站错地方了，于是我心里想：“哦，我得离开这里。”但是这时我已站在桌子旁边了，这个人说道：“好了，下一个就是你啦！”
+## 2.7 用/不用冠词的意义区别(the hospital/hospital)
+在英文中，有一类表示家居生活和社会事业机构的名词，如hospital（医院）等，在有冠词修饰（如the hospital）和没有冠词修饰（如hospital）的两种不同情况下，意思往往是不同的。
+
+His mother is in hospital and he has been in the hospital to take care of her.
+
+  妙语点睛 这里有两个介词短语in hospital和in the hospital，前者是“生病住院”的意思，而后者表示“在医院里”，但不是因为生病，而是因为其他原因，比如在这里是因为要照顾他妈妈。
+
+  精品译文 他妈妈生病住院了，他就一直在医院里照顾她。
+
+用与不用冠词，对这类名词来说意义是不同的。当我们不用冠词时，表示的是人们去这些地方做在这些地方应该做的事，或者说做的事情与这些地方密切相关。比如：in hospital（在医院）就是因为“生病”，in prison（在监狱）就是因为“犯罪”，go to church（去教堂）就是为了“礼拜祷告”，go to temple（去庙里）就是为了“拜佛求签”等等。此时这些名词只表示一种抽象的概念，并非特指具体的、实际的建筑物或地点，而主要是强调在该处所的活动。
+
+另一方面，当我们使用冠词时，则表示人们去这些地方不是要做与该处所密切相关的事，而是由于其他原因。
+
+简言之，对于表示处所或社会事业机构类的名词（如prison, church和college等），使用冠词the，是强调处所，指的是实际的建筑物或地点；不用冠词the，是强调活动，不是指实际的建筑物或地点，而是指与它们相关的社会事业机构。
+
+1. 家具生活类名词
+    at table 进餐，吃饭
+    at the table 在餐桌旁，在桌旁
+
+    go to bed 上床睡觉
+    go to the bed 到床边
+
+    go to bed 上床睡觉（不是要干别的）
+    lie down on the bed 躺在床上 （不是为了睡觉，而是为了休息等等）
+
+    in bed 在睡觉
+    in the bed 卧在床上
+
+2. 所处、建筑物或社会事业机构
+    go to hospital（as patients） 生病住院
+    redecorate the hospital 重新装修这家医院
+
+    in hospital 住院
+    in the hospital（因事）在医院里
+
+    come out of hospital（病愈）出院
+    come out of the hospital（因事）从医院出来
+
+    go to prison 犯罪入狱
+    walk around the prison 绕着这个监狱走
+
+
+
 
 
 
