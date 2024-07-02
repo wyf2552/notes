@@ -557,33 +557,241 @@ His mother is in hospital and he has been in the hospital to take care of her.
 简言之，对于表示处所或社会事业机构类的名词（如prison, church和college等），使用冠词the，是强调处所，指的是实际的建筑物或地点；不用冠词the，是强调活动，不是指实际的建筑物或地点，而是指与它们相关的社会事业机构。
 
 1. 家具生活类名词
+
     at table 进餐，吃饭
+
     at the table 在餐桌旁，在桌旁
 
+
     go to bed 上床睡觉
+
     go to the bed 到床边
 
+
     go to bed 上床睡觉（不是要干别的）
+
     lie down on the bed 躺在床上 （不是为了睡觉，而是为了休息等等）
 
+
     in bed 在睡觉
+
     in the bed 卧在床上
 
 2. 所处、建筑物或社会事业机构
+
     go to hospital（as patients） 生病住院
+
     redecorate the hospital 重新装修这家医院
 
+
     in hospital 住院
+
     in the hospital（因事）在医院里
 
+
     come out of hospital（病愈）出院
+
     come out of the hospital（因事）从医院出来
 
+
     go to prison 犯罪入狱
+
     walk around the prison 绕着这个监狱走
 
 
+    be in/at church (to pray) 在教堂做礼拜（强调活动）
+
+    admire the church 欣赏这座教堂（指具体建筑物）
 
 
+    go to/be in town 去/在城里
+
+    the town is very old. 这个小城很古老
+
+3. 关于上学(class,school,college和university)
+
+    go to school 上学
+
+    go to the school（因事）去学校
+
+
+    in school 在校念书
+
+    in the school 在学校里
+
+
+    go to class 去上课
+
+    The class works hard. 全班同学学习认真。
+
+
+    in class 在上课
+
+    in the class 在这个班级
+
+
+    go to college 上大学
+
+    the gates of the college 这个学院的大门
+
+
+    at desk 在读书，在做作业
+
+    at the desk 在课桌边，在课桌旁
+
+4. 关于sea的表达
+
+    go to sea（as sailors） 当水手，做海员；出海航行，出航（以水手的身份）
+    go to the sea 去海边，去海滨
+
+
+    go to sea（as sailors） 当水手，做海员；出海航行，出航（以水手的身份）
+
+    look out towards the sea 眺望大海
+
+
+    be at sea（as passengers or crew）在海上航行；茫然，迷惑
+
+    be at the sea在海边
+
+
+    by sea 乘船
+
+    by the sea 在海边
+
+
+    in office 在职，上台执政
+
+    in the office 在办公室里
+
+
+    out of office 离职；下台，在野，不执政
+
+    out of the office 离开办公室
+
+
+    behind time 晚点，迟了
+
+    behind the time(s) 过时，落伍，落后于时代
+
+
+    in red 穿着红色的衣服
+
+    in the red 负债，亏损
+
+
+    by day 白天
+
+    by the day 按日计算，论日
+
+
+    in secret 秘密地，私下地
+
+    in the seecret 知道内情
+
+
+    in front of 在···（外部）的前面
+
+    in the front of 在···（内部）的前面
+
+
+    take place 发生
+
+    take the palce 代替
+
+
+    out of question 毫无疑问，没有问题
+
+    out of the question 完全不可能
+
+
+    men of age 成年人
+
+    men of an age 同龄人
+
+
+    keep house 料理家务
+
+    keep the house 守在家里
+
+
+    with child 怀孕
+
+    with a/the child 带着孩子/和这个小孩在一起
+
+## 2.8 其他用冠词的场合
+
+一、形容词或副词的最高级、序数词，以及only用作形容词后接名词时，它们的前面一般要用the。
+
+  the only/best way to cope with the problem 解决这个问题的唯一/最好的方法
+
+  This is the first time I've come to Beijing. 这是我第一次来北京。
+
+二、在乐器、乐团、合唱团及流行音乐团体前加the
+
+  the Beatles “甲壳虫”乐队
+
+  the Philadelphia Orchestra 费城管弦乐队
+
+  play/learn the guitar 弹/学吉他
+
+  learn the piano 学钢琴
+
+  注意：运动项目前不加the。比如：play chess, play football/basketball/table tennis等。
+
+三、定冠词the与姓氏连用
+
+  我们可以把定冠词the与姓氏连用，然后要在姓氏的后面添加复数-s。比如：
+
+  the Smiths
+
+  这类短语要表达的意思主要有两种：一是表示夫妇两人（husband and wife），二是可以表示一家人，即包括孩子在内（including children）。所以，the Smiths可以表示“史密斯夫妇”，也可以表示“史密斯一家人”。具体的意思可依据上下文而定。
+
+  此外，如果是名门望族的姓氏，则除了表示上述两个意思之外，往往还表示整个家族。比如：
+
+  the Kennedys
+
+  这个短语虽然可以表示“肯尼迪总统夫妇”或“肯尼迪总统全家人”，“但实际上往往是表示“肯尼迪家族”。
+
+  再比如：
+
+
+  the Bushes
+
+  这个短语可以表示“布什总统夫妇”或“布什总统全家人”，也可以表示“布什家族”，包括与老布什和小布什总统有关的所有亲人。
+
+四、表示强调时，会用the
+
+  请看下面的对话：
+
+  （at the airport check-in desk）
+
+  Airline official: How many bags are you checking in?
+
+  Passenger: Just the one.
+
+  妙语点睛 这里的the是为了表示强调。
+
+  精品译文 （在机场登记处）
+
+  机场人员：你要登记几个包？
+
+  乘客：就这一个。
+
+  Receptionist: So it's just one person then?
+
+  Customer: No, no, it's for the two of us.
+
+  Receptionist: Oh, I'm sorry. Right, two persons.
+
+  妙语点睛 这里的the是为了表示强调。
+
+  精品译文 接待员：那么就只有一个人？
+
+  顾客：不，不，是我们两个人。
+
+  接待员：啊，对不起。好的，两个人。
+
+## 2.9 其他不用冠词的场合
 
 
