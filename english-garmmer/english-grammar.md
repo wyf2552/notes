@@ -793,5 +793,13 @@ His mother is in hospital and he has been in the hospital to take care of her.
   接待员：啊，对不起。好的，两个人。
 
 ## 2.9 其他不用冠词的场合
+一、关于职业、身份或头衔
+
+表示某人的职业，一般是用不定冠词a/an。
+1. I am an English teacher.
+2. 1. They appointed him Head Librarian. 他们任命他为图书馆馆长
+   2. He's a librarian. 他是个图书管理员
+3. 1. He was elected President in 1879. 他于1879年选为总统
+   2. I want to see the President. 我要见总统
 
 
