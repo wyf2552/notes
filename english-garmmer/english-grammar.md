@@ -373,7 +373,7 @@ the arrival of my mother
   the city of Rome
   妙语点睛 相当于“Rome is a city.”或者说“The city that I mean is Rome.”。这与the people of Rome中的of表达的逻辑关系显然是不同的。
   精品译文 罗马城市
-# 限定词（一）：冠词
+# 2 限定词（一）：冠词
 ## 2.1 引言：Story-telling
 ## 2.2 冠词的位置与读音
 冠词有三个：a, an和the。因为the有两种读音，所以从读音的角度来看，冠词有四个：a, an以及在辅音前读［ðə］的the和在元音前读［ði］的the。
@@ -801,5 +801,580 @@ His mother is in hospital and he has been in the hospital to take care of her.
    2. He's a librarian. 他是个图书管理员
 3. 1. He was elected President in 1879. 他于1879年选为总统
    2. I want to see the President. 我要见总统
+4. 1. Queen Elizabeth had dinner with President Kennedy. 伊丽莎白女王和肯尼迪总统共进晚餐
+   2. The Queen had dinner with the President. 女王和总统共进晚餐
+1. 独一无二的头衔出现在表语位置
+  1. John F. Kennedy was (the) President of the United States in 1961. 约翰·F.肯尼迪于1961年当选为美国总统。
 
+  2. John is (the) captain of the team. 约翰是该队的队长。
 
+  3. She is chairman of the committee. 她是该委员会的主席。
+
+  4. Mr. Smith used to be president of our bank. 史密斯先生当过我们银行的行长。
+2. 独一无二的头衔出现在主语补足语的位置
+  1. Henry was elected chairman of the committee.
+
+    妙语点睛 这里的chairman补充说明主语Henry，即作主语补足语。
+
+    精品译文 亨利当选为该委员会的主席。
+
+  2. He was elected President for the second time.
+
+    妙语点睛 这里的President补充说明主语he，即作主语补足语。
+
+    精品译文 他是第二次当选总统。
+3. 独一无二的头衔出现在宾语补足语的位置
+  1. hey elected Henry chairman.
+
+    妙语点睛 这里的chairman补充说明宾语Henry，即作宾语补足语。
+
+    精品译文 他们推选亨利为主席。
+
+  2. They've appointed Fred (the) treasurer, and no doubt he will soon become (the) secretary.
+
+    精品译文 他们已经推选弗雷德为财政司司长，毫无疑问将来他会很快成为财政部部长。
+4. 独一无二的头衔出现在同位语的位置
+  1. As (the) chairman of the committee, I declare this meeting closed.
+
+    妙语点睛 这里as引导的名词短语chairman of the committee是作主语I的同位语。
+
+    精品译文 以委员会主席的身份，我宣布会议结束。
+二、关于球类、棋类运动
+
+ 表示球类、棋类运动项目的名词前面不加冠词。例如：
+
+1. play football 踢足球
+
+2. play chess 下棋
+
+3. play tennis 打网球
+
+三、关于其他限定词与冠词
+
+下面这些限定词彼此排斥，不能同时出现在名词的前面。
+
+1. 冠词：the, an, a
+
+2. 物主形容词：my, your, his, her, our, their
+
+3. 指示形容词：this, that, these, those
+
+4. 名词属格：Tom's, John's
+
+四、特殊名词
+
+在下列这些特殊名词前不加the：
+
+1. nature：泛指自然界（动植物及无生命的物质的世界），不加冠词。比如“在大自然中”要说成in nature，而不是in the nature*。请看例句：
+
+If you destroy nature you will suffer for it.
+
+精品译文 谁要是破坏大自然，谁就要遭受恶果。
+
+2. society：泛指我们在其中生活的这个社会，一般不加冠词。比如“在社会中”要说成in society，而不是in the society*。请看例句：
+
+Society turns people into criminals and then locks them up.
+
+精品译文 社会使人犯罪，然后又把他们关进监狱。
+
+3. space：泛指星球之间的空间，不加冠词。比如“在太空中”要说成in space，而不是in the space*。请看例句：
+
+Man has just taken his first steps into space.
+
+精品译文 人类才刚刚迈出了探索太空的第一步。
+
+4. man：泛指整个人类时，不加冠词。请看例句：
+
+Man can conquer nature.
+
+精品译文 人定胜天。
+
+That's one small step for a man, one giant leap for mankind.
+
+精品译文 这对于一个人来说是一小步，对于全人类却是一次巨大的飞跃。
+
+From early times man has used garlic（大蒜）. Through the years man has tried to cope with the smell of garlic. But no herb, mouthwash, chewing gum, or toothpaste seems to help much.
+
+精品译文 人类从很早以前就开始食用大蒜了。一直以来，人们都在努力消除大蒜的气味。但无论是中草药、漱口剂、口香糖还是牙膏，似乎都没有什么用处。
+
+5. history：泛指人类的整个历史时，不用冠词。比如“在历史上”要说成in history，而不是in the history*。请看例句：
+
+History may repeat itself.
+
+精品译文 历史可能重演。
+
+Throughout history man has had to accept the fact that all living things must die.
+
+精品译文 自古以来，人类不得不接受所有生命都要死亡这个事实。
+
+五、关于星期
+
+首先，上述不加冠词的星期表达“on+星期名称”所指的具体时间是与真实的说话语境所暗示的某一个时间点有联系的。比如现在的说话时间是在“周三”，那么我们说on Monday，就是指刚刚过去的那个“周一”，即“前天”，表示的是一个过去的时间（past time）；而我们说on Friday，就是指即将到来的那个“周五”，即“后天”，表示的是一个将来的时间（future time）。
+
+不加冠词的星期表达“on+星期名称”表示的不是一个“过去的时间”就是一个“将来的时间”，而且都是以说话的时间为参照的，是在说话时的同一周，即与说话时的真实语境密切相关。除此以外，“on+星期名称”还可以表示周期性的“星期几”，表示一个规律性的日期，比如on Monday可以表示“每逢周一”。在英语中，表示“每逢周几”，我们还可以在星期名词的后面加-s，比如on Mondays。
+
+on+星期名称”这样的星期表达可以包含两个意思：一是表示一个规律性的日期，意思是“每逢周几”；二是表示过去或将来的某个具体日期（a specific date），此时是以说话时间为参照的。
+
+但是，如果某个星期几不是以说话时间为参照，而是以上下文中别的时间为参照，此时就需要用定冠词the来修饰星期，说成“on the+星期名称”。
+
+两种定指的星期表达，一个是以说话的时间为参照，另一个是以上下文中特定的时间为参照。既然有定指的星期表达，那么也就有不定指的星期表达，此时用不定冠词a来修饰星期，说成“on a+星期名称”。
+
+六、关于四季
+
+指一般的四季而不是具体指某年的某一段时间时，通常不加冠词。比如：
+
+  in spring（在春天） in summer（在夏天）
+
+  in autumn（在秋天） in winter（在冬天）
+
+  Winter is coming. 冬天就要来了。
+
+  但是，如果指特定的某一年的某个季节时，就要加冠词。比如：
+
+  The spring of last year was cold. 去年春天很冷。
+
+七、关于昼夜的各段时间
+
+表示昼夜的各段时间的名词主要有：
+
+  dawn/daybreak（黎明/破晓） sunrise（日出）
+
+  sunset（日落） noon（正午）
+
+  dusk/twilight（黄昏） night（夜晚）
+
+  midnight（午夜）
+
+  以上这些名词尤其是当它们出现在at, by, after和before之后时，往往不加冠词。比如（以at为例）：
+
+  at dawn（在黎明时） at daybreak（在破晓时）
+
+  at sunrise（在日出时） at sunset（在日落时）
+
+  at noon（在正午时） at dusk/twilight（在黄昏时）
+
+  at night（在夜晚） at midnight（在午夜）
+
+  如果是用在其他介词之后，或者是在其他场合，这些名词前则往往要加冠词。比如：
+
+  watch the dawn（看黎明到来） The sunrise was splendid.（日出很壮观。）
+
+  We admired the sunset.（我们欣赏了日落。） see nothing in the dusk （在黄昏时什么也没看见）
+
+  wake up in the night（在夜里醒来） all through the night（整整一夜）
+
+  另外，要注意的是，若是表示特定的某一天的某个时间段，往往用不定冠词，并且用介词on，此时这些名词的前面通常都会有形容词修饰。比如：
+   on a frosty December night
+
+  妙语点睛 这里的night前面有修饰语frosty和December，表示的是具体的某一天的晚上。此时用了不定冠词a，并且用了介词on。
+
+  精品译文 在12月份一个寒冷的晚上
+
+  再比如：
+
+  on a rainy morning 在一个下雨的早晨
+
+  on a sunny winter afternoon 在一个阳光明媚的冬日午后
+
+八、关于进餐
+
+指一般日常惯例的用餐时，通常不加冠词。比如：
+
+  have rice for dinner 晚餐吃米饭
+
+  其他的比如：
+
+  for breakfast/lunch（早餐/午餐吃……） stay for breakfast（留下来吃早餐）
+
+  before lunch（午餐前） after dinner（晚餐后）
+
+  I was invited to dinner. 我受邀赴晚宴。
+
+  但是如果指需要特别提出的某一次用餐，则常用the来强调。请比较：
+
+  Where are we having dinner tonight?
+
+  The dinner after his retirement party was quite lavish.
+
+  精品译文 1） 今天的晚餐我们在哪里吃？
+
+  2） 他退休聚会后的晚餐非常豪华丰盛。
+
+ 若在三餐名词前有形容词时，则一般加不定冠词，来表示什么样的一餐。例如：
+
+ We often have a big lunch and a nice dinner. 我们通常午饭吃得较多，晚饭则吃得较好。
+
+九、关于交通工具的名词
+
+接在by之后的交通工具名词，其前面不加冠词。但是这些名词在其他场合要加冠词。请比较：
+
+  1） by bicycle
+
+  2） take the bicycle
+
+  精品译文 骑自行车
+
+  1） by bus
+
+  2） be on the bus
+
+  精品译文 乘公交车
+
+  1） by car
+
+  2） be in the car
+
+  精品译文 坐小汽车
+
+  1） by boat
+
+  2） take the boat
+
+  精品译文 坐船
+
+  1） by train
+
+  2） take the train
+
+  精品译文 坐火车
+
+  1） by plane
+
+  2） be on the plane
+
+  精品译文 坐飞机
+
+从以上对比我们看到，若用在介词in或者on后，以及用在动词后，这些名词的前面一般都须用冠词限定。需要提醒大家注意的是，“步行”是on foot，而不用其他介词，foot前也不加冠词。
+
+十、关于通讯工具的名词
+
+接在by之后的通讯工具名词，其前面不加冠词。但是这些名词在其他场合要加冠词。请比较：
+
+  1） by radio
+
+  2） a talk on the radio
+
+  精品译文 1） 通过收音机
+
+  2） 收音机中的一个谈话节目
+
+  1） by telephone
+
+  2） John is on the telephone.
+
+  精品译文 1） 通过电话
+
+  2） 约翰在接听电话。
+
+  1） by post
+
+  2） put a letter in the post
+
+  精品译文 1） 通过邮寄（的方式）
+
+  2） 邮寄信件
+
+  1） by mail
+
+  2） send the letter through the mail
+
+  精品译文 1） 通过邮寄（的方式）
+
+  2） 邮寄信件
+
+  1） by satellite
+
+  2） The satellite TV is replacing cable TV.
+
+  精品译文 1） 通过卫星
+
+  2） 卫星电视正在取代有线电视。
+
+十一、平行结构
+
+如果两个名词一起放在同一平行结构里，即使是单数可数名词，也通常不加冠词。比如：
+
+ face to face 面对面；当面
+
+ back to back 背对背
+
+ arm in arm 手挽着手
+
+ hand in hand 手牵手
+
+ eye to eye/eyeball to eyeball 面对面地，针锋相对地
+
+ toe to toe 脚尖挨脚尖，摩肩接踵
+
+ shoulder to shoulder/side by side 肩并肩地
+
+ inch by inch 逐渐地，一步一步地
+
+ day after day（=day by day） 日复一日
+
+ from person to person 挨个地
+
+ from door to door 挨家挨户地
+
+ from top to toe 从头到脚，完完全全
+
+ from father to son 从父到子
+
+在上面带有重复名词的短语，如face to face, toe to toe和eyeball to eyeball等，这样的短语往往具有副词的功能，在句中用作状语，修饰动词。比如：
+
+ They talked face to face. 他们面对面地谈话。
+
+ They talked man to man. 他们坦率地交谈。
+
+ They stood toe to toe. 他们摩肩接踵地站着。
+
+ They stood eyeball to eyeball. 他们面对面地站着。
+
+这些名词没有冠词是因为它们基本上失去了名词的主要特性，比如它们没有数的变化。不能说：
+
+  They talked faces to faces. *
+
+  它们的前面也不能有修饰语。比如不能说：
+
+  They talked old man to young man. *
+
+  因此，我们不妨把这些短语看成是英语的固定习语。
+
+# 3 限定词（二）：数量限定词与个体限定词
+## 3.1 数量限定词（一）：a few, few/a little, little
+
+一、与名词的搭配关系
+
+从与名词的搭配来看，a few和few的后面只能接复数名词，而a little和little的后面只能接不可数名词。
+
+二、肯定/否定之别
+
+从肯定及否定的角度来看，a few和a little的意思是肯定的，相当于some，表示“有一些”的意思。而few和little的意思是否定的，表示“很少，几乎没有”。例如：
+
+ His theory is rather difficult; few people understand it.
+
+  =His theory is rather difficult; almost no people understand it. 他的理论很深奥，没什么人能够理解。
+
+三、与only或very的搭配关系
+
+我们只能说：only a little或only a few，而不能说：only few*或only little*。但为了强调否定意义，我们可说：very few或very little。
+
+## 3.2 数量限定词（二）：some/any
+
+一、与名词的搭配关系
+
+从与名词的搭配来看，some和any均可以与不可数名词及可数名词复数连用，表示“一些”。some一般用在肯定句中，而any一般用在否定句中。例如：
+
+Clint is busy. He always has some work to do. But John is lazy. He never does any work. 克林特很忙，他总是有工作要做。但是约翰很懒，他什么也不干。
+
+二、特殊用法一：any与单数名词搭配
+
+当any的后面接单数名词时，它的意思是“无论哪一个，任何一个”，此时可用于任何类型的句子。比如用于下面的肯定句中：
+
+You can catch any bus. They all go to the railway station. 你坐哪辆公共汽车都行，它们都到火车站。
+
+三、特殊用法二：some与单数名词搭配
+
+some可与单数可数名词连用，这时的some表示不确定的“某一个”的意思。例如：
+
+Of the many ways of getting to prison, Soapy thought the best was to eat a big meal at some good restaurant and then tell the manager that he doesn't have money to pay.
+
+妙语点睛 这是欧·亨利（O’ Henry）的小说《警察与赞美诗》中的句子。我们看到，这里some的后面接的是一个单数名词restaurant，表示“某一家餐馆”。显然，他不会同时在“几个餐馆”吃饭，所以不说some restaurants。
+
+精品译文 在众多可能入狱的办法当中，苏比认为最好的办法是找一家好餐馆大吃一顿，然后告诉经理说没钱付账。
+
+值得注意的是，some的这一特殊用法可表示强烈的感情色彩，它往往暗示缺乏兴趣，甚至是蔑视的态度。请看例句：
+
+I don't want to spend my life in some lonely little village. 我可不想把自己的一生消磨在一个偏僻的小山村里。
+
+四、特殊用法三：some与数词连用
+
+在限定复数名词时，some的后面还可以先接一个数词，然后再接名词，此时some表示“大约”的意思。这一用法常常暗指这是一个给人以深刻印象的很大的数字。例如：
+
+Some 1,500 passengers and crew died aboard the Titanic when it sank on April 14,1912 after hitting an iceberg. It lies at a depth of some 4,000 meters, some 640 kilometers south of Newfoundland, Canada.
+ 妙语点睛 这里共有三处some与数词连用，都是为了强调这些数字是相当可观的。
+
+精品译文 在“泰坦尼克”号游轮于1912年4月14日因为撞击冰山而沉没时，船上大约有1,500名乘客和船员丧生。它的沉没地点位于加拿大纽芬兰省以南约640千米处大约4,000米深的海里。
+## 3.3 个体限定词（一）：each/every
+一、与名词的搭配关系
+
+从与名词的搭配来看，each和every的后面都只能接单数可数名词，这就是要称它们为“个体”限定词的原因。它们不能修饰不可数名词和复数名词。比如我们说：every/each boy，而不说：every/each boys*。此时若作主语，句子的谓语动词显然要用单数。例如：
+
+Every boy has a gift. 每个男孩都有礼物。
+
+二、二者用法上的差异
+
+这两个限定词都是只能与单数名词连用，这是二者的共同点。但二者的差异重点在于其用法上。具体阐述如下。
+
+  1. 二者在词性上的差别
+
+  二者最重大的区别是：each不仅可用作限定词，也可用作代词；而every只能用作限定词。因此，each用作代词可以单独使用，而every只能与名词连用，不能单独使用。
+
+  Each of the boys has a gift.
+
+  妙语点睛 each用作代词，后面加of短语。此时of的后面须加限定词，然后再接复数名词。不能说：each of boys*，而要说：each of these/the/my boys。但谓语依然用单数，因为each是主语核心词。
+
+  精品译文 每个男孩都有礼物。
+
+  2. 二者在意思上有两点区别
+
+  首先，each可以用来指两个或两个以上的事物，而every却总是指三个或三个以上的事物，不能指两个。例如：
+
+  Each sex has its own physical and psychological characteristics.
+
+  妙语点睛 性别就“男”和“女”两种，故不能说：Every sex...*。
+
+  精品译文 男女各有其生理和心理上的特点。
+
+  其次，尽管each和every都可作“每一个”讲，但两者的意思并不完全一样。every强调整体，相当于all的意思；而each则表示个别的概念。当我们用each时，我们强调的是一个一个不同的人或事物。例如：
+
+  We want every student to succeed in the exam.
+
+  妙语点睛 这里用every是强调整体，即表示希望“所有的学生”都能通过考试。
+
+  精品译文 我们希望每个学生都能通过考试。
+
+  3. 与数词的搭配关系
+
+  一般来说，each不与数词连用，而every可与数词连用，然后再加复数名词。例如：
+
+  every two days
+
+  妙语点睛 “每隔一天”还可以说成every other day。
+
+  精品译文 每两天/每隔一天
+## 3.4 个体限定词（二）：another/other
+一、与名词的搭配关系
+
+从与名词的搭配来看，another不能修饰不可数名词及复数名词，只能与单数可数名词连用，表示不确定的“另一个”，“再一个”。比如：
+
+another day 另一天
+
+而不能接复数名词，比如说：
+
+another days*
+
+也不能接不可数名词，比如说：
+
+another water*
+
+然而，other可与单数名词、复数名词以及不可数名词连用，表示不确定的“另外的”、“其余的”人或物。请看例子：
+
+the other boy 另一个男孩
+
+二、与数词的搭配关系
+
+从与数词的搭配来看，二者都可以与数词连用，但在语序和意思上都不相同。
+
+首先，二者在词序上的差别是：数词要置于another的后面，但要放在other的前面。具体来说就是采用下面的结构：
+
+1. another+数词+复数名词
+
+2. 数词+other+复数名词
+
+nother three days 另外三天
+
+不说：
+
+three another days*
+
+相反，我们要说：
+
+three other days 另外三天
+
+而不说：
+
+other three days*
+
+其次，从语义上来看，两种结构所表达的意思完全不同。“another+数词+名词复数”这一结构的基本意思是“在原有基础上的一个延续”。
+
+数词+other+复数名词”这一结构表达的意思却完全不同。它并不像“another+数词+复数名词”结构那样具有一种“累加延续”的效果，而只是单纯地表示“其他的，另外的”。
+
+another+数词+名词复数”结构强调的是数量概念。比如another three days表示“接下来还有三天”，是一个量的累积。而“数词+other+复数名词”结构强调的是类别概念。比如three other days表示“其他三天”，说明的是特定的某三天，而不是一个数量的概念。
+
+另外，与“another+数词+名词复数”这一结构意思相同的另一种结构是：“数词+more+复数名词”。
+
+需要注意的是，因为another不能与a连用，因此与a few搭配时，我们要说another few，而不能说another a few*。但如果与more连用，则要说成a few more，表示的意思完全一样。
+
+顺便需要提及的是，从以上的讨论我们可知，虽然another不能直接与复数名词连用，但其后可以先接数词或few，然后再接复数名词。
+
+三、other本身的其他用法
+
+现在，我们简单总结一下有关other这个限定词的其他用法。具体如下：
+
+1. other之前可以有其他限定词修饰
+
+  常见的置于other前面的限定词包括：some, any, every, enough, one/two/three..., no, many和his/my/their等。例如激励演讲大师金·克拉（Zig Ziglar）有句名言是这么说的：
+
+  You can have everything in life you want if you'll just help enough other people to get what they want! 如果你能帮助别人梦想成真，你自己也就可以心想事成！
+
+  我们不能因为汉语里可以说“其他许多书”而译成other many books*；不能因为汉语里可以说“其他三本书”而译成other three books*；不能因为汉语里可以说“其他一些书”而译成other some books*等等。也就是说，在这方面，英汉的语序是相反的。
+
+2. other/others
+
+  词尾不带-s的other只能作限定词来用，其后面必须接名词，而不能单独使用。比如不能说：other are...*。与此相反，others只能用作代词，后面不能再接名词，而只能单独使用，比如不能说：others people are...*。
+
+3. other/the other
+
+  这里是关于other与the other在含义上的区别的问题。“other+名词”表示不确定的“其他的，另外的”。若有了定冠词the限定，“the other+名词”则表示特定范围内的“剩下其余的”。
+## 3.5 个体限定词（三）：either/neither
+
+一、与名词的搭配关系
+
+从与名词的搭配来看，二者都是与单数可数名词连用，谓语动词用单数。请看例句：
+
+Either day is OK.（不说：... are OK.） 两天中的哪一天都行。
+
+Neither day is OK.（不说：... are OK.） 两天中的哪一天都不行。
+
+这是二者作限定词的用法。此时，二者均不能再与其他的限定词（如冠词、物主代词或指示形容词等）连用。比如我们不说：
+
+the either book*
+
+either your book*
+
+二、二者用作代词
+
+用作代词时，二者不直接接名词，而是单独使用或接of短语。例如：
+
+Come over on Saturday or Sunday. Either is OK. 你周六或周日过来，哪天都行。
+
+You can't choose Choices A and B. Neither is right. 选项A和B你都不能选，两个都不对。
+
+注意它们与of短语连用时的结构：“either/neither of+限定词(如冠词、物主代词或指示形容词)+名词复数+单数谓语动词”。请看例句：
+
+Either of the answers is right. 两个答案都对。
+
+Neither of my children has done that. 我的两个孩子都没做那件事。
+
+在这个结构中有三点须注意：
+
+名词前面必须有限定词。比如我们不说：
+
+either of answers*, neither of children*。
+
+名词必须用复数。比如我们不说：
+
+either of the answer*, neither of my child*。
+
+谓语动词通常用单数。比如我们一般不说：
+
+Either of the answers are right*.
+
+Neither of my children have done that*.
+
+以上内容主要是从结构上来讨论either/neither的用法。接下来我们来讨论二者在含义上的差别。
+
+三、词义差别
+
+从词义的角度分析，这两个词的词义不同。
+
+either有两个意思。首先，either的基本意思是“两个当中的任何一个”，“这个或那个（one or the other）”。例如：
+
+Come over on Saturday or Sunday. Either day is OK. 周六或周日过来，这两天中的哪一天都行。
+
+另外，either有时候也指“两个中的每一个（each of two）”，特别是在与end和side连用时。
+
+四、either...not相当于neither
+
+Either of the answers is not correct.＝Neither of the answers is correct. 两个答案都不正确。

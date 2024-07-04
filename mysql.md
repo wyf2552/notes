@@ -8,6 +8,8 @@ ls /usr/local/mysql/data #查data目录下文件，-a查看全部，-l以list形
 cd path #进入到path路径
 rm -r #删除一个文件，文件夹加-r
 cat file #查看file文件的内容
+
+DDL
 create database name default character set utf8; #name数据库名，utf8指定编码
 drop database name; #删除数据库
 use name; #选择数据库
@@ -20,6 +22,24 @@ alter table name add column new_name type; #添加新列
 alter table name drop column name; #删除列名
 alter table name add primary key(name); # 修改表添加主键约束
 alter table name modify primary_key type auto_increment; # 将主键修改为自增
+alter table name modify primary_key type; #去掉自动增长
+alter table name drop primary key; #删除主键 若主键具备自动增长的能力，需要先去掉自动增长，然后在删除主键
+alter table name add constraint name foreign key (column_name) references table_name(column_name); #修改表添加外键约束
+alter table name drop foreign key name; #表名，约束名 删除外键约束
+alter table name add constraint name unique(column_name); #表名， 约束名， 列名 添加唯一性约束
+alter table name drop key name; #表名，约束名 删除唯一性约束
+alter table name modify column_name type not NULL; #表名，列名，类型 修改表添加非空约束
+alter table name modify column_name type null; #表名，列名，类型 删除非空约束
+show keys from name; # 表名 创建表时添加约束信息
+
+DML #操作数据的语言
+insert into name(column_mane 1 , column_name 2...) values(value 1 ，value 2...); #选择插入 添加数据
+insert into name values(value 1, value2...); #完全插入 添加数据 表名，值1， 值2，
+create table name(column_name type default morenzhi ,...); #表名，列名，类型，默认值，...  默认值处理 创建表时指定列的默认值
+alter table name add column name type default morenzhi; #表名，列名，类型，默认值  修改表添加新列并指定默认值
+update name set column_name=value, column_name=value where condition; #表名，列名=值，列名=值，条件； 更新数据WHERE
+delete from name where codition; #表名，条件； 删除数据DELETE
+truncate table name; #表名； TRUNCATE清空表，删除表中的所有数据
 
 ```
 整型类型(m是指显示长度)
@@ -94,3 +114,7 @@ alter table name modify primary_key type auto_increment; # 将主键修改为自
 2. 保证数据满足自定义的约束条件
 3. MySQL数据库目前不支持约束条件
 
+SELECT语句功能
+1. 列选择 ：能够使用SELECT语句的列选择功能选择表中的列，这些列是想要用查询返回的。当查询时，能够返回列中的数据。
+2. 行选择：能够使用SELECT语句的行选择功能选择表中的行，这些行是想要用查询返回的。能够使用不同的标准限制看见的行。
+3. 连接：能够使用SELECT语句的连接功能来集合数据，这些数据被存储在不同的表中，在他们之间可以创建连接，查询出我们所关心的数据。
