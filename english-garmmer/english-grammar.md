@@ -1378,3 +1378,197 @@ Come over on Saturday or Sunday. Either day is OK. 周六或周日过来，这�
 四、either...not相当于neither
 
 Either of the answers is not correct.＝Neither of the answers is correct. 两个答案都不正确。
+## 3.6 限定词总结（一）：限定词中的“二”与“三”
+一、都：both vs. all
+
+在英文中，both只表示“两者都”，而all表示“三个或三个以上都”。请比较：
+
+1） Both of us have learned English for a year.
+
+2） All of us have learned English for a year.
+
+妙语点睛 在例句1）中，both of us只涉及两个人。在例句2）中，all of us至少是有三个人。
+
+精品译文 1） 我们俩学习英语都有一年了。
+
+2） 我们大家学习英语都有一年了。
+
+二、都不：neither vs. none
+
+在英文中，neither只表示“两者都不”，而none表示“三者或三者以上都不
+
+三、另外一个：the other vs. another
+
+在英文中，the other是表示“确定的另外一个”，常用来表示“两个中的另外一个”。因为总共就只有两个，所以若确定其中一个，则另外一个也就随之确定了。因此，常常构成这样的搭配：one...the other。
+
+另一方面，another是表示“不确定的另外一个”，必然是指“三个或三个以上的另一个”。因为总共有三个或三个以上，所以即使确定了其中一个，剩下的依然是不确定的。
+
+四、每一个：each vs.every
+
+each表示两个或两个以上的“每一个”，而every表示从三个算起的“每一个”。需要提醒大家注意的是，上面讨论的both, neither及either是只能表示“二”的概念，而each可以表示“二”，也可以表示“二”以上的数目。
+## 3.7 限定词总结（二）：限定词与可数/不可数名词
+一、只与单数可数名词搭配的限定词
+
+这样的限定词有：a, an, each, every, either, neither, another和one等等。
+
+二、只与复数可数名词搭配的限定词
+
+这样的限定词有：both, few, a few, fewer, a number of, many, several, these, those, two及two以上的基数词等等。
+
+三、只与不可数名词搭配的限定词
+
+这样的限定词有：little, a little, less, much, a bit of和a great amount/deal of等等。
+
+四、既可以与不可数名词也可以与复数可数名词搭配的限定词
+
+这样的限定词有：a lot of, lots of, plenty of, more, most和all等等。
+
+五、与单数可数名词、复数可数名词和不可数名词均可搭配的限定词
+
+这样的限定词有：any, some, no, the, 物主限定词（如your和my等），名词属格（如Tom's和my mother's）等等。
+## 3.8 限定词总结（三）：限定词与of短语
+在英文中，有很多数量或个体限定词同时还可以用作代词，此时它们的后面可以接of短语连用。此时的结构一般是：
+
+数量或个体词+of+特指限定词+复数名词或不可数名词。
+
+值得提醒大家注意的是，在of的后面必须有一个“特指限定词”，然后才能接名词，否则就是错误的。这里的“特指限定词”主要有下列四类：
+
+一是，指示限定词，如this, that, these和those；
+
+二是，物主限定词，如my, your, his, her, its, their和our；
+
+三是，名词所有格，如Mike's, Mary's和the teacher's等；
+
+四是，定冠词the。
+
+注意，这四类限定词不能没有，也不能同时出现两个或以上。所以，我常常将这种情况简称为“四分之一”，即这四类限定词“有且只能有一个”。
+
+一、all/most/some/any of+特指限定词+复数可数或不可数名词
+
+二、many/a few/few/several/both/two/three of+特指限定词+复数可数名词
+
+三、much/a little/little of+特指限定词+不可数名词
+
+其他本身就带有of的数量词如a lot of, lots of, a couple of, plenty of, a number of和a great deal of等，则必须直接与名词连用，名词的前面不需要加特指限定词修饰。
+
+四、特别关注：all和both
+
+在上述数量限定词中，all（指“三个或三个以上都”）与both（指“两个都”）的用法较为特殊。
+
+五、特别关注：不定代词与of短语
+
+不定代词none, someone, anyone以及everyone，都是两个词合起来写成的一个词。它们还分别有分开写的形式：no one, some one, any one以及every one，都是两个词构成的不定代词。它们与of短语的搭配关系不同。
+![alt text](./images/3.8.1.png)
+一是，合起来写的someone, anyone和everyone的后面不能接of短语。分开写的no one不能接of短语。
+
+二是，分开写的some one, any one和every one的后面必须接of短语。合起来写的none要接of短语。
+## 3.9 限定词总结（四）：限定词之间的位置关系
+根据限定词在名词前的位置关系，我们把限定词分为三类：前位限定词（pre-determiner）、中位限定词（central determiner）和后位限定词（post-determiner）
+
+ 一、前位限定词
+
+1. 种类
+
+  前位限定词主要是用来说明名词的数量，主要有三种：
+
+  1.表示倍数关系的数量形容词。例如：
+  half my salary 我工资的一半
+  twice my salary 我工资的两倍
+  double my salary 我工资的两倍
+  three times my salary 我工资的三倍
+  2.表示几分之几的数词。例如：
+  one third my salary 我工资的三分之一
+  two-thirds my salary 我工资的三分之二
+  3.个体形容词：all和both。例如：
+  all my salary 我全部的工资
+  both my salaries 我的两份工资
+2. 共存性
+
+  前位限定词一般互相排斥，不能共存。比如不能说：
+
+  all half my salary*
+
+  half double her income*
+
+二、中位限定词
+1. 种类
+
+  1.冠词：the, an和a。
+     all the book 所有的书
+     half an hour 半小时
+     twice the size 两倍的尺码
+  2.形容词性物主代词：my, your, his, her, our和their。
+     all my money 我所有的钱
+     all his money 他所有的钱
+  3.指示代词：this, that, these和those。
+     all these problems 所有这些问题
+     twice that size 那个尺码的两倍
+     four times this amount 这个数量的四倍
+  4.名词所有格：John's和his father's等。
+
+     all John's money 约翰所有的钱
+     由此可知，中位限定词就是我们前面说的“四分之一”。
+
+2. 共存性
+
+  中位限定词亦彼此排斥，不能同时出现。比如不能说：
+
+  my the money*
+  our these problems*
+
+三、后位限定词
+
+1. 种类
+
+    1.基数词或序数词：one/first, two/second, three/third和four/fourth等。例如：
+      the two children 那两个孩子
+      his fourth birthday 他的四岁生日
+    2.一般序数词：next, last, past, previous, subsequent, other和another等。例如：
+      my next plan 我的下一个计划
+      our last meeting 我们的最后一次会议
+      your previous mistakes 你从前的错误
+      her subsequent response 她接下来的反应
+    3.数量限定词：few, many, several, little, less和more等。例如：
+      my many friends 我的许多朋友
+      our several achievements 我们的几项成就
+      the few friends that I have 我的几个朋友
+
+2. 共存性
+
+  不同于相互排斥的前位和中位限定词，后位限定词可以同时出现在名词前。
+
+  但也有先后顺序问题，一般采用如下顺序：
+
+  1.序数词/一般序数词+基数词。例如：
+
+   the first two weeks 前两个星期
+
+   during the next 50 years 在接下来的50年里
+
+  2.序数词/一般序数词+数量限定词。例如：
+
+   during the past few years 在过去的几年里
+
+  3.一般序数词与基数词的位置关系
+
+  基数词/数量限定词一般置于other的前面，如：two other people和many other people。基数词一般置于another的后面，如：another ten minutes（又过了10分钟）。
+## 3.10 限定词与形容词的区别
+一、限定词用来限定名词所指的范围，对名词起泛指或特指、定量或不定量等限定修饰作用；而形容词则是用来表示名词的性质、特征的。例如：
+
+  many/few/his children 许多/几乎没有/他的孩子
+
+  naughty/lovely/clever children 淘气的/可爱的/聪明的孩子
+
+二、限定词一般不用作表语（少数表示数量的限定词few, many和much除外），而绝大多数形容词都可用作表语。
+
+  除了few, little, many和much外，限定词没有比较级和最高级形式，而大多数形容词有比较级和最高级形式。
+
+  限定词总是位于名词之前，而形容词作定语时有的可置于被修饰词之后。例如：
+
+  this/his/Tom's/every/the book 这本/他的/汤姆的/每一本/这本书
+# 4 形容词
+## 4.1 形容词
+一、单个形容词在名词短语中的位置
+
+在一个名词短语中，若是单个形容词作定语修饰一个名词，其结构通常是“限定词+形容词+名词”，即形容词要放在名词的前面、限定词的后面。
+![alt text](./images/4.1-1.png)

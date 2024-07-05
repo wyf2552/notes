@@ -41,6 +41,24 @@ update name set column_name=value, column_name=value where condition; #表名，
 delete from name where codition; #表名，条件； 删除数据DELETE
 truncate table name; #表名； TRUNCATE清空表，删除表中的所有数据
 
+select *|{[distinct] column|expression [alias],...} #select确定哪些列
+from   table; #from确定哪张表
+
+SELECT *
+FROM departments; #查询中的列选择 选择所有列
+
+select department_name  from departments; #选择指定列
+
+select last_name,salary,salary + 300 from employees; #算术表达式，使用算术运算符
+
+select last_name,job_id,salary,commission_pct from employees; #定义空值
+SELECT name as name from name where condition; #列名，列别名，表名，条件； 使用列别名
+select biaobieming.lieming from biaoming as biaobieming where condition; #表别名.列名 ，表名，表别名，条件； 使用表别名
+select department_id from employees; #显示所有的行，包括相同的行
+select distinct lieming from biaoming; #列名，表名   除去相同的行
+select * | touyinglie from biaoming where xuanzetiaojian; #投影列，表名，选择条件； 查询中的行选择
+select last_name,salary from employees where between lower_limit and upper_limit; #使用between条件显示上下限之间的行
+select employee_id,last_name,salary,manger_id from employees where manger_id in (100,101,201); #使用in成员条件测试在列表中的值
 ```
 整型类型(m是指显示长度)
 
@@ -118,3 +136,46 @@ SELECT语句功能
 1. 列选择 ：能够使用SELECT语句的列选择功能选择表中的列，这些列是想要用查询返回的。当查询时，能够返回列中的数据。
 2. 行选择：能够使用SELECT语句的行选择功能选择表中的行，这些行是想要用查询返回的。能够使用不同的标准限制看见的行。
 3. 连接：能够使用SELECT语句的连接功能来集合数据，这些数据被存储在不同的表中，在他们之间可以创建连接，查询出我们所关心的数据。
+
+SELECT语句：
+|语句|含义|
+|----|----|
+|SELECT|是一个或者多字段的列表|
+|*|选择所有的列|
+|DISTINCT|禁止重复|
+|column/expression|选择指定的字段或表达式|
+|alias|给所选择的列不同的标题|
+|FROM table|指定包含列的表|
+
+NUL值处理：
+1. null是一个未分配的、未知的，或者不适用的值
+2. null不是0，也不是空格
+3. 包含空值的算术表达式计算结果为空
+
+用WHERE子句限制从查询返回的行。一WHERE子句包含一个必须满足的条件，WHERE子句紧跟着FROM子句。如果条件是true，返回满足条件的行。
+
+在语法中：
+
+where 限制查询满足条件的行
+
+condition 由列名、表达式、常数和比较操作组成
+
+比较条件
+|运算|含义|
+|----|----|
+|=|等于|
+|>|大于|
+|>=|大于等于|
+|<|小于|
+|<=|小于等于|
+|<>|不等于|
+
+其他条件比较
+|操作|含义|
+|----|----|
+|between...and...|在两个值之间（包含）|
+|in(set)|匹配任意一个值列表|
+|like|匹配一个字符模版|
+|is null|是一个空值|
+
+使用like 
