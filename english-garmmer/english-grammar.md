@@ -1572,3 +1572,120 @@ each表示两个或两个以上的“每一个”，而every表示从三个算�
 
 在一个名词短语中，若是单个形容词作定语修饰一个名词，其结构通常是“限定词+形容词+名词”，即形容词要放在名词的前面、限定词的后面。
 ![alt text](./images/4.1-1.png)
+不过，读者要注意，修饰something, anything, nothing, everything, somebody/someone, anybody/anyone, nobody/no one和everybody/everyone等不定代词时，形容词要后置。
+
+二、多个形容词修饰名词时的词序排列
+
+一个中心名词若有多个形容词修饰，此时这些形容词先后的位置关系要遵循一定的规则。这个规则一般是：
+
+观点形容词(opinion adjective)+描绘形容词(descriptive adjective)
+
+所谓“观点形容词”，即完全是表述个人主观上对事物的看法的形容词。如：good, lovely, beautiful, handsome, comfortable等。
+
+所谓“描绘形容词”，又称为描述事实形容词（fact adjective），即用来描述事物本身固有特征的形容词，是对事物进行客观上的表述，如事物的颜色（blue, yellow, dark, white）、事物的形状（round, square）等。
+![alt text](./images/4.1-2.png)
+由于事物客观上的属性可以有许多种，因此，描绘形容词又有以下进一步的分类。
+![alt text](./images/4.1-3.png)
+限定词（my, the, three, this）—观点形容词（beautiful, famous）—尺寸大小（large, small, long）—形状（round, square）—新旧、年龄（new, old, ancient）—颜色（white, yellow）—国籍、出处或产地（Chinese）—质地、材料（wood）—中心名词。
+
+最靠近名词的形容词是表示事物的材料、质地的，因为它是与名词的关系最为密切的，因而必须要紧靠名词。另外，如果有表示“用途（purpose）”的修饰语，则其位置是“材料+用途+名词”，即表示“用途”的修饰语要紧靠名词
+## 4.1.2 后置修饰名词
+我们知道，单个形容词作定语，一般是置于被修饰的名词前面。但形容词短语作定语，一般只能置于被修饰名词的后面，即充当后置定语。
+
+形容词短语的构成主要可以有两类，一类是“形容词+补足语”构成的形容词短语，即在一个形容词的后面接一个介词短语或一个非谓语动词短语作它的补足语。另一类是多个形容词并列使用，从而也构成形容词短语。
+
+一、“形容词+补足语”构成的形容词短语
+
+  这类形容词短语因其后的补足语不同，又可以分为三小类，即“形容词+介词短语”“形容词+不定式短语”以及“形容词+动名词短语”。请看例句：
+
+  1. 形容词+介词短语
+
+  a jacket similar to yours
+
+  妙语点睛 这里的形容词短语similar to yours后置修饰jacket。
+
+  精品译文 一件与你的（夹克）类似的夹克
+
+  形容词的后面除了接介词短语外，还可以接非谓语动词短语作它的补足语，从而构成形容词短语。这里的非谓语动词短语主要是不定式短语或动名词短语。
+
+  2. 形容词+不定式短语
+
+  parents eager to support their children's efforts
+
+  妙语点睛 这里的形容词短语eager to support their children's efforts后置修饰parents。该形容词短语由形容词eager接不定式短语to support their children's efforts构成。
+
+  精品译文 非常乐意支持孩子的父母们
+
+  3. 形容词+动名词短语
+
+  a waiter busy serving the guests
+
+  妙语点睛 这里的形容词短语busy serving the guests后置修饰waiter。该形容词短语由形容词busy接动名词短语serving the guests构成。
+
+  精品译文 忙于招待客人的服务生
+
+  有时我们还可以在形容词的后面接一个that从句来构成形容词短语。
+
+  构成形容词短语的中心形容词与其补足语（如介词短语）都是紧密地连在一起的。但有时候两者之间也可能会插入其他成分，因而造成形容词与其补足语被分隔。这种形容词短语被分隔的情况往往会增加句子理解的难度，因为读者很可能看不到形容词与其补足语遥相呼应的语义联系。
+
+二、多个形容词并列构成的形容词短语
+
+两个或两个以上的形容词（短语）并列作定语，一般是放在被修饰词的后面，而且还用逗号将形容词与句子的其他部分隔开。这时，作定语的形容词通常是对所修饰词作补充性的说明或解释。
+
+形容词短语是由两个单个的形容词并列组成的，当然还有单个的形容词与上面讨论过的“形容词+补足语”这样的形容词短语并列而成
+
+有时，这样的并列形容词不是修饰名词，而是修饰动词或整个句子，此时具有状语的意味
+## 4.2 形容词的比较级和最高级的构成形成
+### 4.2.1 单音节词
+一、一般直接在词尾加-er和-est，分别构成比较级和最高级”
+|原级|比较级|最高级|
+|----|----|----|
+|bright|brighter|brightest|
+|tall|taller|tallest|
+|strong|stronger|strongest|
+|long|longer|longest|
+二、以-e结尾的词，直接在词尾加-r和-st，分别构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|brave|braver|bravest|
+|late|later|latest|
+|large|laeger|largest|
+|safe|safer|safest|
+三、以-y结尾的词应先变y为i，再加-er和-est分别构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|shy|shier|shiest|
+四、以“一个元音+辅音”结尾的词，要先双写词尾的辅音字母，然后再加-er和-est分别构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|fat|fatter|fattst|
+|big|bigger|biggest|
+|sad|sadder|saddest|
+## 4.2.2 双音节词
+一、以-y结尾的双音节形容词，要先变y为i，再加-er和-est分别构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|happy|happier|happiest|
+|early|earlier|ealiest|
+|silly|sillier|silliest|
+|heavy|heavier|heaviest|
+|pretty|prettier|prettiest|
+像slowly这样的副词中的-ly，不同于像early这样的形容词中的-ly。前者是后缀-ly（slow+-ly→slowly），而后者是该词不可缺少的组成部分（并不是ear+-ly→early）。这种以后缀-ly结尾的副词（尽管是以-y结尾的双音节词）通常是分别在词前加more和most来构成比较级和最高级。所以，slowly在构成比较级和最高级时，应为more slowly和most slowly。再比如：strongly—more strongly—most strongly。
+二、其他绝大多数双音节词是分别在词前加more和most构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|tiring|more tiring|most tiring|
+三、少数几个双音节词则同时可以用上述两种基本方法来构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|common|commoner/more common|commonest/most common|
+|clever|cleverer/more clever|cleverest/most clever|
+|shallow|shallower/more shallow|shallowest/most shallow|
+常见的这样的双音节词有：common, cruel, friendly, funny, handsome, mature, noisy, pleasant, polite, quiet, stupid和tired；以-ow结尾的词有：hollow, narrow和shallow；以-er结尾的词有：clever和tender；以-le结尾的词有：feeble, gentle和noble等等。
+### 4.2.3 多音节词
+一、三个或更多音节的词都是分别在其前面加more和most来构成比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|interesting|more intereting|most interesting|
+|excited|more excited|most excited|
+|successful|more successful|most successful|

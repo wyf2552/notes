@@ -59,6 +59,11 @@ select distinct lieming from biaoming; #列名，表名   除去相同的行
 select * | touyinglie from biaoming where xuanzetiaojian; #投影列，表名，选择条件； 查询中的行选择
 select last_name,salary from employees where between lower_limit and upper_limit; #使用between条件显示上下限之间的行
 select employee_id,last_name,salary,manger_id from employees where manger_id in (100,101,201); #使用in成员条件测试在列表中的值
+select first_name from employees where first_name like 's%'; #使用like条件
+select last_name,manger_id from employees where manger_id is null; #使用is null 操作测试空值
+select last_name,job_id,department_id,hire_date from empliyees order by hire_id; #使用order by 语句排序
+select employ_id,last_name,salary*12 annsal from employees order by annsal;  #用列别名排序
+select last_name,department_id,salary from employees order by department_id, salary desc; #多列排序
 ```
 整型类型(m是指显示长度)
 
@@ -178,4 +183,48 @@ condition 由列名、表达式、常数和比较操作组成
 |like|匹配一个字符模版|
 |is null|是一个空值|
 
-使用like 
+使用like 条件
+1. 使用like条件执行有效搜索串值的通配符搜索
+2. 搜索条件既可以包含文字也可以包含数字：
+    1.%表示零个或多个字符
+    2._表示一个字符
+
+使用NULL条件
+
+包括is null 条件和 is not null 条件
+
+is null 条件用于空值测试。空值意思是难以获得的，未指定的，未知的或者不适用的。
+
+运算条件
+|运算|含义|
+|----|----|
+|and|如果两个组成部分的条件都为真，返回true|
+|or|如果两个组成部分中的任一个条件为真，返回true|
+|not|如果跟随的条件为假，返回true|
+
+可以在where子句中用and和or运算符使用多个条件
+
+优先规则
+|求值顺序||
+|----|----|
+|1|算术运算|
+|2|连字运算|
+|3|比较运算|
+|4|is [not] null,like,[not] in|
+|5|[not] between|
+|6|not 逻辑运算|
+|7|and 逻辑运算|
+|8|or 逻辑运算|
+
+order by 子句
+1. 用order by子句排序行
+ 1. ASC:升序排序，默认
+ 2. DESC:降序排序
+2. order by 子句在select语句的最后
+
+select 语句的执行顺序如下：
+1. from
+2. where
+3. select
+4. order by
+
