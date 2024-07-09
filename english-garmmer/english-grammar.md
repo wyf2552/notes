@@ -1689,3 +1689,276 @@ each表示两个或两个以上的“每一个”，而every表示从三个算�
 |interesting|more intereting|most interesting|
 |excited|more excited|most excited|
 |successful|more successful|most successful|
+二、特殊形式的比较级和最高级
+|原级|比较级|最高级|
+|----|----|----|
+|good/well|better|best|
+|bad/ill|worse|worst|
+|far|father/futher|fathest/futhest|
+|old|older/elder|oldest/eldest|
+|little|less|least|
+|many/munch|more|most|
+|late|later/latter|latest/last|
+|up|upper|uppermost/upmost|
+ 1. farther(farthest)/further(furthest)
+
+  这四个词都可以指实际的距离。不过，further/furthest可用于抽象意义，表示“进一步的，更多的，更深入的”，常与抽象名词连用。
+ 2. older(oldest)/elder(eldest)
+
+  elder和eldest主要是用来表示家庭成员之间的长幼关系，而并非指年龄的大小。
+ 3. later, latter, latest, last
+
+  1. later：一般用来表示时间上“较迟的”。
+  2. latter：则表示顺序上的“后者”，与former（前者）相对应。
+  3. latest：意思是“最近的，最新的”，主要用来指新近的事物。
+  4. last：主要有两个意思，一是指“在目前之前的一个（the one or ones before the present one）”，或者指“一系列事物中的最后一个（after all others）”。
+### 4.2.4 不具有等级的形容词
+英语中有一小部分形容词，它们表示绝对的含义，因此没有比较级和最高级形式。其中常见的词包括：absolute（完全的，绝对的），alone（单独的，独一无二的），dead（死的，无感觉的），empty（空的，空洞的），equal（平等的），eternal（永恒的，不变的），final（最终的，决定性的），horizontal（水平的），perfect（完美的），primary（第一位的），pregnant（怀孕的，富有的），round（圆的，球形的），single（单一的），square（正方形的），straight（直的），supreme（最高的，至高的），unique（唯一的，独特的）和unanimous（意见一致的，无异议的）。
+
+尽管这些词没有“等级差别”，但我们还是可以用下面一些表示“接近，几乎”的副词来修饰。比如：nearly, almost, the most closely和more nearly等等。比如：
+
+  1 nearly perfect（接近完美的）
+
+  2 almost fatal（几乎是致命的）
+
+  3 nearly dead（奄奄一息的）
+
+## 4.3形容词的比较级和最高级的用法
+### 4.3.1 形容词的比较级的用法
+一、than的比较级句型
+
+  对于这一比较级句型的用法，我们首先需要明确以下几点：
+
+  第一，在than的前面必须有形容词或副词的比较级形式；
+
+  第二，被比较的两个对象应该是同类事物，即“事物的可比性”。
+
+  1. 常见的句型是：A+比较级+than+B。A，B一般是两个同类的、彼此独立的人或事物。例如：
+
+  This question is less difficult than that question. 这个问题没有那个问题难。
+
+  2. 也可以不是两个同类事物的比较，而是某一事物自身相比。此时句子的结构为：A+比较级+情形1+than+情形2。例如：
+
+  He did much better in the finals this term than last term. 他这学期的期末考试比上学期的考得好多了。
+
+  Since it has been repaired, the machine works more efficiently than it did before. 机器被修好了，因此比以前的效率更高了。
+
+  3. 若被比较的对象不是彼此独立的人或事物，而是具有“一事物包含另一事物”这样的所属关系，此时我们要用other或else将其与整体区别开来，以免造成逻辑上的矛盾。例如：
+
+  Iron is more useful than any other metal. 铁比其他任何金属都有用。
+
+  She works harder than any other student in her class. 她学习比班里其他任何学生都努力。
+
+  但若说“She works harder than any student in her class.”*就是错误的，因为she属于her class中的一员，而any student in her class则包括“她自己”，这显然前后矛盾。
+
+二、比较级与the
+
+  比较级的前面一般不需加定冠词the，但当介词短语of the two出现在比较级句中的时候，比较级的前面必须加定冠词the。例如：
+
+  I think this painting is the more interesting of the two.（定冠词不能省去） 我觉得在这两幅画中，这一幅更有意思。
+
+  请比较：I think this painting is more interesting than that one. 我觉得这幅画比那幅画更有意思。
+
+三、more and more句型
+
+  用more and more双重比较来表示事物持续不断的变化，相当于汉语中的“越来越”。例如：
+
+  The city is becoming more and more beautiful. 这座城市变得越来越美丽了。
+
+  That female singer is getting fatter and fatter. 那位女歌手变得越来越胖了。
+
+  As summer approaches, the days seem longer and longer. 夏天快要到了，白天变得越来越长。
+
+  这个短语的用法特点如下：
+
+  more and more不可用在单音节词前。如不说：more and more fat*。
+
+  在more and more结构中，不能重复使用形容词或副词。如不能说：more beautiful and more beautiful*。
+
+四、可以修饰比较级的词
+
+  形容词的比较级前可以用以下表示程度的词或短语来进行修饰：a bit, a little bit, a little, a lot, a great deal, any, even, far, by far（还可用在最高级的前面）, much, very much, no, rather, still和slightly等。请看例句：
+
+  Are you feeling any better? 你感觉好些了吗？
+
+  Things are no better than before. 情况并没有比以前有所改善。
+
+  He makes far fewer mistakes in spellings than before. 他犯的拼写错误比以前少多了。
+
+  注意，这些词一般不用来修饰比较级：very, many, quite和fairly等。比如不说：
+
+  My girlfriend is very older than me. *
+
+五、否定意义的词+比较级
+
+  在英文中，我们可以用“否定意义的词+比较级”这种结构来表达一个最高级的意思。这样的词有：few, nothing, never和not等。
+
+  A: How have you been?
+
+  B: It couldn't be worse.
+
+  精品译文 A：你怎么样？
+
+  B：糟透了。
+
+  Few are better qualified for the job than he is.
+
+  精品译文 再没有谁比他更适合做这项工作了。
+
+  另外，never与比较级连用，是在对这个比较级的词进行强调，意思也相当于这个词的最高级，且要用在完成时的句子中。例如：
+
+  I have never heard a better song.
+
+  精品译文 我从未听过比这更好的歌曲。
+
+  该句的言外之意是“This is the best song that I have ever heard.”。
+
+### 4.3.2 形容词最高级的用法
+比较级是将彼此独立的人或事物进行比较，最高级则是把一个群体中的一员与该群体整体进行比较。其用法的一般特点是：
+
+  最高级用于两者以上的事物之间进行比较；
+
+  一般的结构是：the+形容词/副词的最高级+比较范围。
+
+  最高级的句型有：
+
+一、the+最高级+in+地方
+
+  It is the most expensive car in the world. 这是世界上最贵的汽车。
+
+  不能说：It is the most expensive car of the world. *
+
+  再看下面的例句：
+
+  The best woman in the world is my mother. The most beautiful sound in the world is my mother's voice. 世界上最好的女人是我的母亲，最美的声音是我母亲的声音。
+
+二、the+序数词+最高级+in+地方
+
+  这一句型是在第一个句型的基础上演化而来的。请看例句：
+
+  The Yangtze River is the longest river in China, but it is the third longest river in the world. 长江是中国最长的河流，是世界第三长的河流。
+
+  The Huanghe River is the second longest river in China. 黄河是中国第二长的河流。
+
+三、the+形容词/副词的最高级+of+所属范围
+
+  Certain zoologists regard crows the most intelligent of birds. 有些动物学家认为，乌鸦是所有鸟类当中最聪明的（一种鸟）。
+
+  很多读者对这一句中的最高级the most intelligent of birds表示不理解，他们疑惑为什么不直接说the most intelligent bird。其实，这一句可以看作是在最高级形容词的后面省去了代词one，即指bird。所以原来的句子可改为：
+
+  Certain zoologists regard crows the most intelligent one (bird) of birds.
+
+  但在实际应用中常常是将这个代词one省去。
+
+四、最高级前面的定冠词the加与不加
+
+  具体规则如下：
+
+  1. 形容词的最高级修饰名词用在名词之前，一般要加the。例如：
+
+  This is the most interesting book of all. 这是所有的书里最有趣的一本。
+
+  2. most有时用在形容词前，并非表示最高级，而是表示“非常，很”之意，相当于very, very much。此时，most的前面一般不用定冠词the。例如：
+
+  The story is most interesting. 这个故事非常有趣。
+
+  It is a most difficult problem. 这是个很棘手的问题。
+
+## 4.4 interesting or interested?
+### 4.4.1 -ing形容词与-ed形容词的特点
+interesting往往是与事物联系在一起的，而interested往往是与人联系在一起的。由此推而广之，我们可以得出下列一般规律：
+
+  1. -ing形容词主要是用来描述引起人某种感觉的事物，因此，句子的主语通常是事物，或该形容词作定语修饰事物（用于修饰人的情况较少）；
+
+  2. -ed形容词主要是用来描述人的感觉，表示“人对事物产生某种感觉”，句子的主语通常是人或有情绪的动物，或该形容词用来修饰人或有情绪的动物（一般不指事物）。
+
+ the exciting news
+
+ the excited man
+
+  精品译文  激动人心的消息
+
+   显得很激动的人
+
+ a frightened bird/boy
+
+ a frightening story
+
+  精品译文  受到惊吓的鸟/男孩
+
+   让人毛骨悚然的故事
+
+ the annoyed man
+
+ the annoying words
+
+  精品译文  被激怒的人
+
+   令人气愤的话
+
+再比如谈到自己的工作时，如果是job作主语，则要用-ing形容词来描述工作的性质特征
+
+### 4.4.2 -ing形容词可以修饰“人”
+对于-ing形容词修饰人的情况，读者应该不会觉得很奇怪，因为这比较常见。不过，出现这种用法时要注意理解句子的意思，否则就可能会出现误解。一般来说，用-ing形容词修饰人，是说明这个人能够引起的某种情绪。
+### 4.4.3 -ed形容词可以修饰“物”
+般都认为-ed形容词修饰“人”，而-ing形容词修饰“物”。其实不然，关键还是要看表意，意思的表达最重要。上面我们看到了-ing形容词修饰“人”的情况，下面我们来举几个-ed形容词可以修饰“物”的例子。如果对于-ing形容词修饰“人”的用法不太习惯的话，那么对于-ed形容词修饰“物”的用法则会感到更加难以理解。
+# 5 动词分类（一）：实义动词与（情态动词）助动词
+## 5.1 实义动词
+实义动词的特点：
+
+  1. 从词义的角度来看，实义动词具备完整的词汇意义；
+
+  2. 从在谓语中的作用这一角度来看，实义动词能单独充当句子的谓语。
+
+  英语中除了助动词和情态动词以外，其他的动词均为实义动词。
+## 5.2 助动词
+### 5.2.1助动词be,do和have
+助动词的特点：
+
+  1. 从词义的角度来看，助动词不具备词汇意义；
+
+  2. 从在谓语中的作用这一角度来看，助动词不能单独充当句子的谓语，它必须和实义动词连用，以帮助构成各种时态、语态、语气、否定和疑问等。
+
+英语的助动词有三个：be, do和have，它们分别具有各种变化形式。如下：
+
+  1. be: am, is, are, was, were, been, being
+
+  2. do: does, did
+
+  3. have: has, had, having
+![alt text](./images/5.2.1-1.png)
+### 5.2.2 用作实义动词的be,do和have
+需要提醒大家注意的是，三个助动词be, do和have，同时也可以用作实义动词。而作为助动词或实义动词，它们在词义和谓语中的作用这两方面是完全不同的。所以，不要混淆be作为系动词和助动词、do作为实义动词和助动词以及have作为实义动词和助动词。
+![alt text](./images/5.2.2.png)
+### 5.3 情态动词
+情态动词的特点：
+
+从词义的角度来看，情态动词有别于助动词。情态动词有其自身的词汇意义，如用来表示可能、建议、愿望、必要、允许、能力、怀疑等等，以表示说话者对某种行为或状态的看法或态度。
+
+从在谓语中的作用这一角度来看，与助动词一样，情态动词在句中不能单独作句子的谓语，而必须和实义动词一起构成复合谓语。
+
+英文中的情态动词主要有下列10个：
+
+  can/could, may/might, shall/should, will/would, must和had better。
+
+另外还有一些与上述情态动词有关的短语动词：
+
+  be able to（与can类似）
+
+  be going to（与will类似）
+
+  ought to, be supposed to（与should类似）
+
+  have to, have got to（与must类似）
+
+此外，need和dare既可以用作情态动词，也可以用作实义动词。
+## 5.4 陈述句的否定
+### 5.4.1 谓语中含有be动词或情态动词的否定
+这时直接在be动词或情态动词的后面加否定词not即构成否定句。
+|肯定句|否定句|
+|----|----|
+|he is a teacher|he is not a teacher|
+|i can swim|i cannot swim|
+|he will come to the party|he will not come to the part|
+### 5.4.3 谓语动词是实义动词的否定
+这时陈述句的否定要借助助动词do及其各种变形来完成。如果是一般现在时的句子，谓语则是“do+not+动词原形”结构；若句子的主语是单数第三人称，谓语则用“does+not+动词原形”。如果是一般过去时的句子，则用“did+not+动词原形”。

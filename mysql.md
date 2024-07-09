@@ -228,3 +228,39 @@ select 语句的执行顺序如下：
 3. select
 4. order by
 
+练习
+1. 创建一个查询，显示收入超过12000的雇员的名字和薪水
+```sh
+select last_name,salary from employees where salary > 12000;
+```
+2. 创建一个查询，显示雇员号为176的雇员名字和部门号
+```sh
+select last_name ,department_id from employees where employee_id = 176;
+```
+3. 显示所有薪水不在5000和12000之间的雇员的名字和薪水
+```sh
+select last_name,salary from employees where salary not between 5000 and 12000;
+```
+4. 显示所有部门20和50中的雇员的名字和部门号，并以名字按字母顺序排序
+```sh
+select last_name,department_id from employees where department_id in (20,50) order by last_name asc;
+```
+5. 列出收入在5000和12000之间，并且在部门20或50工作的雇员的名字和薪水。将列标题分别显示 为employee和monthly salary
+```sh
+select last_name employee,salary 'monthly salary' from employees where salary between 5000 and 12000 and depatrment_id in (20,50);
+```
+6. 显示所有没有主管经理的雇员名字和工作岗位。
+```sh
+select last_name,job_id from employees where manager_id is null;
+```
+7. 显示所有有佣金的雇员的名字、薪水和佣金。以薪水和佣金的降序排序数据。
+```sh
+select last_name,salary,commission_pct from employees where commission_pct is not null order by salary desc,commission_pct desc;
+```
+8. 显示所有名字中有一个a和一个e的雇员的名字
+```sh
+select last_name from employees where last_name like '%a%' and last_name like '%e%';
+```
+9. 显示所有工作岗位是销售代表（sa_rep）或者普通职员（st_clerk），并且薪水不等于2500，3500或7000的雇员的名字、工作岗位和薪水。
+```sh
+select last_name,jon_id,salary from employees where job_id in ('sa_ret','st_clerk') and salary not in (2500,3500,7000);
