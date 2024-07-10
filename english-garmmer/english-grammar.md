@@ -1960,5 +1960,242 @@ interesting往往是与事物联系在一起的，而interested往往是与人�
 |he is a teacher|he is not a teacher|
 |i can swim|i cannot swim|
 |he will come to the party|he will not come to the part|
-### 5.4.3 谓语动词是实义动词的否定
+### 5.4.2 谓语动词是实义动词的否定
 这时陈述句的否定要借助助动词do及其各种变形来完成。如果是一般现在时的句子，谓语则是“do+not+动词原形”结构；若句子的主语是单数第三人称，谓语则用“does+not+动词原形”。如果是一般过去时的句子，则用“did+not+动词原形”。
+|肯定句|否定句|
+|----|----|
+|i like english|i do not like english|
+|he likes english|he does not like english|
+|i liked english|i did not like english|
+### 5.4.3 否定的缩写
+在英语中，助动词或情态动词可以与not缩写
+|（情态）助动词|分开写|缩写|
+|----|----|----|
+|i am|am not|没有缩写|
+|we/you/they are|are not|aren't|
+|she/he/it is|is not|isn't|
+|i/he/she/it was|was not|wasn't|
+|we/you/they were|were not|wasn't|
+|i/you/we/they do|do not|don't|
+|he/she/it does|does not|doesn't|
+|did|did not|didn't|
+|i/you/we/they have|have not|haven't|
+|he/she/it has|has not|hasn't|
+|had|had not|hadn't|
+|will|will not|won't|
+|would|would not|wouldn't|
+|shall|shall not|shan't|
+|should|should not|shouldn't|
+|can|cannot|can't|
+|could|could not|couldn't|
+|may|maynot|没有缩写|
+|might|might not|mightn't|
+|must|must not|mustn't|
+## 5.5 一般疑问句
+### 5.5.1 谓语动词中含有be动词或情态动词的提问
+这时要构成一般疑问句，只需将be动词或情态动词移到句首。请看下表中的例句比较：
+|肯定句|疑问句|回答|
+|----|----|----|
+|he is a teacher|is he a teacher?|yes,he is./no,he isn't.|
+|he can swim|can he swim?|yes,he can./no,he can't.|
+注意一般疑问句的回答方式：肯定回答用yes，否定回答用no。
+
+|肯定句|疑问句|回答|
+|----|----|----|
+|i like english|do you like english?|yes,i do/no,i don't|
+|he like english.|does he like english?|yes,he does./no,he didn't.|
+|he like english.|did he like english?|yes,he did./no,he didn't.|
+## 5.6特殊疑问句
+### 5.6.1 不与名词连用的疑问句
+一、对人提问——who
+
+He can sing in English.
+
+Who can sing in English?
+
+  精品译文  他会唱英文歌。
+
+   谁会唱英文歌？
+
+二、对事物或所做的事情提问——what
+I like English.
+
+What do you like?
+
+  精品译文 我喜欢英语。
+
+   你喜欢什么？
+三、对时间提问——when
+
+I was born in 1980.
+
+When were you born?
+
+  精品译文 我是1980年出生的。
+
+  你是什么时候出生的？
+
+四、对地点提问——where
+
+He lives in Beijing.
+
+Where does he live?
+
+  精品译文 他住在北京。
+
+  他住在哪里？
+
+五、对方式提问——how
+
+He goes to school by bus.
+
+How does he go to school?
+
+  精品译文 他坐公共汽车上学。
+
+  他怎么上学？
+
+六、对原因提问——why
+
+I often study at the library because it's quiet.
+
+Why do you often study at the library?
+
+  精品译文 我常常在图书馆学习，因为那里很安静。
+
+  你为什么常常在图书馆学习？
+### 5.6.2 要与名词连用的疑问句
+一、which
+当说话者提供多种对象供对方选择时，我们就要用which来提问。此时，which的后面通常要接一个名词，意思是“哪一个什么东西”。
+
+二、whose
+whose的后面必须接名词，表示“谁的什么东西”。
+
+### 5.6.3 how的用法详解
+一、how可以单独使用
+
+how单独使用时，是对动作的方式进行提问。
+
+二、how还常与形容词或副词连用
+
+与形容词连用的例句如下：
+
+How old are you? 你多大岁数？
+
+How tall is he? 他身高多少？
+
+How big is your new house? 你的新房子有多大？
+
+How far is it from your home to school? 从你家到学校有多远？
+
+与副词连用的例句如下：
+
+How well does he speak English? 他英语说得怎么样？
+
+How quickly can you get here? 你多快能到这里？
+
+三、对动作发生的频率提问——how often/how many times...?
+
+I make a phone call to my parents once a month.
+
+How often do you make a phone call to your parents?
+
+  精品译文 我每个月给父母打一次电话。
+
+  你多久给父母打一次电话？
+
+I make a phone call to my parents once a month.
+
+How many times a month do you make a phone call to your parents?
+
+  精品译文  我每个月给父母打一次电话。
+
+  你每个月给父母打几次电话？
+
+I go shopping twice a week.
+
+How often do you go shopping?
+
+  精品译文 我每周去购物两次。
+
+  你多久去购物一次？
+
+I go shopping twice a week.
+
+How many times a week do you go shopping?
+
+  精品译文 我每周去购物两次。
+
+  你每周去购物几次？
+# 6 动词分类（二）：英语的五种基本句型
+## 6.2 五种基本句型概述
+### 6.2.1 主语+谓语
+一个完整的句子都由两部分组成：
+
+  “陈述对象+陈述内容”
+
+  这里的陈述对象一般是由名词或相当于名词的成分来充当，用语法术语来说叫作主语。而陈述内容则是说明主语怎么样了，都是用动词来表达，我们称之为谓语。因此，一个完整的英文句子就是：
+
+  “主语+谓语”
+
+  或
+
+  “名词+动词”
+
+  所以，英文句子的结构有自己的规律，总是要写出“主语+谓语”。我们还可以进一步思考：“英文句子为什么一定要有主语和谓语动词呢？”
+
+  其实，我们可以从哲学的角度找到答案。辩证唯物主义认识世界的基本出发点是：
+
+  1. 世界统一于物质，即世界是由物质组成的；
+
+  2. 物质的存在形式是运动。
+
+  因此，人们对世界的认识可归结为“物质的运动”或“运动的物质”。
+
+  而语言作为人类思维认识的载体，自然也得体现这一客观规律“物质+运动”→“名词+动词”→“主语+谓语动词”。
+
+  因此，今后我们写英文句子时，通常就要写出主语，还要写出谓语动词；既要有“陈述对象”，又要有“陈述内容”，这样才能表达一个完整的意思。
+
+### 6.2.2 五种基本句型概述
+
+进一步研究之后我们还会发现，上述句子的动词后面所接的成分长短不一，于是我们又可以把这些句子进一步细分。如下表所示：
+![alt text](./images/6.2.2.png)
+在上面的表格中，有好多术语（如表语、间接宾语、直接宾语或宾语补足语）读者也许不太熟悉，在后面马上就会有详细的解释。在此，我们先要了解上述英文的五种基本句型。之所以有这五种基本句型，关键在于谓语动词。比如有的动词后面不带宾语，例如：
+
+  Internet dating【主】 hurts【谓】.
+
+有的动词要有宾语。例如：
+
+I【主】 like【谓】 chatting online【宾】.
+
+有的动词后面要接两个宾语。例如：
+
+Chatting on the Internet【主】 brings【谓】 me【间宾】 a lot of fun【直宾】.
+
+有的动词后面仅有一个宾语不能够表达完整的意思，在宾语的后面还需接一个补充宾语的成分。例如：
+
+We【主】 can call【谓】 Internet addicts【宾】 a Webaholic【宾补】.
+
+因此，动词构成了一个句子的骨架结构，因为动词决定了一个句子是否有宾语、有几个宾语以及其他句子成分。在下面的句型分析中，读者要特别注意每一种句型的谓语动词的特点。
+## 6.3 句型一：主语+表语
+该句型的谓语动词是系动词（如be或其他系动词）。所谓系动词，又叫联系动词（linking verb），顾名思义，这种动词并不表示具体的动作，而只是起连接主语和后面成分的作用。这种动词后面所接的成分是用来说明主语的特点，表明主语的性质特征的，因此我们称之为主语补足语，或表语（能表示主语特征的成分）
+
+英文中最常见的系动词是be动词，其具体的形式有：am（I am）, is（he is, she is, it is）, are（you are, we are, they are）。其他的系动词还有：
+
+  look（看起来是） sound（听起来是） smell（闻起来是）
+
+  taste（尝起来是） feel（感觉是） seem（似乎是）
+
+  appear（似乎是） become（变为） turn（转变为）
+
+用作表语的词通常是名词（如Webaholic和teacher等）和形容词（如interesting, important, nice和yellow等）。副词一般不作表语，
+## 6.4 句型二：主语+谓语
+该句型的谓语动词是不及物动词（intransitive verb），所表示的动作没有作用对象，其本身的意思完整，其后不需带宾语。
+
+这种句型中谓语动词的后面虽然不接宾语，但通常会接副词（如hard）或介词短语（如in the west）来说明动作的方式、地点或时间等等。英文中把这种修饰动作的成分称作状语。
+## 6.5 句型三：主语+谓语+宾语
+该句型的谓语动词是及物动词（transitive verb），这种动词告诉我们由主语发出的动作所作用的对象是什么，这里所作用的对象就是我们通常所称的宾语，即宾语是主语动作的承受对象，因此这类动词是带有宾语的。英文中的绝大多数动词都是及物动词，在词典中标为vt.。
+
+play既可以用作及物动词，又可以用作不及物动词，但意思和用法都不一样。事实上，英语中大多数动词都像play一样，既可以用作及物动词，又可以用作不及物动词，但意思和用法都不一样。
+## 6.6 句型四：主语+谓语+间接宾语+直接宾语
+该句型的谓语动词是双宾动词（dative verb），这种动词的后面所接成分有“人”又有“物”。一般来讲，这里的“人”表示动作的接受者，称作间接宾语（indirect object）。“物”表示动作作用的对象，是动作的承受者，称作直接宾语（direct object）。间接宾语和直接宾语合起来叫做双宾语
