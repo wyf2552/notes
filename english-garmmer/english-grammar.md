@@ -2358,3 +2358,132 @@ play既可以用作及物动词，又可以用作不及物动词，但意思和�
 英语通过两方面来表达，这也就是英语中的两类体：一类是“语法体（grammatical aspect）”，就是读者熟悉的“进行体（continuous）”和“完成体（perfect）”；另一类是“动词体（lexical aspect）”，这是用来标示动词词义本身所固有的特点（the inherent properties of the verb's meaning）的。在这方面，英语把动词分为“状态”和“动作”（state and action），又把动作分为“短暂动作”和“延续动作”（punctual and durative）等等。
 
 说到这里，我们看到“体”有广义和狭义之分：广义的“体”包括“语法体”和“动词体”；狭义的“体”就是指“语法体”。
+## 7.2 一般现在时态——并非表示现在
+### 7.2.1 用法一：表示普遍的事实或真理
+表示不受时间限制的科学事实、客观真理、谚语格言，以及用于概括、结论、观点等。此时，这些动作或状态的发生不限于某个特定的时间，即它们可发生于任何时间，包括现在、过去和将来。
+
+这里主要讨论了一般现在时表示不受时间限制的科学事实、客观真理、谚语格言，及用于概括、结论、观点等的用法，因为这些动作或状态的发生不限于某个特定的时间，即它们可发生于任何时间，包括现在、过去和将来。从这个意义上看，一般现在时并非表示“现在发生”的动作或状态，这是一般现在时态最基本的思维特征。
+### 7.2.2 用法二：表示重复活动
+表示经常发生的、习惯性的动作（action）或者是存在的状态（state）。
+
+一、表示习惯的动作
+
+He often goes to the gym. 他经常去健身房。
+
+I go to the gym twice a week. 我每周去两次健身房。
+
+He walks to school every day. 他每天步行去上学。
+
+二、表示习惯的状态
+
+I like rice for dinner. 我晚餐喜欢吃米饭。
+
+补充：这一用法常和一些表示动作频率的时间副词连用。
+
+1. 表示肯定的频度副词有：always, frequently, usually, sometimes, generally, occasionally和often等。
+
+2. 表示否定的频度副词有：never, seldom和rarely。
+
+3. 表示频度的副词短语有：once a week, twice a year和on alternate days等。
+
+不过，在应用上述这些副词时，要注意以下几点：
+
+1. 它在句子中的位置通常是：在be动词后、实义动词前。
+
+He is always late. 他总是迟到。
+
+He always goes to school by bike. 他总是骑自行车上学。
+
+2. 上述否定副词不能再与否定助动词（如don't等）连用。
+
+He doesn't seldom come late. *（一般不这么说）
+
+He seldom comes late. 他几乎从不迟到。
+
+3. 这些副词一般放在否定助动词，always除外。
+
+The history lectures sometimes aren't interesting. 关于历史的讲座有时很没意思。
+
+His wife complains that he sometimes doesn't listen to her. 他的妻子抱怨，说他有时候不注意听她说话。
+
+  He doesn't always leave before 6 o'clock. Sometimes he works until 7 o'clock.
+
+  他并不总是在6点钟之前下班，有时他会工作到7点。
+### 7.2.3 用法表示：表示重复活动的一般现在时态和现在完成时态
+由于是对一项运动的一般性介绍，并没有时间限制，所以这里都使用了一般现在时态（除了一个情态动词would以外）。一般现在时表示“动作或状态的发生不限于某个特定的时间，它们可发生于任何时间，包括现在、过去和将来”。
+
+一般现在时是在泛泛地谈时间，并没有时间段的概念；而完成进行时表示说话人的脑子里会有一个“到目前为止”的时间段的概念，甚至是给出像for about four years这样一个明确的时间段。
+### 7.2.4 用法三：一般现在时表示正在发生的动作
+
+一、一般现在时态用在以there或here开头的句子中，表示目前的短暂动作
+
+请看例句：
+
+Here comes your wife.
+
+妙语点睛 这里显然是说话人看到your wife正在走过来，然后说的这句话，即表示正在发生的动作。在这个结构中不能用现在进行时态，不能说“Here is coming your wife.”* 可以说“Your wife is coming.”。但是，此时的进行时是表示将来的动作，所以这句话的意思是：你妻子很快就要过来了。
+
+精品译文 你妻子来了。
+
+二、表示现在瞬间的动作（instant actions）
+
+这个瞬间动作是说话人在说话的同时即刻发生的。这只适用于表达动作的动词，表示对一些动作的解说，比如：球赛解说、剧情介绍、解释自己正在做的事情、给别人一边说一边做的示范动作等等。请看例句：
+
+Michael passes to Clint. Clint to Jack, Jack back to Clint—and Clint shoots—and it's a goal!
+
+妙语点睛 这是球赛的解说，表示在说话时刻正在发生的动作。
+
+精品译文 迈克尔传给克林特，克林特传给杰克，杰克又回传给克林特——克林特射门——球进了！
+
+### 7.2.5 用法四：一般现在时表示将来发生的动作
+一、用在条件状语从句和时间状语从句中
+
+主要用在条件状语从句（if和unless）和时间状语从句（when, as soon as, before和after等）中，表示将来的动作。
+
+二、在谈到未来的计划和时间安排表的时候，表示将来的动作
+
+此时句中的动词往往是表示短暂性动作的动词，如go, come, leave, start和move等。请看例句：
+
+The train starts at 2 o'clock. 火车两点钟开。
+
+We move next week. 我们下周搬家。
+
+They leave for Shanghai by train tomorrow evening. 他们明晚出发去上海。
+
+三、在从句中表示将来的动作，此时主句往往用了一个将来时
+
+请看例句：
+
+I will reward the person who finds my lost kitten. 我将酬谢找到我丢失的猫的人。
+
+I will give the booklet to whoever asks for it. 谁来索取这个小册子，我就把它给谁。
+### 7.2.6 用法五：一般现在时表示过去发生的动作
+一、表示死者的理论、著作等
+
+因为这些理论、著作到现在仍有效；或表示一些名人名言。请看例句：
+
+Francis Bacon says, “Reading makes a full man; conference a ready man; and writing an exact man.”
+
+弗朗西斯·培根说：“读书使人充实，讨论使人机智，写作使人准确。
+
+二、引用书刊、报纸、通知或新近收到的信件的内容时
+
+请看例句：
+
+The newspaper reads, “The criminal who killed eight women has been executed.”
+
+妙语点睛 这里的reads其实是表示过去的，因为显然是说话人看过the newspaper之后才说了这句话。
+
+精品译文 报纸上写着：“杀害八名妇女的那个罪犯已经被处决了”。
+### 7.2.7 用法六：一般现在时指现在完成时
+在口语中，可以用一般现在时代指现在完成时。能这样使用的动词不多，通常有：hear, find, see, learn, tell和read等。
+
+## 7.3 被遗忘了的一般过去时态
+### 7.3.1 引言
+英文与中文的一个重大差异，就是英文通过动词的变形来潜含各种言外之意。比如英文里只要对be动词做不同的变形（如was或is等变形），就能轻而易举地表达出各种不同的意义，但是对应的中文翻译却完全不同了。这就是相对于中文来说英文语言的一大特色——话语标记（language mark），这是中文里所没有的语言现象。我们中文绝不可能通过词形的变化来表达出不同的意义，因为汉语没有任何词形的变化。英文里的时态就是一种最为重要的英文话语标记。所以，我们要想习得英语思维，精通英语表达，还是要从时态开始。
+
+另一方面，这里的was就是be动词的一般过去时态。一般过去时并不像很多人想的那样简单，实际上，对于我们这些有着根深蒂固汉语思维的中国人来说，一般过去时是最容易被忽略的一个时态。
+
+### 7.3.2 基本用法一：过去发生的短暂动作或状态
+一般过去时常表示在过去某一个特定的时间所发生的动作或存在的状态，此时常和表示过去的特定的时间状语连用。这些时间状语有：yesterday, yesterday evening, last night, the night before last（前天晚上）, last year, last spring（去年春天）以及three days/months/years ago等等。注意，这些时间状语之前不需加介词，比如不能说：at last night*, in last year*或in three years ago*等等。
+### 7.3.3 基本用法二：过去发生的重复或延续活动
