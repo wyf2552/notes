@@ -2487,3 +2487,189 @@ The newspaper reads, “The criminal who killed eight women has been executed.�
 ### 7.3.2 基本用法一：过去发生的短暂动作或状态
 一般过去时常表示在过去某一个特定的时间所发生的动作或存在的状态，此时常和表示过去的特定的时间状语连用。这些时间状语有：yesterday, yesterday evening, last night, the night before last（前天晚上）, last year, last spring（去年春天）以及three days/months/years ago等等。注意，这些时间状语之前不需加介词，比如不能说：at last night*, in last year*或in three years ago*等等。
 ### 7.3.3 基本用法二：过去发生的重复或延续活动
+除了上述表示短暂动作之外，一般过去时还可以表示过去的一段时间（a specific period of time in the past）内延续或重复的动作
+![alt text](./images/7.3.3.png)
+### 7.3.4 用法比较：一般现在时和现在完成时用于“for+时间段”的区别
+一般过去时与“for+时间段”连用，表示动作在过去已经结束，并没有延续到现在；而现在完成时与“for+时间段”连用，则表明动作延续到现在，并且还有可能延续下去。
+
+### 7.3.5 口语用法一：“我不知道”——"i don't know" or "i didn't know"?
+我们先来看看下列这个场景对话：
+
+  A: Do you see the person with loose pants and long hair? Is it a boy or girl?
+
+  B: A girl. She is my daughter.
+
+  A: Oh, please forgive me. I didn't know you were her mother.
+
+  B: No, I'm her father.
+
+  精品译文 A: 你看见那边那个穿着宽松裤子、留着长发的人了吗？是男的还是女的？
+
+  B: 是女的。她是我女儿。
+
+  A: 哦，真对不起，我不知道你是她母亲。
+
+  B: 不，我是她父亲。
+
+  如果句子中带有表示过去的时间状语，相信大家都还记得要用一般过去时态。然而，对于像这个实际的口语对话，我们很可能就把一般过去时抛到九霄云外去了。比如，上面对话中的“我不知道你是她母亲”这一句，很多读者的第一反应很可能就是：
+
+  I don't know you are her mother.
+
+  但是，通过对上下文进行仔细的分析后，我们发现A说“我不知道”的时候其实他已经知道了，因为B已经告诉他“She is my daughter.”了，也就是说，他的真正意思应该是“我刚才不知道”，因此正确的英文应该说成：
+
+  I didn't know you were her mother.
+### 7.3.6 口语用法二：“我忘记了”——"i forget" or "i fprgot"?
+ 比如我们说“我忘记了这个单词的意思”和“我忘记把你的耳机带来”，这两个“忘记”在汉语中丝毫没有区别，但在英文中却是大不相同，即它们发生的时间不一样。“我忘记了这个单词的意思”是“我”现在还不知道；而“我忘记把你的耳机带来”是当“我”想起来之后说的一句话，“忘记”已成为过去。因此，这两句英文要分别说成：
+
+  I forget the meaning of the word.
+
+  I forgot to bring your earphone back.
+
+  再看下列例句：
+
+  A: Oh, I'm sorry. I just realized that I forgot to bring the camera you lent me. I left it back in my dorm.
+
+  B: That's all right. I won't need it until tonight. As long as I've got it back by then.
+
+  精品译文 A：哦，对不起，我现在才想起来我忘了把你借给我的那个相机带来，我把它忘在宿舍里了。
+
+  B：没关系，我今晚才用呢，只要到时你能拿过来就行。
+
+  A: I am sorry I forgot to return your physics book last night.
+
+  B: I'll forgive you considering the test isn't until Friday.
+
+  精品译文 A：很抱歉，昨晚我忘了还你的那本物理书。
+
+  B：没关系，因为周五才考试呢。
+
+  以上这两句同样都是在说话人想起来之后才能有的“我忘记了”，所以都用了一般过去时态。因此，在我们汉语中说“我忘记做某事”，英文一般都是说成I forgot to do...，因为这一定是当你想起来之后才能说的一句话，“忘记”已成为过去，否则你不可能说出这句话。因此，英文中一般说不出*I forget to do...，因为找不到使用它的语境。我就曾经问过我的英国朋友是否能说*I forget to do...，他皱起眉头想了半天，最后还是摇摇头，说找不到这样的语境。可见，native speakers是将英语时态深刻地融入到了自己的思维表达之中，而我们这些“老外”却根本不注意时态。不论forget如何变形（如forgot, have forgotten和have been forgetting），我们只有一种译法——“忘记”，而不去考虑每一种时态表达的背后都是对应有特定的语境的。我们往往只注重单词本身的词义，而忽略了时态背后所潜含的思维语境。这样一来，我们说出来的英文往往是“有口无心”式的“鹦鹉学舌”，而不是“身临其境”般的“言传心声“。
+### 7.3.7 口语用法三：“我以为”——"i think" or "i thought"?
+I thought和I think都可以翻译成“我认为……”，这就看不出二者到底有什么区别了。受此影响，我们往往就不分I think和I thought了，在什么场合都一律说成I think，这就不妥了。
+
+  总之，读者不妨记住这个小技巧：当我们要说“我本来还以为……”时，在英文中就要说成I thought...。
+### 7.3.8 口语用法四：根据上下文的语境灵活地使用一般过去时
+很多时候没有这样的规律可循，使用过去时完全取决于上下文语境的含义，这时就需要说话者对某个特定语境中暗含的过去时间特别敏感，方能正确地使用一般过去时。
+
+这里同样是用了一般过去时was。因为经过聊天后，“认识（meet）”或“聊天（talk）”都已成为刚刚的过去，所以自然要用was而不是is。上面两句告别用语可以分别简化成“Nice meeting you.”和“Nice talking to you.”。另外还要注意的是，告别时说“认识”用的是动名词meeting，而不是不定式to meet。所以，读者以后在初次认识老外后，在告别时，不要说“Nice to meet you.”而要说“（It was） Nice meeting you.”。
+### 7.3.9 口语用法五：礼貌表达
+在口语中，一般过去时（也可用过去进行时）可以表示语气委婉，此时的过去时丝毫没有过去的意味，而谈的是现在的情况。请看例句：
+
+  I wondered if you could help me. 我想知道你能否帮我。
+
+  Could you give me a hand? 你能帮我一下吗？
+## 7.4 一般将来时——预测、计划和意愿
+### 7.4.1 引言
+对于一般将来时（the future simple tense）的讨论，要比前两个时态稍微复杂一些。因为从严格意义上来说，英文里是没有“将来时态”的，而只有现在时态和过去时态这两种时态（Technically, English has no “future tense”, but only two distinct tense forms—present and past tenses.）。
+
+首先，从时态形式（tense form）的构成上来看。现在时态（present tense）的构成是用动词原形（basic verb form），或遇到单数第三人称主语，谓语动词加-s。过去时态（past tense）的构成则是动词变为过去式（如加-ed或其他特殊变形）。因此，对于现在时态和过去时态，都是在谓语动词的词尾上进行变形。但对于将来时态，在动词的词尾却没有任何变形。
+
+其次，从表达“将来时态”的各种手段来看。在英文中，表示现在时态，就用动词原形或者加-s；表达过去时态，就用动词过去式变形。但表达将来时态，即人们谈论将来要发生的事情时，事实上，是采取动词形式变化以外的其他方式来达到这一目的的。具体的方式非常多，比如使用情态动词will和be going to，比如使用现在进行时（be doing）表示将来的动作，以及采用其他的句型结构，如be to do或者be about to do等（这些不同的表示将来的手段，都是我们接下来要讨论的重点内容）。由此看来，英文中并不只是用will do表示将来，所以，我们并不能因为will do可以表示将来的动作，就说将来时态的构成就是will do。如果是这样，那么be to do或be about to do这样的结构也是将来时态吗？或者表示将来事情的进行时态也是将来时态吗？或者表示将来事情的进行时态也是将来时态吗？当然不能这么认为。从这个意义上来说，英语是没有将来时态的。
+
+再次，从是否成为事实的角度（factual or non-factual）来看。将来的事情与发生在过去或现在的事情是完全不同的，发生在过去或现在的事情都已是确定无疑的，是一个事实（fact）。但谈论将来要发生的事情，就不可能成为一个确定无疑的事实，而只能是表示一种可能性（Situations in the future are treated differently. They are inherently non-factual, but can be considered as either relatively certain or relatively unlikely or even impossible. Thus future events are not treated as facts, hence are only possibilities.）。所以，从核心意义的角度来说，发生在“将来”的事件与发生在“过去”或“现在”的事件不可能有相同的确信度（certainty）。因此，严格地讲，我们无法以事实为基础去报告将来的事件。所以，will用来表示很有把握的预测（prediction），但不是对事实的叙述或报告。
+
+从情态意义来看。上文讲过，表示将来时态的will do只是情态动词的一种用法而已，因此表示将来的事件往往是与各种情态意义联系在一起的。比如：预测某事将会发生，计划将来做某事，或表示愿意去做某事。因此，对于将来时态的学习，理解以下三个概念是至关重要的：
+
+  1. 预测（prediction）：表示说话人认为将来会发生某件事；
+
+  2. 事先计划（future plan）：表示说话人在头脑里已经做出决定将来要做某件事；
+
+  3. 意愿（willingness）：表示说话人既不是预计某事将会发生，也不是预先经过考虑决定将做某事，而是在说话的时刻立即做出决断表明他将去做某事。
+
+接下来，我们就以能够表示将来活动情景的各种不同的手段为主线，重点讨论will和be going to的用法与区别，同时结合三大情态意义——预测、计划和意愿，来讨论将来时态的各种用法。
+### 7.4.2 will表示将来——预测
+一、关于“科技（Science）”方面的预测包括：
+
+  Will we travel to the stars?（我们能够进行星际旅行吗？）
+
+  Will we clone a dinosaur?（我们能克隆恐龙吗？）
+
+  Will a killer asteroid hit the earth?（小行星能撞毁地球吗？）
+
+  Will the brain understand itself?（大脑能理解自己吗？）
+
+  Will we keep evolving?（我们人类还能一直进化吗？）
+
+  Will we travel back or forward in time?（我们能进入时光隧道回到过去或去到未来吗？）
+
+  Will we live on Mars?（我们能生活在火星上吗？）
+
+  Will we meet E. T. ?（我们能遇到外星人吗？）
+
+  Will someone build a perpetual motion machine?（有人能发明永动机吗？）
+
+  Will we discover another universe?（我们能发现另外的宇宙吗？）
+
+  Will we figure out how life began?（我们能知道生命是如何起源的吗？）
+
+  Will we control the weather?（我们能控制天气吗？）
+
+  How will the universe end?（宇宙会怎样结束？）
+
+  Will there be anything left to discover?（还有哪些有待于我们去发现的东西？）
+
+二、关于“人类如何生活（How We Will Live）”方面的预测包括：
+
+  Will women still need men?（女人还需要男人吗？）
+
+  What will we wear?（我们会穿什么？）
+
+  Will there be any teenagers?（还会有青少年吗？）
+
+  Will we still have privacy?（我们还能有自己的隐私吗？）
+
+  What will our houses look like?（我们的房子会是什么样子？）
+
+  Will the Internet rule our lives?（互联网能主宰我们的生活吗？）
+
+三、关于“我们的工作，我们的世界（Our Work, Our World）”方面的预测包括：
+
+  What will our offices look like?（我们的办公室会是什么样子？）
+
+  What will be the 10 hottest jobs?（十大热门职业会是什么？）
+
+  How will we fight?（我们如何作战？）
+
+  What will peace mean for the Middle East?（中东能实现和平吗？）
+
+  How much will the Internet rule our lives?（互联网将在何种程度上控制我们的生活？）
+
+四、关于“健康与环境（Health and Environment）”方面的预测包括：
+
+  How hot will it get? （地球将会变得多热？）
+
+  Will we still eat meat?（我们还需要吃肉吗？）
+
+  Will we keep getting fatter?（我们会一直变胖吗？）
+
+  Will we live to be 125?（我们能活到125岁吗？）
+
+  When will we cure cancer?（何时我们能治愈癌症？）
+
+### 7.4.3 be going to 表示将来——预测
+我们还可以用be going to来表示“预测”，即我们对未来某件事发生的可能性做出推测。比如：
+
+  Look at those black clouds! It's going to rain.
+
+一、表示“预测”，be going to比will有更多的证据支持，而且事件发生的时间更近
+
+  由于be going to是一个现在时态的形式（如am/is/are going to），因此，它所表示的对将来行为的预测往往暗示与“现在”有联系，而且是在说话后不久就将发生的（Be going to has an implication that the future action is related to the present and will occur relatively soon after the time of speaking.）。所以当有现在的证据可以支持预测时，或者说根据目前的明显迹象来推断某件事将要发生时，我们就要用be going to，而不宜用will。请看例句：
+
+  With all of these typos in this resumé, you are not going to make a very good impression.
+
+  妙语点睛 这里的typo即type error的缩写，表示“打字错误”。说话人根据with all of these typos in this resumé这一证据，而预测“你”不会给别人留下好印象。
+
+  精品译文 这份简历上有这么多的打字错误，这样恐怕你不会给对方留下好印象的。
+
+在表示预测时，will 和 be going to有以下两点区别：
+
+  1. 用be going to特别意指根据目前的明显迹象来推断某件事将要发生（We can use “be going to” for a strong prediction based on present conditions.）；而will则只是表明说话人认为或相信某件事将要发生。
+
+  2. be going to 通常用来表示说话人预期所说的事件马上或在相当近的将来就要发生；而will所表示的动作发生的时间可近可远。
+
+  此外，be going to往往还表示当前已有迹象表明说话者无力控制的即将发生的行为，这显然与上述两点密切相关。
+
+二、表示“预测”时，will的语气比be going to显得正式、
+
+will比较正式，be going to更为不正式，常用于私人谈话中，所以在口语中很常用，而且be going to在口语交流中常被读成be gonna。比如两个朋友在餐馆里吃饭点菜，一个会对另一个说：I'm gonna have the chicken. 但一会儿侍者过来为他们点菜时，这个人可能会对侍者改口说道：I'll have the chicken. 这样以保持一定程度的正式性。
+
