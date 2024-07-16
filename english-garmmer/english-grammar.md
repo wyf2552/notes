@@ -2673,3 +2673,182 @@ I thought和I think都可以翻译成“我认为……”，这就看不出二�
 
 will比较正式，be going to更为不正式，常用于私人谈话中，所以在口语中很常用，而且be going to在口语交流中常被读成be gonna。比如两个朋友在餐馆里吃饭点菜，一个会对另一个说：I'm gonna have the chicken. 但一会儿侍者过来为他们点菜时，这个人可能会对侍者改口说道：I'll have the chicken. 这样以保持一定程度的正式性。
 
+### 7.4.4 be going to 表示“计划”与will表示“意愿”
+对于be going to的用法，相信读者最熟悉的，就是我们常用它来表示“计划或打算（a plan）”。此时，说话人在头脑里已经做出决定将来要做某件事，并且往往还含有已经为这一行动做了某些准备的意思。又因为只有人才能有主观的思维意识去对将来的行为做出“计划”，因此，be going to的这个用法主要是用于人称主语（person subject），而不可能用于非人称主语（non-person subject）。
+
+一、be going to表示“计划”，需要用“人”作主语
+
+我们下面来关注一下be going to在表示“预测”和“计划”时，它的主语的特点。上文强调过，只有“人”才能有主观的思维意识去对将来的行为做出“计划打算”，因此，be going to的这个用法主要是用于人称主语（person subject），而不可能用于非人称主语（non-person subject）。但在表示“预测”时，主语可能是人称，也可能是非人称。换句话说，如果是非人称主语，那be going to不会是表示“计划打算”，而是表示“推测”。
+
+另一方面，如果是人称主语，那么be going to可能是表示“计划打算”，也可能是表示“预测”。此时，上下文的语境可以帮助我们很容易地区分be going to是表示“计划打算”还是“预测”。
+
+在表示“预测（prediction）”时，是说话人做出的预测（the speaker's prediction），而不是句子的主语做出的预测（not the subject's prediction）。比如我们说“It's going to rain.”时，不是天气it在做预测，而是说话人在做预测。同样，上面例句中的“...you are not going to make a very good impression.”是说话者（speaker）的预测，而不是句子的主语you所做的预测，因而原句的意思不是说“你”不打算留下好印象，而是“我认为”你可能不会留下好印象。
+
+但在表示“打算”时，却是句子的主语做出的打算（the subject's intention），比如上面的例句说“...she's going to learn how to browse the Internet.”是表示she即my grandmother自己打算学习上网，而不是说话人的打算。
+
+我们并不要求主语一定是人称，因为此时是暗含“说话人”在做“预测”的意思，已经是“人”在做预测了，所以这时与句子的主语是否是人称无关。但是，在表示“打算”时，是句子的主语在做打算，因而此时句子的主语必须是人称。
+
+二、be going to可以表示“决心”，具有强烈的感情色彩
+
+当be going to的“打算”或“预测”意味进一步升华后，就可以解释成个人的“决心（great determination）”，具有强烈的感情色彩。
+
+三、will表示“意愿”，一个当机立断的决定
+
+在上文中，我们讨论了will作为“预测”的用法。现在我们来讨论它表示“意愿”的用法。所谓“意愿”，简言之，就是“当机立断（spontaneous decision）”，而不是事先计划好的（unplanned）。具体来说，说话人事先并不知道，而是在得知新的信息之后，在说话的时刻立即做出决断表明他将去做某事，这是一个当机立断的决定。此时，我们只能用will来表达。
+
+关于will表示“意愿”的情况要注意以下几点：
+
+  第一，前面讲过，will表示“预测”时，句子的主语往往是无生命的事物（non-animate subject），与此不同的是，当will表示“意愿”时，句子的主语通常是有生命的“人（animate agent）”，如上述所有例子所示。不过，若用“物”作主语则具有拟人的意味，此时说话人往往是在抱怨，而且通常用否定形式的won't。
+
+  第二，will这种表示“意愿”的意义，若用于第二人称（you）的一般疑问句（Will you?）中，则可以用来提出“请求”
+
+  第三，关于will的否定，否定形式的won't在句中会有歧义。不过，一般来讲，我们通常把won't do等同于refuse to do来理解，即表示“不愿意”，而用won't be doing来表达说话人的预测
+
+四、比较：will表示“意愿”和be going to表示“打算”
+
+  我们现在把will表示“意愿”和be going to表示“打算”作一比较。二者的主要差别是：
+
+  1. be going to表示说话人对未来行动的计划或打算，通常是经过事先考虑并含有已经为这一行动做了某些准备的意思。
+
+  2. will表示意愿，表示在说话的时刻立即做出决定将去做某事，事先并没有经过考虑，更没有为这一活动做出事先的准备。
+
+|预测|will 或 be going to|人称主语或非人称主语|
+|意图打算|bw going to|人称主语|
+|意愿/当机立断的决定|will|人称主语|
+
+不论是will还是be going to ，在表示“预测”时，都是说话人做出的预测（the speaker's prediction），而不是句子的主语做出的预测，因而对句子的主语没有特殊的要求，句子的主语可以是人称或非人称。而be going to的“计划打算”和will的“意愿”的用法则都是句子的主语做出的，又因为只有人才会“计划打算”以及表达“意愿”，所以，此时句子的主语必须是人称。
+
+### 7.4.5 现在进行时表示将来
+现在进行时可以表示对最近的将来做出计划或安排（definite future plans）。下面的例句都是表示将来确定的安排，所以都要用现在进行时：
+
+A: The summer holidays are coming soon, Jack. What are your plans?
+
+B: Well, Mike, I am taking my girlfriend to Qingdao. She is a beach person, you know.
+
+精品译文 A：暑假很快就要到了，杰克。你有什么计划吗？
+
+B：嗯，迈克，我要带我的女朋友去青岛。你知道，她喜欢海滩。
+
+一、必须带有表示将来的时间状语
+
+用现在进行时表示将来的动作，动作发生的时间必须指出或在前文中已经指出，否则就可能会造成现在进行动作与一般将来动作相混淆。
+
+A: What are you doing next Sunday?
+
+B: I'm not going out. I'm staying at home.
+
+妙语点睛 B的回答中虽然没有出现具体的将来时间，但因为将来时间next Sunday在上文中已给出，所以B中的现在进行时态是表示将来。
+
+精品译文 A：下周日你打算干什么？
+
+B：我不准备出门，准备就待在家里。
+
+二、必须是人称主语
+
+现在进行时表将来的这种用法，通常是表示说话人已计划安排好的活动，如果不是，则不能这样用。例如不能说：
+
+It's raining tomorrow. *
+
+因为像rain, snow或storm等这样的活动是人们无法事先计划好的。
+
+三、与一般现在时表示将来的区别
+
+ 1. 一般现在时要比现在进行时听起来更正式，个人主观色彩要淡些。请比较：
+
+  1） I am leaving tonight.
+
+  2） I leave tonight.
+
+  妙语点睛 在例句1）中，进行时态表达的个人主观色彩要浓些，一般含有“我自己决定今晚走”的意味。在例句2）中，一般时态更加客观，比如可能是“公司安排了我出差，给我安排的是今晚动身”。
+
+  精品译文 1） 我想好了今晚走。
+
+  2） 我今晚需要动身走。
+
+  所以说“Our shop opens next week.”比“Our shop is opening next week.”要好，显得更正式。
+
+  2. 如果是一系列预定的将来的安排，比如旅游行程安排，用进行时态显得较累赘，而用一般时态则较简洁。比如：
+
+  We leave Beijing at 9: 00 tomorrow morning, arrive in Kunming around 12: 00 and then we tour the World Horti-Expo Garden. 我们明天上午9点离开北京，大约12点左右抵达昆明，然后就参观世博园。
+
+四、用be going to表示计划与进行时态表示计划的区别
+
+总的来说，be doing表达的将来计划要比be going to的计划更确定（more
+
+ I'm flying to Shanghai next Monday.
+
+ I'm going to fly to Shanghai next Monday.
+
+  妙语点睛 同样，例句1）听起来比例句2）的计划更确定。比如在例句1）中，表示“我现已买好机票”，“周一飞往上海”将是确定无疑的。而例句2）只是表明你将来的一个打算，比如你在和航空公司订机票时，对方问你要什么时候的机票，你告诉对方说“I'm going to fly to Shanghai next Monday.”（我打算下周一飞往上海。）
+
+  精品译文 1） 我下周一要飞往上海。
+
+  2） 我打算下周一飞往上海。
+
+  两种将来的表达之所以有上述确定程度（degree of certainty）方面的差别，原因可能还在于这两个时态本身。进行时态be doing给人的感觉是事情马上就要发生了，因而应该是确定无疑的；而be going to因为有表示“将来预测”的意味，这就给它带来了不确定性。
+
+所以，我们看到，be doing往往表示将来的活动是确定好的计划，是你工作安排的一部分，已做出决定，并已写入你的时间安排表中了（You use this tense if the action is part of a schedule or it's a definite plan. Use it when you have already made a decision, and have “put it in your diary”.）相比较而言，be going to do更多的是表达一种不确定的未来计划，或者说是一种个人的意图或打算，不过这听起来要比hope to do和would like to do要更为确定些（When we talk about things in the future that are not definite, we use “am going to+verb”. This is more certain than expressions like “hope to...”, “might...” or “would like to...”.）。综合上述，用be doing谈将来的计划往往比be going to do更确定。
+
+### 7.4.6 一般现在时表示将来
+
+A boy was up an apple tree stealing apples. A policeman came along and caught him. He looked up at the boy in the tree and said, “When are you coming down, young man?” “When you go away!” replied the boy.
+
+妙语点睛 这里when are you coming down中的现在进行时态是表示将来的动作。第二个句子when you go away中的一般现在时态是表示将来的动作，即前面讲过的，在when引导的时间状语从句中，要用一般现在时代替将来时。
+
+精品译文 一个男孩爬到一棵苹果树上偷苹果。一个警察过来看到了他。警察抬头看着树上的男孩，说道：“年轻人，你什么时候下来？”“等你走了以后！”男孩回答。
+
+### 7.4.7 其他表示将来的句型结构
+
+一、be to do
+
+  1. 表示已安排好要在将来发生的事，是比较正式的用法
+
+  请看例句：
+
+  They are to go on a strike on July 8th. 他们定于7月8日举行罢工。
+
+  She is to be married next month. 她预定在下个月结婚。
+
+  The Premier is to visit Australia next month. 总理将在下个月对澳大利亚进行访问。
+
+  2. 表示强烈的命令，相当于must, should，如：父母对孩子、上级对下级或法律条文中的规定等
+
+  请看例句：
+
+  You are to finish your homework before you go to play. 你出去玩之前一定要把作业完成了。
+
+  The form is to be filled out in ink and returned this week. 该表格须用钢笔填写，并于本周交回。
+
+  These tablets are not to be taken orally. 这些药片禁止口服。
+
+  The parties involved are to sign the agreement. 有关当事人一定得签署协议。
+
+  If it doesn't rain within the next few weeks, the crops will have to be watered if they are to survive.
+
+  以后的几个星期如果还不下雨，则须对庄稼进行灌溉，以便庄稼能够存活。
+
+  If he's to succeed in his new profession, he must try harder. 他如果想获得新事业上的成功，就必须更加努力。
+
+二、be about to do
+
+  这一结构用来表示即将发生的动作（比如通常在5分钟之内就会发生），意思是“正要，马上就要”。请看例句：
+
+  The train is about to leave. 火车马上就要开了。
+
+  Jack is holding a fly swatter and staring at a fly on the kitchen table. He is about to swat the fly.
+
+  杰克手里正拿着苍蝇拍，眼睛盯着厨房桌上的一只苍蝇。他正要拍这只苍蝇。
+
+  Sally has her hand on the doorknob. She is about to open the door. 萨莉握住门把手，正要开门。
+
+三、be on the point/verge/brink/eve of doing
+
+  这一结构与be about to do的意思差不多，但其动作发生的时间比be about do还要快一些。请看例句：
+
+  He was on the point of killing himself when she stepped into his room. 她走进房间时，看见他正要自杀。
+
+  The child was on the verge of laughing, but he held back. 这孩子差一点笑出声来，但还是忍住了。
+
+# 8 英文时态（二）：进行时态
+## 8.1 引言
+### 8.1.1 进行时态的构成
