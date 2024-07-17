@@ -2852,3 +2852,138 @@ A boy was up an apple tree stealing apples. A policeman came along and caught hi
 # 8 英文时态（二）：进行时态
 ## 8.1 引言
 ### 8.1.1 进行时态的构成
+就时间的角度而言，有三种不同时间下的进行时态，即现在进行时（the present continuous tense）、过去进行时（the past continuous tense）和将来进行时（the future continuous tense）。它们的构成分别是：am/is/are doing, was/were doing和will be doing。这些不同形式的be动词对应于不同的主语人称和单复数。具体关系如下表所示：
+
+ ![alt text](./images/8.1.1.png)
+
+ 将来进行时will be doing没有人称和数的变化。这里的助动词be的具体变形，既反映了时间（如动作是发生在现在、过去还是将来），同时也反映了主语人称和数的变化，但表示进行动作的doing始终不变
+
+ ### 8.1.2 进行时态的意义
+ 进行时态最典型的一个意义——表示正在发生的动作。具体来说，进行时是强调在某个特定的（现在、过去或将来）时间点，某项活动正在发生。比如：
+
+  I am watching CCTV news right now. 我现在正在看中央电视台的新闻。
+
+行时态往往和某一特定的时间点连用，来表示某一个活动在该时刻正在进行
+
+一、直接给出具体的时间
+
+I am listening to the English program right now. 我现在正在收听英文节目。
+
+I will be watching CCTV news at this time tomorrow evening.
+
+明天晚上的这个时间，我将正在看中央电视台的新闻。
+
+这里是直接给出具体的时间，如right now和at this time tomorrow evening。
+
+二、通过另一活动表达这一特定时刻
+
+I was watching CCTV news when he arrived. 他到的时候，我正在看中央电视台的新闻。
+
+进行时表示在特定的时刻正在发生的活动，这是中英文里都有的含义。但英文的进行时态be doing表达的意义远不止于“正在发生的活动”这一个意思，要比汉语的“着”所表达的意义多很多。也就是说，英文的进行时态并不总是表示正在发生的动作，它有更多其他的意义和用法
+
+### 8.1.3 进行时态的使用语境
+进行时态因为往往强调在说话的时刻某活动正在发生，所以常用进行时态表达生动、具体的场景。而进行时态因为其表现生动，所以在口语中出现的频率远远高于书面语。我曾经看到过一个对口头和书面语篇的研究统计，结果表明进行时态在那些表明相互作用和联系的语篇中（即口语中）的出现频率要比那些没有相互作用和联系的语篇高得多。
+## 8.2 现在进行时——不一定正在进行
+### 8.2.1 用法一：说话时刻正在进行的动作
+现在进行时态是英文中使用较多的一个时态，尤其是在口语中频繁出现，所以下面我们通过口语对话的形式来展现现在进行时的丰富用法。
+
+现在进行时都是表示在他们打电话的时候，两人正在从事的活动。此外，上述对话当中其他的现在进行时（比如is booming）表示的是其他意义
+
+现在进行时are doing, am doing, are watching和be studying，都是表示在说话的时刻正在发生的动作。注意最后一个进行时be studying有些特殊，因为其前面有个情态动词would，所以用了动词原形be构成进行时。
+
+  A: What program are you watching?
+
+  B: I am watching Friends.
+
+  精品译文 A：你在看什么节目？
+
+  B：我在看《老友记》。
+
+  进行时态都是表示此时此刻所发生的活动（action happening exactly now）。
+
+  不过，我们可以把“现在”拉长为“现阶段”，此时依然用现在进行时
+### 8.2.2 用法二：在目前一段时间内持续的一种短暂的情况
+
+现在进行时还常常用来表示action happening around now，也就是说表示现阶段正在持续的活动。这时进行时态表示的是一个一般性的活动，在说话时刻这个动作并不一定正在发生（通常都不在发生），而是在目前一段时期内持续的一种暂时的情况
+
+  A: Have you found a position yet?
+
+  B: I'm still checking the papers.
+
+  妙语点睛 此时，B也不一定正在checking报纸。
+
+  精品译文 A：找到工作了吗？
+
+  B：我还在报纸上看招聘广告呢。
+
+这些句子中的进行时态都是表示现阶段在延续的一般活动，而不是正在发生的活动。但它们也并不是恒久的或是规律性的活动（not permanent or habitual），否则就要用一般现在时态了。
+### 8.2.3 用法三：用于表示“改变”的动词，强调“逐渐变化”的过程
+
+这种表示action happening around now的进行时态的用法，若是用于表示“改变”的动词，则强调“逐渐变化”的过程。常见的表示“改变”的动词有：change, come, get, become, grow和deteriorate（恶化）等
+
+  Frank: Well, this neighborhood is really booming. It's not really a suburb any more.
+
+  Jenny: Yeah, it is getting crowded.
+
+  妙语点睛 这里的booming和getting用于进行时态显然都是表示“逐渐改变”的意思，所以分别译成“越来越繁荣”和“越来越拥挤”。
+
+  精品译文 弗兰克：哦，这周边真的是越来越繁荣了，不能说是市郊了。
+
+  珍妮：是呀，变得越来越拥挤了。
+
+现在进行时态的意义总是与现在的时间相关，不是表示现在此刻（exactly now）在进行的动作就是表示现阶段（around now）持续的动作。
+### 8.2.4 用法四：用于强烈的感情色彩的表达
+我们现在看看现在进行时态的其他用法。在日常的口语交际中，我们要表达自己的各种强烈的感情，比如生气、激动和兴奋等等，我们往往会在说话的过程中频繁地使用现在进行时。这一用法其实与上一节讨论的表示“现在正在进行的动作”有关，因为我们一般都是在正在进行的交互对话的过程中，用现在进行时来表达我们的各种内心情感。不过，此时说话人用进行时态，并非是要强调某个正在进行的动作，而是要表达自己强烈的情感。
+
+下面两句话是用进行时态表示说话人的怀疑和惊讶：
+
+  You're not asking me to marry you, are you? 你该不是在向我求婚吧？
+
+  You're not backing out of our date, are you? 你该不是不想和我约会吧？
+
+下面这句话用进行时态表示说话人的愤怒：
+
+  The bank is only paying me 3 percent interest on my money.
+
+  妙语点睛 这里显然不是要强调说明银行“正在付给我利息”。
+
+  精品译文 这银行才付给我3％的利息！
+### 8.2.5 用法五：表示将来确定的安排
+现在进行时在口语中还经常用来表示将来的动作（action in the future），此时现在进行时是表示在说话之前就确定的、计划好的将来的安排（a firm plan or program before speaking. The decision and plan were made before speaking.）
+
+  be doing和be going to do都可以表示将来的计划，它们有何区别呢？
+
+  主要的区别是：现在进行时强调事先已经做好的安排，是比较确定要发生的；而be going to着重表现说话者的计划和意图，并不是确定的安排。
+
+再者，对于静态的动词和无生命的主语，不可能使用现在进行时来表示将来。但可以用于be going to，这时表示预测。但belong to可以用于be going to结构
+
+### 8.2.6 用法六：与always等连用，表示多次重复，且含有感情色彩
+现在进行时的感情色彩的表达，还有另外一种用法，就是常与always, forever, continually和constantly等连用，表示多次重复的行为。这种反复的行为可以是积极的、让人喜欢的事情。
+
+ Although Steve is a teacher, in a sense he is a student as well. He is always learning things from his students.
+
+  尽管史蒂夫是老师，但在某种意义上，他也可以说是个学生，因为他总是愿意向他的学生学习。
+
+但也往往表示让说话者厌烦、感觉不合情理或使人不愉快的事，即通常具有负面的、消极的含义。比如：
+
+  He's always pulling my leg. 他总是开我的玩笑。
+
+### 8.3 过去进行时——回顾过去讲故事
+### 8.3.1 常见用法：用来设置故事的背景
+讲故事时，我们往往会用到过去进行时态（the past continuous tense） was/were doing来设置故事发生的过去背景（We often use the past continuous tense to “set the scene” in stories.）这是因为进行时态往往表示一个持续的活动场景，所以用它来铺垫故事的背景，往往会给读者一种身临其境的感觉。
+
+在日常生活的叙事中，我们更多的是把“过去进行时”和“一般过去时”配合使用（past continuous tense+simple past tense）。此时，过去进行时通常表示一个历时较长的体现“背景”的动作或状态；而一般过去时则表示在此“背景”下发生的一个短暂的动作或状态。简言之，长动作用过去进行时，短动作用一般过去时，以此表示在过去进行时的动作的持续期间，发生了另一个短暂动作。这两个动作之间用when或while连接
+
+一、动作长短的相对性及其与时态的关系
+
+  值得注意的是，这里所说的动作的长与短是相对的（Notice that the long action and short action are relative.）。比如在下面这个句子里：
+
+  I was watching TV when the telephone rang. 我当时正在看电视，突然电话铃响了。
+
+  在这个句子里，“看电视（watching TV）”可能持续几个小时，而“电话铃响”可能就持续几秒钟（a few seconds）。但在下面这个句子里：
+
+  I was walking past the car when it exploded. 汽车爆炸时我正好刚走过。
+
+  在这里，walking past the car可能只持续了几秒钟（a few seconds），而exploded则更短，可能也就几毫秒（a few milliseconds）。
+
+  总之，动作的长短是指具体句子里的两个动作的相对长短。相对短的动作用一般过去时，相对长的动作用过去进行时。若时态用错，句意可能就要发生改变。
