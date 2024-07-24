@@ -398,4 +398,190 @@ go作系动词时，一般用于贬义，即表示主语是朝着坏的或消极
   It is a miracle that…（……真是奇迹）
 
   It is common knowledge that the whale is not a fish. 鲸鱼不是鱼类，这是一个常识。
-  
+
+### 2.2.2 一般疑问句作主语
+
+ 一般疑问句作主语时，要把一般疑问句变成陈述句，并且用whether来引导，然后充当句子的主语，即构成主语从句。请看例句：
+
+  Whether he comes or not makes no difference to me. 他来不来对我来说无所谓。
+
+### 2.2.3 特殊疑问句作主语
+  What we need is a wholly new kind of police force.
+
+  妙语点睛　这里的特殊疑问词what是作need的宾语，所以需将原来的倒装句what do we need调整为陈述句语序what we need，然后作主句的主语，即构成主语从句。
+
+  精品译文　我们需要的是一个全新的警察机构。
+
+## 2.3 简单句与宾语从句
+### 2.3.1 陈述句作宾语
+
+  把“that+陈述句”这一结构放在宾语的位置即构成宾语从句。请看例句：
+
+  We know (that) the world is round .我们知道，地球是圆的。
+
+  I think (that) a sound knowledge of grammar is indispensable to good writing .我认为扎实的语法功底对良好的写作极为重要 。
+
+  需要提醒读者注意的是，只有宾语从句中的that才可以省去（在不影响对句意的理解的情况下），而主语从句、表语从句和同位语从句中的that一般不能省去。
+
+### 2.3.2 一般疑问句作宾语
+
+  把“whether / if+陈述句”这一结构放在宾语的位置即构成宾语从句。请看例句：
+
+  I don’t know if / whether he needs my help .我不知道他是否需要我的帮助。
+
+  No one knew whether or not interest rates would rise .
+
+  妙语点睛　这里原来的一般疑问句是would interest rates rise，变成陈述句语序后成为interest rates would rise，然后为了保留疑问的意义又添加了whether or not，于是便有了whether or not interest rates would rise，在主句的谓语knew后面作宾语，即构成宾语从句。需要提醒读者注意的是，因为一般不说if or not，所以这里的连词不宜用if，而要用whether。
+
+  精品译文　没有人知道利率是否会提高。
+
+  注意：只有宾语从句才可以用if引导，主语从句、表语从句和同位语从句一般都要用whether引导。
+
+### 2.3.3 特殊疑问句作宾语
+  把特殊疑问句变成陈述句语序后放在宾语的位置即构成宾语从句。请看例句：
+
+  I have not decided whom I should vote for .
+
+  妙语点睛　这里的特殊疑问词whom是作vote for的宾语，所以需将原来的倒装句whom should I vote for调整为陈述句语序whom I should vote for，然后作主句谓语decided的宾语，即构成宾语从句。
+
+  精品译文　我还没有决定该投谁一票。
+
+  No one knows exactly how speech began .
+
+  妙语点睛　这里的特殊疑问词how是作began的方式状语，所以需将原来的倒装句how did speech begin调整为陈述句语序how speech began，然后作主句谓语knows的宾语，即构成宾语从句。
+
+  精品译文　没有人确切地知道语言是如何产生的。
+
+## 2.4 简单句与表语从句
+### 2.4.1  陈述句作表语
+ 把“that+陈述句”这一结构放在表语的位置即构成表语从句。请看例句：
+
+  My idea is that the child should be sent to school .我的看法是，应该把这个孩子送去上学。
+
+### 2.4.2 一般疑问句作表语
+ 把“whether+陈述句”这一结构放在表语的位置即构成表语从句。请看例句：
+
+  My concern is whether he comes or not .我关心的是他到底来不来。
+
+### 2.4.3 特殊疑问句作表语
+
+ 把特殊疑问句变成陈述句语序后放在表语的位置即构成表语从句。请看例句：
+
+  Change is what keeps us fresh and innovative. Change is what keeps us from getting stale . Change is what keeps us young .变革能使我们保持思维敏锐，富有创造性。变革能防止我们思想僵化。变革能使我们永葆青春。
+
+## 2.5 简单句与同位语从句
+### 2.5.1 陈述句作同位语
+  把“that陈述句”这一结构放在同位语的位置即构成同位语从句。请看例句：
+
+  He was prepared to prove his theory that two different weights would fall to the ground at the same time .
+
+  妙语点睛　这里的先行词是his theory，同位语从句是that two different weights would fall to the ground at the same time。
+
+  精品译文　他准备证明他的这一理论：两个重量不同的物体将同时落地。
+
+  Dreary months dragged by before the tragic news reached her that her beloved brother had been killed for anti-Nazi activities .
+
+  妙语点睛　这里的先行词the tragic news与同位语从句that her beloved brother had been killed for anti-Nazi activities被reached her隔开。
+
+  精品译文　在狱中度过数月梦魇般的日子后，突然有一天传来噩耗：她亲爱的哥哥在反法西斯活动中被杀害了。
+
+### 2.5.2 一般疑问句作同位语
+  把“whether+陈述句”这一结构放在同位语的位置即构成同位语从句。请看例句：
+
+  They are faced with the problem whether they should continue to work . 他们面临这样一个问题：他们是否应该继续工作。
+
+### 2.5.3 特殊疑问句作同位语
+把特殊疑问句变成陈述句语序后放在同位语的位置即构成同位语从句。请看例句：
+
+I have no idea when he will return .我不知道他什么时候回来。
+
+  最后需要说明的是，同位语从句主要是由that引导，而很少用whether以及连接代词或连接副词引导，这是因为我们多是用陈述句来补充说明名词的内容，而很少用一般疑问句或特殊疑问句来补充说明名词的内容。
+
+# 3 定语从句
+## 3.1 定语从句概述
+### 3.1.1 形容词作定语与从句作定语比较
+ 定语从句是英语里最为重要的语法项目之一，因为当要表达复杂的意思时，往往需要借助于定语从句来完成，即要用定语从句来修饰某个名词或名词短语。比如当我们说“我不喜欢懒人”，这时只需要用一个形容词lazy来作定语就可以。这句话可以这样说：
+
+  I don’t like lazy people.
+
+  但是，如果要表达稍微复杂一点的意思，比如说“我不喜欢不守信用的人”，这时，简单地用形容词作定语就无能为力了，就要借助于一个句子来修饰名词，用作名词的定语，对名词进行限制。这句话可以这样说：
+
+  I don’t like people who never keep their word .
+
+  lazy是作定语修饰people，而who never keep their word也是作定语修饰people，前者只是单个的形容词，而后者是一个有着完整主谓结构的句子，故称后者为定语从句，即用作定语功能的从句。说它是“从句”，因为I don’t like people是这句话的主句。
+
+ ### 3.1.2 定语从句的两个重要概念：先行词和关系词
+  一、 先行词
+
+  被定语从句所修饰的对象称为先行词。上一节例句中的people即为先行词。
+
+  二、关系词
+
+  重复指代先行词、起连接主句和从句的作用，并且在定语从句中充当一定成分的连接词称为关系词。上一节例句2中的who即为关系词。关系词有两个作用：
+
+  1. 代词的作用： 重复指代先行词并且在定语从句中充当一定成分，如上一节例句2中的who指代people并且作从句的主语；
+
+  2. 连接作用： 即连接主句和从句，如上一节例句2中的who起着连接主句I don’t like people和从句who never keep their word的作用。
+
+## 3.2 关系词在定语从句中充当的成分
+### 3.2.1 关系词用作从句的主语
+  The woman is a famous dancer and she lives next door.
+
+  妙语点睛　上述两个简单句中有一个“重复元素”，这里的she指代the woman，即两句之间有一个交叉点，而通过这个交叉点建立起两句之间的联系。现在要用she lives next door来作定语修饰the woman，以告诉对方哪位女士是舞蹈演员。而在定语从句中，指代“人”的关系词要用who。前面说过，关系词既具有代词的作用又起着连词的作用，因此，上句可改写成：
+
+  The woman is a famous dancer who (=and she) lives next door.
+
+  由此看到，这里的关系词who既取代了代词she也取代了连词and，即who既具有代词的作用也起着连接的作用。另外，定语从句一般要紧跟在它所修饰的名词后面。因此，上一句又可进一步改写成：
+
+  The woman who lives next door is a famous dancer.
+
+  到此，一个标准的定语从句“制造”完毕。
+
+  关系词who既指代the woman，同时又在从句中作成分——从句的主语，而且还替换了and，起着连词的作用。
+
+  精品译文　这位女士是一名著名的舞蹈演员，她就住在我家隔壁
+
+  过以上的变换操作过程，总结出以下三点，提醒读者注意：
+
+  一、用关系词who代替人称代词（如she或they）后，定语从句里就不能再保留这些代词了。比如不能说：
+
+  The woman who she lives next door is a famous dancer. *
+
+  I like guys who they have a good sense of humor. *
+
+  因为who在从句中作主语，所以不必重复代词（如she或they）了。
+
+  二、细心的读者也许已经注意到了，上述两个定语从句who lives next door和who have a good sense of humor分别修饰的名词woman和guys，它们在各自的主句中充当的成分不同：woman作主语（the woman is a famous dancer），而guys是作宾语（I like guys）。事实上，定语从句可以修饰一个主句当中的任何一个名词。但是，我们关注的往往是关系词在定语从句中所充当的成分，不关心定语从句是修饰主句的哪个名词。
+
+  三、关于定语从句的主谓一致的问题。我们看到，同样是who作主语，但是who lives next door的谓语动词lives是第三人称单数形式，即词尾加了-s；而who have a good sense of humor的谓语动词have却不是第三人称单数形式。读者或许就有一个疑问：为什么同样的主语who竟然会接两种不同形式的谓语呢？这里其实涉及关系词who的指代问题，也就是说，定语从句的谓语动词形式是由关系词所指代的先行词来决定的，而不是取决于关系词本身。定语从句who lives next door中的who指代的woman是单数名词，故谓语用单数的lives；而定语从句who have a good sense of humor中的who指代的guys是复数名词，故谓语用复数的have。这也进一步验证了，关系词是有指代作用的（同时具有连词作用）。
+
+### 3.2.2 关系词用作从句中的动词的宾语
+关系词除了像上面讨论的在定语从句中作主语外，还可以在从句中作宾语。而且，还可以进一步区分为从句动词的宾语和从句介词的宾语。
+
+I’d really like to find a friend who I can trust…completely.
+
+这里的who虽然发生了移位，但依然充当从句动词trust的宾语。用“…”表示trust的宾语是存在的，只不过发生了移位，移到了从句的开头，由who来充当。因此，这里的关系词who是充当从句的宾语。既然从句的谓语trust有宾语了，原来的him就要去掉，所以不能这样说：
+
+I’d really like to find a friend who I can trust him completely. *
+
+综上所述，最后带有定语从句的完整句子就是：
+
+I’d really like to find a friend who I can trust completely . 我想找一个我完全能够信任的人做朋友。
+
+### 3.2.3 关系词用作从句中节词的宾语
+ I hope I never have a boss who I can’t talk to about my problems.
+
+  妙语点睛　这里的who充当介词to的宾语。
+
+  精品译文　我不希望有一个无法与其谈论我的问题的老板。
+
+### 3.2.4 作宾语的关系词可以省去
+我们看到，关系词在定语从句中主要可以充当两种成分：主语或宾语（动词的宾语或介词的宾语）。至此，我们将讨论关系词的省略问题。英语里有这样的习惯：作宾语的关系词可以省去，不论关系词是作动词的宾语还是作介词的宾语都可以省去。比如以上各节中讨论过的相关例句，可以分别改写成：
+
+  I’d really like to find a friend ( ) I can trust completely.
+
+  顺便提一句，在从句中作主语的关系词无法省去。比如不能说：
+
+  I like guys ( ) have a good sense of humor. *
+
+## 3.3 关系代词与先行词的搭配关系
