@@ -585,3 +585,251 @@ I’d really like to find a friend who I can trust completely . 我想找一个�
   I like guys ( ) have a good sense of humor. *
 
 ## 3.3 关系代词与先行词的搭配关系
+### 3.3.1 先行词指“人”，用关系代词who或whom
+一、先行词指“人”才能用who或whom
+
+二、who和whom的区别
+
+ 1. who的前面不能与介词搭配使用
+
+  因为who是主格形式，所以在介词的后面不能用who，比如不说with who*，而说with whom。请看例句：
+
+  I’m talking about friends who you can share almost everything with.
+
+  不能说“I’m talking about friends with who you can share almost everything. *”。
+
+  而应该说“I’m talking about friends with whom you can share almost everything.”。
+
+  主格形式的who除了作定语从句的主语外，还可以充当定语从句的宾语或表语。
+
+ 2. whom在定语从句中不能作主语，但可作宾语或表语
+
+  A rich person is not one who has the most, but is one who needs the least.
+
+  妙语点睛　这里的who作从句的主语，所以不能用whom，不说whom has…*。
+
+  精品译文　一个富有的人，不是因为他拥有的最多，而是因为他需要的最少。
+
+  Only the people who have the patience to do simple things
+
+  妙语点睛　这里的who作从句的主语，所以不能用whom，不说whom have…*。
+
+  精品译文　只有有耐心圆满完成简单工作的人，才能够轻而易举地完成困难的事。
+
+  总之，who可以作主语，也可以代替whom作宾语或表语，但不能用在介词后面。而因为whom是宾格形式，所以不能作主语。
+
+### 3.3.2 表示人或物的所有关系，用whose
+ whose表示所有关系，其作用就如同物主代词my，your，her，his，their和our，whose的后面要接名词。whose可指人也可指物。“whose+名词”在从句中可作主语、动词的宾语或介词的宾语。
+
+  Atlas (in Greek mythology) was a kneeling man on whose shoulder the world rested.
+
+  妙语点睛　这里的whose shoulder作从句中的动词短语rested on的宾语，这里on被提前了。whose指人即man。
+
+  精品译文　阿特拉斯是（希腊神话中的）一个大力神，他跪在地上，肩上背负着地球。
+
+### 3.3.3 先行词指“物”，用关系代词which
+关系词which的造句结构完全类似于前面讨论过的who，比如which可以作从句的主语或宾语，只不过which的先行词是“物”。
+
+一、先行词是单个的名词
+
+ Perhaps it is human to appreciate little that which we have and to long for that which we have not.
+
+  妙语点睛　先行词是that，即which指单个的名词。
+
+  精品译文　或许，“不惜已获，贪求不得”是人类共同的弱点吧。
+
+二、先行词是一个短语
+
+  which可以指代一个短语。请看例句：
+
+  He likes climbing mountains, which is a good exercise.
+
+  妙语点睛　先行词是主句中的一个动名词短语climbing mountains。
+
+  精品译文　他喜欢爬山，这是一项很好的运动。
+
+三、先行词是一个句子
+
+  which可以指代前面的整个句子。请看例句：
+
+  I became a single mother overnight, which is nothing like becoming famous overnight.
+
+  妙语点睛　全句“I became a single mother overnight”作which的先行词。
+
+  精品译文　我在一夜之间成了单亲妈妈，这跟一夜成名可完全不同。
+
+### 3.3.4 that可以指代“人”，也可以指代“物”
+关系代词that的意义和用法主要有以下三点：一是 that既可指“人”也可指“物”，指“物”时可以替换which，指“人”时可以替换who；二是that不用在非限制性定语从句中（关于限制性和非限制性定语从句，详见3.5节）；三是that不能用于介词的后面（同who一样）。
+
+因为that的先行词既可以指“人”也可以指“物”，所以that可以用来替换who或which.
+
+既然that可以指“物”也可以指“人”，那么就会涉及与which和who在用法上的区别的问题。为了便于记忆和使用，现列举出下面这些最好用that的情况：
+
+  1. 先行词中同时出现“人”和“物”时，用that
+
+  The writer and his novels that the article deals with are quite familiar to us.
+
+  妙语点睛　这里的先行词是the writer and his novels，即同时有“人（writer）”和“物（his novels）”，所以要选用that引导定语从句。
+
+  精品译文　这篇文章里所说的这个作家以及他的小说，我们都比较熟悉。
+
+  2. 先行词为指“物”的all，little，few，much，none和the first时, 用that
+
+  All that glitters is not gold.
+
+  妙语点睛　这里的先行词是all，所以用that来引导定语从句。另外要注意的是，这里有一个半否定的问题：all…not要译成“并非都是”，不能译成全否定的“所有都不”。
+
+  精品译文　闪光的并非都是金子.
+
+  3. 先行词是不定代词something，anything，nothing和everything时，一般用that
+
+  4. 先行词被any，only，all，every，no，some，much，few，little，序数词，形容词的最高级，the only，the one，the very，the right和the last 等成分修饰时，用that
+
+  Tell us all things that you know. 把你知道的都告诉我们。
+
+  5. that不用在非限制性定语从句中
+
+  不用that引导非限制性定语从句。比如要说：
+
+  I became a single mother overnight, which is nothing like becoming famous overnight.
+
+  我在一夜之间成了单亲妈妈，这跟一夜成名可完全不同。
+
+  不能说“I became a single mother overnight, that is nothing like becoming famous overnight. *”。
+
+  6. that不能用于介词后面
+
+  不能在that前面使用介词。比如要说：
+
+  The world in which we live is made up of matter. 我们所生活的世界是由物质组成的。
+
+  或：The world which we live in is made up of matter.
+
+  或：The world that we live in is made up of matter.
+
+  但不能说“The world in that we live is made up of matter. *”。
+
+## 3.4 关系副词的用法
+### 3.4.1 when的用法
+一、先行词指时间
+
+  when可以引导限制性和非限制性定语从句（关于这两类定语从句的区分，详见3.5节），其先行词必须是表示时间的名词，如day，year或time等。
+
+  I’ll never forget the day when I met you .
+
+  妙语点睛　这里的先行词是表示时间的名词day，所以用when引导定语从句。when作从句的时间状语，修饰谓语动词met。
+
+  精品译文　我永远不会忘记我们见面的那一天。
+
+二、关系副词when在从句中作时间状语
+
+  在上面的例句中，我们反复强调when是在定语从句中作时间状语。换句话说，若定语从句不是缺少状语，而是缺少主语或宾语，那么即使先行词是表示时间的名词，也不能用when而要用which或that来引导定语从句。因为用when来引导定语从句的前提条件是：when 必须在其引导的定语从句中作时间状语。
+
+  1） I’ll never forget the time which I spent on campus.
+
+  2） I’ll never forget the day when we first met in the park.
+
+  妙语点睛　在这两句话里，尽管先行词分别是表示时间的名词time和day，但用的关系词不同。在例句1）中，由于定语从句中的谓语spent缺宾语，因此关系词要充当这一宾语，故要用which。在例句2）中，定语从句不缺主语或宾语，而是缺少时间状语，故关系词用when，这里when作时间状语，修饰met。
+
+  精品译文　1） 我永远不会忘记在大学
+
+  2） 我永远不会忘记我们第一次在公园里相遇的那一天。
+
+  The day, which began brightly, ended with a violent storm.
+
+  妙语点睛　这里的先行词是day，表示时间。由于定语从句缺少主语，所以用关系代词which引导定语从句，which作从句的主语，而不用关系副词when，因为关系副词无法作主语，只能作状语。
+
+  精品译文　那天，开始的时候还是阳光明媚，后来就下起了暴风雨。
+
+### 3.4.2 where的用法
+一、where的先行词指地点
+
+ where引导定语从句，其先行词一般是表示地点的名词，如place和house等。请看例句：
+
+  A: Since you work in the theater, can’t you get me a free ticket now and then?
+
+  B: Certainly if you bring me a few notes now and then from the bank where you work!
+
+  妙语点睛　这里的先行词bank表示地点，where在从句中充当地点状语（定语从句中不缺主语或宾语），修饰work。
+
+  精品译文　A：既然你在剧院工作，那你就不能时常给我弄些免费的票吗？
+
+  B：当然可以，只要你能够从你工作的那家银行里时常给我弄些票子出来。
+
+二、关系副词where在从句中作地点状语
+
+  与when类似，并不是先行词是表示地点的名词时，都得由where来引导定语从句，这得看关系词在从句中充当的成分。若定语从句缺主语或宾语，则要用which或that引导定语从句。请比较：
+
+  1） This is the town where I spent my childhood.
+
+  2） This is the town which I told you about before.
+
+  妙语点睛　在这两句话里，尽管先行词都是表示地点的名词town，但用的关系词不同。在例句1）中，定语从句不缺少主语或宾语，而是缺少地点状语，故关系词用where。where作地点状语，修饰spent。在例句2）里，由于定语从句中的谓语部分told you about缺少宾语，因此关系词要充当这一宾语，故要用which。
+
+  精品译文　1）这就是我度过童年的小城。
+
+  2）这就是我以前告诉过你的小城。
+
+### 3.4.3 why的用法
+
+  why用来表示原因，只引导限制性定语从句，先行词是reason等表示原因的名词。
+
+  This is the reason why I didn’t come here.
+
+  妙语点睛　此处的why相当于for which。
+
+  精品译文　这就是我没来的原因。
+
+## 3.5 限制性与非限制性定语从句
+### 3.5.1 限制性定语从句——不用逗号隔开
+
+ 限制性定语从句是用来对一个名词提供必要的信息（a defining relative clause defines or gives essential information about a noun），以说明定语从句所修饰的先行词的身份或性质，或用来限制先行词所指的范围。若去掉限制性定语从句，则主句部分的含义不明确，或意义不完整，所以不能用逗号来分隔先行词和定语从句。
+
+  比如“I don’t like people.”，这句话的意思不明确，句意不完整，因此其后面必须加一个限制性定语从句，才能使句意完整。比如加上限制性定语从句后这么说：
+
+  I don’t like people who are never on time . 我不喜欢不守时的人。
+
+### 3.5.2 非限制性定语从句——用逗号隔开
+
+  非限制性定语从句用来提供附加的而非必要的信息，只是对先行词做进一步的解释、补充或说明（a non-defining relative clause gives optional information about a noun）。若去掉此定语从句，整个主句的意义一样很明确，不会引起误解和歧义。一般来讲，下面这两种先行词，其后都宜用非限制性定语从句。
+
+  一、专有名词
+
+  如果定语从句修饰一个专有名词，一般要用逗号分隔先行词与定语从句，也就是说要使用非限制性定语从句。这是因为专有名词本身的意思已经很完整，不需要限制，用定语从句只是对它进行补充说明。请看例句：
+
+  My mother, who is 50 this year , lives with me now.
+
+  妙语点睛　这里的先行词my mother就是一个专有名词，其后的定语从句who is 50 this year只能是作为非限制性的定语从句来提供附加信息，不能使用限制性定语从句。若说“My mother who is 50 this year lives with me now.”，则言外之意为“我有好几个母亲，目前和我住在一起的是今年50岁的那位母亲”。然而实际上，我们只可能有一位母亲。
+
+  精品译文　我母亲今年50岁了，现在和我生活在一起。
+
+  二、类指名词
+
+  上面谈到，专有名词作为先行词，其后接的定语从句一般都是非限制性的。现在来讨论普通名词作为先行词的情况。普通名词若是用来表示类指，即表示的是一类事物，而非具体的某一个事物，此时，其后也宜用非限制性定语从句。请比较下列例句：
+
+  1） An elephant, which is the earth’s largest land mammal , has few natural enemies other than human beings.
+
+  2） One of the elephants which we saw at the zoo had only one tusk.
+
+  妙语点睛　这两句的先行词都是普通名词elephant，但例句1）用了非限制性定语从句which is the earth’s largest land mammal，而例句2）却用了限制性定语从句which we saw at the zoo，原因就是两句中的elephant的意义是不一样的。例句1）中的an elephant是类指或泛指，即表示“大象”这类动物，而不是指称具体的某一头大象。例句2）中的one of the elephants则不是类指概念，而是具体指代某一头大象，即“我们在动物园看到的那头大象”。
+
+  精品译文　1）大象作为陆地上体形最大的哺乳类动物，很少有天敌，除了人类之外。
+
+  2）我们在动物园看到有一头大象只有一颗象牙。
+
+### 3.5.3 用或不用逗号，句意有差别
+在英文中，还有一类句子，用限制性或非限制性定语从句都可以，但强调的意义不一样，即句意不同。请比较：
+
+  1） He has a daughter who works in a hospital .
+
+  2） He has a daughter, who works in a hospital .
+
+  妙语点睛　例句1）表示他有多个女儿，其中有一个在医院工作。例句2）强调他有一个女儿，不是儿子，“在医院工作”纯粹是补充信息。
+
+  精品译文　1）他有一个在医院工作的女儿。
+
+  2）他有个女儿，是在医院工作的。
+
+从以上非限制性定语从句的译文看出，非限制性定语从句的翻译非常灵活，不一定都译成定语“……的”结构。
+
+### 3.4.5 非限制性定语从句的翻译
