@@ -833,3 +833,230 @@ I’d really like to find a friend who I can trust completely . 我想找一个�
 从以上非限制性定语从句的译文看出，非限制性定语从句的翻译非常灵活，不一定都译成定语“……的”结构。
 
 ### 3.4.5 非限制性定语从句的翻译
+
+  最后，我们讨论一下上述两种定语从句在翻译上的差别。限制性定语从句一般翻译成定语的形式“……的”，而非限制性定语从句往往会译成各种状语形式。例如：
+
+  The food, which wasn’t in the fridge , all went off.
+
+  食物都坏了，因为没有放在冰箱里。（译成原因状语从句）
+
+  The Ambassador gave a dinner to the scientists, with whom he especially wished to talk .
+
+  大使宴请了那些科学家，因为他特别想与他们交谈一下。（译成原因状语从句）
+
+  The people were desperate for work, any work, which could support their family .
+
+  人们急于找到工作，什么工作都行，只要能养家糊口。（译成条件状语从句）
+
+  The millionaire had another house built, which he didn’t need at all .
+
+  那位百万富翁又建了一幢房子，尽管他并不需要。（译成让步状语从句）
+
+## 3.6 定语从句与同位语从句的区分
+### 3.6.1 从结构上区分：that是否作成分
+that在定语从句中要充当成分，比如作从句的主语或宾语；而that在同位语从句中不充当任何成分，仅起连词的作用。换句话说，定语从句的结构是“名词+that+不完整的句子”，而同位语从句的结构是“名词that+完整的陈述句”。
+
+  1） The rumor that he spread everywhere turned out to be untrue.
+
+  2） The rumor that Tom was a thief turned out to be untrue.
+
+  妙语点睛　以上两句的先行词都是the rumor，连词都是that。例句1）中的that在从句中充当spread的宾语，故此处为定语从句。例句2）中的that在从句中不充当任何成分，因为从句“Tom was a thief”是一个完整的句子，不缺少任何成分。故其为同位语从句，作the rumor的同位语，补充说明the rumor的具体内容。
+
+  精品译文　1）他到处散布的那个谣言，结果证明是假的。
+
+  2）有谣传说汤姆是小偷，结果证明是假的。
+### 3.6.2 从意义上区分：that引导的从句的意义不同
+两类从句在意义上也不同：定语从句相当于形容词, 对先行词起修饰、描述和限制的作用；同位语从句相当于一个名词，是对其前面名词内容的具体表述，二者是同位关系。
+
+  1） The news that you heard is not true.
+
+  2） The news that Lincoln was murdered at a theater is true.
+
+  妙语点睛　例句1）中的定语从句that you heard并不是表示news的内容，只是在限制news所指的范围，即“你听到的那个消息”。例句2）中的同位语从句that Lincoln was murdered at a theater是表示news的具体内容，在意义上与news构成同位关系。
+
+  精品译文　1）你听到的那个消息并不是真实的。
+
+  2）有消息说林肯是在一个剧院被刺杀的，这是真的。
+# 4 状语从句
+## 4.1 时间状语从句
+### 4.1.1 时间连词when的用法特点
+一般来讲，when的意思相当于at that time（在……时刻），因此从句的谓语动词通常是短暂动词，表示某一时刻的动作。不过，when引导的从句也可接延续动词（continuous verb），这时从句往往用过去进行时态，表示某一时间段内发生的动作。有关连词when常见的主从句时态搭配举例说明如下：
+
+时间状语从句所表达的时间通常是过去和将来。首先，请看when引导从句表示过去动作的四组时态搭配。
+
+一、主句一般过去时+从句一般过去时
+
+ I started my dinner when he left. 他走了之后，我才开始吃晚饭。
+
+ He left when I got there. 我到了以后，他才离开。
+
+  从以上例句可以看出，若主从句都用一般过去时，则表示从句动作先发生。要强调从句动作先发生，从句还可以用过去完成时。于是，就有了下面的第二种时态搭配关系。
+
+二、主句一般过去时+从句过去完成时
+
+ I started my dinner when he had left.
+
+ He left when I had got there.
+
+  这两句的从句用了过去完成时，更强调了从句动作先发生，意思与上面两句区别不大。
+
+  在表示过去的动作中，when引导的从句还有一个重要的时态搭配，即一般过去时（simple past）与过去进行时（past continuous）搭配。关于这一点，在《英语语法新思维初级教程——走近语法》中已详细讨论过。注意，此时的时态搭配与主句、从句没有关系，只与动作的长短有关系。短暂动作用一般过去时，延续动作用过去进行时。这一时态配套使用所表示的意义是：在一个延续背景动作的过程中突然发生了一个短暂动作。既然此时的时态搭配与主从句没有关系，因此可以组合成下面两种时态搭配，即“主句一般过去时+从句过去进行时”或“主句过去进行时+从句一般过去时”，即：
+
+  1. 主句一般过去时+从句过去进行时
+
+  The doorbell rang when I was telephoning.
+
+  妙语点睛　这里的短暂动作rang用一般过去时，延续动作telephone用过去进行时。
+
+  精品译文　门铃响的时候，我正在打电话。
+
+  如上所述，这个句子也可以换成“主句过去进行时+从句一般过去时”这样的时态搭配，即：
+
+  2. 主句过去进行时+从句一般过去时
+
+  I was telephoning when the doorbell rang. 我当时正在打电话，突然门铃响了。
+
+  注意：由“主句一般过去时+when+从句过去进行时”变成“主句过去进行时+when+从句一般过去时”，此时when的意思发生了改变，即由during the time（当……时候）变成了at the time（正在那时）。这时when强调某个短暂动作突然发生，所以可以在when引导的从句中添加suddenly一词。
+
+  3. 主句一般将来时+从句一般现在时
+
+  在表示将来的动作时，主句显然要用一般将来时（simple future），而时间状语从句要用一般现在时（simple present）表示将来，不能使用将来时态。请看例句：
+
+  I’ll speak to him when he arrives. 等他到了我要和他说话。
+
+  I’ll tell him about it when he comes back. 等他回来我要告诉他这件事。
+
+### 4.1.2 时间连词while的用法特点
+ 当while用作时间连词时，意思相当于during that time（在……期间），表示某一时间段内发生的动作。因此，从句的谓语动词通常是延续动词。请看例句：
+
+  The phone rang while I was taking my bath.
+
+  妙语点睛　此句中while后面的谓语部分taking my bath是一个持续的动作。
+
+  精品译文　电话铃响的时候，我正在洗澡。
+
+  The doorbell rang while we were watching TV.
+
+  妙语点睛　此句中while后面的谓语部分watching TV是一个持续的动作。
+
+  精品译文　当时我正在看电视，突然门铃响了。
+
+  时间连词while和when的含义有差别：while的意思相当于during that time（在……期间），表示某一时间段内发生的动作，因此，从句的谓语动词通常是延续动词。when的意思相当于at that time（在……时刻），从句的谓语动词通常是短暂动词，表示某一时刻的动作（从句也可接延续动词，这时从句往往用过去进行时态）。
+
+### 4.1.3 时间连词until的用法特点
+在英语中，until的用法有以下三个要点：
+
+  第一，until既可以用作介词也可以作为连词，所以until的后面可以接名词短语也可以接时间状语从句。
+
+  第二，until的本质思维是表示“一个（主句）动作一直持续到某一个时间点”。具体来说就是：until前面的主句的谓语必须是延续性的，而until后面接的从句的谓语须是短暂性动词或接时间点。
+
+  第三，由上面第二点，可以推导出until的句型结构有：
+
+  1. 作为连词引导从句时的句型：主句的延续动词+until+从句的短暂动词；
+
+  2. 作为介词接名词短语的句型：延续动词+until+时间点（不是时间段）。
+
+  下面将从三个方面来详细讨论until的上述用法特点。
+
+一、延续动词+until+短暂动词或时间点
+
+  当主句或句子的谓语动词是延续动词时，通常用肯定形式。until的后面若接从句，则从句的谓语必定是短暂动词，或者接表示时间点（point of time）的名词短语。请看例句：
+
+  Wait until he comes back.
+
+  妙语点睛　这里主句的谓语wait是延续动词，从句的谓语comes是短暂动词。表示wait的动作一直持续到“他来了”这个时间点为止。
+
+  精品译文　等他回来吧。
+
+二、短暂动词+until+短暂动词或时间点
+
+  值得注意的是，若主句的谓语动词是短暂动词，则要用否定形式。因为否定之后表示的是一个状态，而状态则是延续的，这就是我们常说的not…until（直到……才）结构。请看例句：
+
+  He didn’t leave the office until his boss came back.
+
+  妙语点睛　这里主句的谓语leave是短暂动词，不能与表示持续时间的until连用，所以必须否定成didn’t leave表示一个持续的状态，才能与until连用。这里表示“没有离开”这个状态一直持续到“老板回来”这个时间点为止。从句的谓语came是短暂动词。
+
+  精品译文　直到老板回来后，他才离开办公室。
+### 4.1.4 表示“一····就”的结构
+英文中，还有一些时间连词用来表达主句的动作和从句的动作相继发生，两者之间的时间间隔不长，相当于汉语里“一……就”的意思。此时，主句和从句的谓语都是短暂动词。
+
+  一、从句动作先于主句动作
+
+  确切地说，就是在从句动作发生之后，紧接着主句动作就发生了。表示这一时间关系的连词有：as soon as，once，the minute，the moment，the instant，immediately，directly和instantly等等。这些连词的用法和句式结构是一样的，主从句时态一般一致。比如若表示将来的动作，则主句用一般将来时（simple future），从句用一般现在时（simple present）表示将来。请看例句：
+
+  We will leave as soon as it stops raining.
+
+  妙语点睛　首先，这里主句的谓语动词leave和从句的谓语动词stops都是短暂动词。其次，这里主句谓语的时态是一般将来时will leave，从句谓语的时态是一般现在时stops，但表示将来的动作。最后，这里从句的动作stops先发生，紧接着主句动作leave发生，即“雨先停，再离开”。
+
+  精品译文　雨一停，我们就动身。
+
+  若表示过去的动作，则主句和从句都用一般过去时。请看例句：
+
+  It began to rain as soon as I arrived home.
+
+  妙语点睛　首先，这里主句的谓语动词began和从句的谓语动词arrived都是短暂动词。其次，这里主句谓语的时态是一般过去时began，从句谓语的时态也是一般过去时arrived。最后，这里从句的动作arrived先发生，紧接着主句的动作began发生，即“先到家，再开始下雨”。
+
+  精品译文　我刚到家，天就开始下起雨来。
+
+  二、主句动作先于从句动作
+
+  确切地说，就是在主句动作发生之后，紧接着从句动作就发生了。表示这一时间关系的连词有：hardly…when，scarcely…when和no sooner…than。需要提醒读者注意的是，这些连词的用法和句式结构是不一样的，主从句时态一般也不一致。他们一般多用来表示过去的动作，此时，主句多用过去完成时，且常倒装，从句用一般过去时。可与as soon as等从句、主句互换。请比较：
+
+  1） No sooner had I arrived home than it began to rain.
+
+  2） It began to rain as soon as I arrived home.
+
+  妙语点睛　首先，在例句1）中，连词than后面的it began to rain是从句，但在例句2）中，it began to rain是主句；在例句1）中，had I arrived home是主句，但在例句2）中，I arrived home是从句。其次，在例句1）中，主句had I arrived home用了过去完成时且是倒装结构，从句it began to rain用一般过去时；在例句2）中，主句it began to rain和从句I arrived home都用一般过去时。
+
+## 4.2 地点状语从句
+地点状语从句通常由where引导，用来表达主句的动作发生的场所。其结构通常就是“where+陈述句”，从句可以放在句首或句末。请看例句：
+
+  Stay where you are. 呆在原处别动。
+
+  Generally, air will be heavily polluted where there are factories. 一般在有工厂的地方，空气污染都会很严重。
+
+  A driver should slow down where there are schools. 在有学校的地方，司机应慢行。
+
+地点状语从句若放在句首，在翻译时往往失去地点的含义，要灵活处理。请看例句：
+
+  Where there is a will, there is a way. 有志者，事竟成。
+
+  Where there is Love, there is also Wealth and Success! 只要有爱，就会有成功和财富！
+
+## 4.3 原因状语从句
+### 4.3.1 常见连词的用法
+我们常用because，for，as和since这四个连词来引导原因状语从句。他们的意义和用法不完全相同。
+
+在这四个连词中，because的语气最强，只有它才能用来回答why的问句，所引出的原因往往是听话人所不知道的或最感兴趣的；也只有because才能被强调词如only，just和perhaps等来修饰。请看例句：
+
+  My friends dislike me because I’m handsome and successful.
+
+  妙语点睛　一般来说，“我”不被朋友喜欢的原因是听者感兴趣的，所以用because引出这个原因。
+
+  精品译文　我的朋友都不喜欢我，是因为我长相英俊又事业有成。
+
+连词since表示人们已知的事实，是不需强调的原因，所以常译成“既然”，通常放在句首。请看例句：
+
+  Since we don’t have class tomorrow, why not go out for a picnic?
+
+  既然我们明天没有课，那么为什么不出去野餐呢？
+
+连词as与since的用法差不多，所引出的理由在说话人看来已经很明显，或已为听话人所熟悉而不需用because加以强调。请看例句：
+
+  As Monday is a national holiday, all government offices will be closed.
+
+  由于周一是法定假日，所有的政府机关都将休息。
+
+连词for表示推断的理由，是对前面分句的内容加以解释或说明。请看例句：
+
+  It rained last night, for the ground is wet this morning. 昨晚下雨了，因为今天早上地是湿的。
+
+试比较：Because it rained last night, the ground is wet this morning.
+
+相比较而言：
+
+as和for引导的主、从句，二者处于平等位置；
+
+because引导的从句显得比主句重要，强调原因；
+
+since引导的从句显得次要，而主句重要，以说明将要做什么事。

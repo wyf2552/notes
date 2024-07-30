@@ -367,3 +367,206 @@ class类名 {
     强制对成员变量的访问一定要通过成员函数进行
 
 设置私有成员的机制——隐藏
+
+# 内联成员函数和重载成员函数
+
+1. 内联成员函数
+    1. inline + 成员函数
+    2. 整个函数体出现在类定义内部
+    ```c
+    class b{
+        inline void func();
+        void func2()
+        {
+        };
+    };
+    void b::func1() {}
+    ```
+2. 使用缺省参数要避免有函数重载时的二义性
+    ```c
+    class Location {
+        private:
+            int x, y;
+        public:
+            void init(int x = 0,int y = 0);
+            void valueX(int val = 0) {x = val;}
+            int valueX() {return x;}
+    };
+
+    Location A;
+    A.valueX(); //错误，编译器无法判断调用哪个value
+    ```
+# 构造函数
+基本概念
+  1. 成员函数的一种
+    1. 名字与类名相同，可以有参数，不能有返回值（void也不行）
+    2. 作用是对对象进行初始化，如给成员变量赋初值
+    3. 如果定义类时没写构造函数，则编译器生成一个默认的无参数的构造函数
+        1. 默认构造函数无参数，不做任何操作
+  2. 如果定义了构造函数，则编译器不生成默认的无参数的构造函数
+  3. 对象生产时构造函数自动被调用。对象一旦生成，就再也不能在其上执行构造函数
+  4. 一个类可以有多个构造函数
+  5. 为什么需要构造函数：
+    1. 构造函数执行必须要的初始化工作，有了构造函数，就不必专门再写初始化函数，也不用担心忘记调用初始化函数
+    2. 有时对象没被初始化就使用，会导致程序出错
+# 复制构造函数
+基本概念
+1. 只有一个参数，即对同类对象的引用
+2. 形如 X::X(X&)或X::X(const X &),二者选一后者能以常量对象作为参数
+3. 如果没有定义复制构造函数，那么编译器生成默认复制构造函数。默认的复制构造函数完成复制功能。
+```c
+class Complex {
+    private:
+        double real,image;
+};
+Complex c1; //调用缺省无参构造函数
+Complex c2(c1); //调用缺省的复制构造函数，将c2初始化成和c1一样
+```
+4. 如果定义的自己的复制构造函数，则默认的复制构造函数不存在。
+5. 不允许有形如X::X(X)的构造函数
+```c
+class CSample {
+    CSample(CSample c) {} //错误，不允许这样的构造函数
+};
+```
+
+复制构造函数起作用的三种情况
+1. 当用一个对象去初始化同类的另一个对象时。
+    ```c
+    complex c2(c1);
+    Complex c2 = c1; //初始化语句，非赋值语句
+    ```
+2. 如果某函数有一个参数是类A的对象，那么该函数被调用时，类A的复制构造函数将被调用。
+    ```c
+    class A {
+        public:
+        A() {};
+        A(A & a){
+            cout << "Coupy constructor called " << endl;
+        }
+    };
+
+    void Func(A a1) {}
+    int main() {
+        A a2;
+        Func(a2);
+        return 0;
+    }
+    ```
+3. 如果函数的返回值是类A的对象时，则函数返回时，A的复制构造函数被调用：
+    ```c
+    calss A {
+      public:
+        int v;
+        A(int n) {v = n;};
+        A(const A & a) {
+            v = a.v;
+            cout <<"Copy constructor called" << endl;
+        }
+    };
+
+    A Func() {
+        A b(4);
+        return b;
+    }
+
+    int main() {
+        cout << Func().v << endl;
+        return 0;
+    }
+    ```
+
+# 类型转换构造函数
+目的
+
+    实现类型的自动转换
+
+特点
+
+    只有一个参数
+
+    不是复制构造函数
+
+编译系统会自动调用-转换构造函数
+
+    建立一个临时对象/临时变量
+
+```c
+class Complex {
+    public:
+        double real, imag;
+        Complex(int i) {
+            cout << "IntCinstructor called" << endl;
+            real = i; imag = 0;
+        }
+
+        Complex(double r, double i) {
+            real = r; imag = i;
+        }
+};
+
+int main() {
+    Complex c1(7, 8);
+    Complex c2 = 12;
+    c1 = 9;
+    cout << c1.real << "," << c1.imag << endl;
+    return 0;
+}
+```
+
+# 析构函数
+1. 成员函数的一种
+    1. 名字与类相同
+    2. 在前面加‘～’
+    3. 没有参数和返回值
+    4. 一个类最多只有一个析构函数
+2. 对象消亡时-自动被调用
+    1. 在对象消亡前做善后工作
+        1. 释放分配的空间等
+3. 定义类时没写析构函数，则编译器生成缺省析构函数
+    1. 不涉及释放用户申请的内存释放等清理工作
+4. 定义了析构函数，则编译器不生成缺省析构函数
+
+```c
+class String {
+    private:
+        char * p;
+    public:
+        String () {
+            p = new char[10];
+        }
+        ~String();
+};
+
+String::~ String() {
+    delete[] p;
+}
+```
+
+析构函数和数组
+ 1. 对象数组生命期结束时-对象数组的每个元素的析构函数都会被调用
+    ```c
+    class Ctest {
+        public:
+            ~Ctest() {cout << "destructor called" << endl;}
+    };
+
+    int main() {
+        Ctest array[2];
+        cout << "End Main" << endl;
+        return 0;
+    }
+    ```
+ 2. delete运算导致析构函数调用
+    ```c
+    Ctest * p Test;
+    p Test = new Ctest;
+    delete p Test;
+    p Test = new Ctest[3];
+    delete [] p Test;
+
+构造函数和析构函数在不同编译器中的表现
+1. 个别调用情况不一致
+    1. 编译器有bug
+    2. 代码优化措施
+2. 前面讨论的是C++标准
