@@ -1060,3 +1060,212 @@ as和for引导的主、从句，二者处于平等位置；
 because引导的从句显得比主句重要，强调原因；
 
 since引导的从句显得次要，而主句重要，以说明将要做什么事。
+
+### 4.3.2 用介词表示因果关系
+常用的介词有：because of，due to和owing to。因为是介词，所以其后面不能接从句。请比较：
+
+  We had an accident because he was careless.
+
+  We had an accident due to his carelessness.
+
+  Owing to his carelessness we had an accident.
+
+  妙语点睛　在例句1中，因为是从句，所以用连词because引导。在例句2中，因为是名词短语his carelessness，所以用介词连接。此处不能说due to he was careless*。在例句3中，同样是名词短语his carelessness，所以要用介词。一般来说，owing to常置于句首，而due to通常不这么用。
+
+## 4.4 目的状语从句
+在英语中，常用的引导目的状语从句的连词有：so that，in order that和that。另外，在目的状语从句中常含有情态动词，比如may/might或can/could等。请看例句：
+
+  I turned off the TV in order that my roommate could study in peace and quiet.
+
+  妙语点睛　这里的从句由in order that引导，表示目的，意为“以便”。从句含有情态动词could。
+
+  精品译文　我关掉了电视，好让我的室友安静地学习。
+
+  目的状语从句一般位于主句之后。但若要强调目的状语从句，可将so that或in order that引导的目的状语从句置于句首。
+## 4.5 结果状语从句
+### 4.5.1 常见连词的用法
+常用的引导结果状语从句的连词有：so…that和such…that。下面将详细讨论它们的用法。注意，结果状语从句都要放在主句之后，而不能提到句首。
+
+一、连词so…that的用法
+
+  多数结果状语从句是由so…that引导的，so后面接形容词或副词。请看例句：
+
+  1. 接形容词
+
+   Sensible Sam: I saw you pushing your bicycle to work this afternoon.
+
+  Foolish Fred: Yes, I was so late that I didn’t have time to get on it.
+
+  妙语点睛　这里so…that引导结果状语从句，so的后面接了形容词（late）。
+
+  精品译文　聪明的萨姆：我今天下午看到你推着自行车去上班。
+
+  愚笨的弗雷德：是的，因为当时太晚了，所以我来不及骑上车子。
+
+  2. 接副词
+
+  He has put forward unquestioned claims so consistently that he not only believes them himself, but has convinced industrial and business management that they are true.
+
+  妙语点睛　这里so…that引导结果状语从句，so的后面接了副词（consistently）。
+
+  精品译文　他一直不断地提出确定不疑的主张，以至于不仅他自己对他们深信不疑，而且还使得工商管理界相信他们都是真的。
+
+二、连词such…that的用法
+
+  可以用such…that来引导结果状语从句，such后面要接名词（短语）。请看例句：
+
+  Diplomats and crabs are creatures who move in such a way that it is impossible to tell whether they are coming or going.
+
+  妙语点睛　这里such…that引导结果状语从句，such的后面接了名词（短语）（a way）。
+
+  精品译文　外交官和螃蟹是行为方式相同的动物，我们无法判断他们是要向前走还是想往后退。
+
+### 4.5.2 结果状语从句的倒装
+在英文中，such/so…that引导结果状语从句，为了强调，还可以将主句中的so或such引导的部分置于句首从而构成倒装结构。请看例句：
+
+  So fast does light travel that it is difficult for us to imagine its speed.
+
+  妙语点睛　这句话的正常语序为“Light travels so fast that it is difficult for us to imagine its speed.”。
+
+  精品译文　光的传播速度是如此之快，以至于我们无法想象它的速度。
+
+## 4.6 条件状语从句
+### 4.6.1 常见连词的用法
+最常见的条件状语从句的引导词是if和unless。连词if表示“如果”，unless表示“如果不”或“除非”。请看例句：
+
+  下面这句话读者一定不陌生：
+
+  If winter comes, can spring be far behind? 冬天来了，春天还会远吗？
+
+  有人说爱一个人完全是自己的事情，与对方无关。但不求回报地去爱，又有几人能做到？下面这个例句讲的就是这个道理：
+
+  Giving someone all your love is never an assurance that they’ll love you back. Don’t expect love in return, just wait for it to grow in their heart, but if it doesn’t, be glad it grew in yours. 为某人付出自己全部的爱，并不一定能够保证对方会同样爱你。不要期望爱的回报，就让爱在对方心中慢慢地成长。即使没有，也不要失望，而要为自己心中曾经爱过而感到高兴。
+
+  如果有一天你不经意间微笑起来，连你自己都无法解释为什么自己会笑，那原因就是：
+
+  Today if a happy smile comes to you, a happy smile that perhaps you can’t explain…it is because at that moment, I am thinking of you, and smiling, too. 假如今天你不经意间开心地微笑起来，连你都无法解释自己为什么会笑……这是因为此时此刻我正在想着你，我也在微笑。
+
+### 4.6.2 其他条件状语从句的连词
+其他引导条件状语从句的连词有：suppose (that)，supposing (that)，providing/provided (that)，so long as，as long as和on condition that等。
+
+  读者应该很熟悉下面这句中文谚语：
+
+  So long as you work hard enough, an iron rod can be ground into a needle. 只要功夫深，铁杵磨成针。
+
+  关于年龄与心态的问题，下面这句话值得读者诵记：
+
+  A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.
+
+  妙语点睛　这里是as long as表示条件，引导从句。
+
+  精品译文　一个人只要还有追求，他就不算老。只有当心中不再有梦想，而只是满怀遗憾，这时他才真正老了。
+
+## 4.7 让步状语从句
+### 4.7.1 常见连词的用法
+常见的引导让步状语从句的词有though，although，even though和even if。此时，主句前不可用but，但可用yet或still。
+
+  Although he tried hard, (yet /still) he failed. 尽管他努力了，但他还是失败了。
+
+  Although I didn’t know anybody at the party, I had a very good time. 尽管聚会上的人我一个都不认识，但我仍然玩得很愉快。
+
+  The family is the essential presence—the thing that never leaves you, even if you find you have to leave it. 对于每个人来说，家是不可或缺的，它永远为你守候，即使有一天你发现你不得不离开它。
+
+### 4.7.2 表示让步转折关系的介词
+上面讨论了常见的让步状语从句的连词，与此相关的是，在英语中，还可以用介词来表示让步转折关系。这些介词主要有despite，in spite of和for all。需要提醒读者注意的是，although和though是连词，因此后面只接从句（有时是省略形式的从句），而这里的介词只接名词（短语），不能接从句。请比较：
+
+   Though he was inexperienced, he did a very good job.
+
+   In spite of his inexperience, he did a very good job.
+
+   In spite of his being inexperienced, he did a very good job.
+
+  妙语点睛　在例句1）中，连词though后面接的是从句he was inexperienced。在例句2）中，his inexperience是一个名词短语，所以要用介词，如in spite of。在例句3）中，his being inexperienced是动名词短语的形式，也属于名词短语，所以这里也需要用介词，如in spite of。
+
+  精品译文　尽管他没有经验，但是他表现得很不错。
+
+  综上所述，我们可以总结出这样的规律：介词后面可以接名词、名词短语、动名词或what引导的从句；连词后面可以接完整的陈述句、形容词（相当于省略句）、分词（相当于省略句）等。
+
+### 4.7.3 置于句首的while一般表示“尽管”
+while位于句首，一般意为“尽管”，引导让步状语从句。在很多阅读文章中常见到while的这一用法。请看例句：
+
+  While many countries of the world celebrate their own Mother’s Day at different times throughout the year, there are some countries such as Denmark, Finland, Italy, Turkey, Australia, and Belgium which also celebrate Mother’s Day on the second Sunday of May.
+
+  妙语点睛　while出现在句首，表示让步转折。
+
+  精品译文　尽管世界上很多国家是在不同的日期庆祝母亲节，但是仍然有些国家，比如丹麦、芬兰、意大利、土耳其、澳大利亚和比利时也是在五月的第二个周日庆祝母亲节。
+
+### 4.7.4 as引导的倒装句表示让步
+as引导的倒装句可表示让步，这一结构有：
+
+![alt text](./images/14.7.3.png)
+
+一、形容词提至句首
+
+ Young as he is, he is knowledgeable. 他虽然年轻，但知识渊博。
+
+  There are also desert insects which survive as inactive larvae. In addition, difficult as it is to believe, there are desert fish which can survive through years of drought in the form of inactive eggs.
+
+  妙语点睛　这句话是“形容词+as+主谓”的结构，表示让步。
+
+  精品译文　还有一些沙漠昆虫，其幼虫靠着不活动来存活。此外，尽管很难以置信，但确有一种沙漠鱼，能够以不活动的卵的形式来抵御干旱，可以存活好几年。
+
+二、副词提至句首
+
+  Much as I respect him, I can not agree with him. 虽然我非常尊重他，但是我仍旧不同意他的意见。
+
+  Again as he failed in doing this experiment, he didn’t lose his heart. 尽管他的试验再次失败了，但是他并不灰心。
+
+三、分词提至句首
+
+  Praised as he was, he remained modest. 尽管他受到了表扬，却仍旧很谦虚。
+
+四、名词提至句首
+
+  Child as he is, he is knowledgeable.
+
+  妙语点睛　请注意这句话的名词前不带冠词。
+
+  精品译文　他虽然还是个孩子，却知识渊博。
+
+## 4.8 比较状语从句
+### 4.8.1 连词as的基本用法
+as引导比较状语从句，其基本结构是as…as，其中前一个as是副词，后一个as是比较状语从句的连词。具体用法如下：
+
+一、结构1：as+形容词或副词+as
+
+  The work is not as difficult as you think. 这项工作不像你想象的那么难。
+
+  Eyes are as eloquent as lips (are). 眼睛像嘴唇一样富有表现力。
+
+  An adult human must take eight steps to go as far as a giraffe does in one stride. 长颈鹿跨一步的距离相当于一个成年人走八步。
+
+二、结构2：as+形容词+a(n)+可数名词单数+as
+
+这里前一个as作为副词来修饰一个形容词，而这个形容词同时又修饰一个名词。使用时要特别注意这里形容词置于不定冠词之前这一特点。请看例句：
+
+  Rarely has a technological development had as great an impact on so many aspects of social, economic, and cultural development as the growth of electronics.
+
+  妙语点睛　若没有as修饰great，这句话原本的结构是a great impact，但现在将其放置在as…as结构中，则冠词和形容词的语序要互换，因此成了as great an impact as。另外要注意的是，整个句子是一个倒装句，正常语序为“A technological development has rarely had as great an impact on…as the growth of electronics.”。
+
+  精品译文　很少有哪项科技的发展能像电子技术的发展这样，对我们的社会、经济以及文化等诸多方面产生如此重要的影响。
+
+三、在否定句中第一个as可用so代替
+
+  6 This room is not so large as the one we saw yesterday. 这个房间没有我们昨天看到的那个大。
+
+  7 No other modern nation devotes so small a portion of its wealth to public health as the United States does.
+
+  妙语点睛　注意否定词（no）在句首，故此句为否定句。
+
+  精品译文　没有一个现代国家像美国这样，只把很少一部分财富投入到公共卫生事业中去。
+
+四、为了保持句子平衡，从句还可以用倒装结构
+
+  此时的结构是“as…as+助动词+主语”，请看例句：
+
+  Small as it is, the ant is as much a creature as are all other animals on the earth.
+
+  妙语点睛　这里的as are all other animals on the earth是一个倒装结构，主语是all other animals on the earth。另外，这里的as much…as表示的是“在同等程度上”，翻译时可以处理成“和……一样”。
+
+  精品译文　尽管蚂蚁很小，但是它同地球上的任何其他动物，也是一种动物
+

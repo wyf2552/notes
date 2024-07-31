@@ -570,3 +570,237 @@ String::~ String() {
     1. 编译器有bug
     2. 代码优化措施
 2. 前面讨论的是C++标准
+
+# 静态成员变量和静态成员函数
+基本概念
+1. 静态成员：在定义前面加了static关键字的成员
+    ```c
+    class CRectangle {
+        private:
+            int w, h;
+            static int nTotalArea;
+            static int nTotalNumber;
+        public:
+            CRectangle(int w_, int h_);
+            ~CRectangle();
+            static void PrintTotal();
+    };
+    ```
+2. 普通成员变量每个对象有各自的一份，而静态成员变量一共就一份，为所有对象共享。、
+
+    sizeof 运算符不会计算静态成员变量
+    ```c
+    class CMyclass {
+        int n;
+        static int s;
+    };
+    ```
+3. 普通成员函数必须具体作用于某个对象，而静态成员函数并不具体作用于某个对象
+
+4. 因此静态成员不需要通过对象就能访问
+
+5. 静态成员变量本质上是全局变量，哪怕一个对象都不存在，类的静态成员变量也存在。
+
+6. 静态成员函数本质上是全局函数
+
+7. 设置静态成员这种机制的目的是将和某些类紧密相关的全局变量和函数写到类里面，看上去像一个整体，易于维护和理解
+
+8. 在静态成员函数函数中，不能访问非静态成员变量，也不能调用非静态成员函数。
+如何访问静态成员
+
+1. 类名：：成员名
+    ```c
+    CRectangle::PrintTotal();
+    ```
+2. 对象名.成员名
+    ```c
+    CRectangle r; r.PrintTotal();
+    ```
+3. 指针->成员名
+    ```c
+    CRectangle * p = &r;
+    p->PrintTotal();
+    ```
+4. 引用.成员名
+    ```c
+    CRectangle & ref = r;
+    int n = ref.nTotalNumber;
+    ```
+# 成员对象和封闭类
+1. 成员对象：一个类的成员变量是另一个类的对象
+2. 包含成员对象的类叫封闭类
+    ```c
+    class CTyre {
+        private:
+            int radius;
+            int width;
+        public:
+            CTyre(int r, int w):radius(r), width(w) { }
+    };
+    class CEngine {
+    };
+    class CCar {
+        private:
+            int price;
+            CTyre tyre;
+            CEngine engine;
+        public:
+            CCar(int p, int tr, int tw);
+    };
+    CCar::CCar(int p, int tr, int w)::price(p), tyre(tr, w){};
+    int main() {
+        CCar car(20000, 17, 225);
+        return 0;
+    }
+    ```
+3. 生成封闭类对象的语句-明确“对象中的成员对象”-如何初始化
+
+封闭类构造函数的初始化列表
+1. 定义封闭类的构造函数时，添加初始化列表：
+    类名：：构造函数（参数表）：成员变量1（参数表），成员变量2（参数表），···{
+        ...
+    }
+2. 成员对象初始化列表中的参数
+    1. 任意复杂的表达式
+    2. 函数/变量/表达式中的函数，变量有定义
+
+调用顺序
+1. 当封闭类对象生成时，
+    1. s1：执行所有成员对象的构造函数
+    2. s2:执行封闭类的构造函数
+2. 成员对象的构造函数调用顺序
+    1. 和成员对象在类中的说明顺序一致
+    2. 与在成员初始化列表中出现的顺序无关
+3. 当封闭类对象消亡时，
+    1. s1:先执行封闭类的析构函数
+    2. s2:执行成员对象的析构函数
+4. 析构函数顺序和构造函数的调用顺序相反
+
+# 友元函数friend
+1. 友元函数
+    1. 一个类的友元函数可以访问该类的私有成员
+        ```c
+        class CCar;
+        class CDriver {
+            public:
+                void ModifyCar(CCar * pCar);
+        };
+        class CCar {
+            private:
+                int price;
+            friend int MostExpensiveCar(CCar cars[], int tatal);
+            friend void CDriver::ModifyCar(CCar * pCar);
+        };
+
+        void CDriver:: ModifyCar(CCar * pCar) {
+            pCar->price += 1000;
+        }
+        int MostExpensiveCar(CCar cars[], int tatal) {
+            int tmpMax = -1;
+            for(int i = 0; i < tatal; ++i)
+                if(cars[i].price > tmpMax)
+                    tmpMax = cars[i].price;
+            return tmpMax;
+        }
+
+        int main() {
+            return 0;
+        }
+        ```
+    2. 将一个类的成员函数（包括构造，析构函数）-另一个类的友元
+        ```c
+        class B {
+            public:
+                void function();
+        };
+        class A {
+            friend void B::function();
+        };
+2. 友元类
+    1. A是B的友元类- A的成员函数可以访问B的私有成员
+        ```c
+        class CCar {
+            private:
+                int price;
+            frienf class CDriver;
+        };
+        class CDriver {
+            public:
+                CCar myCar;
+                void ModifyCar() {
+                    myCar.price += 1000;
+                }
+        };
+        int main() {return 0;}
+        ```
+
+# this指针
+1. 其作用就是指向成员函数所作用的对象
+2. 非静态成员函数中可以直接使用this来代表该函数作用的对象的指针
+    ```c
+    class Complex {
+        public:
+            double real, imag;
+            void Print() {cout << real << "," << imag;}
+            Complex(double r, double i):real(r), imag(i) { }
+            Complex AddOne() {
+                this->real ++; //real++
+                this->Print(); //Print
+                return * this;
+            }
+    };
+
+    int main() {
+        Complex c1(1, 1), c2(0, 0);
+        c2 = c1.AddOne();
+        retuen 0;
+       }
+    ```
+this指针和静态成员函数
+1. 静态成员函数中不能使用this指针
+2. 因为静态成员函数并不具体作用与某个对象
+3. 因此，静态成员函数的真实的参数的个数，就是程序中写出的参数个数
+# 常量对象、常量成员函数和常引用
+
+常量对象
+1. 如果不希望某个对象的值被改变，则定义该对象的时候可以在前面加const关键字
+    ```c
+    class Demo {
+        private:
+            int value;
+        public:
+            void SetValue() {}
+    };
+    const Demo Obj;
+    ```
+2. 在该类成员函数说明后面可以加const关键字，则该成员函数成为常量成员函数
+3. 常量成员函数执行期间不应该修改其所作用的对象。因此，在常量成员函数中不能修改成员变量的值（静态成员变量除外），也不能调用同类的非常量成员函数（静态成员函数除外）。
+
+常量成员函数的重载
+1. 两个成员函数，名字和参数表都一样，但是一个是const，一个不是，算重载
+    ```c
+    class CTest {
+        private:
+            int n;
+        public:
+            CTest() {n = 1;}
+            int GetValue() const {return n;}
+            int GetValue() {return 2 * n;}
+    };
+    int main() {
+        const CTest objTest1;
+        CTest objTest2;
+        cout << objTest1.GetValue() << "," << objTest2.GetValue();
+        return 0;
+    }
+    ```
+
+常引用
+1. 引用前面可以加const关键字，成为常引用。不能通过常引用，修改其引用的变量
+    ```c
+    const int &r = n;
+    r = 5;//err
+    n = 4;//ok
+    ```
+2. 可以用对象的常引用作为参数
+
