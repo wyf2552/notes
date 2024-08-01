@@ -804,3 +804,128 @@ this指针和静态成员函数
     ```
 2. 可以用对象的常引用作为参数
 
+# 运算符重载的基本概念
+运算符
+
+1. C++预定义表示对数据的运算
+    1. +，-，*，/，%，^，&，～，！，｜，=，<<,>>,!=……
+    2. 只能用于基本的数据类型
+        1. 整型，实型，字符型，逻辑型……
+
+自定义数据类型与运算符重载
+1. C++提供了数据抽象的手段
+    用户自己定义数据类型——类
+    1. 调用类的成员函数-操作它的对象
+2. 类的成员函数-操作对象时，很不方便
+    1. 在数学上，两个复数可以直接进行+/-等运算
+    VS.在C++中，直接将+或-用于复数是不允许的
+
+运算符重载
+1. 对抽象数据类型也能够直接使用C++提供的运算符
+    1. 程序更简洁
+    2. 代码更容易理解
+2. 例如：
+    1. complex_a和complex_b是两个复数对象
+    2. 求两个复数的和，希望能直接写：
+        complex_a + complex_b
+
+3. 运算符重载
+    1. 对已有的运算符赋予多重的含义
+    2. 使同一运算符作用于不同类型的数据时-不同类型的行为
+4. 目的
+    扩展C++中提供的运算符的适用范围，以用于类所表示的抽象数据类型
+5. 同一个运算符，对不同类型的操作数，所发生的行为不同
+    1. (5, 10i) + (4, 8i) = (9, 18i)
+    2. 5 + 4 = 9
+6. 运算符重载的实质是函数重载
+    返回值类型 operator 运算符（形参表）{ ……}
+7. 在程序编译时：
+    1. 把含运算符的表达式-对运算符函数的调用
+    2. 把运算符的操作数-运算符的参数
+    3. 运算符被多次重载时，根据实参的类型决定调用哪个运算符函数
+    4. 运算符可以被重载成普通函数时，参数个数为运算符目数
+    ```c
+    class Complex {
+        public:
+            Complex(double r = 0.0, double i = 0.0) {
+                real = r;
+                imaginary = i;
+            }
+            double real; //real part
+            double imaginary; // imaginary part
+         };
+    Complex operator+ (const Complex & a, const Complex & b) {
+        return Complex(a.real + b.real, a.imaginary + b.imaginary);
+    }
+    Complex a(1,2), b(2,3), c;
+    c = a + b;
+    ```
+    5. 也可以被重载成类的成员函数，参数个数为运算符目数减一
+    ```c
+    class Complex {
+        public:
+            Complex(double r = 0.0, double m = 0.0):
+                real(r), imaginary(m) { }
+            Complex operator+(const Complex &);
+            Complex operator-(const Complex &);
+        private:
+            double real:
+            double imaginary;
+    };
+    Complex Complex::operator+(const Complex & operand2) {
+        return Complex(real + operand.real, imaginary + operand2.imaginary);
+    }
+    Complex Complex::operator-(const Complex & operand2) {
+        return Complex(real - operand2.real, imagined - operand2.imaginary);
+    }
+    int main() {
+        Complex x, y(4.3, 8.2), z(3.3, 1.1);
+        x = y + z;
+        x = y - z;
+        return 0;
+    }
+    ```
+# 赋值运算符的重载
+赋值运算符‘=’重载
+1. 赋值运算符两边的类型可以不匹配
+    1. 把一个int 类型变量赋值给一个complex对象
+    2. 把一个char*类型的字符串赋值给一个字符串对象
+2. 需要重载赋值运算符‘=’
+3. 赋值运算符‘=’只能重载为成员函数
+
+重载赋值运算符的意义-浅复制和深复制
+1. S1 = S2;
+2. 浅复制/拷贝-指向地址改变
+    1. 执行逐个字节的复制工作
+        ```c
+        MyString S1, S2;
+        S1 = "this";
+        S2 = "that";
+        S1 = S2;
+        ```
+3. 深复制/深拷贝-指向值改变
+    1. 将一个对象中指针变量指向的内容-复制到另一个对象中指针成员对象指向的地方
+        ```c
+        MyString S1, S2;
+        S1 = "this";
+        S2 = "that";
+        S1 = S2;
+        ```
+
+# 运算符重载为友元函数
+1. 通常，将运算符重载为类的成员函数
+2. 重载为友元函数的情况：
+    1. 成员函数不能满足使用要求
+    2. 普通函数，又不能访问类的私有成员
+        ```c
+        class Complex {
+            double real, imag;
+        public:
+            Complex(double r, double i)::real(r), image(i) {};
+            Complex operator+(double r);
+        };
+        Complex Complex::operator+(double r) {
+            return Complex(real + r, image);
+        }
+        ```
+    3. 普通函数不能访问私有成员-将运算符+重载为友元函数

@@ -1269,3 +1269,218 @@ as引导比较状语从句，其基本结构是as…as，其中前一个as是副
 
   精品译文　尽管蚂蚁很小，但是它同地球上的任何其他动物，也是一种动物
 
+### 4.8.2 连词than 的基本用法
+一、可比性问题
+
+  可比性问题，指两个同类事物才能比较，如he 和I。不是同类事物是无法比较的。
+
+  He is taller than I (am). 他比我高。
+
+  The weather of the South is wetter than the North. *
+
+  妙语点睛　这是典型的句子错误，因为the weather of the South和the North是两个截然不同的事物，无法进行比较，只能是“南方的天气”和“北方的天气”这两个同类事物进行比较。故原句应改为“The weather of the South is wetter than that of the North.”。（为避免重复，用that代替 the weather。）
+
+二、比较形式问题
+
+  即指在有than的比较句子里，主句中必须有比较级形式出现。
+
+  There are few electronic applications ______ to raise fears regarding future employment opportunities than robots.
+
+  A. likely
+
+  B. more likely
+
+  C. most likely
+
+  D. much likely
+
+  正确答案　B。
+
+  妙语点睛　这是一道四级真题。本题考查的是比较级的形式。这里只有more能与后面的than构成结构上的搭配，故B正确。
+
+  精品译文　很少有任何一项电子技术的应用能够像机器人这样，引起人们对未来就业机会的恐慌。
+
+三、为了保持句子平衡，从句还可以用全部或部分倒装
+
+  此时的结构是：than助动词+主语。请看例句：
+
+  On the whole, ambitious students are more likely to succeed in their studies than are those with little ambition.
+
+  妙语点睛　这是上面讨论过的考研改错句子。这里的than are those with little ambition是一个倒装结构，主语是those with little ambition。
+
+### 4.8.3 表示倍数比较的三种句型
+
+在英文中，除了用than和as来对两个事物进行比较外，还可以用times和twice等词来说明两事物之间的倍数关系。在英文中，表示两事物倍数关系的比较，可用以下三种句型（以三倍即three times为例）：
+
+  1. “倍数+比较级”结构：A is three times bigger （或其他形容词的比较级） than B
+
+  2. “倍数+as…as”结构：A is three times as big （或其他形容词的原级） as B
+
+  3. “倍数+名词”结构：A is three times the size （或其他形容词对应的名词形式） of B
+
+When the United States entered just such a glowing period after the end of the Second World War, it had a market eight times larger than any competitor, giving its industries unparalleled economies of scale.
+
+  妙语点睛　这里是“倍数+比较级”结构。
+
+  精品译文　美国在二战后进入这样辉煌的历史时期时，其市场规模是任何竞争对手的八倍，这使其工业经济规模无可匹敌。
+
+### 4.8.4 the more…, the more 句型
+
+the more…, the more”结构的基本意思是“越……，越……”。很多英语初学者在使用这个句型时常常会犯错，究其原因，就是没有把握该句型的核心要点。正确使用这个句型的关键在于，要知道这里的比较级部分都必须在各自的分句中充当一定的成分，换句话说，相当于是将分句中的某个成分变为比较级之后提到了句首。
+
+我们总结出这个句型的三个用法要点：
+
+  1. 正确使用该句型的核心：比较级部分都必须在各自引导的分句中充当一定的成分。
+
+  2. 从结构上来看，这个句型的前半部分是从句，后半部分是主句，即“the+比较级（从句），the+比较级（主句）”，这就是为什么前半句常用一般现在时态，而后半句常用一般将来时态，类似于其他状语从句的“主句用将来时，从句用一般现在时”的规则。
+
+  3. 该结构翻译成汉语时，一般是按前后正常的语序来翻译，即先译从句，后译主句。
+
+我们再来看其他例句：
+
+  An archaeologist is the best husband a woman can have: the older she is, the more interested he is in her.
+
+  妙语点睛　我们看到，这里的比较级the older在分句she is中作表语，the more interested在分句he is in her中作表语。
+
+  精品译文　考古学家可谓是一个女人的丈夫的最好人选：因为她越老，他对她就会越感兴趣。
+
+## 4.9 方式状语从句
+方式状语从句表示动作的方式，引导词有：as，like，as if，as though和the way等。请看例句：
+
+  When in Rome, do as the Romans do.
+
+  妙语点睛　这是一个英语谚语，意思是“When traveling, follow the customs of the local people.”，相当于汉语中的“入乡随俗”。
+
+  精品译文　入乡随俗。
+
+# 5 完成时态
+## 5.1 完成时态的构成
+完成时态（perfect tense）的构成分为两部分：一是助动词have，二是实义动词的过去分词-ed。具体来说，用助动词have表示“时（tense）”，以表明动作发生的时间是在过去、现在还是将来；用过去分词来表示动作的“体态（aspect）”，以表明该动作已经完成。用-ed来代替过去分词，于是完成时态的构成是“have+-ed”。以动词work为例，三种完成时态的构成形式如下：
+
+  现在完成时：have worked
+
+  过去完成时：had worked
+
+  将来完成时：will have worked
+
+  现在完成时态、过去完成时态和将来完成时态具有共同的“态（aspect）”，即“完成（perfect）”态。在意义上是表示动作完成了（complete），在结构上用动词的过去分词-ed来表示。
+## 5.2 完成时态的意义
+完成时态的本质思维或者说其核心意义就是用来表示“回顾（retrospect）”（详见5.3节）。既然是“回顾”，就必然要涉及两个时间点，即从一个时间点回顾到另外一个时间点，因此完成时态必定涉及前后两个时间。
+
+  比如，现在完成时（present perfect tense）就是站在“现在（present）”的时间角度回顾一个“过去”的事件，是把“过去”和“现在”这两个时间点联系在一起，来表达一个事件。
+
+  过去完成时（past perfect tense）就是站在“过去（past）”的时间角度回顾“更远的过去”的事件，是把“更远的过去”和“过去”联系在一起来表达一个事件。
+
+  将来完成时（future perfect tense）则是以回顾的角度去看待将来的某个事件，或者说是站在未来的时间角度回顾在此之前发生的事件。
+
+  简言之：
+
+  现在完成时态就是站在“现在”回顾“过去”；
+
+  过去完成时态就是站在“过去”回顾“更远的过去”；
+
+  将来完成时就是站在未来的时间角度回顾在此之前发生的事件。
+
+  所以，完成时态表示的就是一个横跨前后两个时间点的事件。那么这个事件是如何把两个时间点联系起来的呢？主要通过下列三种方式：
+
+  1. 一个事件从一个时间点“延续（continue）”到另外一个时间点；
+
+  2. 一个事件从一个时间点“重复（repeat）”到另外一个时间点；
+
+  3. 一个事件在前一个时间点已经结束，但它的影响“延续”到另外一个时间点。
+
+以现在完成时为例，一个过去的事件是如何与现在发生联系的呢？其实，一个过去的事件与现在发生联系的方式有上述三种，对应于三种事件：
+
+  1. 延续事件（continuous event）：一个过去发生的事件“延续”到现在；
+
+  2. 重复事件（repeated event）：一个过去发生的事件“重复”到现在；
+
+  3. 单一事件（single event）：一个过去发生的短暂事件没有“延续”或“重复”到现在，但它的影响“延续”到了现在，或者说一个过去发生并结束了的事件对现在仍然有影响。
+
+## 5.3 “回顾”思维
+完成时态的本质思维就是用来“回顾（retrospect）”。这一本质思维应用到现在完成时中，就是表示站在“现在时间”的角度回顾“过去”。既然是回顾自己从过去到现在的经历，因此现在完成时态的这种思维用法在个人自传中应该是少不了的。
+
+英语时态是与说话的时间点和语境密切相关的活生生的思维表达，而不是僵化的死规则。
+
+## 5.4 延续事件
+### 5.4.1 过去的事件“延续”到现在
+所谓“延续事件”，是指“一个开始于过去的动作或状态（action or state）一直延续到现在”，这是现在完成时态最基本、也是最容易理解的意义和用法。请看下面这个笑话：
+
+  An old woman walked out into the middle of the street. The policeman yelled to her,“Don’t you know what it means when I hold up my hand?”
+
+  The lady said,“Sure I do. I have been a school teacher for 28 years now.”
+
+  妙语点睛　在这个笑话中，那位old woman对警察说的这句话：
+
+  I have been a school teacher for 28 years now.
+
+  表示她从事“老师”这个职业是从过去，即28年前开始并且一直延续到了现在，她现在仍然是老师，所以她说28 years now。这是现在完成时态最常见的一个用法，具体来说就是，如果要表示某一动作或状态（action or state）从过去开始，并且一直持续（continue）到说话时，而且还可能持续下去，就要采用完成时态形式
+
+  精品译文　一个老太太走到马路中央，这时一个警察朝她大声嚷道：“我把手举起来，难道你不知道是什么意思吗？”
+
+  这位老太太答道：“当然知道，我做了28年的老师了！”
+
+### 5.4.2 “延续事件”与时间状语的关系
+
+一、谓语要表示“延续”
+
+  显然，既然是表示延续思维，句子的谓语动词就要给予配合，即要能够表示延续。具体来说，谓语必须是延续动词，如前面例句中的learn/live，或者是能够表示延续状态的词，如be动词。如果是短暂动词，则不能表示这种延续思维，比如上一节中的例句2和例句3，就不能说：
+
+  I have fallen in love for eight years. *
+
+  I have married for over a year. *
+
+  因为这里的fall in love和marry都是短暂动词，无法与延续性的时间状语（如for eight years, for over a year）连用。所以，上一节中的例句都用了表达状态的词，如be in love和be married。注意，这里的married是形容词，所以be married并不是一个被动语态。
+
+  另外，大家需要注意的是，之所以说“I have fallen in love for eight years. *”这样的句子是错误的，是因为这里的fall in love是一个短暂动作，而短暂动词不能与延续性的时间状语（如for eight years）连用。但这并不是说像fall in love这样的短暂动词不能用于现在完成时态。换句话说，句子错误的原因是fall in love这样的短暂动作与for eight years这样的延续性时间状语有语义上的冲突，而不是fall in love这样的短暂动作与现在完成时态有冲突。我发现很多中国学生误解了这一点，他们干脆认为“短暂动词不能用于现在完成时态”，从而认定像“I have fallen in love.”这样的句子是错误的。其实，“I have fallen in love.”这类句子是完全正确的。短暂动词用于完成时态时的含义和用法，我们将在5.6节详细讨论。所以，这里要再次强调的是，短暂动词完全可以用于现在完成时态，此时不能和延续性的时间状语连用，而不是说短暂动词不能用于现在完成时态。
+
+  二、要与“延续性时间状语”连用
+
+  表示延续思维的完成时态除了要有延续性的谓语之外，还必须有延续性的时间状语（durational adverbials）。具体来说，这种表示延续性动作或状态的完成时态一般必须接一个表示“一段时间”的延续性时间状语，以说明某个动作或状态持续到现在有多久了。下列例句均是“从过去开始并一直延续到现在”的时间表达方式，所以通常会和现在完成时态搭配。
+
+  1. since+时间点或从句
+
+  Since time began, man has lived in fear of fire. 自古以来，人们就生活在对火的恐惧中。
+
+  since作时间引导词的用法将在5.9节详细讨论。
+
+  2. for+时间段
+
+  Great changes have taken place in Beijing for the past few years. 近几年来，北京发生了巨大的变化。
+
+  3.“到目前为止”“迄今为止”
+
+  这样的时间短语有：until now，up until now，up to now，up till now和so far等。请看例句：
+
+  We have up until now failed to take any action to decide on a common language that would further communication between nations.
+
+  迄今为止，我们尚未采取任何措施来确定一种国际通用语言，以促进各国之间的交流。
+
+  4.“在最近几个世纪/几年/几个月以来”
+
+  这样的时间短语有：in the past few years，over the past few years，during the last three months，for the last few centuries，through centuries和throughout history等。请看例句：
+
+  Throughout history man has had to accept the fact that all living things must die, for the very nature of life includes death. 自古以来，人类就不得不接受这样的事实：一切生物最终都会死亡，因为生命的本身包含了死亡。
+
+ 三、没有延续性的时间状语，则表示一个“完成了（complete）”的动作
+
+  以上其实已经给出了完成时态要表示延续思维所必须具有的两个条件：
+
+  （一） 谓语要表示延续；
+
+  （二） 要有延续性的时间状语。
+
+  具体来说，延续性思维的完成时态必须和延续性的时间状语连用才能表示一个延续到现在的动作或状态。
+
+  但是如果没有这个延续性的时间状语，句子用完成时态还正确吗？若正确，那又是什么意思呢？回答是：若没有延续性的时间状语，可以用完成时态，但表示的是一个在过去已经完成的动作，而没有延续到现在。
+
+  先看下面的例句：
+
+  John has lived in Paris for ten years.
+
+  妙语点睛　这句话用了现在完成时态，表示John现在还在巴黎生活（John is still living in Paris now.）。但是如果没有延续性的时间状语而说成“John has lived in Paris.”，则要理解成“约翰在巴黎生活过”，但现在他已不住在巴黎了。
+
+  精品译文　约翰在巴黎生活10年了。
+
+## 5.5 重复事件
+### 5.5.1 过去的事件“重复”到现在
