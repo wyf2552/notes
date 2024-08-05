@@ -970,3 +970,168 @@ this指针和静态成员函数
 3. 运算符重载不改变运算符的优先级
 4. 以下运算符不能被重载：".", ".*", "::", "?:", sizeof
 5. 重载运算符（），[], ->或者赋值运算符=时，重载函数必须声明为类的成员函数
+
+# 继承和派生
+1. 继承和派生的概念
+    1. 继承：在定义一个新的类B时，如果该类与某个已有的类A相似（指的是B拥有A的全部特点），那么就可以把A作为一个基类，而把B作为基类的一个派生类（椰城子类）。
+        1. 派生类是通过对基类进行修改和扩充得到的。在派生类中，可以扩充新的成员变量和成员函数。
+        2. 派生类一经定义后，可以单独使用，不依赖于基类。
+    2. 派生类拥有基类的全部成员函数和成员变量，不论是private、protected、public.
+        1. 在派生类的各个成员函数中，不能访问基类中的private成员。
+        ```c
+        class CStudent {
+            private:
+                string sName;
+                int nAge;
+            public:
+            bool IsThreeGood() { };
+            void SetName(const string & name) {
+                sName = name;
+            }
+        };
+        class CUndergraduateStudent:public CStudent {
+            private:
+                int nDepartment;
+            public:
+                bool IsThreeGood() {...};
+                bool CanBaoYan() {...};
+        };
+        class CGranduatedStudent:public CStudent {
+            private:
+                int nDepartment:
+                char szMentorName[20];
+            public:
+                int CountSalary() {...};
+        };
+        ```
+2. 派生类对象的内存空间
+    派生类对象的体积，等于基类对象的体积，在加上派生类对象自己的成员变量的体积。在派生类对象中，包含着基类对象，而且基类对象的存储位置位语派生类对象新增的成员变量之前。
+    ```c
+    class CBase {
+        int v1, v2;
+    };
+    class CDerived:public CBase {
+        int v3;
+    };
+    ```
+
+# 复合关系和继承关系
+1. 继承：“是”关系
+    1. 基类A，B是 基类A的派生类
+    2. 逻辑上要求：“一个B对象也是一个A对象：。
+2. 复合关系：“有”关系。
+    1. 类C中“有”成员变量K，K是类D的对象，则C和D是复合关系
+    2. 一般逻辑上要求：“D对象是C对象的固有属性或组成部分”
+
+复合关系的使用
+1. 几何形体程序中，需要写“点”类，也需要写“圆”类
+2. 几何形体程序中，需要写“点“类，也需要写”圆“类，两者关系就复合关系就是复合关系——每一个“圆”对象里都包含（有）一个”点“对象，这个”点“对象就是圆心
+    ```c
+    class CPoint {
+        double x, y;
+        friend class CCircle;
+    };
+    class CCircle {
+        double r;
+        CPoint center;
+    };
+    ```
+
+# 基类/派生类同名成员和protected访问范围说明符
+基类和派生类有同名成员的情况
+    ```c
+    class base {
+            int j;
+        public:
+            int i;
+            void func();
+    };
+    class dericed:public base {
+        public:
+            int i;
+            void access();
+            void func();
+    };
+    void derived::access() {
+        j = 5;
+        i = 5;
+        base::i = 5;
+        func();
+        base::func();
+    }
+    derived obj;
+    obj.i = 1;
+    obj.base::i = 1;
+    ```
+
+访问范围说明符
+1. 基类的private成员：可以被下列函数访问
+    1. 基类的成员函数
+    2. 基类的友元函数
+2. 基类的public成员：可以被下列函数访问
+    1. 基类的成员函数
+    2. 基类的友元函数
+    3. 派生类的成员函数
+    4. 派生类的友元函数
+    5. 其他函数
+3. 基类的protected成员：可以被下列函数访问
+    1. 基类的成员函数
+    2. 基类的友元函数
+    3. 派生类的成员函数可以访问当前对象的基类的保护成员
+
+```c
+#include <iostream>
+using namespace std;
+class Father {
+    private: int nPrivate;
+    public: int nPublic;
+    protected: int nProtected;
+};
+class Son:public Father {
+    void AccessFather () {
+        nPublic = 1;
+        nPrivate = 1;
+        nProtected = 1;
+        Son f;
+        f.nProtected = 1;
+    }
+};
+int main() {
+    Father f;
+    Son s;
+    f.nPublic = 1;
+    s.nPublic = 1;
+    f.nProtected = 1;
+    f.Private = 1;
+    s.nProtected = 1;
+    s.nPrivate = 1;
+    return 0;
+}
+```
+
+# 派生类的构造函数
+1. 派生类对象包含基类对象
+2. 执行派生类构造函数之前，先执行基类的构造函数
+3. 派生类交代基类初始化，具体形式：
+    构造函数名（形参表）：基类名（基类构造函数实参表）{}
+4. 在创建派生类的对象时，
+    1. 需要调用基类的构造函数：
+        初始化派生类对象中从基类继承的成员
+    2. 在执行一个派生类的构造函数构造函数之前，总是先执行基类的构造函数
+5. 调用基类构造函数的两种方式
+    1. 显示方式：
+        派生类的构造函数中-基类的构造函数提供参数
+        ```c
+        derived::derived(arg_derived-list):base(arg_base-list)
+        ```
+    2. 隐藏方式：
+        派生类的构造函数中，省略基类构造函数时
+        派生类的构造函数，自动调用基类的默认构造函数
+6. 派生类的析构韩素被执行时，执行完派生类的析构函数后，自动调用基类的析构函数
+7. 创建派生类的对象时，执行派生类的构造函数之前：
+    1. 调用基类的构造函数-初始化派生类对象中从基类继承的成员
+    2. 调用成员对象类的构造函数-初始化派生类对象中成员对象
+8. 执行完派生类的析构函数后：
+    1. 调用成员对类的析构函数
+    2. 调用基类的析构函数
+9. 析构函数的调用顺序于构造函数的调用顺序相反
