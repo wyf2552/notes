@@ -2531,4 +2531,262 @@ have been dating和have been considering，但二者在持续的时间上不完�
 
   精品译文　如果我明天有时间，我就会帮他的。
 
-  
+### 7.1.3 虚拟条件句的谓语变化
+重要的不是如何区分两种类型的虚拟句，而是要弄清楚在三种不同时间的情况下，虚拟句的主句和从句的谓语动词的复杂变形。
+
+  现在把三种不同时间下的主、从句的谓语形式列表如下：
+
+  |虚拟的时间|主句的谓语形式（Z）|IF从句的谓语形式（C）|
+  |----|----|----|----|
+  |将来（j）|Zj:would (could,might) + do|Cj:were to do/should do|
+  |现在(x)|Zx:would(could,might) + do|Cx:did 或were|
+  |过去(g)|Zg:would(could,might) + have done|Cg:had done或had been|
+
+注：
+  1. 我们用汉语拼音字母Z表示主句，C表示从句；
+
+  2. 我们用汉语拼音字母j表示将来时间，x表示现在时间，g表示过去时间；
+
+  3. 因此，Zj表示主句为将来虚拟，Zx表示主句为现在虚拟，Zg表示主句为过去虚拟；Cj表示从句为将来虚拟，Cx表示从句为现在虚拟，Cg表示从句为过去虚拟。
+
+
+主从句的谓语可能会有以下四种不同的搭配组合（以would为例）：
+
+  1. 现在虚拟 — ZxCx型（主现从现）：would do+if…did，这里的主句和if引导的条件状语从句都是表示对现在的虚拟。
+
+  2. 过去虚拟 — ZgCg型（主过从过）：would have done+if…had done，这里的主句和if引导的条件状语从句都是表示对过去的虚拟。
+
+  3. 混合虚拟（一） — ZxCg型（主现从过）：would do+if…had done，这里的主句是表示对现在的虚拟，而if引导的条件状语从句是表示对过去的虚拟，即主句与从句所虚拟的时间不一致。
+
+  4. 混合虚拟（二） — ZgCx型（主过从现）：would have done+if…did，这里的主句是表示对过去的虚拟，而if引导的条件状语从句是表示对现在的虚拟，即主句与从句所虚拟的时间不一致。
+
+虚拟语气是英语学习者面临的一大难题。在写作或口语交际中，要想正确地使用虚拟语气，要分“四步走”，或者说要经过下列四个步骤的考虑：
+
+  第一，是否虚拟： 要敏感地把握对某一情形的阐述是否该用虚拟语气，也即要意识到这一情形是表达一个真实的情况，还是一种与事实相反的假设。这一点是中国的英语学习者最容易忽略的。因为，在汉语思维里，虚拟的表达是通过语境来实现的，而不是通过动词的变形。所以说，在汉语思维里，虚拟语气是一个天然的缺失，因此在遇到该用虚拟语气的情形时，我们的大脑不会“灵光闪现”——认为该用虚拟。克服这一点是最大的困难，这关系到意识的问题，这点想不到，下面的“三步”便无从谈起。所以，这是使用虚拟语气的前提，是一个中英文思维差异的大问题！
+
+  第二，何时虚拟： 完成了上述的第一步，即想到了该用虚拟语气后，接下来就要判断虚拟的时间——是对将来、现在和过去这三种时间中的哪个时间进行虚拟。这一点对于中国的英语学习者来说也是比较难的，因为汉语里的时间表达不是很明确，主要也是依靠语境来实现的，而不像英语那样有复杂的时态变化。
+
+  第三，主句虚拟： 在完成了上述的第一步和第二步之后，接下来就是判断谁是主句，谁是从句了。因为主句和从句的谓语形式是不同的，所以，第三步和第四步是要同时考虑到的。判断出是主句的，就要采用主句的三种不同时间的谓语形式，实际上有两种，即表示将来和现在的would do，以及表示过去的would have done。这就要求我们清楚地记住主句的这两种表达形式。
+
+  第四，从句虚拟： 判断出是从句的，就要采用从句的三种不同时间的谓语形式，即表示将来的were to do或should do，表示现在的过去时did/were，表示过去的过去完成时had done/had been。这就要求我们清楚地记住从句的这三种表达形式。
+
+  我把上面这四步称为“一个前提，三个变量”：第一步是前提，后面三步相当于虚拟语气的三个变量，即时间变量、主句变量和从句变量。
+
+我大概总结了一下中国学生对于虚拟语气的掌握过程，将其分为以下四个阶段：
+
+  1. 混沌阶段： 在这一阶段，我们知道什么叫虚拟语气，脑子里有这个概念，也大概了解主句和从句谓语的动词有各种复杂的变化，但就是记不准，头脑里对各种谓语形式模糊不清，比如不知道“过去从句”该用什么形式（had done）；“现在主句”该用什么形式（would do）；“将来从句”该用什么形式（were to do或should do）。各种复杂的谓语变形在头脑里是“一团糨糊”，拎不清。据我了解，处在这一阶段的中国学生还真不少，大多数中国的英语学习者就是对虚拟语气记不住、记不准，自然也就不会用。
+
+  2. 考试阶段： 在这一阶段，我们非常熟悉各种时间的虚拟谓语形式，在考试时也能灵活地判断选择，做对考试题。但是，如果脱离了考试这样的“提示语境”，还是想不起来该用虚拟语气。能达到这个阶段的学生，已经算是很优秀的学生了，他们的英语功底通常是非常好的，但这还不能说他们掌握了虚拟语气的思维。
+
+  3. 写作阶段： 在这一阶段，我们不仅能做对考试题，而且在语言输出（output）时，比如写作时，也能意识到何时该用何种虚拟语气。这时，虚拟语气逐渐融入了我们的思维，但还不是非常熟练，比如在即时的口语交际中，我们的头脑可能还来不及反应出该用虚拟语气。处在这一较高水平的学生并不是非常多，我甚至还常见到有些大学的英语老师都还用不好，在他们的论文写作中也还出现该用虚拟而“忘记”用虚拟的情况。他们不是不知道虚拟语气，只不过虚拟语气尚没有真正融入他们的思维表达中罢了。
+
+  4. 口语阶段： 在这一阶段，虚拟语气已完全成为我们思维表达的一部分了，我们完全能自如地使用各种虚拟语气，真正达到native speaker的思维表达水平。能达到这一阶段的英语学习者可谓凤毛麟角，没有经过多年的潜心观察、细心体会、反复操练，是达不到的。
+
+## 7.2 将来虚拟
+对于将来虚拟，我们知道，它只能是谈将来的“不大可能”的情形，而不是一个与事实相反的情形。我们常常会用将来虚拟来谈一个不太可能实现的愿望。比如：
+
+  If I were to live my life over again, I would have you as my wife.
+
+  妙语点睛　这句将来虚拟表达的是一个良好的愿望，将来是不会实现的。
+
+  精品译文　如果我有来生，我一定会娶你为妻。
+
+或者用将来虚拟来谈一个说话人认为不太可能发生的情形，这表明了说话人的自信程度。比如：
+
+  If I should win the lottery, I would buy a house.
+
+  妙语点睛　这里说话人用should, 就是表示他对于自己赢得大奖的信心不大，但还是想碰碰运气。也相当于表达了自己将来的愿望。
+
+  精品译文　万一我赢得了彩票大奖，我就会买一栋房子。
+
+事实上，对于很多将来的情况，选择用虚拟还是不用虚拟，完全取决于说话人对所陈述事件的态度，或者说虚拟语气能表明说话人的态度。比如下面这个例句：
+
+  What do you think would be the value of the necklace, if I were to sell it?
+
+  妙语点睛　这里“卖项链”这个事件是说话人完全可以控制的，不是像“假如我有来生”那样完全不能掌控，但说话人依然用了将来虚拟的谓语形式were to sell，这只是表明说话人这样一个态度——不会卖或不大可能会卖这个项链。至于为什么不大可能卖这个项链，只有说话人自己才知道，也不是听者所关心的。
+
+  精品译文　假如我把这串项链卖了，你觉得会是什么价？
+
+将来虚拟在很大程度上是由说话人对事件的态度决定的，所以，将来虚拟使用起来非常灵活。比如，同样是上面这个“卖项链”的事件，如果是对于一个急需用钱而且想把自己的项链卖掉来换钱的人，若他在询问卖价，这时他就不会用将来虚拟了，而是用一般陈述的语气来这样说：
+
+  What do you think is the value of the necklace if I sell it to you? 如果我把这串项链卖给你，你能出什么价？
+
+将来虚拟的谓语结构形式是：从句用were to do或should do，主句用would do。其意义是用将来虚拟谈论自己认为不太可能发生的事情。另外要注意的是，将来虚拟在很大程度上是由说话人对事件的态度决定的。所以，将来虚拟使用起来非常灵活，这一点需要读者注意，即你说话语气（虚拟还是不虚拟）的选择，反映了你的态度。
+
+## 7.3 现在虚拟（ZxCx）
+现在虚拟的谓语形式：主句谓语用“would+动词原形”，从句谓语用过去式；若从句谓语是be动词，就多用were，而少用was。
+## 7.4 过去虚拟(ZgCg)
+根据英文的思维表达，表示对过去的虚拟，主句的谓语要采用would have done的形式，从句的谓语则要用过去完成时态had done。
+
+这节讨论的是ZgCg型虚拟语气，即主句和从句都表示对过去情况的虚拟。此时，主句谓语用would have done，而从句谓语用过去完成时态had done。
+
+## 混合虚拟（一）：主句现在+从句过去
+从句的“结婚（married）”这一活动是发生在过去，而且是与过去事实相反的一个假设，即是对过去的虚拟，所以谓语用的是过去完成时had married。所不同的是，这里的主句是表示与现在事实相反的一个假设，即是对现在事实的虚拟，所以谓语用would be这样的动词形式。简言之，这里的主句是对现在的虚拟，从句是对过去的虚拟，即主句和从句的虚拟时间不同。我们把这种主句、从句虚拟时间不一致的虚拟语气叫作“混合时间虚拟语气”。回顾前面三节讨论过的虚拟语气，其if引导的从句中，谓语动词表示的动作与主句谓语动词表示的动作发生的时间是一致的，即同为将来、现在或过去，此时主从句虚拟的时间是相同的。混合时间虚拟语气的谓语变化形式比较难一些，具体来说，当主从句动作发生的时间不一致时，主句和从句各自的谓语形式要根据它们各自动作发生的时间做适当调整。这里讨论的主句表示对现在的虚拟，谓语需要用“would+动词原形”，从句表示对过去的虚拟，谓语需要用过去完成时had done，这种混合时间的虚拟句子是最常见的。
+
+  A: I don’t like my mother-in-law.
+
+  B: Listen, don’t you realize that you couldn’t have your wife if it hadn’t been for your mother-in-law?
+
+  A: Yes, that’s why I don’t like her.
+
+对于混合虚拟语气，可以分两步判断：首先是根据上下文的语境，要能判断出某个句子是表达了与事实相反的情形，即虚拟；其次，分析主从句各自的虚拟时间有何不同，从而选择各自的谓语形式来表达不同的虚拟意义。
+
+  妙语点睛　根据主句和从句的谓语形式，我们知道这是一个混合时间虚拟语气。主句的谓语couldn’t have表明是对现在的虚拟，从句的谓语hadn’t been表明是对过去的虚拟。那就要思考这里为什么要用混合时间虚拟呢？该如何判断虚拟时间呢？其实，这里的主句说“你不可能有你的妻子”，但事实是现在“你有妻子”，即是对现在一般情况的虚拟。那么从句为什么是表示对过去时间的虚拟呢？因为从句说“如果不是因为你的岳母”，言外之意是，“如果没有你的岳母生下你的妻子”——这是发生在过去的。所以，这里的从句是表示对过去的虚拟，于是采用过去完成时hadn’t been
+
+
+  精品译文　A：我不喜欢我的岳母。
+
+  B：听着，你有没有想过，如果没有你的岳母，哪来你现在的妻子啊？
+
+  A：正是因为这个所以我才不喜欢她。
+
+  混合时间虚拟语气”，即主句和从句分别对不同的时间进行虚拟。在这一节里讨论的混合时间虚拟语气是ZxCg（主现从过）型虚拟语气，即主句对现在虚拟，用would do形式；从句对过去虚拟，用had done形式。这是最常用的一种混合虚拟语气。
+
+## 7.6 混合虚拟（二）：主句过去+从句现在
+据以上分析，原句是一个ZgCx（主过从现）型的混合时间虚拟语气，即主句表示对过去事实的虚拟，从句则是表示对现在事实的虚拟。因此，“如果我不爱她，我就不会娶她”这句话的正确英文表达应该是例句2：“If I didn’t love her, I wouldn’t have married her.”。
+
+混合时间虚拟语气”，即主句和从句分别对不同的时间进行虚拟。但与上一节不同的是，本节讨论的是ZgCx（主过从现）型混合时间虚拟语气，即主句对过去虚拟，用would have done的形式；从句对现在虚拟，用did的形式。这正好与上一节中讨论的主句和从句所表达的虚拟时间相反。
+
+## 7.7 倒装虚拟
+在英文中，虚拟从句可以采用倒装结构。具体来说，当if引导的条件句省去if时，可将should，had或were置于句首，从而构成倒装虚拟句，而意义不变。请看例句：
+
+  Countless divorced politicians would have been elected out of office years ago had they even thought of a divorce, let alone gotten one.
+
+  妙语点睛　这里的从句用了倒装结构had they even thought…，相当于if they had even thought…。主句的谓语是would have been elected，显然是表示对过去情况的虚拟。
+
+  精品译文　现如今很多政客都纷纷离婚，这在几年前是不可能的。那时，不要说真的离婚了，哪怕他们有离婚的想法，都一定会被赶下台。
+
+## 7.8 跳层虚拟
+我们看到，这个句子的谓语比较复杂，一个是must have heard，另一个是would not have known，即两个都带有情态动词。读者要注意的是，这里的must have heard不是虚拟语气，而是must表示推测的用法（详见第八章）。在英文中，“must+have done”结构表示对过去的推测。也就是说，这里谈论的是一个过去的情形。接下来有一个关键词or，表示“否则”，其后面接的就是虚拟语气。此时我们要搞清楚两点：一是虚拟的时间。由or前面的句子我们知道，这里是表示对过去的虚拟；二是句子的谓语采用虚拟主句的谓语形式还是从句的谓语形式。因为or后面的句子相当于一个虚拟主句，所以其谓语自然要采用虚拟主句的谓语形式。搞清楚这两点，就知道为什么要说would not have known了，因为这正是一个过去虚拟的主句谓语结构形式。
+
+  由此可见，这是一类较为特殊的虚拟语气。这类虚拟句一般分为两部分，两部分在语气上截然相反，一部分虚拟，另一部分不虚拟，而用的是陈述语气，用以陈述一个事实。比如上面这个句子就是“陈述句or+虚拟句”这样的结构。它们二者之间往往有but，or，or else或otherwise来连接。正是因为这种虚拟与不虚拟兼而有之，一部分虚拟，一部分又跳出虚拟的圈子，故我称之为“跳层虚拟句”。
+
+### 7.8.1 陈述句+ or +虚拟主句
+这里的连接词除了or，还可以用or else和otherwise。需要注意的是，or前面的句子是陈述语气，而后面的句子用的是虚拟语气，而且是虚拟主句。具体的谓语搭配结构是：
+
+  1. 主语一般现在时的谓语形式, or+主语+would do→表示对现在事实的虚拟；
+
+  2. 主语+一般过去时的谓语形式, or+主语+would have done→表示对过去事实的虚拟。
+
+Mary couldn’t have received my letter; otherwise she would have replied before now.
+
+  妙语点睛　这里otherwise后面的句子表示对过去的虚拟，相应地，其前面的半个句子就是表示陈述过去，所以要用一般过去时。不过，这里情态动词的过去时态couldn’t have done的形式表示对过去的推测，类似于must表示推测。
+
+  精品译文　玛丽不可能收到我的信，要不然她现在已经给我回复了。
+
+### 7.8.2 虚拟主句 + but + 陈述句
+与or等词不同的是，这里but的前面是虚拟主句，but的后面是陈述句。该句型的使用规律是：
+
+  1. 主语+would do, BUT+主语+一般现在时的谓语形式→表示对现在事实的虚拟；
+
+  2. 主语+would have done, BUT+主语+一般过去时的谓语形式→表示对过去事实的虚拟。
+
+当然，句中的would可换成should, might或could。这类跳层虚拟句的关键标志词是but，随着but一转折，句子的语气也由虚拟变为不虚拟，即but将句子一分为二，but前面部分的句子用虚拟语气，but后面部分的句子用陈述语气。请看例句：
+
+  He would put on weight, but he doesn’t eat much.
+
+  =He would put on weight if he ate much.
+
+  妙语点睛　这里不用didn’t，而是doesn’t。因为前面的would不是表示过去时态，而是表示对现在事实的虚拟，原句相当于“If he ate much, he would put on weight.”。这就解释了为什么but前面的半句话相当于虚拟主句形式了，因为but后面的陈述句相当于一个虚拟从句。
+
+  精品译文　他本来是会发胖的，但是他从来不会多吃。
+
+
+共有两类跳层虚拟句，一类是由or等引导的，具体的句型结构是：
+
+  1. 主语+一般现在时谓语形式，or+主语+would do→表示对现在事实的虚拟；
+
+  2. 主语+一般过去时谓语形式，or+主语+would have done→表示对过去事实的虚拟。
+
+  另一类是由but引导的，具体的句型结构是：
+
+  1. 主语+would do，but+主语+一般现在时谓语形式→表示对现在事实的虚拟；
+
+  2. 主语+would have done，but+主语+一般过去时谓语形式→表示对过去事实的虚拟。
+
+注意这两类句型的前后两个分句的语气正好相反。
+
+## 7.9 名词从句如何使用虚拟
+虚拟语气除了用在上述非真实条件从句中以外，在特定的名词从句中也需要用虚拟语气。这里所说的“特定的名词从句”，是指这样的名词从句中均要含有特定的标志词，这些标志词可用来表示愿望、建议、命令、请求或意志等语气。而且，与非真实条件虚拟句中的主句和从句的谓语动词的形式完全不同的是，名词从句虚拟句的谓语变化的形式只有一条规律，那就是：名词从句虚拟句无论其主句的谓语动词是何种形式，从句的谓语形式均为“should动词原形”，其中should可以省去。这里特别要提醒读者注意：不是用would，而是用should。比如：
+
+  I suggest that we should go tomorrow.
+
+  I suggested that we should go the next day.
+
+  妙语点睛　上面两个例句中的suggest 即是我们所说的标志词。这里从句中谓语的时态（should）+do。
+
+### 7.9.1 在下列词的宾语从句中
+  ask （要求，请求），advise，beg，command，demand，decide，deserve，desire，determine，insist，move （动议，提议），order，prefer，propose，require，recommend，request，suggest和urge等。请看例句：
+
+  His father urged that he study medicine.
+
+  妙语点睛　注意这句话中用study，不用studies。
+
+  精品译文　他父亲要求他学医。
+
+  The Chinese government and people have demanded that the U.S. Government shoulder all the responsibilities for the incident, apologize to the Chinese side and take effective measures to prevent the recurrence of such incidents.
+
+  中国政府和人民要求美国政府对此事件必须承担全部责任，向中国道歉，并采取有效措施防止类似事件再次发生。
+
+### 7.9.2 在it is+形容词/过去分词。特定的名词+that的主语从句中
+
+一、形容词
+
+  astonishing，amazing，advisable，appropriate，crucial，desirable，essential，important，imperative，keen，necessary，natural，normal，odd，proper，preferable，strange，sorry，shocked，surprising，urgent，unusual和vital等。这些形容词一般表示个人对事件的反应。请看例句：
+
+  If we are ever going to protect the atmosphere, it is crucial that those new plants be environmentally sound.
+
+  妙语点睛　这里因为有了形容词crucial，所以从句要用虚拟语气，即用动词原形be。
+
+  精品译文　我们若是想保护大气层，那么就应该要求那些新开工的工厂对环境无害。
+
+二、过去分词
+
+  decided，desired，demanded，ordered，requested，required，recommended和 suggested 等。请看例句：
+
+  It is requested that all members be present at the meeting. 要求所有的成员都出席这次会议。
+
+三、特定的名词
+
+  advice，decision，desire，demand，suggestion，motion，pray，resolution，wish，preference，proposal，recommendation，requirement，idea和order等。请看例句：
+
+  It is my proposal that he be sent to study further abroad. 我建议把他送到国外去学习。
+
+### 7.9.3 在上述名词的表语从句和同位语从句中
+
+Jean Wagner’s most enduring contribution to the study of Afro-American poetry is his insistence that it be analyzed in religious, as well as worldly, frame of reference.
+
+  妙语点睛　这里因为有了名词insistence，所以从句要用虚拟语气，即用动词原形。
+
+  精品译文　让·瓦格纳对美国黑人诗歌的研究最为持久的贡献是，他坚持认为，应把此类诗歌放在宗教与世俗的框架中进行分析。
+
+## 7.10 各种虚拟语句
+### 7.10.1 在wish后面的宾语从句中
+一、对现在的虚拟
+
+  即表示对现状的愿望，从句的谓语动词用过去时。请看例句：
+
+  I wish I were a little younger. 我希望我能够年轻一点。
+
+  I wish I could travel to the moon (but I can’t do that). 我希望我能够登上月球（但实际上我不能）。
+
+二、对过去的虚拟
+
+  即对过去发生的事情表示遗憾或后悔，从句的谓语动词用过去完成时（had done）或“would/could+现在完成时”，意指从句的谓语动词所表示的动作发生在主句的谓语所表示的动作之前。请看例句：
+
+  I wish I had been there. 我真希望我当时在那儿。
+
+  I wish I had not attended that party. 我真希望我当时没参加那个聚会。
+
+三、对将来的虚拟
+
+  指对将来发生的事情表示祝愿，从句的谓语动词用“would/could+动词原形”，意指从句的谓语动词所表示的动作可能发生在主句的谓语所表示的动作之后。
+
+  10 A: It’s not fun being around Debbie and Mike these days. All they do is quarrel.
+
+  B: I’ve noticed it, too. I wish they would keep their squabbles to themselves.
+
+  精品译文　A：这两天跟黛比和麦克呆在一起真没意思，他们整天就是吵架。
+
+  B：我也注意到了，我真希望他们要吵就私下里吵，而不要当着大家的面吵。
+

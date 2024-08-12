@@ -1763,3 +1763,265 @@ this 的 一种常见的显式应用是用于链表操作。
 [10 ]将不修改对象值的成员函数定义为const 成员函数;16.3.2 节。
 
 [ 1 1 ] 若 一个 函 数 需 要 访 问 类 的 表 示 ， 但 并 不 需 要 用 某 个 具 体 对 象 来 调 用 ， 建 议 将 其 实现 为 s t a t i c 成 员 函 数 ; 1 6 . 2 . 1 2 节。
+
+# 函数模版
+
+泛型程序设计
+1. Generic Programming
+2. 算法实现时不指定具体要操作的数据的类型
+3. 泛型-算法实现一遍-适用于多种数据结构
+4. 优势：减少重复代码的编写
+5. 大量编写模版，使用模版的程序设计
+    1. 函数模版
+    2. 类模版
+
+函数模版
+1. 为了交换两个double型变量的值，还需要编写如下Swap函数：
+    ```c
+    void Swap(double & x, double & y) {
+        double tmp = x;
+        x = y;
+        y = tmp;
+    }
+    ```
+2. 用函数模版解决
+    template<class类型参数1，class类型参数2，……>
+    返回值类型 模版名（形参表）{
+        函数体
+    }
+3. 交换两个变量值的函数模版
+    ```c
+    template <class T>
+    void Swap(T & x, T & y) {
+        T tmp = x;
+        x = y;
+        y = tmp;
+    }
+    int main() {
+        int n = 1, m = 2;
+        Swap(n, m);
+        doublr f = 1.2, g = 2.3;
+        Swap(f, g);
+        return 0;
+    }
+    ```
+4. 函数模版中可以有不止一个类型参数
+    ```c
+    template <class T1, class T2>
+    T2 print(T1 arg1, T2 arg2) {
+        cout << aeg1 << ""<< arg2 << endl;
+        return arg2;
+    }
+    ```
+5. 求数组最大元素的Max Element函数模版
+    ```c
+    template <class T>
+    T MaxElement(T a[], int size) {
+        T tmpMax = a[0];
+        for (int i = 1; i < size; ++i)
+            if (tmpMax < a[i])
+        tmpMax = a[i];
+        return tmpMax;
+    }
+    ```
+6. 函数模版可以重载，只要他们的形参表不同即可
+    例，下面两个模版可以同时存在
+    ```c
+    template <class T1, class T2>
+    void print(T1 arg1, T2 arg2) {
+        cout << arg1 << "" << arg2 << endl;
+    }
+    template <class T>
+    void print(T arg1, T arg2) {
+        cout << arg1 << "" << arg2 << endl;
+    }
+    ```
+7. C++编译器遵循以下优先顺序：
+    1. 先找参数完全匹配的普通函数（非由模版实例化而得的函数）
+    2. 再找参数完全匹配的模版函数
+    3. 再找实参经过自动类型转换后能够匹配的普通函数
+    4. 上面的都找不到，则报错
+    例：函数模版调用顺序
+        ```c
+        template <class T>
+        T Max(T a, T b) {
+            cout << "Template Max 1" << endl;
+            return 0;
+        }
+        template <class T, class T2>
+        T Max(T a, T2 b) {
+            cout << "Template Max 2" << endl;
+            return 0;
+        }
+        double Max(double a, double b) {
+            cout << "MyMax" << endl;
+            return 0;
+        }
+        int main() {
+            int i = 4, i = 5;
+            Max(1.2, 3.4);
+            Max(i,j);
+            Max(1.2,3);
+            return 0;
+        }
+        ```
+8. 赋值兼容原则引起函数模版中类型参数的二义性
+    ```c
+    template <class T1, class T2>
+    T1 myFunction(T1 arg1, T2 arg2) {
+        cout << arg1 << " " << arg2 << "\n";
+        return arg1;
+    }
+    myFunction(5, 7);
+    myFunction(5.8, 8.4);
+    myFunction(5, 8.4);
+
+# 类模版
+1. 数组 一种常见的数据类型
+    元素可以是：
+        1. 整数
+        2. 学生
+        3. 字符串
+2. 考虑一个数组类
+    需要提供的基本操作：
+        1. len()：查看数组的长度
+        2. getElement(int index):获取其中一个元素
+        3. setElement(int index):对其中的一个元素进行赋值
+3. 类模版
+    1. 在定义的时候给它一个/多个参数
+    2. 这个/些参数表示不同的数据类型
+4. 在调用类模版时，指定参数，由编译系统根据参数提供的数据类型自动产生相应的模版类
+类模版的定义
+1. C++的类模版的写法如下：
+    template <类型参数表>
+    class 类模版名 {
+        成员函数和成员变量
+    }；
+2. 类型参数表的写法就是：
+    class类型参数1，class类型参数2，
+3. 类模版里的成员函数，如在类模版外面定义时，
+    temp <型参数表>
+    返回值类型 模版名<类型参宿名列表>::成员函数名（参数表） { }
+4. 用类模版定义对象的写法如下：
+    类模版名<真实类型参数表> 对象名（构造函数实际参数表）；
+5. 如果类模版有无参构造函数，那么也可以只写：
+    类模版名<真实类型参数表> 对象名；
+6. Pair类模版：
+    ```c
+    template <class T1, class T2>
+    class Pair {
+        public:
+            T1 key;
+            T2 value;
+            Pair(T1 k, T2 v):key(k),value(v) {};
+            bool operator <(const Pair<T1, T2> & p) const;
+    };
+    template<class T1,class T2>
+    bool Pair<T1, T2>::operator<(const Pair <T1, T2> & p)const {
+        return key<p.key;
+    }
+    int main() {
+        Pair<string, int> student("Tom",19);
+        cout << student.key << "" << student.value;
+        return 0;
+    }
+    ```
+7. 使用类模版声明对象
+    1. 编译器由类模版生成类的过程叫类模版的实例化
+        编译器自动用具体的数据类型-替换类模版中的类型参数，生成模版类的代码
+    2. 由类模版实例化得到的类叫模版类
+        为类型参数指定的数据类型不同，得到的模版类不同
+8. 同一个类模版的两个模版类时不兼容的
+    ```c
+    Pair <string, int> *p;
+    Pair <string, double> a;
+    p = &a;
+    ```
+函数模版作为类模版成员
+    ```c
+    #include <iostream>
+    using namespace std;
+    template <class T>
+    class A {
+        public:
+            template <class T2>
+            void Func(T2 t) {
+                cout << t;
+            }
+    };
+    int main() {
+        A <int> a;
+        a.Func('K');
+        return 0;
+    }
+    ```
+
+类模版与非类型参数
+1. 类模版的参数声明可以包括非类型参数
+    template<class T,int elementNimber>
+    1. 非类型参数：用来说明类模版中的属性
+    2. 类型参数：用来说明类模版中的属性类型，成员操作的参数类型和返回值类型
+2. 类模版的“<类型参数表>“中可以出现非类型参数：
+    ```c
+    template <class T, int size>
+    class CArray {
+        T array[size];
+    public:
+        void Print() {
+            for (int i = 0; i < size; ++i)
+                cout << array[i] << endl;
+        }
+    };
+
+类模版与继承
+1. 类模版派生出类模版
+    ```c
+    template <class T1, class T2>
+    class A {
+        T1 v1; T2 v2;
+    };
+    template <class T1, class T2>
+    class B:public A < T2, T1> {
+        T1 v3; T2 v4;
+    };
+    template <class T>
+    class C:public B<T,T> {
+        T v5;
+    };
+    int main() {
+        B<int,double> obj1;
+        C<int> obj2;
+        return 0;
+    }
+    ```
+2. 模版类（基类模版中类型/非类型参数实例化后的类）派生出类模版
+    ```c
+    template <class T1, class T2>
+    class A{T1 v1; T2 v2;};
+    template <class T>
+    class B:public A<int,double>{T v;};
+    int main() {B <char> obj1; return 0;}
+    ```
+    自动生成两个模版类A<int,double> 和B<char>
+3. 普通类派生出类模版
+    ```c
+    class A{int v1;};
+    template <class T>
+    class B:public A{ T v;};
+    int main() {
+        B<char>obj1;
+        return 0;
+    }
+    ```
+4. 模版类派生出普通类
+    ```c
+    template <class T>
+    class A {T v1; int n;};
+    class B:public A<int> {double v;};
+    int main() {
+        B obj1;
+        return 0;
+    }
+
+# 构造、清理、拷贝和移动
+## 
