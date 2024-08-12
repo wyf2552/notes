@@ -2790,3 +2790,212 @@ Jean Wagner’s most enduring contribution to the study of Afro-American poetry 
 
   B：我也注意到了，我真希望他们要吵就私下里吵，而不要当着大家的面吵。
 
+### 7.10.2 在if only 感叹句中
+if only表示“但愿”“要是……就好了”，其用法和wish基本相同，可表示对现在、过去和将来的虚拟，只是比wish具有更强烈的感情色彩。请看例句：
+
+  If only the rain would stop. 但愿雨能停。（对将来的虚拟）
+
+  If only I were taller. 我的个子要是能高一点就好了。（对现在的虚拟）
+
+  If only he had followed your advice! 他要是听从了你的建议就好了！（对过去的虚拟）
+
+### 7.10.3 在as if/as though引导的从句中
+一、表示与现在事实相反或对现在情况有所怀疑，谓语用过去时
+
+  I really don’t care for the way you’re speaking to me. It seems as if you were my father.
+
+  我真的非常讨厌你和我说话的方式。你听起来就好像是我爸爸。
+
+二、表示与过去事实相反，谓语用过去完成时
+
+  We have not seen each other for ten solid years, but when we encountered on the street that day, we were still so affectionate that it seemed as if not a single day had gone by. 我们已经有整整10年没见了，但是当那天我们在街上相遇时，我们仍然感到无比亲切，就好像时光并未流逝，我们还是10年以前那样。
+
+  注意，若从句中的情形是根据现在的迹象作出的推测，有可能发生，则用陈述语气。请看例句：
+
+  It is becoming dark. It looks as if it’s going to rain. 天变黑了，似乎就要下雨。
+
+### 7.10.4 在it is(high) time (that)从句中
+该句型表示“该是做什么事的时候了”，含有“晚了一点”的意思，从句中用过去时。请看例句：
+
+  Don’t dawdle away your youth any more. It is time you thought about your future.
+
+  不要再浪费青春了，你该考虑自己的将来了。
+
+### 7.10.5 在would rather, would(just) as soon, would sooner, would prefer等从句中
+一、would rather do sth.
+
+  would rather的后面接动词原形，可以表示将来或现在的事件，意指“主语宁愿自己做某事”。这是would rather最常见的用法。请看例句：
+
+  I would rather go there tomorrow. 我想明天去那里。
+
+  如果要和另外一件事情来比较，这时要用than来引出另外的事情。比如：
+
+  He would rather stay at home than go to the cinema tonight. 他今晚就想在家里呆着, 而不想去看电影。
+
+  注意，对该句型的否定，要在动词的前面加not，而不是在would的后面加not。例如：
+
+   He would rather not stay at home tonight. 他今晚不想在家呆着。
+
+二、would rather have done sth.
+
+  这是would rather后面接动词完成式的用法，表示过去的事件，意指“某人宁愿自己过去做了某事，但实际上没有做”，因此，具有过去虚拟的意味，如同过去虚拟条件主句的谓语形式。请看例句：
+
+  I took Sally to the cinema last night, but I would rather have been there alone.
+
+  妙语点睛　这里的would rather have been表示对过去的虚拟，意思是“还不如自己一个人去”，但实际上不是一个人去的。
+
+  精品译文　我昨晚带萨莉看电影去了，可是我还不如自己一个人去呢（真不该带她去）。
+
+三、would rather sb. did
+
+  这是would rather后面接从句的用法，意指“主语宁愿让另一个人做某事”。这里从句的谓语用一般过去式，但表示的是现在或将来的事件，如同现在虚拟条件从句的谓语形式。请看例句：
+
+  Don’t come tomorrow. I’d rather you came next weekend.
+
+  妙语点睛　我们看到，这里的时间状语next weekend显然是表示一个将来的时间，但句子的谓语却用了came这样的一般过去式，而不用will come，甚至也不用would come。
+
+  精品译文　明天就别来了，我希望你下周末过来。
+
+四、would rather sb. had done
+
+  这是would rather后面接从句的用法，意指“主语宁愿别人过去做了某事，但实际上没有做”。这里从句的谓语用过去完成时表示过去的事件，如同过去虚拟条件从句的谓语形式。请看例句：
+
+  For my ninth birthday, my father gave me a set of the World Book Encyclopedia. But I would rather he had given me a set of transformers.
+
+  在我9岁生日的时候，我爸爸送给了我一套《世界百科全书》，可是我倒宁愿他能送我一套变形金刚。
+
+  其他的结构，如would (just) as soon，would sooner和would prefer在接从句时，完全如同would rather的虚拟用法，在此不再赘述。请看例句：
+
+  I’d just as soon you didn’t speak rudely to her. 我希望你不要那么粗鲁地对她说话。
+
+  最后，我们再来看一个might just as well接完成时的虚拟表达：
+
+  Our holidays were ruined by the weather—we might just as well have stayed at home.
+
+  妙语点睛　这完全类似于would rather have done的意义和用法，都表示对过去的虚拟，意思是“还不如呆在家里”，但实际上没有这么做，而是出去度假了，但天气不好，玩得并不开心。
+
+  精品译文　因为天气的原因，我们的假期全给毁了。我们还不如就在家里呆着哪儿也不去呢！
+
+# 8 情态动词
+## 8.1 引言：多情多义的情态动词
+![alt text](./images/18.1.1.png)
+从以上表格看到：
+
+  1. 最基本的情态动词有五个：can，may，must，shall和will（见第一栏）；
+
+  2. 除了must以外，其他四个情态动词都有对应的一般过去式，分别是：could，might，should和would（见第二栏）；
+
+  3. 这五个情态动词都有对应的情态动词短语，分别是：be able to，be allowed to，have (got) to，be supposed to/ought to和be going to（见第三栏）。
+
+  需要注意的是，四个情态动词的过去式could，might，would和should只是在形式上是can，may，will和shall的过去式，而在意义上并不是完全对应于can，may，will和shall。具体来说，一方面，现在式和过去式这两类情态动词的意义并不完全对等。例如，can和could的意义并不完全等同，它们既有共同的用法，如表示“能力”，也有各自不同的用法。另一方面，这四个过去形式的情态动词并不一定表示过去的时间。
+
+### 8.1.2 情态动词的意义
+见识了情态动词的“长相”后，下面再简单地了解一下它们都有什么样的“脾气”和“秉性”——即它们有何意义。
+
+  简言之，情态动词（modals）用在实义动词（main verb）的前面，以添加某种意思。请比较下列句子用与不用情态动词在意义上的差别：
+
+  1） John isn’t in class. He is sick.
+
+  2） John isn’t in class. He must be sick.
+
+  妙语点睛　在例句1）中，没有使用情态动词，只用了一般现在时态的is，表达的是一个客观事实。在例句2）中，用了情态动词must，则是表示说话人的主观猜测。我们看到，因为有了must，使得例句2）比例句1）更带有主观色彩，意思也不同了。
+
+  精品译文　1） 约翰今天没上课，他病了。
+
+  2） 约翰今天没上课，他一定是病了。
+
+情态动词的意思不止一个。事实上，每个情态动词都有很多的意思，而不同的意思就有不同的用法。经过多年来对英语语言资料的收集、观察、分析和总结，我发现情态动词的含义大致可以分为以下两大类：
+
+  一类是表示“逻辑可能性”，将其称为推测用法，即表示人们对某件事发生的可能性大小所做的判断。比如上述例句1中的must即是推测用法。几乎每个情态动词都有推测用法，这是情态动词的共性。
+
+  另一类是各个情态动词有各自基本的意思，比如，can意为“能够”，must意为“必须”（如在上述例句2中的意思），should意为“应该”等等。情态动词的这层意思是读者较为熟悉的，因为这些情态动词的意思往往就是词典中的第一个意思。这是情态动词的“个性”意义和用法，称之为情态动词的基本用法。这一用法尤其适用于社会交往中。当涉及与别人相关的某事时，我们往往就用情态动词，表示出不同程度的文明礼貌。比如，请别人“允许”自己做某事或准许别人做某事；“规劝”别人做某事或接受别人的劝告；对别人提出“请求”和“建议”，或答应别人的请求和提议等等。由于与交际双方的社会关系密切相关，情态动词的这一用法相当灵活。
+
+  情态动词就有三大类用法：推测用法、基本用法和虚拟用法。
+
+### 8.1.3 情态动词的结构搭配与意义关系
+一、情态动词+一般式
+
+  这一结构就是在情态动词后面接一个动词原形。上面讨论的所有例句都属于这一结构搭配，比如：
+
+  He must drink a lot of milk.
+
+  译文1：他得多喝牛奶。
+
+  译文2：他准是爱喝很多牛奶。
+
+  在“情态动词一般式”这个结构搭配中，情态动词可以是推测意义，也可以有基本意义。比如这里的must可以表示推测含义“准是”，也可以表示基本含义“必须”。
+
+二、情态动词+完成式/进行式/完成进行式
+
+  在这一结构搭配中，完成式如may have done；进行式如should be doing；完成进行式如 must have been doing。请看例句：
+
+  I think I may have annoyed Mary. 我想我可能是惹玛丽生气了。
+
+  在情态动词接完成式、进行式或完成进行式的时候，情态动词都是具有推测意义，而没有各自的基本意义。比如上面例句中的may，should，could和must都是用了推测意义。具体来说，这里的may不是“许可”的意思，而是表示推测的“可能”；should不是表示义务的“应该”，而是表示推测的“应该”；could不是表示“能力”，也不是表示过去，而是表示对现在的推测；must不是表示“必须”，而是表示推测的“准是”。
+
+  四个过去形式的情态动词would，could，might和should接完成式（have done）可以表示对过去的虚拟，此时情态动词不是推测的意义，而是虚拟含义。不过，将来虚拟是表达某件事发生的可能性极小——这也是一种推测，这就表明推测意义与虚拟意义还是有某种联系的。从这一点我们得到启示：如果把虚拟意义看作是推测意义的一种特例——推测某种可能性不存在，此时也就与情态动词的推测用法有联系了，这样就依然证明了上面的规律：在情态动词接完成式、进行式或完成进行式的时候，情态动词都具有推测意义，而没有各自的基本意义。
+
+三、情态动词+情态动词短语
+
+  在8.1.1小节中讲到，情态动词对应于这样一些短语：be able to，be allowed to，have (got) to，be supposed to/ought to和be going to。这些短语可以用在情态动词后面。比如，在8.1.1小节的练习中看到的这些句子：
+
+  We’re supposed to do our best and we should be able to finish this work before the boss has to start screaming at us again. 我们应该竭尽全力，这样才能够在老板再次冲我们大喊大叫之前完成这项工作。
+
+本节向读者展示了情态动词的概况。
+
+  第一，情态动词有can，may，must，will和shall，除must以外它们各自对应的过去形式是could，might，would和should，以及对应的情态动词短语，如be able to等。
+
+  第二，总结出了两大类情态意义：基本意义（root meaning）和推测意义（deduction meaning）。
+
+  第三，总结出了结构搭配与意义之间的关系。如基本意义一般仅限于用在“情态动词一般式”的结构中。这一结构也是情态动词最常见的结构搭配。推测意义可存在于“情态动词一般式”“情态动词完成式/进行式/完成进行式”以及“情态动词短语情态动词”这三类结构中。
+
+  第四，在“情态动词情态动词短语”（如may be able to）这样搭配中，情态动词也是只有推测意义。
+
+## 8.2 推测用法（一）：现在推测（情态动词一般式）
+### 8.2.1 对现在的肯定推测
+一、must表示“推测”及其他含义
+
+  请看下面这些对现在的肯定推测的例子：
+
+  A: Why isn’t John in class today?
+
+  B: He must be sick.
+
+  A：约翰今天怎么没来上课呢？
+
+  B：他一定是病了。
+
+  must除了表示“推测”之外，还有另一个常见的用法是表示“责任”或“义务”，译成“必须”。这其实是must的基本用法，由于它与“推测”的用法形成了一个很好的对比，所以在此对这一含义和用法进行介绍。
+
+  must在表示“必须”时，可以是非常“强烈的义务（strong obligation）”，比如法律规定：
+
+  You must wear a seat belt while driving.开车时必须系安全带。
+
+  或者是某些规章制度或规定等。比如：
+
+  Door must be closed when machine is in operation.机器运转时门必须关闭。
+
+  以上句子中的must语气非常强烈。must还可以是表示说话人主观认为某事是重要的、必须完成的“义务”。比如：
+
+  You must concentrate on one thing at a time. 做事时你必须一心一意。
+
+  这里must表示“义务”的程度就要比上面句子中法律规定的“义务”要弱很多。另外，在“义务”的含义更弱的情况下，即把must用于描述说话人自身的情况。比如：
+
+  I must remember to feed the cat. 我得记住一定要喂猫。
+
+  must表示“必须”时，大致可以分为以上四种不同的强烈程度，对此读者不妨体会一下。
+
+最后，简单地比较一下must的“推测”用法和“必须”用法之间的关系：
+
+  第一，表示“推测”时，must不能表示将来，只能表示对现在的推测和对过去的推测（见8.4节）。若是表示对现在的推测，其谓语形式是“must一般式”，即must do；或“must进行式”，即must be doing。若是表示对过去的推测，其谓语形式是“must完成式”，即must have done。
+
+  第二，表示“必须”时，must不能谈过去的事件，只能谈现在和将来的事情。其谓语形式都是“must一般式”，即must do。不能用“must进行式或完成式”，即must be doing或must have done中的must一定不会译成“必须”，而只能是表示推测。must表示“必须”的意义时是没有过去时态的，要表示“过去必须”，则要借用had to来表达。
+
+  第三，在表示“必须”时，must后面的谓语动词一般是表示动作（action）的，具体来说，就是现在的动作或将来的动作（present and future actions），不会是表示状态。在表示“推测”时，must后面的谓语动词可以是动作，也可以是状态。比如：
+
+  He must be dead.
+
+  妙语点睛　因为这句话的谓语动词be表示状态，所以这句话不会译成“他必须死掉”，而只能译成“他一定是死了”，即表示推测。
+
+  精品译文　他一定是死了。
+
