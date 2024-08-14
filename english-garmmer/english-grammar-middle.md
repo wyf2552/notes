@@ -2999,3 +2999,570 @@ if only表示“但愿”“要是……就好了”，其用法和wish基本相
 
   精品译文　他一定是死了。
 
+用have to表示“必须”时，与must主要有两点区别：
+
+  第一，在时态的表达上，must只能谈现在或将来，不能谈过去。must没有时态的变化，而have to有各种时态的变化，比如过去式had to，将来式will have to，现在完成式have had to，过去完成式had had to等。请看例句：
+
+  When I was in school, we had to wear school uniform.
+
+  妙语点睛　这里的had to表示“过去必须”。
+
+  精品译文　我上学时，我们都得穿校服。
+
+  第二，如果是来自外界的不可控的行为（uncontrollable external behavior），此时要用have to。比如，“要打喷嚏”是我们无法控制的，所以要说：
+
+  Excuse me, but I have to sneeze. 对不起，我要打喷嚏。
+
+  此时，一般不用must。
+
+  除了以上两点，还需要注意的是，must（“必须”）的否定形式mustn’t不是表示“不必”，而是“千万别做某事”的意思，表示“不必”要说don’t have to。因此，可以说must（“必须”）的否定是don’t have to（“不必”）。另外，must的推测用法“一定是”的否定不是mustn’t，而是can’t（“不可能是”）
+
+  在口语中，have got to作为have to的口语形式更为常用，同样可以有两个意思：推测和必须。比如：
+
+  They’ve got to try harder next time.
+
+  妙语点睛　这里的have got to表示“必须”。
+
+  精品译文　他们下次得更努力些。
+
+  不过需要注意的是，have to有各种时态的变化，而have got to没有时态的变化（只能表示现在或将来，这一点同must表示“必须”意义时相同），比如不说had got to*等。
+
+二、其他表示推测的情态动词
+
+  当然，我们还可以用其他的情态动词来表示对现在的推测，这些情态动词有may，might和could等。比如：
+
+  A: I wonder where Tom is.
+
+  B: He may/might/could be in the library.
+
+  精品译文　A：我不知道汤姆在哪里。
+
+  B：他或许在图书馆。
+
+  非语言信息是指来自面部表情、眼神接触、身体姿势和手势等方面的信息。比如，若有人在微笑或大笑，这说明他可能是在开玩笑；而如果有人在打哈欠，则可能说明他对这个交谈感到乏味。
+
+  读者需要注意的是，不同的情态动词所表达的可能性的程度是不一样的。下面大致给出这样一个确定程度的差别比较：
+
+  A: Why isn’t John in class?
+
+  B: He is sick. （100%确定，对客观事实的陈述）
+
+  He must be sick. （90％确定，很有把握的陈述）
+
+  He may be sick. （50％确定，不太有把握的陈述）
+
+  He could/might be sick. （25％确定，很没有把握的陈述，只是提供一种可能的情况）
+
+### 8.2.2 对现在的否定推测
+我们发现以下四点是值得注意的：
+
+  1. 在否定推测中没有must，因为must表示推测时一般只用在肯定句中，而否定的mustn’t常用于表示“命令别人不要做什么”，译为“千万别”。
+
+  2. 与must相反，can表示推测时不能用在肯定句中，只用在否定句和疑问句中。关于这一点，在8.6节中将有详细的分析和解释。因此，must不能在否定句表示推测这一空白正好由can’t来填补，也就是说表示推测的must，否定时要改为can’t，而不是mustn’t。比如：
+
+  You must be joking. You can’t be serious. 你准是在开玩笑，你不可能当真吧。
+
+  3. 在肯定推测时，could的肯定程度很低；但在否定推测时，couldn’t则表示十分确信，译为“不可能”。
+
+  4. could和might虽然是过去式，但在这里并不是表示对过去的推测，而是表示对现在的推测，或者是对将来的推测
+
+### 8.2.3 对现在进行推测的其他情态动词
+表示对现在的推测，常用的情态动词是must，may，might和could，在否定句中还有can’t （来替换must）。不过will和should也可以用来表示对现在的推测，其肯定程度等同于must。比如：
+
+  Ring his home number. He’ll be at home now.
+
+  妙语点睛　这里用will，表示“我肯定他在家”，相当于“He must be at home now.”。
+
+  精品译文　给他家打电话吧，他现在肯定在家。
+
+## 8.3 推测用法（二）：将来预测（情态动词一般式）
+（一）
+
+  对将来的推测，更确切地说应该是“预测（prediction）”，谓语形式也是用“情态动词一般式”，这与上一节讨论的对现在的推测的谓语形式一样。实际上，除了must，情态动词如will，should，may，might和could都可以表示对将来的预测。
+
+  It is a near certainty that science will discover the aging gene and find out how to turn it off. The ethical problems of who shall live and who shall die and who can have children in a crowded world will be monumentally difficult to solve.
+
+  妙语点睛　这里我们看到，因为该周刊对人类将会发现致衰老基因及将会面临的问题很确信，所以都用了will。
+
+  精品译文　几乎可以肯定的是，未来的科学会发现人类的致衰老基因，并知道如何消除这一基因。到那时，由此引出的各种问题，比如让什么人长生不老，让什么人寿终正寝，以及在这样拥挤的地球上谁可以生孩子，这些都将是难以解决的伦理问题。
+
+（二）
+
+  值得注意的是，should表示说话人的一种合理的假设（the speaker’s reasonable assumption），因此它是用来对说话人所希望发生的事进行推断的。若将来的事件不是他所期望发生的，则不用should表示这种推测。比如例句22讲到的对未来战争局势的预测，如果说话人用了should，即should be longer and more difficult than some predict，就意味着他希望战争“越持久越艰难越好”。
+
+  1） Let’s not go to the movie. It could be bad.
+
+  2） Let’s go to the movie. The film should be really good.
+
+  妙语点睛　在例句1）中，“电影可能不好”并不是说话人所期望的，所以不说“It should be bad.*”。在例句2）中，“电影好看”自然是人人希望的，所以说话人用should。
+
+  精品译文　1） 我们别去看电影了，它或许不好看。
+
+  2） 我们去看那电影吧，它应该很好看。
+
+首先，表示对将来的预测的情态动词较多，除了must外都可以，比如could和might等这样的过去形式的情态动词都可以表示对将来的预测。
+
+其次，不同的情态动词所表示的确定程度不同。
+
+最后，要理解should用来对说话人所希望发生的事进行推断。
+
+## 8.4 推测用法（三）：过去推测（情态动词完成式）
+（一）
+
+  If this is true, Oswald could not have acted alone; there must have been more than one gunman.
+
+  如果这种说法正确的话，那么奥斯瓦德不可能是单独行动的，当时一定还有另外的枪手。
+
+  由以上例句我们看到，表示对过去的推测，英语的谓语形式要用“情态动词完成式”，常用的情态动词有must，may，might和could，所以要说成 must have been, may have been, might have been和could have been等形式；若是在否定句中，则需要将must换成can或could，说成can’t have done或couldn’t have done，比如上文中的could not have acted。显然，表示对过去的推测的谓语形式与上一节中所讨论过的表示对现在的推测的谓语形式“情态动词一般时态”不同，这一点请读者一定要注意。
+
+（二）
+
+  He should have had a covered bulletproof car, as most world leaders do today.
+
+  他（约翰·肯尼迪总统）应该像如今的各国政要那样，乘坐封闭的防弹汽车才对。
+
+  His death could have been prevented. 他（约翰·肯尼迪总统）也就不会丧命了。
+
+  根据对上下文的分析，这两句话并不是表示对过去的推测，而是表示与过去事实相反的假设，即表示对过去的虚拟。事实上，英语中四个过去形式的情态动词would，could，might和should既可以表示推测，也可以表示虚拟。具体来说，would/could/might/should do可以表示对现在或将来的推测，也可以表示对现在或将来的虚拟；would/could/might/should have done可以表示对过去的推测，也可以表示对过去的虚拟
+
+  对于某些谓语带有would，could，might和should的句子，在没有具体语境的情况下，可能会在“推测”与“虚拟”之间产生歧义
+
+  现在形式的情态动词must，can，may和will不能表示虚拟，所以must/can/may/will have done只能是表示对过去的推测，而不能表示对过去的虚拟。
+
+  首先，读者需要掌握，表示对过去的推测，需要用“情态动词完成式”这一结构。这里的情态动词既可以是现在形式的may，can和will，也可以是过去形式的might，could，would和should。
+
+  但是，对于过去形式的情态动词could，might，would和should，在没有具体语境的情况下，可能会在“推测”与“虚拟”之间产生歧义。建议读者结合第七章“虚拟语气”中讨论的内容来比较would，could，might，should do/have done可能出现的推测或虚拟的歧义。我们可以这样来分辨是推测还是虚拟：知道确切结果的是表示虚拟，而不知道确切结果，即存在两种可能性的是表示推测。
+
+## 8.5 推测用法（四）：情态动词（完成）进行式
+  A: Congratulations! I understand you got a job. When do you start work?
+
+  B: You must be thinking of someone else. I’m still waiting to hear.
+
+  A：恭喜你！我知道你找到新工作了，什么时候开始上班啊？
+
+  B：你想的一定是别人，我还在等着听信呢。
+
+## 8.6 基本用法（一）：现在或将来的能力
+首先要说明的是，从核心意义（core meaning）的角度来看，can强调的是“潜在可能性”，而不是真正去实施（the potential to perform an action, not the actual performance）。真正理解这一核心意义非常重要！在后面的内容中，我都将反复强调这一核心概念。
+
+  传统语法书上说，can主要有三个意义，即“能力（ability）”“可能（possibility）”和“许可（permission）”，其实都是源自“潜能（potential）”这一核心意思。比如下面句子中的can表示“能力”：
+
+  A: My son can play the piano.
+
+  B: My daughter is only four and she can ride a bicycle.
+
+  C: Hey, that’s nothing. My dog can count to ten.
+
+  妙语点睛　这里的三个can都是强调具备这样的“潜能”，或说“潜在的可能性”，而不是强调真正去实施。比如说话人C不会去把他家的狗牵来，真的让它数数。
+
+  精品译文　A：我儿子能够弹钢琴。
+
+  B：我女儿才四岁，就能够骑自行车了呢。
+
+  C：嘿，这都没什么。我家的狗能够数到10呢！
+
+  再比如下面句中的can表示“可能”：
+
+  Don’t go out alone at night. That can be very dangerous.
+
+  妙语点睛　这里的can表示“可能”。
+
+  精品译文　晚上不要独自出门，那可能很危险。
+
+  再比如下面句中的can表示“许可”：
+
+  You can use my car tomorrow.
+
+  妙语点睛　这里的can表示“许可”——我允许你用我的车，但实际上你并不一定用，只是一种潜在的可能。
+
+  精品译文　你明天可以用我的车。
+
+  所以，上述三个例句都只是表明主语有完成某一行为的“潜在可能”，而并不一定真正去实施，或者表示某事可能存在。
+
+就“能力”的含义而言，can的核心意思是表示“潜在的”能力（The core concept of CAN is about“potential”.）用来说明因为具备某些特点或条件，某人能够完成某件事或某事是可能存在的，而并不强调何时或怎样实施这种潜在的行为。所以，can既可以表示“能力（ability）”，也可以表示“可能（possibility）”。比如：
+
+  I don’t know how she knows, but Mom can always detect when I’m lying.
+
+  我不知道妈妈是怎么知道的，每次我撒谎的时候，她总是能够察觉出来。
+
+我们还可以把“能力”区分为“先天的能力”或者说“天赋的能力”，及“后天获得的能力”。比如：
+
+  A fish can’t walk, but it can swim. （天赋的能力） 鱼不会走，但是会游泳。
+
+表示“潜在的可能性”或者说“可能”，意思就是因为具备某些特点或条件，某人能够完成某件事或某事是可能存在的。比如：
+
+  John is strong. He can lift that heavy box.
+
+  妙语点睛　因为约翰足够健壮，所以他“能够”举起重箱子。
+
+  精品译文　约翰很强壮，他能举起沉重的箱子。
+
+## 8.7 基本用法（二）：现实“可能”与理论“可能”
+can所表示的“可能”与前文讲过的could，may和might所表示的“推测”是完全不同的。尽管在汉语中都可译成“可能”，但两者的内涵是有巨大差别的。前面讨论的could，may和might所表示的“推测”，是强调“实际上的可能”。说话人要紧密结合当时的实际情况来判断某事发生的“确定程度（degrees of certainty）”的大小，从而选择might，could或may，甚至是must来表达不同的确定程度。
+
+can具有“潜能”这一特性，决定了它只能用来表示“理论上的可能”，而不能表示“实际上的可能”，即不能具体地谈一个事件。所以，在前面的8.2、8.3和8.4等几节关于“推测”的讨论中，都没有提到用can，而说的是could，might和may。所以，上述中文句子应分别译成：
+
+  The boy can be very naughty. （理论上、潜在的可能）
+
+  The boy looks pale. He could be sick. （实际上、现实的可能）
+
+  There are times when the traffic here can be very heavy. （理论上、潜在的可能）
+
+  John isn’t here now. He could be caught in the traffic jam. （实际上、现实的可能）
+
+如果真的要用can’t来否定一个“可能性”，这个“可能性”一般就是“实际上的可能”或者说“具体的可能”，即否定具体特定的一件事情，而不是否定一般的真理。这其实就是在8.2、8.3和8.4等几节中谈到的can’t表示否定推测的“不可能”，表示说话人的信心非常大，对应的是肯定推测的must。或者说can’t是用来帮助must构成否定句的。比如：
+
+  A: This must be the way to the post office.
+
+  B: This can’t be the way to the post office.
+
+  妙语点睛　这里的can’t显然就是表示“具体的可能”。
+
+  精品译文　A：这一定是去邮局的路。
+
+  B：这不可能是去邮局的路。
+
+can表示“理论上的可能”时一般只适用于肯定句中。如果是在否定句中，则意味着can’t是用于表示“具体的可能”。
+
+can表示“理论上的可能”主要是用在肯定句中，很少用在否定句中，因为在否定句中往往会造成语义不通或悖论。在否定句中，can’t往往只是表示“推测”，也就是这里说的“具体的可能”，这在8.2至8.4节中讨论过，取代must的肯定推测，帮助must构成否定句。在疑问句中，can既可以表示“理论上的可能”，也可以表示“具体的可能”。
+
+在前面的8.2至8.4节中讨论的could，may和might用于表示“推测”，就相当于这里讨论的“实际上的可能”。但could，may和might也可以表示“理论上的可能”。
+
+可以得出下列结论：
+
+  1. 与说话当时现状有联系的，则是“实际上的可能”；与说话当时现状无关的，则是“理论上的可能”。
+
+  2. can因为是表示“潜能”，所以主要用来谈论“理论上的可能”。在肯定句中，不能谈“实际上的可能”。在否定句中，can’t主要是谈“实际上的可能”，相当于must的否定形式。在疑问句中，can既可以表示“理论上的可能”，也可以表示“具体的可能”。
+
+  3. could，might和may可以用来谈论“具体的可能”和“理论上的可能”。
+
+## 8.8 基本用法（三）：过去的能力
+从“将来能够”或“今天能够”变为“昨天能够”，改变的不仅是时态问题，更重要的是其中can所蕴含的“潜在的可能性”这一核心思维。当用can谈将来的事件或现在的事件时，这种“潜在的可能性”是一直存在的，以至于使我们忽略了can的这一重要思维。但是，若谈论过去的事件时，这种“潜在的可能性”有可能（但不是必然）会丧失。这个问题涉及在表达“过去的能力”时，could和was able to的区别。
+
+  简单来说，二者的区别是：could表示“过去的一般能力”，was able to表示“过去的具体能力”。具体地说，所谓“过去的一般能力”就是指在过去有能力想做某件事就随时可以去做，但并不说明真正实施了这个行为，即强调的是一种“潜能”，而不是某一次具体的过去行为
+
+  could同can一样，表示的是一种“潜能”或者说“过去的一般能力”，而不是“实际行动”；was/were able to则更多的是用来表示过去的“实际行动”或者说“具体的能力”。但注意，也可以用was/were able to表示“潜能”，但不如could常用。
+
+一、表示过去的“潜能”
+
+  10 He could/was able to pull down a bull and acknowledged as a man with super strength.
+
+  妙语点睛　这里只是说他“曾经能够”，并没有具体说是哪次活动，所以是“潜能”，不是“实际行动”。
+
+  精品译文　他曾能够拉倒一头牛，被公认为是具有神力的人。
+
+二、表示过去的“实际行动”（均不能用could）
+
+  They were able to get tickets to the Rolling Stones concert last week. 上周他们搞到了滚石乐队演唱会的票。
+
+  对于某些句子，既可以用could，又可以用was/were able to，此时的含义是不同的。比如：
+
+  1） I could repair the old car.
+
+  2） I was able to repair the old car.
+
+  妙语点睛　在例句1）中，用could表达的是过去的一般能力，即表示“我过去是能够修理旧汽车的”，这里是泛指任何一辆旧汽车。在例句2）中，用was able to表达的是过去的具体能力，即表示“我终于把那辆旧汽车修理好了”，这里是具体指某一辆特定的旧汽车。
+
+  精品译文　1） 我过去是能够修理旧汽车的。
+
+  2） 我终于把那辆旧汽车修理好了。
+
+首先，在can/could表示“能力”时，二者均表示“潜能”或者说“一般能力”。其中，can表示将来或现在的一般能力，could表示过去的一般能力。
+
+其次，could表示“过去的一般能力”，不表示“过去具体的能力”；was/were able to既可以表示“过去的一般能力”，也可以表示“过去具体的能力”。
+
+最后，结合8.7节中讨论的“可能”的含义，我们发现，虽然could不能谈“过去具体的能力”，但可以表示“具体的可能”（如“He could be sick.”表示现在或将来的具体可能，或“He could have been sick.”表示过去的具体可能）。所以，could可以用来谈论“具体的可能”“理论上的可能”，以及“过去的一般能力”，但不能谈“过去具体的能力”。另外值得注意的是，could表示“推测”时，本身不能表示“过去”，而是用could have done来表示过去的可能。但could表示“能力”时，本身就表示“过去”，即“过去的一般能力”。
+
+最后，在否定句中，couldn’t和wasn’t/weren’t able to没有区别，即couldn’t可以谈过去具体的能力，表示在过去某一特定场合“未能”完成某事。
+
+## 8.9 基本用法（四）：许可
+情态动词表示“许可”，以下三点是非常重要的：
+
+  1. 可以用的情态动词有 may，might，can和could，但多用can或be allowed to do表示许可；
+
+  2. 表示“许可”一般用陈述句（若用疑问句则表示“请求〈request〉”，见8.12节）；
+
+  3. 肯定的陈述表示允许某人做某事；否定的陈述则表示不允许某人做某事。
+
+### 8.9.1 肯定句——给予许可
+We can borrow these books from the library. 我们可以从图书馆借出这些书。
+
+  相当于“We are allowed to borrow these books from the library.”。
+
+当然也可以用may来表示“许可”。比如：
+
+  A: May I turn on the TV?
+
+  B: Yes, of course you may.
+
+  妙语点睛　这里may用在疑问句中表示“请求许可”，用在肯定的陈述句中表示“给予许可”。
+
+  精品译文　A：我可以打开电视吗？
+
+  B：当然可以。
+
+
+can表示“许可”和“能力”的辨别
+
+  can表示“许可”，可以和表示将来的时间状语连用。尽管前面讲过，can可以表示将来的能力，不过此时一般不与表示将来的时间状语连用。若有表示将来的时间状语，要说will be able to do。请比较：
+
+  You can use my car tomorrow.
+
+  妙语点睛　该句中的can是表示“许可”，所以可以与tomorrow连用。
+
+  精品译文　明天你可以用我的车。
+
+### 8.9.2 否定句——拒绝许可，甚至禁止
+  A: May I borrow your car?
+
+  B: No, I’m afraid you may not.
+
+  妙语点睛　may用在疑问句中表示“请求许可”，用在否定的陈述句中表示“拒绝许可”。
+
+  精品译文　A：我可以借用你的车吗？
+
+  B：恐怕不行。
+
+  我们还可用must not表示强烈的拒绝许可——禁止，但must not比cannot或may not的语气强烈。比如：
+
+  Students must not take the test papers out of the classroom. 任何学生都不得把试卷带出教室。
+
+### 8.9.3 could一般不用来表示现在的许可，而表示过去的许可
+表示过去的一般许可，could与was/were allowed to do可以互换。比如：
+
+I could/was allowed to read what I liked when I was a child. 我小时候爱看什么书，就看什么书。
+
+不过，若表示过去允许进行某项特定的活动时，要用was/were allowed to do，这一区别与表示“能力”时的could和was/were able to的区别类似。比如：
+
+Yesterday evening, Peter was allowed to watch TV for an hour.昨晚，彼得被允许看了一个小时电视。
+
+## 8.10 基本用法（五）：建议与忠告
+### 8.10.1 could表示“建议”
+这里我们来看could用于表示“建议”，此时，could并不表示过去。比如：
+
+  A: I’ve been invited to a dinner party at Janet’s. Do you think I should bring something?
+
+  B: You could pick up a cake. Chocolate is her favorite.
+
+  妙语点睛　说话人A是在征求B的建议，于是B通过could来提出自己的建议，建议A“买一份蛋糕”。
+
+  精品译文　A：我受邀去珍妮特家参加晚宴，你认为我该带点什么东西去吗？
+
+  B：你可以顺便买一份蛋糕嘛，她最喜欢巧克力口味。
+
+### 8.10.2 Shall I ...? Shall we ...?
+Shall用于第一人称的一般疑问句中，表示征求对方的“建议”。请看例句：
+
+  Shall I open the window?
+
+  =Would you like me to open the window? 要不要我把窗子打开？
+
+### 8.10.3 may (just) as well, might (just) as well
+这组情态动词表示“建议换另一种方式做某事”，可译成“倒不如”“不妨”“最好”。请看例句：
+
+  A: I’ll go on Monday by train. 我将在周一坐火车去。
+
+  B: You might just as well wait till Wednesday and go by plane. 你不妨等到周三坐飞机去。
+
+  We may as well stay here tonight. 今晚我们最好呆在这里。
+
+  另外，may/might as well还有一种多少有些勉强或讥讽的意味，表示“在没有其他更好的选择的情况下，只好为之”之意（May/might as well describes the only thing left to do, something that the speaker is not enthusiastic about.）。
+
+  It’s no use waiting here. We might as well start walking. 在这里干等没用，我们还不如开始步行回去。
+
+### should和ought to表示“忠告”
+should最主要的意义和用法就是表示“建议”“忠告”或者说“规劝”，表示“某事是应该做的或恰当的（appropriate behavior）”。比如：
+
+  You should brush your teeth twice a day. 你应该每天刷牙两次。
+
+  We should call them before we go there. 去那儿之前我们应该给他们打个电话。
+
+此时的should往往也会含有“责任”和“义务”的含义。比如：
+
+  Drivers should obey the speed limit. 司机应该遵守车速限制（的规定）。
+
+这种“责任”的意味比must要轻。请比较：
+
+  Drivers must obey the speed limit. 司机必须遵守车速限制（的规定）。
+
+表示“责任”的should也常见于疑问句中，表示否定一个“责任”。比如：
+
+  Why should I do what everyone else does? 我为什么非得跟其他人一样啊？
+
+### 8.10.5 should表示“忠告”与could表示“建议”的比较
+should表示强烈的、明确的忠告；could表示建议某事的可能性。
+
+  A: Hi, Tom. How is your chemistry paper going?
+
+  B: It’s coming along. But I’ve been staring at this computer screen for hours and my eyes hurt.
+
+  A: Yeah. Doing that can make your eyes really dry and tired. You should take a break.
+
+  B: I can’t. I have to get this paper written. It’s due tomorrow.
+
+  精品译文　A：嗨，汤姆，你的化学论文进展如何？
+
+  B：正在写，不过我盯着电脑屏幕看几个小时了，现在眼睛很痛。
+
+  A：是啊，一直看电脑会让你的眼睛又干又累，你应该歇会儿。
+
+  B：可是不行啊，我得把这篇论文写完，明天得交。
+
+### 8.10.6 had better 表示“忠告”
+常用于口语中，后面接动词原形，否定用had better not do。
+
+  We had better study harder, or we’ll probably fail in the exam. 我们最好用功学习，不然就有可能考试不及格。
+
+  需要注意的是，had better在表示“忠告”时，有时会暗含“如果不这么做，就会有不良后果”的意思，而should则更为中性。比如：
+
+  You had better return the book to the library.
+
+  妙语点睛　这相当于警告对方，如果不及时还书，图书馆就会有惩罚措施，比如罚款。
+
+  精品译文　你最好把书还给图书馆。
+
+但是若用should，则更多的是表示个人的责任或义务，比如归还所借图书是每个人应该尽到的责任。比如说：
+
+  You should return the book to the library. 你应该把书还给图书馆。
+
+## 8.11 基本用法（六）：意愿、意图与执意
+### 8.11.1 意图
+表示“意图”往往涉及将来准备好的事件（“Intention”clearly involves a future event that is planned.）。请看例句：
+
+  I will borrow some money and buy a car.
+
+  妙语点睛　这里will表示说话人的意图和打算，而不是在预测或表达意愿。这句话相当于“I intend to borrow some money and buy a car.”。
+
+  精品译文　我要借钱买辆车。
+
+### 8.11.2 执意
+will表示“执意”，来源于其表示“意图”的含义，因为当某人坚持自己的“意图”而不愿意改变时，就变成了“执意”（“Will/won’t”can be used to emphatically tell someone of the speaker’s intention, or to forbid an action.）。此时，肯定的will表示“某人坚持要做某事”，比如说I will相当于I insist（“I will”can mean“I insist”.）；否定的won’t表示“某人坚持不愿意做某事或禁止做某事”，比如说I won’t相当于I refuse（“I won’t”can mean“I refuse”.）。请看例句：
+
+  If they will pay in cash, we have to accept it although it’ll cause trouble to both sides.
+
+  妙语点睛　这里if引导的从句中的will就是表示执意。一般来讲，在if引导的条件状语从句中是不能用将来时态will的，但这里will用于if引导的条件状语从句中了。究其原因，就是因为这里的will不是表示将来时态，而是侧重于表示“执意”这样的情态含义。另外，although引导的从句中的will是表示说话人的预测。
+
+  精品译文　如果他们非要坚持用现金支付，那我们也只好接受了，尽管这会给双方都造成麻烦。
+
+  类似上面这个句子，我们可以造一个will not的否定句，来表示说话人拒绝做某事。比如：
+
+  If they will not accept a check, we shall have to pay cash, though it would be much trouble for both sides.
+
+  妙语点睛　这里if引导的条件状语从句中，will not就是表示“执意不做某事”，相当于refuse。
+
+  精品译文　如果他们就是不愿意接受支票，那我们只好付现金了，尽管这会给双方都造成麻烦。
+
+  当will用于表达“执意”这样强烈的感情色彩时，一方面不要缩写成’ll，而要用will；另一方面，will要重读。比如例句6中表示“执意”的will都没有缩写。其中“I’ll take the money anyway.”中的缩写’ll则更多地含有“意图”的意思。
+
+  will的过去式would也有类似表示“执意”的用法。请看例句：
+
+  We all tried to stop him smoking in bed but he wouldn’t do it.
+
+  我们大家都尽力阻止他在床上抽烟，但是他就是非得要这么做。
+
+## 8.12 基本用法（七）：请求
+在日常交往中，我们往往会请求别人为我们做某事，此时，我们当然要表现出礼貌或委婉的态度，而不能直截了当地，甚至是粗鲁地提出“要求”。为了表示礼貌，就需要借助情态动词。首先来比较下面的两个对话，体会一下情态动词表示礼貌请求的作用：
+
+  A: Hey, you! Open this door!
+
+  B: It’s locked. Want us to get the key?
+
+  A: Yeah. Get it. Fast!
+
+  精品译文　A：嘿，说你呢，把门打开！
+
+  B：门锁了。想要钥匙？
+
+  A：去给我拿，快点！
+
+  我们看到，这种直接而唐突的表达，显然缺乏礼貌，显得说话人很粗鲁。但是如果借助情态动词及其相关句型，就可以使我们的请求显得客气和委婉。
+
+用第一人称（I/we）和第二人称（you）来提出请求。当用第一人称时，可以用四个情态动词：can/could和may/might，表示“请求对方允许我们做某事”。比如：
+
+  Can/Could I…?
+
+  May/Might I…?
+
+  请注意它们在用法上的一些区别：
+
+  第一，“May I…?”和“Could I…?”表示较正式、很礼貌地提出请求。比如在询问陌生人的姓名时：
+
+  May I have your name, please? 请问您怎么称呼？
+
+  第二，“Can I…?”是非正式的请求允许，一般用于说话人与对方相当熟悉的情况下。比如和朋友之间的对话：
+
+  Can I use your pen? 我能用一下你的钢笔吗？
+
+  第三，“Might I…?”显得过于正式和客气，所以一般很少用。
+
+  当用第二人称时，请注意要用的情态动词是：can/could和will/would，这是“请求对方为我们做某事”。比如：
+
+  Can/Could you…?
+
+  Will/Would you…?
+
+  同样要注意这几个词表达不同的礼貌程度，“Would you…?”和“Could you…?”都是用来表示很客气地请求对方，客气程度相同。比如上面对话中出现的两句：
+
+  Would you please open this door? 你能把门打开吗？
+
+  Could you put out your cigarette, please? 请你把烟熄了，好吗？
+
+  综上所述，在“请求”时，不同人称所使用的情态动词不尽相同。can/could可以同时用于两个人称，如“Can/Could I…?”或者“Can/Could you…?”，但may/might只能用于第一人称，不能说“May/Might you…?*”，而will/would只能用于第二人称，不能说“Will/Would I…?*”。
+
+  | I will表示“意愿”|Will you ? 表示“请求”|
+  |you may 表示“许可”|May I ...? 表示“请求|
+  |you can/could表示“许可”|Could/Can I...? 表示“请求”|
+  |I can/could 表示主动提出帮助|Could/Can you ...?表示“请求”|
+
+上表格中的对应关系就解释了在表示“请求”时，为什么特定的情态动词要与特定的人称搭配使用。比如表示“请求”的will只能用于第二人称you，是因为will you句型来源于表示“意愿”的I will。在变成一般疑问句时，我们自然要把I变成you，于是便有了will you。在表示“意愿”时，英语中没有you will，因为“意愿”一定是句子的主语自己发出的（from the Subject）。既然没有用you will表示“意愿”的，那么自然就不会有will I表示“请求”的了。但you will可以表示“预测”，因为“预测”总是由说话人做出的（from the speaker），而与句子的主语无关。
+
+  在英语中表示“请求”往往都是用一般疑问句式，因为“请求”的含义有三个来源：
+
+  1. 询问听话人是否愿意，这就是“Will/Would you…?”表示“请求”（questioning someone’s“willingness”to make a request）；
+
+  2. 询问听话人是否允许我做某事，这就是“May I…?”或“Could/Can I…?”表示“请求”（questioning someone’s“permission”to make a request）；
+  3. 询问听话人是否能够帮助，这就是“Could/Can you…?”表示“请求”（questioning someone’s“offer to help”to make a request）。
+
+表示请求时，在语气上越是不肯定，越是犹豫，就越显得礼貌。所以，由“直截了当”到“极为犹豫不决”，可以用不同的情态动词句型来表达不同程度的礼貌。以下都是表示很礼貌的“请求”句型：
+
+  Could you do…?
+
+  Could you please do…?
+
+  Could you possibly do…?（注意副词）
+
+  Would you do…?
+
+  Would you please do…?
+
+  Would you kindly do…?（注意副词）
+
+  Would you mind doing…?
+
+  Would you be good/kind enough to do…?
+
+  Would you be so kind as to do…?
+
+  Do you think I could…?
+
+  Do you think you could/would do/would mind doing…?
+
+  A: Hello, I know Doctor Wilson’s out of town at a conference, but I was wondering…um…since she won’t be back till next week, if you…if you could check in your computer records and find out how I did on her midterm exam?
+
+  B: I’m sorry, Miss. But I’m not authorized to give out that kind of information.
+
+  精品译文　A：您好，我知道威尔逊博士出差开会去了，但因为她下周才能回来，所以，我想……嗯……您能否……您能否在您的电脑记录里帮我查看一下，她的那门课我这次期中考试考得怎么样？
+
+  B：对不起，小姐，我无权向你透露这样的信息。
+
+这部分总结了英语中情态动词用于表示礼貌请求的句型，具体有四大类：
+
+  1. 第一人称：Can/Could I…? May/Might I…?
+
+  2. 第二人称：Can/Could you…? Will/Would you…?
+
+  3. 其他各种疑问句形式的请求句型；
+
+  4. 带有wonder的陈述句所表示的礼貌的请求句型。
+
+## 8.13 
