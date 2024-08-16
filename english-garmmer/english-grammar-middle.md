@@ -3565,4 +3565,228 @@ will表示“执意”，来源于其表示“意图”的含义，因为当某�
 
   4. 带有wonder的陈述句所表示的礼貌的请求句型。
 
-## 8.13 
+## 8.13 基本用法（八）：过去习惯
+不是任何时候只要句中出现了would就是虚拟用法，would在句中的含义要依据上下文的语境而定。其实，这里的would是表示过去反复发生或习惯性的动作
+
+用would表示过去习惯或重复的动作时，还可以指某人一贯的行为（typical of a person）。这时，往往用来批评人们的行为或表示对他人的行为怀有某种恼怒的情绪（an annoying habit），此时would要重读。比如：
+
+  A: Jack would get lost, wouldn’t he? 杰克老是迷路，是吧？
+
+  B: It’s typical. 可不是嘛！
+
+  We all tried to stop him smoking in bed but he wouldn’t do it. 我们都试图不让他在床上抽烟，可他每次偏偏这么做。
+
+  He was a nice boy, but he would talk about himself all the time. 他人还不错，但就是老喜欢谈论他自己。
+
+
+得注意的是，也可用used to来表示过去习惯的动作。但二者之间的区别是：used to可以表示过去重复的动作，也可以指过去存在的状态，有“现在不再”的含义。would常用来表示过去重复的动作，不表示过去的状态。我们再看看上面关于特蕾莎修女的例子中的第一个句子：
+
+  My own mother used to be very busy the whole day.
+
+  妙语点睛　这里用的是used to，而不是would，因为be very busy是过去存在的一种状态，不是动作。
+
+  精品译文　以前，我母亲每天总是忙忙碌碌的。
+
+## 8.14 基本用法（九）：should的特殊用法
+### 8.14.1 should表示“竟然”
+用在下列形容词后面的从句中的should，带有一种很“惊奇”的感情色彩，含有“竟然”的意思。比如：It is/was absurd, amazing, annoying, funny, ludicrous, odd, ridiculous, strange, surprising, unthinkable that…等。
+
+  It is ridiculous that we should be short of water in a country where it is always raining.
+
+  在经常下雨的国家里，我们竟然会缺水，这简直是荒谬！
+
+  It is unthinkable that he should be so careless. 真不可思议，他竟然如此粗心大意！
+
+也常用在下列结构的从句里，放在can’t think why，I don’t know why，I see no reason why等的后面。比如：
+
+  I don’t know why he should think that I did it. 我真不知道他凭什么竟然会认为这件事是我干的。
+
+### 8.14.2 should表示“万一”
+should常常用在lest，for fear that和in case引导的从句中，表示“万一”。比如：
+
+  I’ve brought my umbrella in case it should rain. 我带伞了，以防万一下雨。
+
+  不过，此时，从句中的谓语也可用正常时态，如一般现在时或一般过去时。比如：
+
+  I’ve brought my umbrella in case it rains.
+
+## 8.15 基本用法（十）：shall的特殊用法
+### 8.15.1 用于第一人称的疑问句中：Shall I/we···？
+当shall用于第一人称时，此时的shall可以表示主动提供帮助、提供建议或请求给予指示。具体如下：
+
+一、主动提供帮助
+
+  此时的Shall I…?相当于Would you like me to do sth.?比如上面故事中的小偷说：
+
+  Shall I go and fetch it?
+
+  相当于“Would you like me to go and fetch it?要不要我去帮你把帽子捡回来啊？”。
+
+  再比如：
+
+  Shall I open the window?
+
+  相当于“Would you like me to open the window? 你要不要我把窗户打开？”。
+
+二、主动提供建议
+
+  Shall we meet at the theater? 我们在剧院见面好吗？
+
+  可以说成：
+
+  Let’s meet at the theater, shall we? 我们在剧院见面吧，好吗？
+
+  Shall we leave at two? 我们两点钟走如何？
+
+  What shall we do this evening? Shall we go to the theater? 我们今晚做些什么？去剧院好吗？
+
+三、表示请求给予指示
+
+  How shall I cook it? 这东西该怎么做着吃？
+
+  Where shall we put this? 我们该把这东西放在哪里？
+
+### 8.15.2 用于第三人称的疑问句中
+在表示提供建议或请求给予指示的意思时，shall可以用于第三人称。比如：
+
+  A man wants to see you, sir. Shall he wait outside?
+
+  相当于“Would you like him to wait outside? 你要不要让他在外面等呢？”。
+
+  Shall he come with us?
+
+  相当于“Would you like him to come with us?（你）要不要让他和我们一起去呢？”。
+
+### 8.15.3 用于第二、第三人称的陈述句中
+一、表示“命令”
+
+  在法律条文、规章制度中，常用shall表示“命令”，这主要用于第三人称。此时，shall在意思上接近must。比如：
+
+  It has been announced that candidates shall remain in their seats until all the papers have been collected.
+
+  已经宣布，在所有试卷全部收齐之后，考生方能离开自己的座位
+
+  这样使用的shall很正式，若是在不是很正式的场合，可以用must或are to do来代替shall。
+
+二、表示说话人的许诺
+
+  shall用于第二、三人称的陈述句中，表示说话人的许诺。请看例句：
+
+  You shall have the money back next week.
+
+  相当于“I promise you will have the money back next week.（我答应）你下周一定能拿回这钱。”。
+
+  If he passes the examination he shall have a bicycle.
+
+  相当于“I promise he will have a bicycle. （我答应）只要他能通过考试，就可以得到一辆自行车作为奖励。”。
+
+三、表示说话人强烈的意愿，甚至威胁
+
+  shall用于第二、三人称的陈述句中，表示说话人强烈的意愿，甚至威胁。请看例句：
+
+  They shall do as they are told. 他们一定要按照吩咐他们的去做。
+
+  He shall be punished if he disobeys. 若他不服从，定将受到处罚。
+
+  You shall do exactly as I say. 你一定得按我说的去做。
+
+  You shall pay for this. 你一定得为此付出代价！
+
+## 8.16 基本用法（十一）：may的特殊用法
+may的含义主要有：“可能”“许可”和“请求”，这在前文中都已讨论过。may还有一种特殊的用法，即用在may…but这样的结构中，表示让步（May can be used to express although clauses.）。请看例句：
+
+  We may have our differences from time to time, but basically we trust one another’s judgment.
+
+  尽管我们常常有分歧，但是我们基本上还是信任彼此的判断。
+
+  这里的may几乎已失去了“可能”的含义，而是表示被认为是真实的陈述，所以上句应改写为：
+
+  We admit that we have our differences, but basically we trust one another’s judgment.
+
+ 人们之所以习惯用may have这一情态动词结构，而不是用一般现在时have，主要是出于礼貌或委婉表达的考虑。
+
+## 8.17 情态动词的否定
+### 8.17.1 情态动词否定意义的深层结构——内部否定和外部否定
+关于情态动词的否定句，在前面各节中已接触到很多。比如：
+
+  A: The restaurant is always empty.这家餐馆总是很空。
+
+  B1: It can’t be good.这家餐馆不可能好。
+
+  B2: It may not be good.这家餐馆可能不好。
+
+  这里用can’t和may not所表达的确定程度不同，can’t表示90％确定，是很有把握的陈述；而may not表示50％确定，是不太有把握的陈述，所以翻译时有“不可能”和“可能不”的区别。
+
+  从译文的差别，应该能够觉察出否定词not在情态动词前后位置的差异：对于“cannot谓语动词”的结构，真正的否定意义的结构是“否定情态动词谓语动词”，即“NOTCANVERB（不可能）”；而对于“may not谓语动词”的结构，真正的否定意义结构是“情态动词否定谓语动词”，即“MAYNOTVERB（可能不）”。
+
+现在，可以推而广之，用MODAL来代表“情态动词”，于是可以得出两种不同的否定结构：
+
+  1. NOTMODALVERB
+
+  2. MODALNOTVERB
+
+  这就是情态动词否定意义的深层结构。
+
+以否定词NOT的位置为标准，否定词NOT在外部的“NOTMODALVERB”称为外部否定（external negation）；相应地，否定词NOT在中间的“MODALNOTVERB”称为内部否定（internal negation）。在外部否定的结构中，被否定的是情态动词，比如把cannot译成“不可能好（be good）”。在内部否定的结构中，被否定的是谓语动词，比如may not译成“可能不好（be good）”。
+
+所以，尽管在表层结构上，否定词not都是跟在情态动词的后面，但在深层结构上是不同的。因此，对于某些句子来说，就可能会在外部否定与内部否定这两种结构上产生歧义。比如：
+
+如果否定词not没有与情态动词的缩写形式一起被提至句首，而是直接置于谓语动词之前，这时被否定的就是谓语动词，即“某事不应该做”；而当否定词与情态动词的缩写形式放在一起时，被否定的就是情态动词，是用来加强“请求”的情态含义，强调“某事应该做”。
+
+  再比如：
+
+  1） Will you please not get into the room?
+
+  2） Won’t you please get into the room?
+
+  妙语点睛　例句1）相当于“Please don’t get in.”。例句2）相当于“Please do get in.”。
+
+  精品译文　1） 你能不进这个房间里吗？（不希望你进这个房间）
+
+  2） 你难道就不能进这个房间里吗？（非常希望你进这个房间）
+
+### 8.17.2 内部否定和外部否定
+其实这两种否定结构与情态动词的两种基本意义有关：推测用法和基本用法。一般具有这样的规律：
+
+  1. 推测用法的情态动词，一般是内部否定，即否定的是谓语动作；
+
+  2. 基本用法的情态动词，一般是外部否定，即否定的是情态意义。
+
+比如上面讨论过的例句：
+
+  1） Paul won’t come because he doesn’t want to.
+
+  2） Paul won’t come because he’s too busy.
+
+  妙语点睛　在例句1）中，won’t表示“不愿意”，这里的will表示“愿意（willingness）”，属于will的基本含义和用法，所以这里采用了外部否定，即否定的是情态意义“愿意”。在例句2）中，won’t表示“将不来”，这里的will表示“预测（prediction）”，属于will的推测用法，所以这里采用了内部否定，即否定的是谓语动作“来”。
+
+  精品译文　1） 保罗不愿意来, 因为他就是不想来。
+
+  2） 保罗不会来，因为他太忙。
+
+对于must，上述规则也不适用。因为must用于推测用法时，本身没有否定，即不能说mustn’t。当must用于基本含义表示“必须”时，其否定形式mustn’t的意思是“千万别做某事”，这里否定的是谓语动作，即一个内部否定，而不是上面规则说的外部否定，即含义为“不必”。must的外部否定“不必”应说成don’t have to。
+
+### 8.18 总结：英文动态与中文情态的简单对比
+### 8.18.1 英文情态意义与中文情态意义的对应性
+英语中情态动词的某些意义能在中文中找到比较好的对应表达，比如can对应于“能够”，should对应于“应该”。对于这样一些中文思维里也有的情态意义，我们一般能较好地使用。比如：
+
+  I can speak good English. 我能够说一口流利的英文。
+
+  You should study English. 你应该学习英文。
+
+### 8.18.2 英文情态动词的委婉表达在汉语中的缺失
+英语中往往要求采用比较礼貌的表达形式，尤其是在“指示（instructions）”“邀请（invitations）”“请求（requests）”和“建议（suggestions）”等语境中，此时正是情态动词发挥魅力的时候。该用情态动词的场合不使用情态动词会使英语的表达显得较为生硬、突然甚至不礼貌。
+
+如果是在正式的交际场合，比如商务谈判中，往往要借助情态动词来更委婉地，或者说比较“外交辞令”地表达意思，而不会不采用任何情态动词就这么直接而生硬地交流。请比较：
+
+  1） That’s impossible.
+
+  2） Unfortunately that wouldn’t be possible.
+
+  妙语点睛　这两句都是在拒绝对方。
+
+  在例句1）中，谓语动词用的是is，显得说话的语气非常直白和生硬，容不得对方商量。这自然就会让对方难以接受。在例句2）中，首先是借助would来“软化”生硬的口气。其次，把impossible换成not possible，让人认为有商量的余地。再次，因为是在拒绝对方，所以用副词unfortunately来表达遗憾，给对方以安慰。做了以上三个方面的处理后，语气显得更加委婉、礼貌。
+
+  精品译文　1） 这是不可能的。
+
+  2） 很遗憾，这恐怕不太可能。
