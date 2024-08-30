@@ -21,7 +21,6 @@
 2. 函数指针和qaort库函数
 
     c语言快速排序库函数：
-
         ```c
         void qsort(void*base,int nelem,unsigned int width, int (* pfCompare)(const void*,const void*));
         ```
