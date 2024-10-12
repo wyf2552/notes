@@ -330,3 +330,215 @@ The mineral elements from the soil that are usable by the plant must be dissolve
 精品译文　土壤中可供植物利用的矿物质只有先溶解在土壤中，然后才能被植物的根部吸收。
 
 译文心得　这里before引导的从句虽然表示时间，但就上下文的逻辑关系来看，我们可以转译成一个条件从句，译成“只有……才”。
+
+### 2.2.2 先行词+状语+定语从句
+
+造成先行词与关系词被分隔的第二种情形，就是在先行词与关系词之间插入一个状语，这个状语一般是修饰主句的谓语动词的。请看例句：
+
+  Never leave that until tomorrow which you can do today.
+
+  妙语点睛　这里的先行词是that，定语从句是which you can do today。现在二者之间插入了一个时间状语until tomorrow来修饰leave，从而造成先行词与关系词被分隔。
+
+  精品译文　今日事，今日毕（不要把今天能做的事情留到明天做）。
+
+### 2.2.3 作主语的先行词+谓语部分+定语从句
+先行词与关系词被分隔的第三种情形就是两者被主句谓语隔开。这是因为先行词在主句中作主语，然后它又被一个定语从句所修饰，而定语从句一般都会比主句谓语的结构复杂。因此，按照英语的“尾重原则（principle of end weight）”，结构复杂的定语从句置于主句谓语后边，从而造成关系词与先行词被隔离。请看例句：
+
+It can be predicted, however, that from time to time questions will arise which will require specific scientific answers.
+
+妙语点睛　这里的that引导的是一个主语从句，其中从句的主语是questions，其后面接一个which引导的定语从句，但这个定语从句并没有紧跟在名词questions后边，而是被谓语will arise隔开。
+
+精品译文　然而，可以预见的是，将来会经常出现一些问题，这些问题需要给出专门的科学的回答。
+
+## 2.3 如何判断先行词
+找先行词的步骤如下：1. 先翻译定语从句，正确地理解定语从句本身的意思；2. 结合先行词的结构特点和位置特点，在关系词之前寻找与定语从句的意思有逻辑语义联系的名词、短语或从句，这即为先行词。
+
+For workers it can mean an end to the security, benefits and sense of ______ that came from being a loyal employee.
+
+A. excitement　B. conviction　 C.enthusiasm　 D.importance
+
+正确答案　D。
+
+妙语点睛　这是考研完形填空真题。同上一题一样，解此题的关键还是在于理解定语从句that came from being a loyal employee的意思，即“作为一名忠实雇员所带来的……”。注意这里定语从句的先行词是the security, benefits and sense of _____。我们来看四个选项：excitement“激动，兴奋”，conviction“坚信，信念”，enthusiasm“热衷，热情”，importance“重要，价值”。这里sense of importance是表示认为自己对于公司的发展很重要，很有一种自豪感，就相当于我们汉语里常说的“主人翁精神”，而这种精神是作为一名“忠实雇员”所能感受到的。故importance正确。
+
+精品译文　对于雇员来说，这（雇用临时工的趋势）意味着失去作为一名忠实雇员所带来的安全感、福利待遇以及自豪感。
+
+下面总结一下在判断先行词时，我们要同时考虑哪几个方面。判断先行词主要可以根据两个方面：一是看主句，二是看定语从句。前者是辅助，后者是根本。
+
+  首先，结合定语从句的特点，主要看四个方面：
+
+  1. 结合定语从句的意思：定语从句的内容必然是与先行词密切相关的。比如，第2.3节的例句1中的定语从句that will give them three meals a day and a place to sleep at night对先行词shelter的解释说明关系。
+
+  2. 结合定语从句中的关键词：比如，第2.2.3小节的例句2中，natural scientist与social science构成的反义对照关系。
+
+  3. 结合定语从句的谓语单复数：比如，第2.3节的例句4中的are表明elements是先行词。
+
+  4. 结合定语从句的关系词：比如，第2.3节的例句6中，which的先行词不可能是listener。
+
+  其次，结合主句的结构特点，主要看两方面：
+
+  5. 结合先行词的结构特点：先行词可能是一个词、短语、分句或完整的句子等。
+
+  6. 结合先行词的位置特点：先行词通常与定语从句是“手拉手”在一起的，但也可能被分隔两处。被分隔的情况有三种，即被定语、状语或谓语分隔。对于这一点，读者一定要真正弄懂我们前面讲过的内容，不能有丝毫含糊，因为这正是构成难句结构的一个方面。
+
+  所以，要想快速而准确地判断先行词，需要读者具备相当深厚的英语功底。当然，以上主要是针对复杂难句而言的。如果是简单的定语从句，找先行词则没有这么费劲。
+
+## 2.4 与先行词有关的考点
+
+最重要的是要搞清楚它所修饰的对象，即正确地找到先行词。而定语从句的基本结构是“先行词+关系词+（从句主语+）谓语动词”（如the person who does或the thing which does）。其中，先行词决定了关系词是什么，进而决定了从句的谓语动词是单数还是复数。
+### 2.4.1 先行词的选择
+### 2.4.2 关系词的翻译
+### 2.4.3 关系词的选择
+关系词与先行词密切相关，因为关系词用来指代先行词，并且在从句中充当一定的成分。为此，选择什么样的关系词，必然要看清先行词是什么。
+
+### 2.4.4 定语从句中的主谓一致问题
+定语从句的谓语动词是用单数还是用复数，这不取决于关系词，而是由先行词决定的。因此，对先行词的判断直接影响了定语从句谓语动词的单复数形式。请看例句：
+
+Despite【A】 much research, there are still certain elements in【B】 the life cycle of the insect that is【C】 not fully understood【D】.
+
+正确答案　C，应改为are。
+
+妙语点睛　这是考研英语改错题。本题考查对定语从句先行词的判断。这里先行词elements与关系词that被分隔，因为elements还有一个后置定语in the life cycle of the insect。显然，这种分隔属于2.2.1小节中讨论过的第一种分隔情况：先行词+其他定语+定语从句。that指代elements，在从句中作主语，所以，谓语动词要用复数形式的are。
+
+精品译文　尽管人们已经对昆虫进行了大量的研究，但是对其生命周期中的某些方面还没有完全了解。
+
+## 2.5 关系代词which/that/who/whom
+关系词分为关系代词和关系副词。常用的关系代词有who/whom （指代的先行词表示人）, which （指代的先行词表示物）, that/whose （指代的先行词表示人或物）。其他的关系代词还有as （见2.8节）, than （见2.9节）, but （见2.10节）以及what （见2.11节）。这些特殊的关系代词的用法我们在下文都会详细讨论。关系代词在定语从句中可充当主语、宾语或表语等句子成分。
+
+关系副词有when （表示时间），where （表示地点）和why （表示原因），它们在定语从句中一般只充当状语。
+
+最常用的关系代词主要是which, that, who和whom，这些都是读者很熟悉的，在此不再赘述。下面仅举几例予以说明：
+
+A friend is a present which you give yourself. To be a good friend or partner, it's important to be a good listener.
+
+妙语点睛　如本句所示，先行词present指物，关系词可以用which。
+
+精品译文　朋友是你送给自己的一份礼物。要想成为一个好朋友或好伙伴，重要的是做一个好听众。
+
+## 2.6 关系代词whose
+上面讨论的关系代词一般都是单独使用，它们后面不接名词。但whose则不同，它后面必须接一个名词，而不能单独使用。因此，whose用作关系词确切来讲应该算作是关系形容词，或者叫关系限定词。另外，whose同that一样，既可以指人，也可以指物。请看例句：
+
+There are nations whose lack of contact with the outside world has resulted in poverty.
+
+妙语点睛　这里的whose与名词短语lack of contact with the outside world连用，whose修饰先行词nations。
+
+精品译文　有些国家因为闭关锁国，缺少与其他国家的交流，导致贫困。
+
+## 2.7 介词+关系代词
+### 2.7.1 看从句选介词
+一、看从句的动词：所用介词须与定语从句中的动词构成固定搭配（最常见）
+
+  这里所说的动词往往是指定语从句中的谓语动词。我们先来看几个简单的例句：
+
+  The girl with whom you work is his girlfriend.
+
+  妙语点睛　关系词whom前面的介词with与定语从句中的谓语动词work构成固定搭配work with，表示“和……一起工作”。
+
+  精品译文　和你一起工作的那个女孩是他的女朋友。
+
+二、看从句的形容词：所用介词须与定语从句中的形容词构成搭配（比较常见）
+
+  以上讨论的介词往往都是与定语从句的谓语动词（或其他动词）构成固定搭配，但是如果定语从句的谓语不是一个实义动词，而是由be动词与某个形容词构成的，我们则要使用与该形容词搭配的介词。请看例句：
+
+  We assume that the meanings of these underwater sounds are similar to those with which we are familiar on land.
+
+  妙语点睛　关系词which前面的介词with与定语从句谓语部分中的形容词familiar构成固定搭配be familiar with sth.，表示“对……熟悉”。
+
+  精品译文　据我们猜测，这些水下声音的意义同我们所熟悉的陆地上的声音的意义相似。
+
+三、看从句的名词：所用介词须与定语从句中的某个名词构成搭配（较少用）
+
+  以上讨论的介词，往往是与定语从句中的谓语动词或谓语部分中的形容词构成搭配。但如果从句中的动词或形容词都没有可与之形成固定搭配的介词，那么我们则要根据从句中的名词来分辨介词。请看例句：
+
+  I am sending you an inquiry, to which your prompt attention is highly appreciated.
+
+  妙语点睛　这句话通常会出现在商务函电中。这里的关系词which前面的介词to与定语从句中的名词attention构成固定搭配attention to，表示“处理”。
+
+  精品译文　兹寄去询价单一纸，望尽快办理，不胜感激。
+
+### 2.7.2 看先行词选介词
+就是关系词前面用什么介词与定语从句没有关系，而是与关系词前面的先行词密切相关，所选用的介词要与先行词构成固定搭配，我简称其为“看先行词选介词”。在详细讨论之前，我们先来看一个例句：
+
+The ease with which Mr. Zhang cracked the complex sentence was unbelievable.
+
+很多读者看到上面这个句子，也许感到很不理解或不习惯，这就如同我当初的感受一样，觉得这样的定语从句非常别扭。现在我详细分析如下：
+
+妙语点睛　我们可以把上面这个句子拆分成这样的两个简单句：
+
+1）Mr. Zhang cracked the complex sentence with ease and the ease was unbelievable.
+
+读者应该知道短语with ease表示“熟练地，轻而易举地”，所以，上面这个句子的意思就是“张老师能够轻而易举地分析这个复杂的句子。这种轻松程度让人难以置信”。
+
+现在我们要把the ease was unbelievable作为主句，将Mr. Zhang cracked the complex sentence with ease作为定语从句来修饰the ease，将这两句合并起来就是：
+
+2）ease and the ease was unbelievable.
+
+读者应该知道短语with ease表示“熟练地，轻而易举地”，所以，上面这个句子的意思就是“张老师能够轻而易举地分析这个复杂的句子。这种轻松程度让人难以置信”。
+
+现在我们要把the ease was unbelievable作为主句，将Mr. Zhang cracked the complex sentence with ease作为定语从句来修饰the ease，将这两句合并起来就是：
+
+2） The ease （Mr. Zhang cracked the complex sentence with ease） was unbelievable.
+
+先行词是ease，所以我们用关系词which来指代，再将上句改写成：
+
+3） The ease （Mr. Zhang cracked the complex sentence with which） was unbelievable.
+
+关系词which应该放在从句的开头，又因为with which（就相当于with ease）是一个固定搭配，所以要将with which一同移到句子开头，于是上句就进一步改写成：
+
+4） The ease （with which Mr. Zhang cracked the complex sentence） was unbelievable.
+
+至此，一个标准的定语从句诞生了！这里的关系词which前面的介词with与先行词ease构成固定搭配with ease。
+
+精品译文　这个复杂的句子，张老师能够如此轻而易举地分析出来，真是让人难以置信。
+
+我们详细分析了两种判断关系词前面的介词如何使用的方法，一种是根据定语从句中的动词、形容词或名词来判断，另一种是根据先行词来判断。这两种方法是最常用、最重要的，为此，下面我们再来深入地比较一下这两种方法的特点，以便读者更好地理解和掌握。请注意以下几点：
+
+  一、介词在短语中的位置
+
+  根据定语从句判断介词，所用介词与从句中的动词、形容词或名词构成搭配，比如：depend on, familiar with, attention to等等。
+
+  根据先行词判断介词，所用介词与先行词构成搭配，比如：with ease, at the rate, to the extent等等。
+
+  通过比较发现，介词在短语中的位置是不同的，有时候是在短语的末尾，比如to在attention的后面；有时候是在短语的开头，比如with是在ease的前面。因此，同样是名词，若是定语从句中的名词，则要看名词后面用什么介词；而如果是先行名词，则要看名词前面用什么介词。
+
+  二、介词在定语从句中的位置
+
+  虽然都是“介词+关系代词”这一结构，但两种判断方法所选用的介词在句中的位置是有差别的。若是看从句选介词，所用的介词可前置，即置于关系代词前面（如下面的例句3）；也可后置，即把介词后移到定语从句中，分别紧跟在动词、形容词或名词后面（如下面的例句4）。比如我们可以说：
+
+  3 He is the man on whom you can depend.
+
+  也可以说：
+
+  4 He is the man who you can depend on.
+
+  在口语中，介词往往是置于从句中的。在书面语中，我们最好还是把介词置于关系词的前面，这样句子显得紧凑。
+
+  因为with which就相当于with ease，二者是一个固定搭配，此时介词with与定语从句中的任何词都没有语义上的关系。因此，介词with是无法后移到从句中的，只能在关系词前面。
+
+  综上所述，看从句选介词，这个介词可以放在关系词前面，也可以后移到定语从句中。但是，看先行词选介词，这个介词只能放在关系词前面。
+
+  三、定语从句的完整性
+
+  看从句选介词时，定语从句的意思一般都是不完整的，而“介词+关系代词”结构补充说明定语从句中的动词、形容词或名词的意思。比如上面例句3中的定语从句you can depend的意思是不完整的，只有加上on whom意思才完整，表示“你可以依靠这个人”。
+
+  看先行词选介词时，定语从句的意思是完整的，或者说定语从句中没有任何词缺少与之搭配的介词。
+
+  四、“介词+关系代词”充当的成分
+
+  正是因为上述的两种判断介词的方法在定语从句的完整性方面有差异，导致“介词+关系代词”这一结构在定语从句中所充当的成分是不同的。看从句选介词，这种情况下的介宾结构“介词+关系代词”是在定语从句中作补足语，补充说明从句中的某个动词、形容词或名词。比如上面的例句3中，on whom是补充说明动词depend，作depend的补足语。
+
+  而看先行词选介词这种情况下的介宾结构“介词+关系代词”是在定语从句中作状语，修饰从句的谓语动词。比如在上面的例句5中，with ease修饰定语从句的谓语cracked，表示方式，即方式状语。
+
+  从以上的分析我们看到，看先行词选介词，此时的先行词都是非常特殊的名词，其特殊之处就在于这些名词都有固定的介词与之搭配，比如extent（to the extent），means（by the means），ease（with ease），rate（at the rate），pace（at the pace）等等。因此，如果遇到这样特殊的先行词，而且定语从句又是完整的句子，就可断定要看先行词来选介词——选择与先行词构成固定搭配的介词。
+
+  若先行词是普通的名词（如book），没有什么介词与其构成固定搭配，则一般可考虑看从句选介词——选择与定语从句中的某个动词、形容词或名词构成固定搭配的介词（如He referred me to some reference books with which I am not very familiar.）。
+
+### 2.7.3 看句义选介词
+以上分析的关于如何选用介词的两大规律是最常用的，而且所选用的介词往往都是固定搭配（比如depend on及to the extent）。但是，有时关系词前面的介词的选用完全是根据句子意思而定，不是固定搭配。也就是说，选用介词时，既不看前面的先行词，也不看后面的定语从句，而是要看句子的意思来确定。
+
+  There are things you would love to hear but you will never hear it from the person from whom you would like to hear it, but don't be deaf to hear it from the person who says it with heart.
+
+  妙语点睛　这里选用介词from，它既不与先行词person构成固定搭配，也不与定语从句中的某个词构成固定搭配，而是完全出于句子表意的需要。这与from这个词本身的意思密切相关，它表示“来自（某个地方）”。
+
+  精品译文　有些话你很想听到，然而却无法从你希望的那个人口中听到，但如果有其他人用心对你说出了那些话，不要对它充耳不闻。
+
