@@ -542,3 +542,166 @@ The ease with which Mr. Zhang cracked the complex sentence was unbelievable.
 
   精品译文　有些话你很想听到，然而却无法从你希望的那个人口中听到，但如果有其他人用心对你说出了那些话，不要对它充耳不闻。
 
+### 2.7.4 表示所属关系或部分与整体的关系时用介词
+表示所属关系或部分与整体关系，比较常用的介词是of。我们先来看几个例句：
+
+The company, of which Max Harrison was until recently the chairman, has made loss of three million pounds this year.
+
+妙语点睛　这里的of which相当于of the company，于是整个定语从句相当于Max Harrison was until recently the chairman of the company，所以这里的of表示所属关系，即the chairman是属于这个公司的。原定语从句可以改写为：the chairman of which was Max Harrison until recently。
+
+精品译文　这家公司今年亏损达三百万英
+
+我们可以总结出该句型的结构特点如下：
+
+  1. 该句型的结构往往是“不定代词/数量词/形容词的比较级或最高级+of which/whom”，用来表示数量或某种特点。具体来讲，在介词of前面常出现的词包括：all, each, both, either, neither, none, little, few, many, much, some, most, any, the majority, half, several, a number, half, none以及数字和形容词的最高级等等。
+
+  2. 值得注意的是，这里of前面的成分都可以后移至定语从句中。比如上面的例句，我们既可以说10, 000 acres of which，也可以说of which 10, 000 acres。
+
+### 2.7.5 固定的介宾结构
+关系代词前面的介词有时与固定的介宾短语结构有关，比如in this case, in one's honor和with one's help等，它们若出现在定语从句中，则会相应地变成in which case, in whose honor和with whose help。所以，这里的关系代词which/whose前面的介词in/with是从原来的短语中继承过来的。请看例句：
+
+  He may be late, in which case we should wait for him.
+
+  妙语点睛　这里的in which case就是由短语in this case变过来的，这里which指前面整个句子“he may be late”。
+
+  精品译文　他可能要迟到，如果是这样，我们就应该等等他。
+
+### 2.7.6 定语从句的倒装结构
+介词+关系代词”这种结构的定语从句往往还伴随着从句采用倒装结构。具体的结构就是“介词+关系代词+从句谓语+从句主语”，即一个将整个谓语放在主语前面的全部倒装结构。关于定语从句的倒装结构，我们在前面提到过。比如这个例句：
+
+  They’re all groaning about soaring health budgets, the fastest-growing component of which are pharmaceutical costs.
+
+  该定语从句可以改写为：of which pharmaceutical costs are the fastest-growing component，所以定语从句的主语是复数名词短语pharmaceutical costs，而不是单数，这就是为什么从句谓语用are而不是is的原因。
+
+### 2.7.7 “介词+关系代词+to do“结构
+上面讨论的“介词+关系代词”这一定语从句结构，可以简化成不定式，于是就有了“介词+which+to do”的结构。请看例句：
+
+  1） The farmer used wood to build a house in which he could store grains.
+
+  2） The farmer used wood to build a house in which to store grains.
+
+  妙语点睛　由1）句简化为2）句，先是把定语从句in which he could store grains中的主语he省去（因为he与主句主语the farmer一致，所以可以省略），然后把情态动词could替换为不定式to（因为不定式具有情态意义），于是便得到in which to store grains。
+
+  精品译文　这位农夫用一些木材建造了一座房子，在那里储存粮食。
+
+需要提醒大家的是，在使用这一结构时我们应注意以下几点：
+
+  1） “介词+关系代词”不能用一个关系副词来替换。比如不能说“The farmer used wood to build a house where to store grains. *”。
+
+  2） 有介词、有关系代词时，不能将介词置于句末。比如不能说“The farmer used wood to build a house which to store grains in. *”。
+
+  3） 若没有介词，我们不能采用“半定语从句半不定式”的混合形式作后置定语。比如不能说“I can't think of anybody whom to invite. *”。而要说“I can't think of anybody to invite.”，或者“I can't think of anybody who I should invite.”。
+
+我们共用了七个小节详尽地论述了关系词前面的介词的使用规律，并且比较系统地介绍了五大规律，它们是：
+
+  规律1：看从句选介词——介词与定语从句中的动词、形容词或名词构成固定搭配；
+
+  规律2：看先行词选介词——介词与先行词构成固定搭配；
+
+  规律3：看句义选介词——为了意思表达的需要而使用特定的介词；
+
+  规律4：表示所属关系或部分整体关系时用介词of；
+
+  规律5：固定的介宾结构。
+
+## 2.8 关系代词as
+### 2.8.1 as引导非限定性定语从句
+因为as引导非限定性定语从句的情况比较常见，所以我们首先来讨论它。as引导的非限定性定语从句的特点主要有两个：第一，as所指代的先行词通常都是一个完整的句子；第二，as引导的定语从句位置很灵活，可以在句首、句中或句末。另外，因为which也可以引导非限定性定语从句，因此下面我们通过与which进行比较来讨论as的用法。
+
+
+  一、as引导的非限定性定语从句可放在句首
+
+  as引导的非限定性定语从句可以放在句首，此时as指代后面的整个主句。换句话说，关系代词as的先行词可以出现在as后边。这点不同于which及任何其他关系词，因为which及其他关系词所指代的先行词必须出现在它们的前面，因此which引导的非限定性定语从句不能放在句首，这是as和which的重要区别。
+
+  As is so often pointed out, knowledge is a two-edged weapon which can be used equally for good or evil.
+
+  妙语点睛　这是一个放在句首的由as引导的定语从句，此时as所指代的先行词是其后面的完整的主句，即knowledge is a two-edged weapon which can be used equally for good or evil。as在定语从句中作主语。注意：在这里我们不能说“Which is so often pointed out, ...*”。
+
+  精品译文　正如人们常常指出的，知识是一把双刃剑，既可以用于造福，也同样可以用来为害。
+
+  二、as引导的非限定性定语从句可放在句中
+
+  as引导的非限定性定语从句放在句中，往往会分隔主句中的某两个成分，因此在分析句子时要跳过这个as引导的从句，直接将从句的前后两个成分联系起来看，这样才便于理解。尽管as引导的从句放在句中，但as所指代的先行词依然是主句，只不过此时的主句是被as引导的从句分隔成了前后两部分。我们知道，which引导的非限定性定语从句也可以放在句中，但which的先行词必须出现在其前面。请看例句：
+
+  Stratford-on-Avon, as we all know, has only one industry—William Shakespeare—but there are two distinctly separate and increasingly hostile branches.
+
+  妙语点睛　as引导的定语从句放在句中，隔开了主语Stratford-on-Avon与其谓语has。此时as指代的先行词依然是主句，只不过此时的主句是被as引导的从句分隔成了Stratford-on-Avon和has only one industry—William Shakespeare—but there are two distinctly separate and increasingly hostile branches两部分。as指代这个主句的同时在定语从句中作know的宾语，因此“我们所知道”的是Stratford-on-Avon has only one industry—William Shakespeare—but there are two distinctly separate and increasingly hostile branches，即“Stratford-on-Avon只有一个产业，即威廉·莎士比亚，但是存在着两个明显不同且日益敌对的分支”。
+
+  这里若用which替换as，说成which we all know，那么which只能指代Stratford-on-Avon而不能指代整个主句。因此，which表示“我们所知道”的是Stratford-on-Avon这个城市。所以，which和as所指代的“我们所知道”的对象是不同的。
+
+  精品译文　众所周知，埃文河上的斯特拉特福德镇只有一个产业，即威廉·莎士比亚，但是存在着两个明显不同且日益敌对的分支。
+
+  三、as引导的非限定性定语从句可放在句末
+
+  因为在as引导的定语从句中，as有“正好……”“就像……”“由……而知”的含义，所以，当主句和从句在内容上一致时，或者说从句内容是顺着主句的意思说下来时，通常用as。若主句和从句在内容上不一致，或从句的内容对主句的内容起消极作用，即对主句内容起反对、排斥、否定等作用时，则多用which。请比较分析：
+
+  1） She has married again, as was expected.
+
+  2） She has married again, which was unexpected.
+
+  妙语点睛　在例句1）中，定语从句中的关键词expected表明定语从句的意思与前面主句的意思是顺接关系，所以用as比较妥当，表示“正如人们所意料的那样”。在例句2）中，定语从句中的关键词unexpected表明定语从句的意思与前面主句的意思是否定、排斥的关系，所以用which比较妥当，表示“这是出乎人们意料的”。
+
+  精品译文　1）她又结婚了，正如人们所预料的那样。
+
+  2）她又结婚了，这真出乎人们预料。
+
+### 2.8.2 as引导限定性定语从句
+
+一、as在定语从句中作主语
+
+  He’ll repeat such points as are discussed in the book.
+
+  妙语点睛　这里such...as构成结构上的呼应关系。如果没有such，则不用as引导定语从句，比如可以说成“He’ll repeat the point that are discussed in the book.”。as的先行词是points。
+
+  精品译文　他将会重复书上讨论过的要点内容。
+
+二、as在定语从句中作宾语
+
+  He tried to make as few mistakes as he could avoid.
+
+  妙语点睛　这里as...as构成结构上的呼应关系。如果没有as，则不用as引导定语从句。as指代先行词mistakes，并且在从句中作avoid的宾语。
+
+  精品译文　他尽量避免犯错误。
+
+三、as在定语从句中作表语
+
+  He is not such a fool as we would assume him to be.
+
+  妙语点睛　这里such...as构成结构上的呼应关系。如果没有such，则不用as引导定语从句。as指代先行词fool，并且在从句中作be的表语。
+
+  精品译文　他并不像我们想象的那样傻。
+
+## 2.9 关系代词than
+
+than引导的定语从句有如下用法特点：
+
+  1. than可作关系代词引导定语从句，在从句中一般作主语（也可作宾语）；
+
+  2. than前面的主句需有形容词的比较级形式；
+
+  3. 比较级所修饰的名词即为先行词。
+
+He soon found it easy to make more money by thieving than his father had done by a lifetime of honest work.
+
+妙语点睛　这里的more所修饰的名词money即为先行词，than指代money的同时，在从句中作谓语动词had done（即had made）的宾语。定语从句than his father had done by a lifetime of honest work表示“他老爸通过一辈子辛勤劳动所挣的钱”。
+
+精品译文　很快他就发现，通过盗窃所得的钱比他老爸一辈子辛勤劳动挣来的钱要多得多。
+
+## 2.10 关系代词but
+对于but用作关系代词，很多读者也许觉得很陌生。下面总结一下它的用法特点：
+
+  1. 从but所表达的意义来看，but作关系代词具有否定意义，相当于that...not。因此but后面接的定语从句在形式上是肯定的，但在意义上是否定的。
+
+  2. 从主句的结构上来看，but所修饰的先行词往往会被一个否定词修饰，换句话说，but常与具有否定意义的主句连用。这样一来，主句中的否定和but本身的否定意义结合起来即构成双重否定，表达一个肯定意思。
+
+  3. but可指人也可指物，在句中作主语或宾语。
+
+  4. but通常只引导限定性定语从句。
+
+There are very few rules of grammar but have exceptions; the exception proves the rule.
+
+妙语点睛　首先，我们看到定语从句but have exceptions在形式上是肯定句，但由于but本身具有否定意义，所以该定语从句相当于说that don't have exceptions，表示“没有例外的”。其次，在主句中有否定词few来修饰先行词rules of grammar，表示“很少有语法规则”。于是主句的否定与从句的否定结合起来构成一个双重否定，整个句子表示“很少有语法规则是没有例外的”。第三，but在这里指物，即rules of grammar，在从句中作主语。
+
+精品译文　很少有语法规则是没有例外的，因为有例外才证明规则存在。
+
+## 2.11 缩合关系代词what
