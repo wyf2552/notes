@@ -338,6 +338,81 @@ fin.read((char*)(&x),sizeof(int));
 
 2. fout.close();
 
+# 函数
+## 函数签名
+函数签名(Function Signature)是函数的唯一标识，包含以下要素：
+
+1. 基本组成
+- 函数名
+- 参数列表(参数类型和顺序)
+- 所在的命名空间/类
+
+2. 不包含的要素
+- 返回值类型
+- 参数名称
+- 函数体
+
+3. 示例:
+```cpp
+// 以下是不同的函数签名
+void func(int a, double b);
+void func(double a, int b);    // 参数类型顺序不同
+void func(int a);              // 参数数量不同
+void func(char a, char b);     // 参数类型不同
+
+// 以下不构成不同的签名
+int func(int a, double b);     // 仅返回值不同
+void func(int x, double y);    // 仅参数名不同
+```
+
+4. 重要用途
+- 函数重载的区分依据
+- 链接器识别函数的依据
+- 编译器进行函数调用匹配
+
+5. 在C++中的特殊情况
+- 类成员函数的签名包含this指针
+- 模板函数的签名包含模板参数
+- const成员函数有不同的签名
+
+## 函数重载
+函数重载(Function Overloading)是C++中的一个重要特性,允许在同一作用域中定义多个同名但参数列表不同的函数。主要特点:
+
+1. 重载条件
+- 函数名相同
+- 参数列表不同(参数类型、参数个数、参数顺序)
+- 返回值类型不同不足以构成重载
+
+2. 简单示例:
+```cpp
+int add(int a, int b) {
+    return a + b;
+}
+
+double add(double a, double b) {
+    return a + b;
+}
+
+int add(int a, int b, int c) {
+    return a + b + c;
+}
+```
+
+3. 重载函数的调用
+编译器根据调用时的参数类型和数量自动选择匹配的函数:
+```cpp
+int main() {
+    add(1, 2);       // 调用int版本
+    add(1.5, 2.5);   // 调用double版本
+    add(1, 2, 3);    // 调用三参数版本
+}
+```
+
+4. 注意事项:
+- 避免参数类型过于相近,可能导致二义性
+- 使用默认参数时要小心避免重载冲突
+- 类成员函数也可以重载
+
 # 类
 ## 面向对象程序设计方法
 
@@ -589,6 +664,17 @@ Date start{};
 
 通过确保对象的正确初始化，构造函数极大地简化了成员函数的实现。有了构造 函数，其他成员函数就不再需要处理未初始化数据的情况
 
+构造函数继承顺序：
+1. 虚基类
+2. 非虚基类，按照继承顺序构造
+3. 设置每个虚函数表的指针
+4. 成员初始化列表
+5. 构造函数体内的代码
+
+虚基类的构造函数只会被最后一个派生类调用
+
+
+
 ## explicit构造函数
 
 默认情况下，用单 一参数调用一个构造函数，其行为类似于从参数类型到类自身类型的 转换。例如
@@ -823,7 +909,9 @@ String::~String() {
 * 析构函数释放s1、S2和保存ident(s1)结果的临时变量所拥有的资源，对移动源 — 函数参数arg 不做任何事情。
 
 ## 多态
-多态：相同语法结构，代表多种功能或操作
+多态：多态性是指具有不同功能的函数可以使用相同的函数名，这样就可以用一个函数名调用不同内容的函数。在面向对象方法中一般是这样表述多态性：向不同的对象发送同一条消息，不同的对象在接收时会产生不同的行为（即方法）。也就是说，每个对象可以用自己的方式去响应共同的消息。所谓消息，就是调用函数，不同的行为就是指不同的实现，即执行不同的函数。
+
+多态是面向对象的重要特性,简单点说:“一个接口，多种实现”，指一个基类中派生出了不同的子类，且每个子类在继承了同样的方法名的同时又对父类的方法做了不同的实现，这就是同一种事物表现出的多种形态。
 
 多态性：是指一段程序能够处理多种类型对象的能力
 
@@ -1011,6 +1099,229 @@ class Line {
 };
 ```
 
+## 内存布局
+
+C++类对象的内存布局受多个因素影响，以下是主要规则：
+
+1. 基本内存布局：
+```cpp
+class Simple {
+    int a;      // 4字节
+    char b;     // 1字节
+    double c;   // 8字节
+    char d;     // 1字节
+};
+// 实际大小：24字节（考虑对齐）
+
+// 内存布局：
+// a    : 0-3   (4字节)
+// b    : 4     (1字节)
+// pad  : 5-7   (3字节填充)
+// c    : 8-15  (8字节)
+// d    : 16    (1字节)
+// pad  : 17-23 (7字节填充)
+```
+
+2. 虚函数的影响：
+```cpp
+class WithVirtual {
+    int a;
+    virtual void func() {}
+    virtual void func2() {}
+};
+// vptr(虚函数表指针) + 成员变量
+
+// 内存布局：
+// vptr  : 0-7   (8字节，64位系统)
+// a     : 8-11  (4字节)
+// pad   : 12-15 (4字节填充)
+```
+
+3. 继承关系下的布局：
+```cpp
+class Base {
+    int a;
+    virtual void func() {}
+};
+
+class Derived : public Base {
+    int b;
+    virtual void func() override {}
+};
+
+// 内存布局：
+// Base部分：
+//   vptr  : 0-7
+//   a     : 8-11
+// Derived部分：
+//   b     : 12-15
+```
+
+4. 多重继承：
+```cpp
+class Base1 {
+    int a;
+    virtual void func1() {}
+};
+
+class Base2 {
+    int b;
+    virtual void func2() {}
+};
+
+class Derived : public Base1, public Base2 {
+    int c;
+};
+
+// 内存布局：
+// Base1部分：
+//   vptr1 : 0-7
+//   a     : 8-11
+// Base2部分：
+//   vptr2 : 12-19
+//   b     : 20-23
+// Derived部分：
+//   c     : 24-27
+```
+
+5. 虚继承：
+```cpp
+class Base {
+    int a;
+};
+
+class Derived1 : virtual public Base {
+    int b;
+};
+
+class Derived2 : virtual public Base {
+    int c;
+};
+
+class Final : public Derived1, public Derived2 {
+    int d;
+};
+// 虚继承会引入额外的虚基类指针(vbptr)
+```
+* virtual base虚基类的内存位于最后一个继承的类的内存之后
+* 最后一个类和它继承的第一个类共享一个虚函数表
+// Derived1
+//   vptr1 : 0-7
+//   b     : 8-11
+//   pad   : 12-14
+// Derived2
+//   vptr2 : 15-23
+//   c     : 24-28
+//   pad   : 29-30
+// Base部分：
+//   vbptr : 31-39
+//   a     : 40-44
+
+内存分布说明:
+    1. vbptr (virtual base pointer): 指向虚基类表
+    2. 每个通过虚继承继承Base的类都有自己的vbptr
+    3. 虚基类Base的成员被放在对象的末尾
+    4. 所有派生类共享同一个Base实例
+
+
+6. 空类与空基类优化：
+```cpp
+class Empty {};  // 大小为1字节
+
+class Derived : public Empty {
+    int x;      // 4字节
+};  // 大小为4字节（空基类优化）
+
+class NonOptimized {
+    Empty e;    // 1字节
+    int x;      // 4字节
+};  // 大小为8字节（包含填充）
+```
+
+7. 成员对齐规则：
+```cpp
+#pragma pack(push, 1)  // 设置1字节对齐
+class Packed {
+    char a;    // 1字节
+    int b;     // 4字节
+    char c;    // 1字节
+};  // 大小为6字节
+#pragma pack(pop)
+
+class Normal {
+    char a;    // 1字节
+    int b;     // 4字节
+    char c;    // 1字节
+};  // 大小为12字节（默认对齐）
+```
+
+8. 位字段：
+```cpp
+class Bitfields {
+    unsigned int a : 1;  // 1位
+    unsigned int b : 2;  // 2位
+    unsigned int c : 29; // 29位
+};  // 通常占用4字节
+```
+
+关键规则：
+1. 对齐规则
+2. 虚函数表指针位置
+3. 继承关系影响
+4. 空基类优化
+5. 成员变量顺序
+6. 虚继承的特殊处理
+
+影响因素：
+1. 编译器实现
+2. 平台架构
+3. 对齐要求
+4. 继承方式
+5. 成员访问控制
+6. 虚函数的存在
+
+性能考虑：
+1. 缓存对齐
+2. 内存访问效率
+3. 对象大小
+4. 虚函数调用开销
+5. 多重继承开销
+
+最佳实践：
+1. 合理排列成员变量顺序
+2. 注意对齐要求
+3. 慎用多重继承
+4. 利用空基类优化
+5. 考虑内存布局对性能的影响
+
+调试技巧：
+```cpp
+// 查看对象大小
+cout << sizeof(MyClass) << endl;
+
+// 查看成员偏移
+cout << offsetof(MyClass, member) << endl;
+
+// 使用调试器查看内存布局
+// 使用sizeof运算符
+// 使用编译器特定的工具
+```
+
+注意事项：
+1. 不同编译器可能有差异
+2. 平台相关性
+3. 对齐要求的影响
+4. 继承关系的复杂性
+5. 虚函数的开销
+
+## 虚函数表
+在多继承情况下，编译器会为每一个类生成唯一的虚函数表，所有类的实例共享该虚函数表
+
+derive对一个虚函数的重写，会重写所有基类的虚函数
+
+每个类的虚函数表都包含基类子对象的虚函数表
+
+
 ## 虚函数
 1. 虚函数的定义
     1. 虚函数只能是类中成员函数，且不能是静态的。在成员函数定义或声明前面加上关键字virtual，即定义了虚函数：
@@ -1069,6 +1380,10 @@ class Line {
     包含有纯虚函数的类称为抽象类（abstract class）。一个抽象类只能作基类来派生新类，所以又称为抽象基类（abstract baseclass）。抽象类不能定义对象。
 
     如果在派生类中给出了抽象类的纯虚函数的实现，则该派生类不再是抽象类。否则只要派生类仍然有纯虚函数，则派生类依然是抽象类。抽象类至少含有一个虚函数，而且至少有一个虚函数是纯虚函数。
+
+虚函数执行步骤：
+1. 对this指针进行调整
+2. 执行真正的虚函数
 
 ## 类内初始化器
 当使用多个构造函数时，成员初始化可以是重复的
@@ -2403,4 +2718,191 @@ int main() {
         return 0;
     }
 
+# 关键字
+## const
+const关键字的主要用法：
 
+1. 常量定义：
+```cpp
+const int MAX_SIZE = 100;  // 常量值
+const double PI = 3.14159;
+```
+
+2. 常量指针：
+```cpp
+// 指向常量的指针 - 不能通过指针修改值
+const int* ptr1 = &value;
+// 等价写法
+int const* ptr2 = &value;
+
+// 常量指针 - 指针本身不能改变指向
+int* const ptr3 = &value;
+
+// 指向常量的常量指针 - 两者都不能改变
+const int* const ptr4 = &value;
+```
+
+3. 常量引用：
+```cpp
+const int& ref = value;  // 不能通过引用修改值
+```
+
+4. 类中的const成员函数：
+```cpp
+class MyClass {
+public:
+    int getValue() const {  // 承诺不修改类成员
+        return value;
+    }
+
+private:
+    int value;
+};
+```
+
+5. 函数参数：
+```cpp
+// 传递大型对象时避免拷贝
+void printData(const std::vector<int>& data);
+
+// 防止参数被修改
+void processValue(const int value);
+```
+
+6. 函数返回值：
+```cpp
+const std::string& getName() const;  // 返回常量引用
+const int getValue() const;          // 返回常量值
+```
+
+7. 类的const成员变量：
+```cpp
+class Config {
+    const int MAX_CONNECTIONS = 100;  // 常量成员
+    static const int TIMEOUT = 30;    // 静态常量成员
+};
+```
+
+8. const_cast示例：
+```cpp
+const int constant = 21;
+const int* const_ptr = &constant;
+int* modifiable = const_cast<int*>(const_ptr);
+```
+
+9. mutable与const：
+```cpp
+class Cache {
+    mutable int accessCount = 0;  // 即使在const函数中也可修改
+
+public:
+    void access() const {
+        ++accessCount;  // 合法
+    }
+};
+```
+## static
+
+主要用途：
+1. 静态存储期管理
+2. 限制作用域
+3. 共享数据
+4. 内存优化
+5. 实现单例模式
+6. 计数器实现
+7. 缓存管理
+8. 全局状态管理
+
+注意事项：
+1. 静态成员变量必须在类外定义
+2. 静态成员函数不能访问非静态成员
+3. 静态局部变量只初始化一次
+4. 静态全局变量和函数具有文件作用域
+5. 多线程环境下需要考虑线程安全
+6. 静态成员属于类而不是对象
+7. 合理使用可以优化内存使用
+8. 过度使用会增加代码耦合度
+
+C++中static的主要用法：
+
+1. 静态局部变量：
+```cpp
+void counter() {
+    static int count = 0;  // 只初始化一次，生命周期持续到程序结束
+    count++;
+    cout << count << endl;
+}
+```
+
+2. 静态成员变量：
+```cpp
+class MyClass {
+private:
+    static int count;      // 声明
+    static const int MAX = 100;  // const静态成员可以在类内初始化
+
+public:
+    static void printCount() {
+        cout << count << endl;
+    }
+};
+
+int MyClass::count = 0;    // 定义，必须在类外初始化
+```
+
+3. 静态成员函数：
+```cpp
+class MyClass {
+public:
+    static void staticMethod() {
+        // 只能访问静态成员
+        cout << "Static method" << endl;
+    }
+
+    static int getCount() {
+        return count;
+    }
+
+private:
+    static int count;
+};
+
+// 调用
+MyClass::staticMethod();
+```
+
+4. 静态全局变量：
+```cpp
+// 文件1.cpp
+static int globalVar = 10;  // 只在当前文件可见
+
+// 文件2.cpp
+static int globalVar = 20;  // 不会冲突，是不同变量
+```
+
+5. 静态函数：
+```cpp
+// 只在当前文件可见的函数
+static void helperFunction() {
+    // 实现细节
+}
+```
+
+6. 单例模式：
+```cpp
+class Singleton {
+private:
+    static Singleton* instance;
+    Singleton() {}
+
+public:
+    static Singleton* getInstance() {
+        if (instance == nullptr) {
+            instance = new Singleton();
+        }
+        return instance;
+    }
+};
+
+Singleton* Singleton::instance = nullptr;
+```
