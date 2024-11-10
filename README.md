@@ -7,7 +7,7 @@
 * [:blue_book: C++ Primer]()
 * [:blue_book: STL源码剖析]()
 
-* [:tv: 侯捷-STL标准库与泛型编程](https://www.youtube.com/playlist?list=PLH_SiDrNHIUS8wBdEIxoAXag5r2Ju-lq_)
+* [:tv: 侯捷-STL标准库与泛型编程](https://www.youtube.com/watch?v=Edcwv38c7d4&list=PLTcwR9j5y6W2Bf4S-qi0HBQlHXQVFoJrP)
 * [:tv: 侯捷-C++面向对象高级编程](https://www.youtube.com/playlist?list=PL22VEhDswb7heI5g_5XASyMqGJLrVSqI7)
 
 * 类
