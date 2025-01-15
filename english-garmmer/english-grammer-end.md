@@ -674,26 +674,97 @@ as引导限定性定语从句只能用在一些固定结构中，即只能用在
 
   精品译文　他尽量避免犯错误。
 
-三、as在定语从句中作表语
+  三、as在定语从句中作表语
 
-He is not such a fool as we would assume him to be.
+  He is not such a fool as we would assume him to be.
 
-妙语点睛　这里such...as构成结构上的呼应关系。如果没有such，则不用as引导定语从句。as指代先行词fool，并且在从句中作be的表语。
+  妙语点睛　这里such...as构成结构上的呼应关系。如果没有such，则不用as引导定语从句。as指代先行词fool，并且在从句中作be的表语。
 
-精品译文　他并不像我们想象的那样傻。
+  精品译文　他并不像我们想象的那样傻。
 
 ### 2.9 关系代词than
 
 than引导的定语从句有如下用法特点：
 
-  ● than可作关系代词引导定语从句，在从句中一般作主语（也可作宾语）；
+  1. than可作关系代词引导定语从句，在从句中一般作主语（也可作宾语）；
 
-  ● than前面的主句需有形容词的比较级形式；
+  2. than前面的主句需有形容词的比较级形式；
 
-  ● 比较级所修饰的名词即为先行词。
+  3. 比较级所修饰的名词即为先行词。
 
   Don't drink more wine than is good for health.
 
   精品译文　不要过量饮酒。适量饮酒有益于健康。
 
 ### 2.10 关系代词but
+
+对于but用作关系代词，很多读者也许觉得很陌生。下面总结一下它的用法特点：
+
+  1. 从but所表达的意义来看，but作关系代词具有否定意义，相当于that...not。因此but后面接的定语从句在形式上是肯定的，但在意义上是否定的。
+
+  2. 从主句的结构上来看，but所修饰的先行词往往会被一个否定词修饰，换句话说，but常与具有否定意义的主句连用。这样一来，主句中的否定和but本身的否定意义结合起来即构成双重否定，表达一个肯定意思。
+
+  3. but可指人也可指物，在句中作主语或宾语。
+
+  4. but通常只引导限定性定语从句。
+
+There are very few rules of grammar but have exceptions; the exception proves the rule.
+
+  妙语点睛　首先，我们看到定语从句but have exceptions在形式上是肯定句，但由于but本身具有否定意义，所以该定语从句相当于说that don't have exceptions，表示“没有例外的”。其次，在主句中有否定词few来修饰先行词rules of grammar，表示“很少有语法规则”。于是主句的否定与从句的否定结合起来构成一个双重否定，整个句子表示“很少有语法规则是没有例外的”。第三，but在这里指物，即rules of grammar，在从句中作主语。
+
+  精品译文　很少有语法规则是没有例外的，因为有例外才证明规则存在。
+
+## 2.11 缩合关系代词what
+### 2.11.1 使用关系词what的前提：what的前面不能有先行词
+what本身的含义里面已经包括了一个关系代词及其先行词，所以what前面不能再有先行词出现。换句话说，如果句中已有先行词，就一定不能再用what引导定语从句。
+
+  Beethoven, the great musician, wrote【A】 nine symphonies in his life, most of what【B】 were written after he had lost【C】 his hearing【D】.
+
+  正确答案　B。应改为：most of which。
+
+  妙语点睛　从表面上看来，这里的most of what中的what前面没有名词，但其实这是一个非限定性定语从句，这个定语从句是补充说明先行词nine symphonies的。因为有先行词，所以不能用what引导从句，而应改成most of which，也就相当于most of the nine symphonies。
+
+  精品译文　贝多芬这位伟大的音乐家一生中创作了九部交响曲，其中大部分是在他耳朵失聪后完成的。
+
+ ### 2.11.2 what单独使用，即其后面可以不接名词
+ 在通常情况下，what是单独使用的，即其后面不接名词。此时，what可表示物，也可表示人。所以，what在意义上相当于说the thing that或the person that，此时的what一般不具有“什么”这样的疑问意义。
+
+  She is not what she used to be.
+
+  妙语点睛　这里的what后面没有接名词，what用来指人，原句可以改成一个含有定语从句的句子：“She is not the girl that she used to be.”。由此可见，这里的what没有疑问意义，它相当于一个先行词和关系代词的结合体，从这个意义上来说，what引导的是一个定语从句。但从结构上来说，这里what引导的从句是充当is的表语，即名词从句中的表语从句。换句话说，what所引导的从句，既可以看作是特殊的定语从句，又可以看作是名词从句。因此，为了方便起见，我们以后把what引导的从句统称为what从句。
+
+  精品译文　她不再是以前的她了。
+
+### 2.11.3 what的后面可以接名词
+尽管what的前面不能有名词，但它后面可以接名词。当what后面接名词时，what作关系形容词，其结构是“what+名词”，相当于“all the+名词+that”，意思为“所有的……，尽可能多的……”。所以，此时的what同样没有疑问含义。这里的what一般表示物，而不表示人。
+
+  Lend me what reference books you have on the subject.
+
+  妙语点睛　这里what后面接名词短语reference books，what reference books相当于all the reference books that，表示“所有的参考书”，并不表示疑问意义的“什么参考书”。于是，what reference books you have相当于all the reference books that you have，表示“你所有的参考书”，并不表示疑问意义的“你有什么参考书”。
+
+  精品译文　请把你所有的有关这个研究专题的参考书借给我。
+
+在“what+名词”这个结构中，在名词前面还可以添加其他限定词修饰名词，比如little，于是就有了“what little+名词”结构，相当于“all the little+名词+that”，表示“仅有的这点东西”。
+
+  The accident completely wiped out what little sight he had left.
+
+  妙语点睛　这里what后面接名词短语little sight，相当于说all the little sight that，表示“仅有的这点视力”。于是，what little sight he had left相当于all the little sight that he had left，表示“他所剩下的仅有的这点视力”。
+
+  精品译文　这次事故使他原本仅有的一点视力也完全丧失了。
+
+### 2.11.4 what用在一些固定结构中
+what从句常用在一些结构中，比如表示“所谓的”：what is called, what can be called, what we call, what used to call。此外还有其他结构，比如：what they described as, what they regarded as, what you may see as等等。这些结构可以作插入语，一般放在动词或介词后面作宾语。
+
+  For Williams, those activities became what he calls “electronic heroin”.
+
+  精品译文　对威廉斯来说，这些活动成了他所称的“电子海洛因”。
+
+ ## 2.12 关系副词when
+ ### 2.12.1 用when引导定语从句，其先行词必须是表示时间的名词
+ 关系副词when的用法特点有：
+
+  1. when在定语从句中作时间状语，修饰从句谓语动词。
+
+  2. 其前面的先行词必须是表示时间的名词，如day, year, time等。
+
+  3. 可引导限定性和非限定性定语从句。
