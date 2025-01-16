@@ -768,3 +768,80 @@ what从句常用在一些结构中，比如表示“所谓的”：what is calle
   2. 其前面的先行词必须是表示时间的名词，如day, year, time等。
 
   3. 可引导限定性和非限定性定语从句。
+
+Most education experts today stress the importance of “life-long learning”. They point out that education never ends. It is a continuous process. The day when we stop learning is the day when we die.
+
+妙语点睛　表示时间的名词day是先行词，所以这里用when来引导定语从句。这个句子让我们知道，我们现在身处一个“终身学习（life-long learning）”的时代。大家不妨记住这个句子，也许在写作文时能派上用场。
+
+精品译文　大多数的教育专家现如今都强调“终身学习”的重要性。他们指出，教育是一个连续的过程，永远不应该停止，除非我们离开了这个世界。
+
+### 2.12.2 先行词表示时间时，不一定都是用when引导定语从句
+因为用when来引导定语从句的前提条件不仅是先行词要表示时间，更重要的是when 要在定语从句中作时间状语。换句话说，若定语从句不是缺少状语，而是缺少主语或宾语，那么我们就要用which或that来引导定语从句，即使先行名词是表示时间的。
+
+  1） I’ll never forget the time which I spent on campus.
+
+  2） I’ll never forget the day when we first met in the park.
+
+  妙语点睛　在这两句里，尽管先行词分别是表示时间的名词time和day，但用的关系词不同。在例句1）里，由于定语从句中的谓语spent缺少宾语，因此填入的关系词要充当这一宾语，故要用which。
+
+  在例句2）中，定语从句不缺少主语或宾语，而是从句谓语met缺少时间状语，故关系词用when。
+
+  精品译文　1） 我永远不会忘记在大学校园里度过的时光。
+
+  2） 我永远不会忘记我们第一次在公园见面的那天。
+
+### 2.12.3 如何区分when引导的定语从句与when引导的时间状语从句
+when引导的定语从句和时间状语从句有如下三点不同：
+
+  1. 结构上的不同
+
+  若when引导定语从句，则when的前面必然有表示时间的名词（如上面例句2中的the latest dates），即先行词。若when引导时间状语从句，则其前面往往没有表示时间的名词，比如上面例句3中，when前面的tone就不是表示时间的名词，因此不可能作when的先行词。
+
+  2. when的作用不同
+
+  经过更为深入的分析，我们会发现when在两种从句中的作用是不同的。当when引导定语从句时，此时when是指代表示时间的先行词，在定语从句中作时间状语，修饰从句的谓语。比如在上面的例句2中，when指代the latest dates，修饰定语从句中的谓语expect，表示“在那个时候我们有望看到（数百项重大的突破和发现）”。
+
+  当when引导时间状语从句时，此时when不在从句中作任何成分（比如不是作状语来修饰从句谓语），只起连接主句和从句的作用。不过需要注意的是，when引导的时间从句修饰主句的谓语，作主句谓语的时间状语。比如在上面的例句3中，时间从句when they put pen to paper before the 1960s修饰主句谓语sought，表示“在20世纪60年代之前，当人们伏案写作时，他们追求……”。
+
+  因此，我们可以用这样一句话来区分when的两类从句：在when引导的定语从句里，作从句谓语的状语是when这个词，而在when引导的时间从句里，作主句谓语的状语是when引导的从句，而不是when这个词。
+
+  3. when的译法不同
+
+  最后，从翻译的角度来看，when引导定语从句，如果从句谓语是过去时，则when表示从句谓语动作发生的过去时间，因而一般译成“当时”“那时”；如果从句谓语是表示将来的动作，则when表示从句谓语动作发生的将来时间，因而常译成“到时”“届时”，或在翻译时根据上下文灵活处理，比如我们在例句2中不把它译出来。而引导时间状语从句的when，通常都是译成“当……时候”。
+
+To her, the arguments about little things and other obstacles she and her husband face are forgettable when she thinks back to when she first met her husband.
+
+妙语点睛　我们看到，这里有两个when引导的从句，而且二者是嵌套关系，即在第一个when引导的从句when she thinks back to when she first met her husband里面嵌套着另一个when引导的从句when she first met her husband。第一个when引导的从句不难理解，应是一个时间状语从句，所以when可译成“当……时”。而第二个when引导的从句较为特殊，从结构上看，这个从句是作介词to的宾语，所以应该是一个宾语从句。但从when的意义上来看，这个when相当于说the day when，即这里的when完全类似2.11小节中讨论的what的用法，是一个“缩合关系词”，也就是说when本身含有一个“隐性”先行词the day。所以从句when she first met her husband可以改写成一个定语从句the day when she first met her husband，表示“当初第一次认识她丈夫时的那天”。
+
+精品译文　对于她来说，当她回忆起初遇丈夫时的情景，就把他们之间的关于生活琐事的争议抛到九霄云外了。
+
+## 2.13 关系副词where
+### 2.13.1 用where引导定语从句，其先行词通常是表示地点的名词
+关系副词where的用法特点有：
+
+  1. where在定语从句中作地点状语，修饰从句谓语动词；
+
+  2. 其前面的先行词通常是表示地点的名词，如place, house等；
+
+  3. 可引导限定性和非限定性定语从句。
+
+Literature is the place where the past meets the present to contemplate the future.
+
+妙语点睛　这里的先行词place表示地点，而且where在从句中充当地点状语（定语从句中不缺少主语或宾语），修饰从句谓语meets。
+
+精品译文　在文学作品里，过去与现实交汇，以思考未来。
+
+### 2.13.2 先行词表示地点，不一定都用where引导定语从句
+与when类似，并非凡是先行词表示地点的名词都得由where引导定语从句来进行修饰，这得看关系词在从句中充当的成分。若定语从句不是缺少状语，而是缺少主语或宾语，则要用which或that引导定语从句，即使先行词是表示地点。请看例句：
+
+  1） This is the town where I spent my childhood.
+
+  2） This is the town which I told you about before.
+
+  妙语点睛　在这两句话里，尽管先行词都是表示地点的名词town，但用的关系词不同。在例句1）中，定语从句不缺少主语或宾语，而是缺少地点状语，故关系词用where。这里的where作地点状语，修饰spent。在例句2）里，由于定语从句中的谓语部分told you about缺少宾语，那么关系词要充当这一宾语，故要用which。
+
+  精品译文　1） 这就是我度过童年的小城。
+
+  2） 这就是我以前告诉过你的小城。
+
+### 2.13.3 where引导定语从句，先行词可以是含有地点意义的其他各种名词
