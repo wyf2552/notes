@@ -845,3 +845,84 @@ Literature is the place where the past meets the present to contemplate the futu
   2） 这就是我以前告诉过你的小城。
 
 ### 2.13.3 where引导定语从句，先行词可以是含有地点意义的其他各种名词
+when的先行词必须是表示时间的名词，where的先行词通常是表示地点的名词。换句话说，where引导定语从句，其先行词可以不是表示地点的名词。我们可以把这种不表示地点的名词解释成一种“含有地点意义的名词”，这些名词往往是一些抽象名词，比如dream, case, situation, point等等。
+
+  Cheating is most likely in situations where the vital interests are high and the chances of getting caught are low.
+
+  妙语点睛　这里的先行词situations表示“情形，情况”，并非我们习惯意义上表示地点的名词，但这里依然用了where引导定语从句。where在从句中充当地点状语，定语从句中不缺少主语或宾语。
+
+  精品译文　如果利益重大而且被人发现的可能性又很小，在这种情况下，欺诈行为最有可能发生。
+
+### 2.13.4 如何区分where引导的地点状语从句和定语从句
+  1） 45 percent of the world's population live where mosquitoes transmit malaria.
+
+  2） Approximately 45 percent of the world's population live in the climate zone where mosquitoes transmit malaria.
+
+  妙语点睛　例句1）是地点状语从句，因为where前面没有被修饰的表示地点的名词。而例句2）就是一个定语从句，因为climate zone是被修饰的先行词。所以，两个句子的结构完全不同，尽管二者译成汉语时意思没有多大区别。
+
+  精品译文　疟疾是由蚊子传播的，全球有大约45％的人口生活在疟疾肆虐的区域。
+
+where引导的这两种从句有如下两点不同：
+
+  1. 结构上的不同
+
+  若where引导定语从句，则where的前面必然有表示地点的名词，如上面例句2）中的in the climate zone，即先行词。若where引导地点状语从句，则其前面往往没有表示地点的名词，比如上面的例句1），where前面只有动词live。
+
+  2. where的作用不同
+
+  经过更为深入的分析，我们会发现where在两类从句中的作用是不同的。当where引导定语从句时，指代表示地点的先行词在定语从句中作地点状语，修饰从句的谓语。比如在上面的例句1）中，where指代in the climate zone，修饰定语从句的谓语transmit，表示“蚊子在这样的气候区传播疟疾”。
+
+  当where引导地点状语从句时，不在从句中充当任何成分（比如不是作状语来修饰从句的谓语），只起连接主句和从句的作用。不过需要注意的是，where引导的地点状语从句修饰主句的谓语，作主句谓语的地点状语。比如在上面的例句1）中，地点状语从句where mosquitoes transmit malaria修饰主句的谓语live，表示“生活在蚊子传播疟疾的地方”。
+
+  因此，我们可以用这样一句话来区分where引导的两类从句：在where引导的定语从句中，作从句谓语的状语是where这个词，而在where引导的地点状语从句中，作主句谓语的状语是整个where引导的从句，而不是where这个词。
+
+The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive, where they are not extremely unattractive.
+
+妙语点睛　这里where引导的是地点状语从句，因为其前面没有被修饰的先行名词。
+
+精品译文　对雄心壮志的攻击为数众多，并且出于不同的角度；公开为它辩护的人极少，辩词也很平淡，尽管辩护者并非极不引人注意。
+
+定语从句中的where才能转换成“介词+which”的结构，而地点状语从句的where不能。
+
+总结
+
+  对于关系词where的用法，首先要确认它是在从句中作状语，然后才要确认先行词是表示地点的名词，因为即使有表示地点的名词作先行词，但如果从句不缺少状语，也不能用where引导定语从句。在此基础上，我们进一步提出下列假说：
+
+  如果一个定语从句不是缺少主语或宾语，而是缺少状语，并且先行词是除了表示时间的名词（在这种情况下会用when）和表示原因的名词（在这种情况下会用why）以外的任何其他名词，此时，我们都要用where引导定语从句。
+
+  因此，我们常常会在where引导的定语从句里看到一些很“离谱”的先行词（即并非习惯意义上的表示地点的名词）。或者说，一些不是表示地点的名词，我们也会用where引导的定语从句来修饰。因此，我们既不能从where引导的定语从句中推导出先行词一定是表示地点的名词，也不能从表示地点的先行词推导出一定用where引导定语从句。换句话说，不同于when引导定语从句是表示时间的先行词的充分但不必要条件，where引导的定语从句与表示地点的先行词既不是充分也不是必要条件。所以我们说，在三个关系副词（when/where/why）里面，where的用法最为复杂。
+
+## 2.14 关系副词why
+关系副词why的用法较简单，其用法特点有：
+
+  1. why在定语从句中作原因状语，修饰从句的谓语动词；
+
+  2. 其先行词必须是表示原因的名词，如reason, cause等；
+
+  3. 只引导限定性定语从句。这点不同于when和where。
+
+## 2.15 关系副词有how吗？
+how不可以作为表示方式的关系副词。在英语中，若要表示方式，我们用以下四种句型：
+
+  1. the way+从句
+
+  2. the way that+从句
+
+  3. the way in which+从句
+
+  4. the manner that+从句
+
+所以我们看到，在英语中没有“the way how+从句”这样的表达。
+
+  You know the old golden rule, “Care for others the way you would like them to care for you.”
+
+  妙语点睛　这里the way后面的关系词省去了，直接跟了从句you would like them to care for you。
+
+  精品译文　要记住这样一个真理——以希望别人对待你的方式来对待别人（己所不欲，勿施于人）。
+
+## 2.16带有插入语的定语从句
+所谓带有插入语的定语从句，是指在某些定语从句的关系词后面紧跟着一个插入语。插入语可以分为两类：一类是插入一个主谓结构，另一类是插入其他各种成分，如插入各种从句。
+### 2.16.1 定语从句的关系词后面插入一个主谓结构
+带有插入语的定语从句的结构主要有两种：作主语的关系词+插入语+定语从句的谓语部分；作宾语的关系词+插入语+定语从句的主谓部分。
+
+一、作主语的关系词+插入语+定语从句的谓语部分
