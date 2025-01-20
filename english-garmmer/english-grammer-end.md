@@ -926,3 +926,95 @@ how不可以作为表示方式的关系副词。在英语中，若要表示方�
 带有插入语的定语从句的结构主要有两种：作主语的关系词+插入语+定语从句的谓语部分；作宾语的关系词+插入语+定语从句的主谓部分。
 
 一、作主语的关系词+插入语+定语从句的谓语部分
+
+  Many students face problems when they have to study a subject that they think is difficult.
+
+  妙语点睛　我们看到，这里的定语从句本身的结构是that...is difficult，但现在关系代词that后面紧跟了一个插入语they think，于是便得到了一个带插入语的定语从句that they think is difficult。换句话说，定语从句的主语that和谓语部分is difficult被they think这个插入语分隔。
+
+  精品译文　很多学生如果必须学一门他们认为很难的课程时，就会遇到很多问题。
+
+二、作宾语的关系词+插入语+定语从句的主谓部分
+
+  The millionaire had a very ugly girl who I could not have dreamed many boys fell in love with.
+
+  妙语点睛　我们看到，这里的定语从句本身的结构是who...many boys fell in love with，关系词who作介词with的宾语。但现在关系代词who后面紧跟了一个插入语I could not have dreamed，于是便得到了一个带插入语的定语从句who I could not have dreamed many boys fell in love with。换句话说，定语从句的宾语who和定语从句的主谓语many boys fell in love with被I could not have dreamed这个插入语分隔。
+
+  精品译文　这个百万富翁有一个十分丑陋的女儿，可是让我难以想象的是，竟然有很多男孩子在追求她。
+
+三、what引导的从句中带一个主谓结构的插入语
+
+作插入语的主谓结构也可放在what引导的从句中
+
+There was a very interesting remark in a book by an Englishman that I read recently giving what he thought was a reason for this American characteristic.
+
+|there was a very intaresting remark|中心词remark|
+|in a book|介词短语，修饰remark|
+|by an Englishman|修饰book的并列定语1|
+|that i read recently|修饰book的并列定语2|
+|giving what he thought was a reson for this Americian characterristic|分词短语，修饰remark|
+
+精品译文　我最近看过一本书，它是由一个英国人写的，我还记得书里有一句十分有趣的话，作者认为这句话说明了美国人为什么是这种性格。
+
+### 2.16.2 定语从句的关系词后面插入一个其他成分
+1 Our limited thinking prevents us from progress. There was a fisherman who, every time he caught a big fish, would throw it back into the river, keeping only the smaller ones. A man watching this unusual behavior asked the fisherman why he was doing this. The fisherman replied: “Because I have a small frying pan.”Most people never make it in life because they are carrying a small frying pan. That is limited thinking.
+
+  妙语点睛　我们看到，这段短文第二句的插入成分是一个every time引导的时间从句，而不是一个主谓结构。具体来说，定语从句的关系词who后面带有插入语every time he caught a big fish，分隔了who与定语从句的谓语部分would throw it back into the river，其中who充当定语从句的主语。
+
+  精品译文　我们局限性的思维会阻碍我们进步。比如，有个渔夫，每次捕到大鱼时都会把它丢回河里，而只把个头比较小的鱼留下。有个人看到了渔夫这种不寻常的行为，就问他为什么这样做。渔夫回答说：“因为我家只有一只很小的平底锅。”大部分人在生活中不能成功就是因为他们只带着一只小平底锅。这就是局限性的思维。
+
+4 When we honestly ask ourselves which person in our lives means the most to us, we often find that it is those who, instead of giving much advice, solutions, or cures, have chosen rather to share our pain and touch our wounds with a gentle and tender hand.
+
+  妙语点睛　我们看到，这句话在定语从句的主语who和谓语have chosen之间插入了一个介词短语instead of giving much advice, solutions, or cures。
+
+  精品译文　当我们坦率地问自己，哪种人在我们的生活中对我们最具有意义时，我们常常会发现，不是那些给我们很多劝告、答案或对策的人，而是那些选择分担我们的痛苦，用温柔而亲切的手抚慰我们创伤的人。
+
+我们可以从以下两方面来把握带有插入语的定语从句：
+
+  1. 插入语的结构特点
+
+  这是关于插入语本身结构的问题。由以上的论述可知，插入语可以分为两类：一类是插入一个主谓结构，另一类是插入其他各种成分，尤其是插入各种从句。
+
+  2. 插入语的位置特点
+
+  这是指插入语在定语从句中的位置。从以上例句我们看到，插入语一般只能放在定语从句的关系词后面。
+
+## 2.17 并列定语从句
+所谓并列定语从句，是指两个或两个以上的定语从句，通过and, but, or等并列连词连接共同修饰一个先行词。
+
+  The errors occurring in the exam often result from the things that you don't know or that you think you know.
+
+  妙语点睛　两个定语从句that you don't know 和that you think you know由连词or连接，修饰同一个先行词the things。
+
+  精品译文　考试中所犯的错误，往往是因为某些知识点你不知道或者你认为自己知道（但实际上你不知道）。
+
+## 2.18 双层定语从句
+不同于上面讨论的并列定语从句，英语中还有一种双层定语从句，其特点是：
+
+  1. 一个先行词首先被一个限定性定语从句所修饰，来表示一个特定的意思。然后，这个“先行词+限定性定语从句”再被另外一个限定性定语从句所修饰。
+
+  2. 这两个限定性定语从句是处在不同层次上的，并不像并列定语从句那样是同一个先行词后面带有两个并列的定语从句，因而不能用连词and, but, or等来连接它们。
+
+He is the only person that we know who speaks so many foreign languages.
+
+妙语点睛　第一层定语从句that we know的先行词为the only person；第二层定语从句who speaks so many foreign languages的先行词为the only person that we know。
+
+精品译文　他是我们所认识的人当中唯一一位会说这么多外语的人。
+
+# 3 状语从句
+## 3.1 状语从句的本质
+  There is a story about a wealthy farmer who was once offered all the land he could walk on in a day, provided he came back by the sundown to the point where he started. To get a head start, early the next morning the farmer started covering ground quickly because he wanted to get as much land as he could. Even though he was tired, he kept going all afternoon because he didn't want to miss this once-in-a-lifetime opportunity to gain more wealth.
+
+  妙语点睛　我们看到，这段文字里有四个逻辑连词：一个表示条件关系的provided，两个表示因果关系的because，还有一个表示让步关系的even though，它们分别连接各个分句，以明确表示分句之间的逻辑语义关系。顺便要提及的是，这里也有我们在第二章里详细讨论过的定语从句，比如who was once offered all the land修饰wealthy farmer，（which/that） he could walk on in a day修饰the land（关系词which或that被省去），where he started修饰the point。这个故事的结尾是：农夫因为过于贪婪，总是不停地往前跑，想得到更多的土地，最后他精疲力竭，死了。他被埋葬了，此时他所需要的土地也只是那么一小块而已（He was buried and all the land he needed was a small plot.）。
+
+  精品译文　这里讲的是一个富农的故事。他得到了一个机会，能够获得一天内走到的所有土地，前提条件是他得在日落前回到他的出发地。为了占尽先机，第二天一早农夫就快速地上路了，因为他想得到尽可能多的土地。尽管他十分疲惫，整个下午他仍然在不停地行走，因为他不希望错过这个获取更多财富的千载难逢的机会。
+
+while作连词时主要有四个意思：
+
+  1） 当……时候（during the time that），时间状语从句连词；
+
+  2） 只要（as long as），条件状语从句连词；
+
+  3） 尽管（although），让步状语从句连词；
+
+  4） 然而（whereas），表示对比。
+![](./images/33.1-1.png)
