@@ -1018,3 +1018,137 @@ while作连词时主要有四个意思：
 
   4） 然而（whereas），表示对比。
 ![](./images/33.1-1.png)
+
+## 3.2 状语从句的省略
+一般来说，应同时满足以下两点：
+
+  1. 主句的主语和从句的主语一致，或从句主语是it；
+
+  2. 从句谓语中含有be动词的情况下，我们可将从句的主语和be动词省去。这种省略常见于时间、地点、条件及让步状语从句中。
+
+一、时间状语从句的省略
+
+  A zero can have its meaning only when used with real numbers; thoughts can give off brilliant light only when put into actions.
+
+  妙语点睛　这是when引导的时间状语从句的省略，还原后完整的句子结构应该是“A zero can have its meaning only when it is used with real numbers; thoughts can give off brilliant light only when they are put into actions.”。所以这里的两个when引导的从句分别省去了it is和they are。这里的it指主句的主语zero，they指主句的主语thoughts。
+
+  精品译文　零，只有和实数在一起使用才有意义；思想，只有付诸行动才能散发光芒。
+
+二、地点状语从句的省略
+
+  The kind of tree grows favorably where wet.
+
+  妙语点睛　这是where引导的地点状语从句的省略，还原后的完整的句子结构应该是“The kind of tree grows favorably where it is wet.”。所以where引导的从句省略了it is。请注意：这里的it并不是指代主句的主语tree，而是泛指任何地方。所以我们看到，从句的主语若是it，则是可以省去的。
+
+  精品译文　这种树在潮湿的地方生长得好。
+
+三、条件状语从句的省略
+
+  A tiger can't be tamed unless caught very young.
+
+  妙语点睛　这是一道托福考试真题，是unless引导的条件状语从句的省略，还原后的完整的句子结构应该是“A tiger can't be tamed unless it is caught very young.”。所以这里unless引导的从句省略了it is。这里的it指主句的主语tiger。
+
+  精品译文　老虎只有在年幼时捉来才能被驯服。
+
+四、让步状语从句的省略
+
+  Although not an economist himself, Dr. Smith has long been a severe critic of the government's economic policies.
+
+  妙语点睛　这是although引导的让步状语从句的省略，还原后的完整的句子结构应该是“Although he is not an economist himself, Dr. Smith has long been a severe critic of the government's economic policies.”。所以这里although引导的从句是省略了he is。这里的he指主句的主语Dr. Smith。
+
+  精品译文　尽管史密斯博士本人不是经济学家，但他一直以来对政府的经济政策提出尖锐的批评。
+
+## 3.3 时间状语从句
+下列贯穿所有时间状语从句的两个核心要点：
+
+  1. 注意主句、从句的时态搭配关系。对于不同时间状语从句的连接词，这种搭配关系是不同的。
+
+  2. 注意主句、从句的谓语动词的延续性和短暂性。延续动词所表示的动作，下文简称为“长动作（long action）”，短暂动词所表示的动作，简称为“短动作（short action）”。
+
+### 3.3.1 时间连词when的用法特点
+
+时间状语从句所表达的时间概念不外乎三种：过去、现在和将来。我们先来看when引导从句表示过去动作的五组时态搭配。
+
+一、主句一般过去时+从句一般过去时
+
+  I started my dinner when he left.
+
+  精品译文　他走了之后，我才开始吃晚饭。
+
+二、主句一般过去时+从句过去完成时
+
+  1） When I had written my letters I did some gardening.
+
+  2） When I wrote him a letter, he came at once.
+
+  妙语点睛　句1）不宜说成When I wrote...，因为这里的had written是持续了一段时间的，这从宾语my letters可以看出来，也就是说等一系列“写”的动作完成之后，才有主句动作发生。在句2）中，用wrote比had written更自然，因为“我写信”和“他过来”有一种因果关系。
+
+  精品译文　1）我把信写完后，就到花园里干了些活。
+
+  2）我给他去了封信后，他立即就来了。
+
+三、主句过去完成时+从句一般过去时
+
+  He had already left when I got there.
+
+  精品译文　我到的时候，他已经离开了。
+
+四、主句一般过去时+从句过去进行时
+
+  The doorbell rang when I was telephoning.
+
+  妙语点睛　这里的短暂性动作ring用一般过去时，延续性动作telephone用过去进行时。
+
+  精品译文　门铃响的时候，我正在打电话。
+
+五、主句过去进行时+从句一般过去时
+
+  I was telephoning when the doorbell rang.
+
+  精品译文　我当时正在打电话，突然门铃响了。
+
+  注意：由“主句一般过去时+when+从句过去进行时”变成“主句过去进行时+when+从句一般过去时”，此时when的意思发生了改变，即由during the time（当……时候）变成了at the time（正在那时），这时when强调某个短暂性动作突然发生，所以我们可以在when引导的从句中添加suddenly一词。
+
+六、主句一般将来时+从句一般现在时
+
+  在表示将来的动作时，主句显然要用一般将来时，而时间状语从句要用一般现在时表示将来，不能使用将来时态。
+
+  I’ll speak to him when he arrives.
+
+  精品译文　他来了以后我会和他谈谈。
+
+七、主句一般将来时+从句现在完成时
+
+  在when引导的从句中，除了用一般现在时表示将来之外，还可用现在完成时表示一个将要发生的动作，主句依然用一般将来时。这种时态搭配一般读者是不太注意的。从句中用完成时态是为了强调：在从句动作结束了之后，主句动作才开始发生。此时从句的动作一般都是需要持续一段时间的。
+
+  I’ll give you a call when I have finished the work.
+
+  精品译文　工作做完后，我就给你打电话。
+
+八、主句将来完成时+从句一般现在时
+
+  The performer will already have played the music when we get here.
+
+  精品译文　一会我们到的时候，那位演奏家一定已经弹完那首曲子了。
+
+九、主句将来进行时+从句一般现在时
+
+  The performer will be playing the music when we get there.
+
+  精品译文　一会我们到的时候，那位演奏家一定正在弹那首曲子。
+
+十、主从句都用一般现在时
+
+  表示现在一般动作的时态搭配是，主从句都用一般现在时态。表示一般动作的when引导的从句往往是说明一般情况，阐明一个道理，因而常出现在名言警句、谚语或格言中。
+
+  When you were born, you cried and the world rejoiced. Live your life so that when you die, the world cries and you rejoice.
+
+  妙语点睛　我们看到，这里的主从句都是用了一般现在时态。
+
+  精品译文　出生的时候，你是哭着来到这个世界，而周围的人都在欢笑。要好好度过此生，以便在你去世的时候，全世界都为你哭泣，而你却微笑着离开。
+
+十一、whenever引导时间状语从句
+
+  Whenever you say “I love you”, mean it. Whenever you say “I’m sorry”, look the person right in the eyes.
+
+  精品译文　无论何时说“我爱你”，请真心诚意。无论何时说“对不起”，请看着对方的眼睛。
