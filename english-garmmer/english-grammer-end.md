@@ -1152,3 +1152,52 @@ while作连词时主要有四个意思：
   Whenever you say “I love you”, mean it. Whenever you say “I’m sorry”, look the person right in the eyes.
 
   精品译文　无论何时说“我爱你”，请真心诚意。无论何时说“对不起”，请看着对方的眼睛。
+
+### 3.3.2 时间连词while的用法特点
+当while用作时间连词时，意思相当于during that time（在……期间），表示某一时间段内发生的动作，因此，从句谓语动词通常接延续动词。
+
+  The phone rang while I was taking my bath.
+
+  妙语点睛　此句中while后面的谓语部分taking my bath是一个持续性动作。
+
+  精品译文　电话铃响的时候我正在洗澡。
+
+时间连词while和when的含义有差别，while的意思相当于during that time（在……期间），表示某一时间段内发生的动作，因此，从句的谓语动词通常接延续动词。when的意思相当于at that time（在……时刻），从句谓语动词通常是短暂动词，表示某一时刻的动作（从句也可接延续动词，这时从句往往用过去进行时态）。
+
+  A detective arrested a criminal and was about to handcuff （给……戴上手铐） him when a huge gust （一阵狂风） of wind blew the detective's hat off.
+
+  “Shall I go and fetch it?”the criminal asked. “Do you take me for a fool?”asked the detective. “You wait here while I go and get it!”
+
+  妙语点睛　此句中的go and get虽然是短暂动词，但两动词连用表示的是在一段期间内的活动，所以用连词while。而when的从句的谓语是blew off，表示“吹落”，显然是一个短暂性动作，所以不能用while引导。
+
+  精品译文　一个侦探逮着了一名罪犯。他正准备给罪犯戴上手铐，这时刮起了一阵狂风，把侦探的帽子吹落了。罪犯立即说：“需要我去帮你把帽子捡起来吗？”侦探答道：“你把我当傻瓜啊？你在这里等着，我自己去捡！
+
+### 3.3.3 时间连词as的用法
+在英语中，as作为连词，可以引导各类状语从句，所以遇到as引导的从句时，我们需要小心，注意正确理解其意思。当as引导时间从句时，它相当于while，即后面要接延续动词，一般译成“正当……”，“随着……”或“一边……一边……”。与as引导的从句搭配的主句的谓语可以是延续动词，也可以是短暂动词。
+
+  Urban Japanese have long endured lengthy commutes （travels to and from work） and crowded living conditions, but as the old group and family values weaken, the discomfort is beginning to tell.
+
+  妙语点睛　从句的谓语weaken是延续动词，主句的谓语is beginning表示一个持续的过程。as在这里可以译成“随着……”。
+
+  精品译文　日本的城市居民长期以来忍受着漫长的上下班往返时间以及拥挤的住房条件，但是，随着老龄人群和家庭的价值削弱，人们慢慢开始感受到不舒服了。
+
+### 3.3.4 时间连词before的用法特点
+连词before引导时间从句时，同when一样，主从句也会有各种时态搭配关系，其中比较常见的一种是“主句用过去完成时，从句用一般过去时”。
+
+  During several years of gambling in that casino, Williams, a state auditor earning $35,000 a year, lost approximately $175,000. He had never gambled before the casino sent him a coupon for $20 worth of gambling.
+
+  妙语点睛　这里before的后面接了一个时间从句，从句的谓语用一般过去时态sent，主句的谓语用过去完成时态had gambled。
+
+  精品译文　威廉斯先生是一位审计员，年收入为35,000美元，他这几年在这个赌场里输掉了175,000美元。而在该赌场送给他一张价值20美元的赌票之前，他从未赌博过。
+
+在before引导的从句之前若有一段时间，这时候before引导的从句一般可以翻译成“在多长时间之后才……”。
+
+  It took a few months of investigation before it became clear.
+
+  妙语点睛　我们看到，这里before的前面有一个时间段a few months，如果我们按照原文的语序译成“在情况变得明朗之前，花了几个月时间的调查”，就有股“英语腔”，不符合我们汉语的表达习惯，因此我们宜把它译成“在多长时间之后才……”的结构。
+
+  精品译文　经过了几个月的调查之后，情况才开始变得明朗。
+
+### 3.3.5 时间连词after的用法特点
+对于连词after引导时间从句，读者应该比较熟悉。它的主从句时态搭配关系也有各种情况，其中一种是与before相反，即“主句用一般过去时，从句用过去完成时”。
+
