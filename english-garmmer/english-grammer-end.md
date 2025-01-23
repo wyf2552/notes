@@ -1201,3 +1201,125 @@ while作连词时主要有四个意思：
 ### 3.3.5 时间连词after的用法特点
 对于连词after引导时间从句，读者应该比较熟悉。它的主从句时态搭配关系也有各种情况，其中一种是与before相反，即“主句用一般过去时，从句用过去完成时”。
 
+  I moved to America after I had learned English for ten years.
+
+  妙语点睛　这里after的后面接了一个时间从句，从句的谓语用过去完成时态had learned，主句的谓语用一般过去时态moved。
+
+  精品译文　我学了十年英语后搬到了美国。
+
+  关于连词after的其他时态搭配关系，在此不再赘述。
+
+### 3.3.6 时间连词since的用法特点
+
+一、现在完成时态+since+短暂动词的一般过去时
+
+  I have worked in this company since I graduated.
+
+  妙语点睛　这里的since的后面接了一个时间从句，从句谓语用一般过去时态graduated，主句谓语用现在完成时态have worked。
+
+  精品译文　自从我毕业，就一直在这家公司上班。
+
+二、现在完成时态+since+延续动词的一般过去时
+
+若since后面的延续动词用一般过去时态，则表示从句动作“结束”以来，主句活动还在持续。请看例句：
+
+  He hasn't contacted me since I worked in that company.
+
+  妙语点睛　这里since的后面接了一个时间从句，从句谓语worked是延续动词，使用了一般过去时态，主句时间则是从work这个活动已经“结束”后开始算起的，即该句表示“我”不在这家公司工作了。
+
+  精品译文　自从我离开那家公司后，他就再没有和我联系过。
+
+三、现在完成时态+since+延续动词的现在完成时
+
+若since后面的延续动词用现在完成时态，则表示从句动作“开始”以来，主句活动在持续。请看例句：
+
+  He hasn't contacted me since I have worked in that company.
+
+  妙语点睛　这里的since的后面接了一个时间从句，从句谓语worked是延续动词，使用了现在完成时态have worked，主句时间则是从work这个活动“开始”后开始算起的，即该句表示“我”开始在这家公司工作以来。
+
+  精品译文　自从我开始在那家公司工作后，他就再没有和我联系过。
+
+since引导的从句的动词与时态的关系如下：
+
+  1. 接短暂动词，常用一般过去时态did，翻译时按英文字面意思理解即可。这是since最常见的用法。
+
+  2. 接延续动词，此时分两种情况：一是用一般过去时态did，表示从句动作已经结束，翻译时不能按照英文字面意思理解；二是用现在完成时态have done，表示从句动作开始延续，翻译时可按照英文字面意思理解。
+  3. 从句动作也可用完成进行时态have been doing，此时动词的延续性或短暂性不限。
+
+### 3.3.7 时间连词until的用法
+三个有关until用法的要点：
+
+  1. 既可以作为介词也可以作为连词，所以until后面可以接名词短语也可以接时间从句。
+
+  2. until的本质是表示“一个动作（主句动作）一直持续到某一个时间点（point of time）”。具体来说就是：until前面的主句或句子谓语必须是延续性的，而until后面接的从句的谓语须是短暂动词或接时间点。
+
+  3. 由上面第2点，我们可以推导出until的句型结构有：
+
+  1） 作为连词引导从句时的句型：主句的延续动词+until+从句的短暂动词；
+
+  2） 作为介词接名词短语的句型：延续动词+until+时间点（不是时间段）。
+
+一、延续动词+until+短暂动词或时间点
+
+当主句或句子的谓语动词是延续动词时，通常用肯定形式。until后面若接从句则从句谓语必定是短暂动词，或者接表示时间点的名词短语。
+
+  Until I came back, he was waiting for me at my home.
+
+  妙语点睛　这里主句的谓语waiting是延续动词，从句的谓语came是短暂动词。这句话表示wait这个动作一直持续到“我回来了”这个时间点为止。
+
+  精品译文　在我回来之前，他一直在我家里等我。
+
+  We’ll stay here until it stops raining.
+
+  妙语点睛　这里主句的谓语stay是延续动词，从句的谓语stops是短暂动词。这句话表示stay这个动作一直持续到“雨停了”这个时间点为止。
+
+  精品译文　我们将一直待到雨停了再走。
+
+二、短暂动词+until+短暂动词或时间点
+
+若主句或句子谓语动词是短暂动词，则要用否定形式，因为否定之后表示的是一个状态，而状态是延续的，这就是我们常说的“not...until（直到……才……）”的结构。
+
+  He didn't leave the office until his boss came back.
+
+  妙语点睛　这里的主句的谓语leave是短暂动词，不能与表示持续时间的until连用，所以必须用否定形式didn't leave表示一个持续的状态，才能与until连用。这句话表示“没有离开”这个状态一直持续到“老板回来”这个时间点为止。从句的谓语came是短暂动词。
+
+  精品译文　直到老板回来后，他才离开办公室。
+
+not...until的四种不同句式：
+
+  1. 结构一：正常结构
+
+    这一结构即是最常见的结构not...until。请看例句：
+
+    The little boy didn't smile until he saw his mother.
+
+    精品译文　这个小男孩看到他妈妈之后才开始笑起来。
+
+  2. 结构二：until置于句首
+
+    结构二是在结构一的基础上演变过来的，即只需把until后面的所有成分提到句首，便有了Until..., not结构。请看例句：
+
+    Until he saw his mother, the little boy didn't smile.
+
+    Until recently, the exact time of dying was not of great importance.
+
+    这个结构只是在结构上把until部分提到句首，变成Until..., not，所以句子的意思自然不会改变。不过，这种结构上的移位，在翻译时很容易被我们误解。比如，例句16很容易被误译成：
+
+    直到最近，死亡的确切时间都是不重要的。*
+
+    但实际上应该译成：
+
+    直到最近，死亡的确切时间才变得尤其重要。
+
+  3. 结构三：倒装结构
+
+  结构三是在结构二until..., not的基础上变化过来的，即只需要把否定词not提到句首，置于until前面，于是便有了“not until..., 谓语助动词+主语+谓语动词”的结构。也就是说，此时主句要采用部分倒装结构，即将主句谓语的助动词提到主语前面，谓语动词仍放在主语后面。
+
+  Not until she had arrived home did she remember her appointment with the doctor.
+
+  妙语点睛　这里的主句did she remember her appointment with the doctor采用了部分倒装结构，即将主句谓语的助动词did提到主语she前面，谓语动词remember仍放在主语后面。从句she had arrived home并没有采用倒装结构写成had she arrived home，而依然是正常语序。
+
+  精品译文　她到家之后才记起来和医生还有预约。
+
+  4. 结构四：强调结构
+  
