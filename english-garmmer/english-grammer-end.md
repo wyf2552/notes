@@ -1322,4 +1322,64 @@ not...until的四种不同句式：
   精品译文　她到家之后才记起来和医生还有预约。
 
   4. 结构四：强调结构
-  
+
+  结构四是在结构三“not until..., 谓语助动词+主语+谓语动词”的基础上变化过来的，即是由结构三与强调结构It was...that复合而成，于是便有了“It was not until+时间从句或短语+that+主句部分”的结构。
+
+  It was not until recently that the exact time of dying was of great importance.
+
+  我们看到，倒装结构演化成强调结构时，主句的谓语不再采用倒装形式。请比较：
+
+  1） Not until she had arrived home did she remember her appointment with the doctor.
+
+  2） It was not until she had arrived home that she remembered her appointment with the doctor.
+
+  我们看到，在强调句型中，主从句都不采用倒装结构。
+
+  25 As was discussed before, it was not ______ the 19th
+
+### 3.3.8 表示“一……就……”的结构
+在英文中，还有一些时间连词用来表达主句动作和从句动作相继发生，两者发生的时间间隔不长，相当于汉语里的“一……就……”的意思。此时，主句和从句的谓语都是短暂动词。这样的连词有两组，时态搭配用法也有所不同。
+
+一、从句动作先于主句动作
+
+确切地说，就是在从句动作发生之后，主句动作紧接着就发生了。表示这一时间关系的连词有：as soon as, once, the minute, the moment, the instant, immediately, directly, instantly等。这些连词的用法和句式结构是一样的，主从句时态一般一致。比如，若表示将来的动作，则主句用一般将来时，从句用一般现在时。请看例句：
+
+  We will leave as soon as it stops raining.
+
+  妙语点睛　首先，这里主句的谓语动词leave和从句的谓语动词stops都是短暂动词。其次，主句谓语的时态是一般将来时will leave，从句谓语的时态是一般现在时stops，但表示将来的动作。再次，从句动作stops先发生，紧接着主句动作leave发生，即“先雨停，再离开”。
+
+  精品译文　雨一停，我们就动身。
+
+ 若表示过去的动作，则主句和从句都用一般过去时。请看例句：
+
+  It began to rain as soon as I arrived home.
+
+  妙语点睛　首先，这里主句的谓语动词began和从句的谓语动词arrived都是短暂动词。其次，主句谓语的时态是一般过去时began，从句谓语的时态也是一般过去时arrived。再次，从句动作arrived先发生，紧接着主句动作began发生，即“先到家，再开始下雨”。
+
+  精品译文　我刚到家，就开始下起雨来。
+
+ 我们可以把上面例句中的连词as soon as换成其他连词，比如immediately, instantly或directly。请看例句：
+
+  It began to rain immediately I arrived home.
+
+或者换成带有定冠词the的连词，比如the moment, the minute或the instant。比如下面这两个谈论朋友的句子：
+
+  A fair-weather friend is like a banker who lends you his umbrella when the sun is shining and takes it back the minute it rains.
+
+  精品译文　酒肉朋友就像一个银行家，阳光灿烂时他会把伞借给你，而天一旦下雨他就立即将伞收回。
+
+二、主句动作先于从句动作发生
+
+确切地说，就是在主句动作发生之后，从句动作紧接着就发生了。表示这一时间关系的连词有：hardly...when, scarcely...when, no sooner...than。需要提醒注意的是，这些连词的用法和句式结构是不一样的，主从句时态一般也不一致。它们一般多用来表示过去的动作，此时，主句多用过去完成时，且常倒装，从句用一般过去时，它可与as soon as等从句、主句互换。请比较：
+
+  1） No sooner had I arrived home than it began to rain.
+
+  2） It began to rain as soon as I arrived home.
+
+  妙语点睛　首先，在例句1）中，连词than后面的it began to rain是从句，但在例句2）中，it began to rain是主句；在例句1）中，had I arrived home是主句，但在例句2）中，I arrived home是从句。其次，在例句1）中，主句had I arrived home用了过去完成时且是倒装结构，从句it began to rain用一般过去时；在例句2）中，主句it began to rain和从句I arrived home都用一般过去时。
+
+### 3.3.9 时间连词by the time的用法特点
+
+确切来说，by the time是一个介词短语，但起着连词的作用，其后可以直接加一个从句，它的意思是“在……之前”，强调的是“一个动作在另外一个动作发生之前已经完成（one event is completed before another event）”。因此，与by the time搭配的主句要用完成时态。具体来说，常见的句型结构有：
+
+一、标识过去的动作：主句用had done + by the time + 从句用did
