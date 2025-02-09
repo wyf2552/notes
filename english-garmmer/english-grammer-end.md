@@ -1383,3 +1383,193 @@ not...until的四种不同句式：
 确切来说，by the time是一个介词短语，但起着连词的作用，其后可以直接加一个从句，它的意思是“在……之前”，强调的是“一个动作在另外一个动作发生之前已经完成（one event is completed before another event）”。因此，与by the time搭配的主句要用完成时态。具体来说，常见的句型结构有：
 
 一、标识过去的动作：主句用had done + by the time + 从句用did
+
+  We had already left by the time they arrived.
+
+  妙语点睛　从句中的arrived用一般过去时，对应的主句用过去完成时had left。
+
+  精品译文　那天他们到的时候，我们已经先走了。
+
+二、表示将来的动作：主句用will have done+by the time+从句用do
+
+  We will have already left by the time they arrive.
+
+  妙语点睛　从句中的arrive表示将来的动作，对应的主句用将来完成时will have left。
+
+  精品译文　等他们来的时候，我们将已经离开了。
+
+### 3.3.10 一些表示时间的名词短语引导的时间状语从句
+
+有一些表示时间的名词短语也可当作连词来用，引导时间状语从句。常见的有：next time, every time, each time, the day, the week等等。请看例句：
+
+  Next time you come, remember to bring along your sister.
+
+  精品译文　下次你来的时候，记得把你的妹妹也带过来。
+
+  Every time I listen to your advice, I get into trouble.
+
+  精品译文　每次听从你的建议，我准会遇到麻烦。
+
+曾经有一年的高考题考的是the first time和for the first time的区别。其实，两者的意思是一样的，都表示“第一次”，但在句中的用法不同。the first time起着连词的作用，后面接从句，然后再与一个主句连用；而for the first time是一个介词短语，不能引导从句，即不能连接两个句子。
+
+在学习时间状语从句时，要牢牢把握下面两个核心要点：
+
+  1. 注意主句、从句的时态搭配关系。不同时间从句的连词，这种搭配关系是不同的。
+
+  2. 注意主句、从句的谓语动词的延续性和短暂性。
+
+## 3.4 地点状语从句
+地点状语从句通常是由where引导，用来表达主句的动作发生的场所，其结构通常是“where+陈述句”，从句可以在句首或句末。
+
+  Stay where you are.
+
+  精品译文　待在原地别动。
+
+地点状语从句若放在句首，翻译时往往失去“地点”的含义，要灵活处理。请看例句：
+
+  Where there is a will, there is a way.
+
+  精品译文　有志者，事竟成。
+
+wherever, anywhere和everywhere引导地点状语从句。请看例句：
+
+  Wherever he happens to be, Clint can make himself at home.
+
+  精品译文　无论在什么地方，克林特总是无拘无束。
+
+## 3.5 原因状语从句
+### 3.5.1 常见连词的用法
+我们常用because, for, as和since这四个连词来引导原因从句，它们的意义和用法不完全相同。在这四个连词中，because的语气最强，只有它才能用来回答why的提问，所引出的原因往往是听话人所不知道的或最感兴趣的，也只有because才能被强调词如only, just或 perhaps等修饰。请看例句：
+
+  My friends dislike me because I’m handsome and successful.
+
+  妙语点睛　一般来说，“我”不被朋友喜欢的原因是听者感兴趣的，所以用because引出这个原因。
+
+  精品译文　我的朋友都不喜欢我，因为我长相英俊又事业有成。
+
+连词since表示人们已知的事实或不需强调的原因，所以常译成“既然”，通常放在句首。请看例句：
+
+  Since we don't have class tomorrow, why not go out for a picnic?
+
+  精品译文　既然明天没有课，我们出去野餐如何？
+
+连词as与since的用法差不多，所引出的理由在说话人看来已经很明显，或已为听话人所熟悉而不需用because加以强调。请看例句：
+
+  As Monday is a national holiday, all government offices will be closed.
+
+  精品译文　由于星期一是国家的法定假日，因此所有的政府办事机构都将关门休息。
+
+连词for表示推断的理由，是对前面分句的内容加以解释或说明。请看例句：
+
+  It rained last night, for the ground is wet this morning.
+
+  精品译文　昨晚下雨了，因为今天早上地面都是湿的。
+
+### 3.5.2 用介词表示因果关系
+常用的介词有：because of, due to, owing to。因为是介词，所以它们的后面只能接名词而不是从句。
+
+  1） We had an accident because he was careless.
+
+  2） We had an accident due to his carelessness.
+
+  3） Owing to his carelessness we had an accident.
+
+  妙语点睛　在例句1）中，因为he was careless是从句，所以用连词because引导。在例句2）中，因为his carelessness是名词短语，所以用介词连接。此处不能说due to he was careless*。在例句3）中，同样是名词短语his carelessness，所以要用介词连接。一般来说，owing to常置于句首，而due to通常不这么用。
+
+  精品译文　由于他粗心大意，我们出了车祸。
+
+### 3.5.3 其他复合连词表示原因
+
+一、in that
+
+其基本的意思是“原因就在于”，其引导的从句要放在主句后面，而且主句通常是在作比较。请看例句：
+
+  English has an advantage over most of the other languages in that it has become, so to speak, an international language.
+
+  妙语点睛　这里主句English has an advantage over most of the other languages显然是在说英语与其他语言相比的优势，然后接连词in that引导的从句，来说明为什么会有这种优势。
+
+  精品译文　英语相对于其他大多数语言来说有一大优势，原因就在于它可以说已经成为了一门国际通用语言。
+
+二、seeing(that), now(that), considering(that), given(that)
+
+这些连词与since相似，它们都有“鉴于某个事实，考虑到”的意思。
+
+  Seeing that it's raining hard, we’ll have to stay here for the night.
+
+  精品译文　鉴于此刻雨下得正大，我们就待在这过夜。
+
+三、not that...but that
+
+这个连词的意思是“不是因为……而是因为……”。请看例句：
+
+  I haven't finished writing the report yet, not that I’m lazy, but that I have no time.
+
+  精品译文　我还没有写完报告，不是因为我懒，而是因为我没时间。
+
+四、inasmuch as, insomuch as, in as much as, in so much as
+
+  inasmuch as, insomuch as, in as much as和in so much as也可表原因，但显得文绉绉的，不太常用，通常只用于很正式的书面语或演讲中。请看例句：
+
+  Inasmuch as the two government leaders could not reach an agreement, the possibilities for peace are still remote.
+
+  精品译文　由于双方政府的领导人无法达成一致，实现和平的可能性依然渺茫。
+
+### 3.5.4 because的否定转移
+
+  Don't cry because it is over, but smile because it happened.
+
+  妙语点睛　这句话的前半部分Don't cry because it is over，我们完全可以按正常情况翻译成“不要哭，因为都结束了”。但如果结合下文but smile because it happened，我们就不能这样翻译了。此时，我们要按照否定转移的情况来翻译，也就是说，这句话形式上是否定谓语cry，但实际上是否定原因从句。
+
+  精品译文　不要因为感情结束而伤心落泪，要因为曾经经历过而微笑面对。
+
+在主句是否定的情况下，because引导的从句的翻译可分为三种情形：
+
+  1. 只能按正常情况翻译；
+
+  2. 两种翻译都可以，具体如何理解要看上下文；
+
+  3. 只能按否定转移来翻译。
+
+ “I don't think they’re piling on because I’m a woman. I think they’re piling on because I’m winning.”（Hillary Rodham Clinton, on intensifying criticism by rivals for the Democratic presidential nomination on November 2, 2007.）
+
+  妙语点睛　这里don't在形式上否定think，但实际上否定because引导的从句。
+
+  精品译文　“我认为他们蜂拥而上并非因为我是女的。我认为他们蜂拥而上是因为我要赢了。”（2007年11月2日，希拉里·罗德姆·克林顿这样解释为什么竞争民主党总统候选人提名的其他候选人对她的批评猛烈起来。）
+
+我们可以对否定转移下个定义，即所谓否定转移，是指形式上否定主句或句子的谓语，但在逻辑语义上是否定句子的其他部分。尤其是在与because引导的从句连用时，往往否定because引导的从句。所以，我们以后遇到一个否定句，如果按照正常情况理解不通，就不妨考虑从否定转移的角度来翻译。也就是说，否定转移为我们理解句子的意思提供了一个新的方向。
+
+## 3.6 目的状语从句
+### 3.6.1 常见连词的用法
+常用的引导目的状语从句的连词有：so that, in order that或that。另外，在目的状语从句中常含有情态动词，比如may/might或can/could等。请看例句：
+
+  I turned off the TV in order that my roommate could study in peace and quiet.
+
+  妙语点睛　这里的从句由in order that引导，表示目的，意为“以便”。从句含有情态动词could。
+
+  精品译文　我关掉了电视，好让我的室友安静地学习。
+
+### 3.6.2 谜底状语从句的简化
+
+一、in order to / so as to + do
+
+我们可用in order to或 so as to+动词（短语）来表示目的。请看例句：
+
+  All the key words in the article are printed in bold type so as to attract readers’ attention.
+
+  精品译文　文章中的所有关键词都用粗体字来印刷，为了提醒读者注意。
+
+  When I was a child, I would take a flashlight to bed with me in order to read comic books without my parents’ knowing about it.
+
+  精品译文　小的时候，我常常在睡觉时带着手电筒上床，这样我可以偷看连环画册而不被父母发觉。
+
+二、 直接用动词不定式表示目的
+
+我们可以直接用动词不定式to do来表示目的。请看例句：
+
+  To avoid criticism, do nothing, say nothing, be nothing.
+
+  精品译文　要想不被批评，那就什么事也不做，什么话也不说，结果就是什么人也不是。
+
+  To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+
+  精品译文　要想获得知识，我们要学习；但要想获得智慧，我们得观察。
