@@ -1573,3 +1573,170 @@ wherever, anywhere和everywhere引导地点状语从句。请看例句：
   To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 
   精品译文　要想获得知识，我们要学习；但要想获得智慧，我们得观察。
+
+三、in order for + sb. + to do sth.
+
+如果要具体给出不定式的逻辑主语，我们就要用in order for sb. to do sth. 这一不定式结构表示目的，此时往往是因为句子的主语和不定式的逻辑主语不一致。请看例句：
+
+  I spoke slowly and clearly in order for the audience to understand me.
+
+  精品译文　我讲得既慢又清晰，以便听众能听懂我的话。
+
+  They carved the words on the stone in order for the future generation to remember what they had done.
+
+  精品译文　他们在石头上刻字，以便后人记住他们做过的事情。
+
+### 3.6.3 其他连词的用法
+
+其他连词如lest（以免，以防）、for fear that（生怕）和in case（万一）也可引导目的状语从句。从句的谓语动词一般用情态动词should，且should常常被省去。请看例句：
+
+  Take an umbrella with you lest it should rain.
+
+  精品译文　随身带把伞，以防下雨。
+
+  People evacuated the building for fear that the wall should collapse.
+
+  精品译文　人们从这栋楼房撤离了，以防墙壁倒塌。
+
+  此外，我们还可用in the hope that, on purpose that, for the purpose that, to the end that等来表示目的。请看例句：
+
+  The teacher raised his voice on purpose that the students in the back could hear more clearly.
+
+  精品译文　老师提高了声音，以便坐在后排的学生能听得更清楚。
+
+## 3.7 结果状语从句
+### 3.7.1 常见连词的用法
+一、连词so that 的用法
+
+间或接分词。请看例句：
+
+1. 接形容词
+
+  Sensible Sam: I saw you pushing your bicycle to work this afternoon.
+
+  Foolish Fred: Yes, I was so late that I didn't have time to get on it.
+
+  妙语点睛　这里是so...that引导结果状语从句，so后面接了形容词（late）。
+
+  精品译文　聪明的萨姆：我今天下午看到你推着自行车去上班。
+
+2. 接副词
+
+  He has put forward unquestioned claims so consistently that he not only believes them himself, but has convinced industrial and business management that they are true.
+
+  妙语点睛　这里是so...that引导结果状语从句，so后面接了副词（consistently）。
+
+  精品译文　他一直不断地提出确定不疑的主张，以至于不仅他自己对它们深信不疑，而且还使得工商管理界都相信它们是真的。
+
+3. 接分词
+
+  However, the world is so made that elegant systems are in principle unable to deal with some of the world's more fascinating and delightful aspects.
+
+  妙语点睛　这是考研翻译真题。这里是so...that引导结果状语从句，so后面接了过去分词（made）。
+
+  精品译文　然而世界就是如此，完美的理论体系一般而言是无法解决世上某些更加引人入胜的课题的。
+
+二、连词so that的用法
+
+偶尔我们也用so that来引导结果状语从句，这与前面3.6节讨论的so that引导目的状语从句不同，翻译时要注意区分。请看例句：
+
+  As the dome grows, it develops seed fissures (cracks); in at least a few cases the continent may break entirely along some of these fissures, so that the hot spot initiates the formation of a new ocean.
+
+  妙语点睛　这里是so that引导结果状语从句。
+
+  精品译文　随着这个穹隆地形的升高，它形成深深的裂缝；至少在一些情况下，大陆可能沿着一些裂缝完全断裂，以至于“热点”造成新的大洋的形成。
+
+从以上例句我们可以看到，so that引导目的状语从句与结果状语从句的区别主要有两点：一是若so that引导结果状语从句，往往会有逗号将主句与从句隔开；二是在结果状语从句中往往没有情态动词，而目的状语从句通常都含有情态动词。
+
+三、连词such...that的用法
+
+  我们可以用such...that来引导结果状语从句，此时such后面要接名词。请看例句：
+
+  Diplomats and crabs are creatures who move in such a way that it is impossible to tell whether they are coming or going.
+
+  妙语点睛　这里是such...that引导结果状语从句，such后面接了名词（a way）。
+
+  精品译文　外交官和螃蟹是行为方式相同的动物，因为我们无法判断他们是要向前走还是想往后退。
+
+四、连词such that的用法
+
+  其实，在such that引导的结果状语从句中，such就相当于“so+形容词”，具体用什么形容词则要根据上下文来判断。请比较下面的例句：
+
+  1） His anger was such that he lost control of himself.
+
+  2） His anger was so explosive that he lost control of himself.
+
+  妙语点睛　我们看到，例句1）中的such在语义上相当于so explosive，这里的explosive用来修饰名词anger。所以，我们可以把例句1）改写成例句2）。
+
+  精品译文　他的怒气一下子爆发出来，以至于无法控制自己。
+
+### 3.7.2 比较so与such的区别
+
+一、so的用法
+  so本身是副词，其后面主要是接形容词或副词，间或接分词。具体用法如下：
+
+1. so+adj./adv.
+
+  请看例句：
+
+  The food is so bad in the school cafeteria that flies go there to lose weight.
+
+  精品译文　学校食堂饭菜的质量太差，连苍蝇都去那减肥。
+
+  The house is so expensive that I can't afford to buy it.
+
+  精品译文　房子太贵了，我买不起。
+
+2. so+adj.+a(n)+单数可数名词
+
+  This is so expensive a house that I can't afford to buy it.
+
+  精品译文　房子太贵了，我买不起。
+
+  He is so patient a teacher that every one of us likes him.
+
+  精品译文　他是个很有耐心的老师，我们都喜欢他。
+
+3. so many/much/few/little+名词
+
+  此外要注意的是，so可以与表示数量的形容词连用，如：many, much, few, little，然后再接名词，如：so many flowers, so many beautiful flowers, so much patience, so much fun, so few cars, so little care等等。此时不能用such。请看例句：
+
+  The sloth pays so little attention to its personal hygiene that green algae grow on its personal hygiene that green algae grow on its coarse hair.
+
+  精品译文　树懒极不讲究卫生，以至于它粗糙的毛发上生出了绿色的藻类。
+
+  The neighbors were making so much noise last night that I didn't sleep a wink.
+
+  精品译文　昨晚我的邻居弄得噪音那么大，搞得我一晚上都没有合眼。
+
+二、such的用法
+
+such是一个限定词，因此其后面要接名词。具体用法如下：
+
+1. such的后面可直接加各种名词
+
+  上面讲过，so的后面不可以直接加名词，而such的后面可以直接加名词。具体来说，such可以接单数可数名词，如：such a house, such a day；可以接复数可数名词，如：such boys, such shirts, such cars；可以接不可数名词，如：such patience, such weather, such information等。请看例句：
+
+  But these factors do not account for the interesting question of how there came to be such a concentration of pregnant ichthyosaurs in a particular place very close to their time of giving birth.
+
+  精品译文　但是这些因素并没有解答这个有趣的问题：怀孕的鱼龙临产时，是如何聚集在一个特定地点的。
+
+  Indeed, most great cities of the United States achieved such status only by incorporating the communities along their borders.
+
+  精品译文　事实上，美国大多数大城市仅仅是通过吞并与其毗连的社区而达到现在的规模的。
+
+2. such+形容词+名词
+
+  这里的名词可以是单数可数名词，比如：such an expensive house, such a nice day，与so比较：so expensive a house；可以是复数可数名词，比如：such nice boys, such good shirts, such expensive cars；可以是不可数名词，比如：such great patience, such nice weather, such important information等。请看例句：
+
+  It makes sense that today, when sleep is highly evolved, the stupid animals are less frequently immobilized by deep sleep than the smart ones. But why should they sleep deeply at all? Why should a state of such deep immobilization ever have evolved?
+
+  精品译文　如今，当睡眠高度发展之时，智商低的动物比智商高的动物的深度睡眠障碍更少。但是它们为什么要进行深度睡眠呢？为什么这种障碍要进化呢？
+
+3. 限定词+such+名词
+
+  虽然我们一般不说such many, such much或such few，但我们可以说many such dogs, much such attention, few such cars。能够这样用的原因是：首先由such修饰名词，比如：such cars；然后再由这些表示数量的形容词修饰such，于是便有了many such cars。其他可用在such前面的限定词有：no, other, some, any, one （two, three...）等。请看例句：
+
+  These Ministers used “splendid”, “magnificent”and other such expressions to describe the King's new clothes.
+
+  精品译文　大臣们用“太棒了”“好极了”和其他类似的词来形容皇帝的新衣。
