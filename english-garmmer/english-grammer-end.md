@@ -1740,3 +1740,87 @@ such是一个限定词，因此其后面要接名词。具体用法如下：
   These Ministers used “splendid”, “magnificent”and other such expressions to describe the King's new clothes.
 
   精品译文　大臣们用“太棒了”“好极了”和其他类似的词来形容皇帝的新衣。
+
+### 3.7.3 结果状语从句的简化
+
+对于结果状语从句，我们可以用不定式来将其结构简化。上面我们提到，有三个连词可以引导结果从句，即so...that, such...that和such that，那么对应的不定式结构同样分别有三种，即so...as to, such...as to，such as to。注意不要漏掉as。
+
+  He was such a fool as to believe him.
+
+  精品译文　他可真蠢，竟然相信他。
+
+### 3.7.4 结果状语从句的倒装
+
+在英文中，such/so...that引导结果状语从句，为了强调，还可以将主句中的so或such引导的部分置于句首，从而构成倒装结构。
+
+  So fast does light travel that it is difficult for us to imagine its speed.
+
+  妙语点睛　这句话的正常语序为“Light travels so fast that it is difficult for us to imagine its speed.”。
+
+  精品译文　光的传播速度快到我们难以想象。
+
+  So terrible was the storm that the roofs were all ripped off.
+
+  妙语点睛　这句话的正常语序为“The storm was so terrible that the roofs were all ripped off.”。
+
+  精品译文　暴风雨如此猛烈，以至于把整个屋顶都掀翻了。
+
+### 3.7.5 其他短语连接的结果状语从句
+
+这些结构有：to the degree （that）, to the extent （that）, to such a degree （that）, to such an extent （that）。当它们位于句首表示强调时，主句同样需要倒装。请看例句：
+
+  The bereaved mother was grieved to the degree that she couldn't eat anything for 3 days.
+
+  妙语点睛　这里的to the degree that引导的从句表示的是一个结果。
+
+  精品译文　这位痛失亲人的母亲是如此悲痛，以至于连着三天没吃东西。
+
+  To such an extent did he go on with his empty speech that some of us began to doze.
+
+  妙语点睛　这句话的正常语序为：He went on with his empty speech to such an extent that some of us began to doze.
+
+  精品译文　他一直不断地进行着自己空洞乏味的演讲，以至于我们当中都有人开始打瞌睡了。
+
+## 3.8 条件状语从句
+### 3.8.1 常见连词的用法
+最常见的条件状语从句的引导词是if和unless。连词if表示“如果”，unless表示“如果不”或“除非”。请看例句：
+
+  Giving someone all your love is never an assurance that they’ll love you back. Don't expect love in return, just wait for it to grow in their heart; but if it doesn't, be glad it grew in yours.
+
+  精品译文　为某人付出自己全部的爱，并不一定能够保证对方会同样爱你。不要期望爱的回报，就让爱在对方心中慢慢滋长。即使没有，也不要失望，而要为自己心中曾经爱过而感到高兴。
+
+### 3.8.2 only if 与 if only
+
+在考研英语中，多次出现关于这两个连词的考题，这就需要考生熟悉它们的意思。简单来说，only if表示“只有”，而if only表示“只要”。请看例句：
+
+  The senior librarian at the circulation desk promised to get the book for me ______ she could remember who last borrowed it.
+
+  A. ever since　B. much as　 C.even though　 D.if only
+
+  正确答案　D。
+
+  妙语点睛　这是考研真题。本题考查状语从句连词的用法，这里选项A表示“自从……以来”，B表示“尽管”，C表示“即使”，均不符合两分句的逻辑关系，只有D（只要）正确。
+
+  精品译文　借阅处的高级管理员答应帮我找到这本书，只要她能记得上次是谁借走的。
+
+### 3.8.3 must/have to do... if ...be to do结构
+在条件状语从句中，有一种固定搭配的结构也许是很多读者没有注意过的，这个结构就是：must/have to do...if...be to do，一般翻译成“如果……必须……，那么就不得不”。请看例句：
+
+  If ambition is to be well regarded, the rewards of ambition—wealth, distinction, control over one's destiny—must be deemed worthy of the sacrifices made on ambition's behalf. If the tradition of ambition is to have vitality, it must be widely shared; and it especially must be highly regarded by people who are themselves admired, the educated not least among them.
+
+  妙语点睛　我们看到，这里的两个if引导的从句里的谓语都采用了be to do的形式（is to be, is to have），对应的主句的谓语都含有情态动词must。为什么会有这种对应关系呢？其实，这涉及be to do这个结构的意义，be to do往往表示比较强烈的感情色彩，有加强语气的意味，相当于情态动词must或should，可以翻译成“一定得”，所以与be to do呼应的主句往往会含有情态动词must或will have to，这两者就构成must/will have to do...if...be to do的形式，表示“如果从句一定得怎么样，那么主句也必须怎么样”。
+
+  精品译文　若真的能够正确看待雄心壮志，那么它的回报——财富、荣誉、对自己命运的掌控——定会被视为无愧于为之做出的牺牲。如果雄心壮志的传统只是激发活力，那么人们就应该都拥有它；特别是它必须被那些本身受到尊敬的人士所高度重视，受过教育的人们是其中重要的一部分。
+
+### 3.8.4 其他条件从句连词
+
+其他引导条件从句的连词有：suppose （that）, supposing （that）, providing/provided （that）, so long as, as long as和on condition that等。
+
+  So long as you work hard enough, an iron rod can be ground into a needle.
+
+  精品译文　只要功夫深，铁杵磨成针。”
+
+摘录来自
+英语语法新思维高级教程：驾驭语法（第2版）
+张满胜
+此材料可能受版权保护。
