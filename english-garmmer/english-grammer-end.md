@@ -1818,9 +1818,150 @@ such是一个限定词，因此其后面要接名词。具体用法如下：
 
   So long as you work hard enough, an iron rod can be ground into a needle.
 
-  精品译文　只要功夫深，铁杵磨成针。”
+  精品译文　只要功夫深，铁杵磨成针。
 
-摘录来自
-英语语法新思维高级教程：驾驭语法（第2版）
-张满胜
-此材料可能受版权保护。
+### 3.8.5 其他表示条件意味的句型
+
+一、祈使句/省略号+and=if从句+主语
+
+  Spare the rod and spoil the child.
+
+  妙语点睛　该句相当于“If you spare the rod, you’ll spoil the child.”。
+
+  精品译文　孩子不打不成器。
+
+二、祈使句/省略句+or/or else = unless从句+主句
+
+  Give it back to me or (else) I’ll tell your parents. (=Unless you give it back to me, I’ll tell your parents.)
+
+  精品译文　把它还给我，不然我就告诉你父母。
+
+## 3.9 让步状语从句
+### 3.9.1 常见连词的用法
+
+常见的引导让步状语从句的连词有：though, although, even though和even if。此时，主句前不可用but，但可用yet/still。
+
+  Although he tried hard, (yet/still) he failed.
+
+  精品译文　尽管他努力了，但仍然失败了。
+
+  Although I didn't know anybody at the party, I had a very good time.
+
+  精品译文　尽管聚会上的人我一个都不认识，但我仍然玩得很开心。
+
+### 3.9.2 表示让步转折关系的介词
+
+这些介词主要有despite, in spite of, for all和notwithstanding。需要注意的是，although和though等是连词，因此后面只接从句（有时是省略形式的从句），而这里的介词只接名词（短语），不能接从句。请比较：
+
+  1） Though he was inexperienced, he did a very good job.
+
+  2） In spite of his inexperience, he did a very good job.
+
+  3） In spite of his being inexperienced, he did a very good job.
+
+  妙语点睛　在例句1）中，连词though后面接的是从句he was inexperienced。在例句2）中，his inexperience是一个名词短语，所以要用介词，比如这里用了in spite of。在例句3）中，his being inexperienced是一个动名词短语的形式，也属于名词短语，所以这里也需要用介词，如in spite of。
+
+  精品译文　尽管他没有经验，但是他表现得很不错。
+
+### 3.9.3 置于句首的while一般表示“尽管”
+
+while位于句首，一般意为“尽管”，引导让步状语从句。在很多阅读文章中常见到while的这一用法。请看例句：
+
+  While many countries of the world celebrate their own Mother's Day at different times throughout the year, there are some countries such as Denmark, Finland, Italy, Turkey, Australia, and Belgium which also celebrate Mother's Day on the second Sunday of May.
+
+  妙语点睛　while出现在句首，表示让步转折。
+
+  精品译文　尽管世界上很多国家是在不同的日期庆祝母亲节，但是仍然有些国家，比如丹麦、芬兰、意大利、土耳其、澳大利亚和比利时也是在五月的第二个周日庆祝母亲节。
+
+### 3.9.4 no matter wh-
+
+在英文中，我们可以用no matter+what, who, when, where, which, how或者whatever, whoever, whenever, wherever, whichever, however来引导让步状语从句，表示“无论”。请注意，这几个连词除了however外，一般都是单独使用，而however后面通常要接形容词或副词，不单独使用。请看例句：
+
+  We have decided to do so, whatever happens.
+
+  精品译文　我们已经决定这么做了，无论发生什么。
+
+### 3.9.5 as引导的倒装句表示让步
+![](./images/33.9.4-1.png)
+
+一、形容词提置句首
+
+  Oldest in our workshop as he is, he works hardest.
+
+  妙语点睛　请注意，这句话的最高级前不加the。
+
+  精品译文　尽管他是我们车间最年长的一位，他工作起来最努力。
+
+二、副词提置句首
+
+  Much as I respect him, I cannot agree with him.
+
+  精品译文　虽然我非常尊重他，但是我仍旧不同意他的意见。
+
+  Again as he failed in doing this experiment, he didn't lose his heart.
+
+  精品译文　尽管他的试验再次失败了，但是他并不灰心。
+
+三、分词提置句首
+
+  Praised as he was, he remained modest.
+
+  精品译文　尽管他受到了表扬，但仍然很谦虚。
+
+四、名词提置句首
+
+  Child as he is, he is knowledgeable.
+
+  妙语点睛　请注意，这句话的名词前不带冠词。
+
+  精品译文　他虽然还是个孩子，但知识渊博。
+
+五、动词原形提置句首
+
+  另外，还可以把动词原形置于句首，此时句子的结构为：v.+as+主语+助动词（may, might, will, would, can, could, do, does, did）。
+
+  Fail as I did, I would never stop trying.
+
+  妙语点睛　这里是将动词原形fail提前。原因很简单，因为若是将failed提前，那么句子无法构造——我们无法这么说：Failed as I*。所以，只能将原形动词fail提前，而通过助动词did来标明时态。
+
+  精品译文　尽管我失败了，但我决不会停止尝试。
+
+### 3.9.6 "as/so+形容词+as+主谓“结构，放在句首表示让步
+
+这一表示让步的结构，虽然相对来说比较少见，但请读者不妨了解一下，以便在英语阅读中遇到时能正确理解。
+
+  As much as John hates to do it, he must stay at home and study tonight.
+
+  精品译文　尽管约翰不愿意，但他今晚还是得待在家里学习。
+
+### 3.9.7 句首用be的倒装句表示让步
+
+在英语中，由whether或however引导的让步从句可以变成一个句首用be的倒装句，同样表示让步。我们先来看例句：
+
+  All substances, be they gaseous, liquid or solid, are made up of atoms.
+
+  妙语点睛　这个句子原本的结构是“All substances, whether they may be gaseous, liquid or solid, are made up of atoms.”，相当于whether引导的让步状语从句，译成“不论……还是”。把whether省去后，将be动词提到句首。
+
+  精品译文　一切物质，不论是气态、液态还是固态，都是由原子构成的。
+
+综上所述，我们可以总结出这样的规律：
+
+  1. be引导的倒装句如果表达的是两种或以上的情况，此时be引导的倒装句可改写成由whether引导的让步状语从句，比如由be they gaseous, liquid or solid改写成whether they may be gaseous, liquid or solid。
+
+  2. be引导的倒装句如果只表达一种情况，此时be引导的倒装句可改写成由however引导的让步状语从句，比如由be it ever so humble改写成however humble it may be。
+
+As we grow up, we form our own identities because we are individuals, so it feels unfair to have our identities compared with others’, be it our peers, siblings or parents.
+
+  妙语点睛　这个句子原本的结构是“...whether it may be our peers, siblings or parents.”，相当于whether引导的让步状语从句，译成“不论……还是”。把whether省去后，将动词be提到句首。
+
+  精品译文　在我们的成长过程中，我们每个人都在塑造自己的个性，因为我们是一个个体。因此，当我们被拿来和别人做比较时就会感到不公平，不论这些比较的对象是我们的同龄人、兄弟姐妹还是父母。
+
+## 3.10 比较状语从句
+### 3.10.1 连词as的基本用法
+as引导比较状语从句，其基本结构是as...as。前一个as是副词，而后一个as才是比较状语从句的连词。具体用法如下：
+
+一、结构1：as+形容词或副词+as
+
+  The work is not as difficult as you think.
+
+  精品译文　这项工作不像你想象的那么难。
