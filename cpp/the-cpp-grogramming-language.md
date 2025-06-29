@@ -2770,3 +2770,78 @@ public:
 ```
 # STL标准库
 
+# Utilities
+## forward完美转发
+完美转发指的是将参数以其原始的值类别（左值引用或右值引用）传递给其他函数。
+
+```cpp
+#include <iostream>
+#include <utility>
+
+void process(int& x) {
+    std::cout << "处理左值引用: " << x << std::endl;
+}
+
+void process(int&& x) {
+    std::cout << "处理右值引用: " << x << std::endl;
+}
+
+// 不完美的转发
+template<typename T>
+void bad_forward(T&& arg) {
+    // arg 在这里总是左值，因为它有名字
+    process(arg);  // 总是调用 process(int&)
+}
+
+// 完美转发
+template<typename T>
+void perfect_forward(T&& arg) {
+    // 使用 std::forward 保持原始值类别
+    process(std::forward<T>(arg));
+}
+
+int main() {
+    int x = 42;
+
+    std::cout << "=== 不完美转发 ===" << std::endl;
+    bad_forward(x);      // 左值
+    bad_forward(100);    // 右值，但被当作左值处理
+
+    std::cout << "\n=== 完美转发 ===" << std::endl;
+    perfect_forward(x);      // 正确转发左值
+    perfect_forward(100);    // 正确转发右值
+
+    return 0;
+}
+```
+
+std::forward的实现原理
+```cpp
+// std::forward 的简化实现
+template<typename T>
+constexpr T&& forward(typename std::remove_reference<T>::type& t) noexcept {
+    return static_cast<T&&>(t);
+}
+
+template<typename T>
+constexpr T&& forward(typename std::remove_reference<T>::type&& t) noexcept {
+    static_assert(!std::is_lvalue_reference<T>::value,
+                  "不能将右值转发为左值引用");
+    return static_cast<T&&>(t);
+}
+```
+
+## 引用折叠规则
+
+```cpp
+// T&  + &  -> T&   (左值引用 + 左值引用 = 左值引用)
+// T&  + && -> T&   (左值引用 + 右值引用 = 左值引用)
+// T&& + &  -> T&   (右值引用 + 左值引用 = 左值引用)
+// T&& + && -> T&&  (右值引用 + 右值引用 = 右值引用)
+
+template<typename T>
+void demo_reference_collapsing(T&& arg) {
+    // 当传入左值时：T 推导为 int&，T&& 折叠为 int&
+    // 当传入右值时：T 推导为 int，T&& 保持为 int&&
+}
+```
