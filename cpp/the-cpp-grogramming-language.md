@@ -2755,6 +2755,99 @@ C++中static的主要用法：
 
     Singleton* Singleton::instance = nullptr;
     ```
+## constexpr
+constexpr 是 C++11 引入的关键字，表示"常量表达式"，用于指示表达式或函数可以在编译时求值。
+1. constexpr变量
+    ```cpp
+    #include <iostream>
+    #include <array>
+
+    int main() {
+        // 基本类型的 constexpr
+        constexpr int x = 10;
+        constexpr double pi = 3.14159;
+        constexpr char letter = 'A';
+        constexpr bool flag = true;
+
+        // 基于其他 constexpr 的计算
+        constexpr int y = x * 2;           // 20
+        constexpr double area = pi * 5 * 5; // 78.5...
+
+        // 用作数组大小
+        constexpr int size = 5;
+        int static_array[size];            // 编译时确定大小
+        std::array<int, size> std_array;   // 编译时确定大小
+
+        std::cout << "x = " << x << ", y = " << y << std::endl;
+        std::cout << "Area = " << area << std::endl;
+
+        return 0;
+    }
+    ```
+2. constexpr函数
+    ```cpp
+    #include <iostream>
+
+    // C++14 允许多个语句、局部变量、循环等
+    constexpr int fibonacci(int n) {
+        if (n <= 1) return n;
+
+        int a = 0, b = 1;
+        for (int i = 2; i <= n; ++i) {
+            int temp = a + b;
+            a = b;
+            b = temp;
+        }
+        return b;
+    }
+
+    constexpr int sum_range(int start, int end) {
+        int sum = 0;
+        for (int i = start; i <= end; ++i) {
+            sum += i;
+        }
+        return sum;
+    }
+
+    // 可以修改局部变量
+    constexpr int complex_calculation(int x) {
+        int result = x;
+        result *= 2;
+        result += 10;
+        if (result > 100) {
+            result /= 2;
+        }
+        return result;
+    }
+
+    int main() {
+        constexpr int fib10 = fibonacci(10);      // 55
+        constexpr int sum = sum_range(1, 10);     // 55
+        constexpr int calc = complex_calculation(50); // 60
+
+        std::cout << "Fibonacci(10): " << fib10 << std::endl;
+        std::cout << "Sum 1-10: " << sum << std::endl;
+        std::cout << "Complex calc: " << calc << std::endl;
+
+        return 0;
+    }
+    ```
+3. constexpr if
+
+4. constexpr构造函数
+    ```cpp
+    class Point {
+    private:
+        double x_, y_;
+
+    public:
+        //  constexpr 构造函数允许在编译时创建对象
+        // 所有成员必须也是 constexpr 可计算的
+        // 可以在编译时进行对象操作和计算
+        constexpr Point(double x = 0.0, double y = 0.0)
+            : x_(x), y_(y) {}
+    }
+    ```
 
 ## mutable
 mutable关键字用于在const成员函数中修改类的某些成员变量。主要用途：

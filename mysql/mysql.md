@@ -8,6 +8,7 @@ ls /usr/local/mysql/data #查data目录下文件，-a查看全部，-l以list形
 cd path #进入到path路径
 rm -r #删除一个文件，文件夹加-r
 cat file #查看file文件的内容
+chmod +w mysql-jdbc.cc mysql-xapi.cc //添加写的权限，+rx可读可执行，在terminal上
 
 DDL
 create database name default character set utf8; #name数据库名，utf8指定编码
