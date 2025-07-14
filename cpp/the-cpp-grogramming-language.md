@@ -2860,7 +2860,36 @@ public:
         counter++; // 允许在const成员函数中修改
     }
 };
+
 ```
+## runtime_data_type
+Runtime datatype（运行时数据类型）是指在程序运行时而非编译时确定的数据类型信息。这与C++等静态类型语言中编译时已知的类型形成对比。
+
+1. 标签联合
+```cpp
+enum class Type { Int, Float, String };
+struct Value {
+    Type type;
+    union {
+        int i;
+        float f;
+        const char* s;
+    };
+};
+```
+2. 对象包装
+```cpp
+class Object {
+public:
+    virtual ~Object() = default;
+    virtual Type type() const = 0;
+};
+```
+3. 实体类型
+```cpp
+using Value = std::variant<int, float, std::string>;
+```
+
 # STL标准库
 
 # Utilities
