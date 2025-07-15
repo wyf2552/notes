@@ -2848,6 +2848,52 @@ constexpr 是 C++11 引入的关键字，表示"常量表达式"，用于指示�
             : x_(x), y_(y) {}
     }
     ```
+## class_template
+类模板是一个蓝图，用于生成一系列相似的类,实现代码复用，避免为不同类型编写几乎相同的类,编译器根据模板参数在编译时生成具体的类
+主要用法
+```cpp
+template <typename T>  // 或 template <class T>
+class ClassName {
+    // 类定义
+    // 可以使用T作为类型
+};
+```
+
+成员函数定义
+1. 类内定义
+```cpp
+template <typename T>
+class Box {
+public:
+    void set(const T& value) { data = value; }
+private:
+    T data;
+};
+```
+
+2. 类外定义
+```cpp
+template <typename T>
+void Box<T>::set(const T& value) {
+    data = value;
+}
+```
+
+全特化
+```cpp
+template <>
+class Box<bool> {
+    // 针对bool类型的特殊实现
+};
+```
+
+偏特化
+```cpp
+template <typename T>
+class Box<T*> {
+    // 针对指针类型的特殊实现
+};
+```
 
 ## mutable
 mutable关键字用于在const成员函数中修改类的某些成员变量。主要用途：
