@@ -2936,6 +2936,40 @@ public:
 using Value = std::variant<int, float, std::string>;
 ```
 
+## template_const
+1. 模板非类型参数中的 const
+
+```cpp
+template <const int N>  // N 是编译时常量
+class FixedArray {
+    int data[N];
+public:
+    int size() const { return N; }
+};
+```
+2. 模板类型参数中的 const 限定
+
+```cpp
+template <typename T>
+void print(const T& value) {  // 传递常量引用
+    std::cout << value;
+}
+```
+
+3. 模板类中的 const 成员函数
+
+```cpp
+template <typename T>
+class Container {
+    T* data;
+public:
+    T get(int index) const {  // 不修改对象状态的成员函数
+        return data[index];
+    }
+};
+```
+
+
 # STL标准库
 
 # Utilities
