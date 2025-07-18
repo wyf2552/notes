@@ -2969,6 +2969,213 @@ public:
 };
 ```
 
+## std::array
+固定大小：编译时确定大小，不可改变
+
+栈分配：所有元素存储在对象内部（不像 std::vector 需要堆分配）
+
+零开销抽象：性能与 C 风格数组相当
+
+容器接口：提供迭代器、size() 等方法
+
+1. 声明和初始化
+```cpp
+#include <array>
+#include <iostream>
+
+int main() {
+    // 声明并初始化
+    std::array<int, 5> arr1{1, 2, 3, 4, 5};  // C++11起可以省略内层花括号
+
+    // 统一初始化
+    std::array<int, 3> arr2 = {7, 8, 9};
+
+    // 部分初始化（剩余元素值初始化）
+    std::array<double, 4> arr3{1.1, 2.2};  // arr3[2]和arr3[3]为0.0
+
+    // 聚合初始化
+    std::array<std::string, 2> arr4 = {"Hello", "World"};
+}
+```
+
+2. 元素访问
+```cpp
+std::array<int, 5> arr{10, 20, 30, 40, 50};
+
+// 使用operator[]
+int first = arr[0];  // 10
+arr[1] = 25;         // 修改第二个元素
+
+// 使用at()（带边界检查）
+try {
+    int val = arr.at(5);  // 抛出std::out_of_range异常
+} catch(const std::out_of_range& e) {
+    std::cerr << e.what() << '\n';
+}
+
+// 使用front()和back()
+int front = arr.front();  // 10
+int back = arr.back();    // 50
+
+// 使用data()获取原始指针
+int* ptr = arr.data();    // 指向第一个元素的指针
+```
+
+3. 容量操作
+```cpp
+std::array<char, 100> buffer;
+
+// 获取大小
+size_t size = buffer.size();      // 100
+bool empty = buffer.empty();      // false（因为size != 0）
+size_t max_size = buffer.max_size();  // 100（与size()相同）
+```
+
+4. 迭代器支持
+```cpp
+std::array<int, 4> nums{1, 2, 3, 4};
+
+// 使用迭代器遍历
+for(auto it = nums.begin(); it != nums.end(); ++it) {
+    std::cout << *it << " ";
+}
+
+// 使用范围for循环（C++11）
+for(int num : nums) {
+    std::cout << num << " ";
+}
+
+// 反向迭代器
+for(auto rit = nums.rbegin(); rit != nums.rend(); ++rit) {
+    std::cout << *rit << " ";  // 输出: 4 3 2 1
+}
+```
+
+5. 填充和交换
+```cpp
+std::array<int, 5> arr;
+
+// 填充相同值
+arr.fill(42);  // 所有元素变为42
+
+// 交换两个array（必须是相同类型和大小）
+std::array<int, 5> other{1, 2, 3, 4, 5};
+arr.swap(other);  // 交换内容
+```
+
+## vector
+动态数组：在堆上分配连续内存空间存储元素
+自动扩容：当容量不足时自动重新分配更大内存
+随机访问：支持通过索引直接访问元素（O(1) 时间复杂度）
+类型安全：模板化的容器，编译时类型检查
+1. 创建和初始化
+
+```cpp
+#include <vector>
+#include <iostream>
+
+int main() {
+    // 空vector
+    std::vector<int> vec1;
+
+    // 指定初始大小和值
+    std::vector<double> vec2(5, 3.14);  // 5个3.14
+
+    // 使用初始化列表
+    std::vector<std::string> vec3{"apple", "banana", "orange"};
+
+    // 从数组构造
+    int arr[] = {1, 3, 5, 7, 9};
+    std::vector<int> vec4(arr, arr + sizeof(arr)/sizeof(arr[0]));
+
+    // 复制构造
+    std::vector<int> vec5(vec4);
+}
+```
+
+2. 元素访问
+
+```cpp
+std::vector<int> nums{10, 20, 30, 40, 50};
+
+// 使用operator[]（无边界检查）
+int first = nums[0];  // 10
+nums[1] = 25;         // 修改第二个元素
+
+// 使用at()（带边界检查）
+try {
+    int val = nums.at(5);  // 抛出std::out_of_range异常
+} catch(const std::out_of_range& e) {
+    std::cerr << e.what() << '\n';
+}
+
+// 使用front()和back()
+int front = nums.front();  // 10
+int back = nums.back();    // 50
+
+// 使用data()获取原始指针
+int* ptr = nums.data();    // 指向第一个元素的指针
+```
+
+3. 容量管理
+
+```cpp
+std::vector<int> vec;
+
+// 获取大小信息
+size_t size = vec.size();      // 当前元素数量
+bool empty = vec.empty();      // 是否为空
+size_t capacity = vec.capacity();  // 当前分配的存储空间
+
+// 改变容量
+vec.reserve(100);  // 预分配至少100个元素的空间
+vec.shrink_to_fit();  // 减少capacity到匹配size
+
+// 改变大小
+vec.resize(10);     // 调整为10个元素，新增元素值初始化
+vec.resize(15, 42); // 调整为15个元素，新增元素初始化为42
+```
+
+4. 修改操作
+
+```cpp
+std::vector<int> vec{1, 2, 3};
+
+// 添加元素
+vec.push_back(4);   // 末尾添加4
+vec.emplace_back(5); // 直接在末尾构造元素（更高效）
+
+// 插入元素
+vec.insert(vec.begin() + 1, 10);  // 在位置1插入10
+vec.emplace(vec.begin() + 2, 20); // 在位置2构造插入20
+
+// 删除元素
+vec.pop_back();     // 删除末尾元素
+vec.erase(vec.begin() + 1);  // 删除位置1的元素
+vec.erase(vec.begin() + 1, vec.begin() + 3); // 删除范围[1,3)
+vec.clear();        // 清空所有元素
+```
+
+5. 迭代器支持
+
+```cpp
+std::vector<int> nums{1, 2, 3, 4, 5};
+
+// 使用迭代器遍历
+for(auto it = nums.begin(); it != nums.end(); ++it) {
+    std::cout << *it << " ";
+}
+
+// 使用范围for循环（C++11）
+for(int num : nums) {
+    std::cout << num << " ";
+}
+
+// 反向迭代器
+for(auto rit = nums.rbegin(); rit != nums.rend(); ++rit) {
+    std::cout << *rit << " ";  // 输出: 5 4 3 2 1
+}
+```
 
 # STL标准库
 
