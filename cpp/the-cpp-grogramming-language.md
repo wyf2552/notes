@@ -3177,6 +3177,78 @@ for(auto rit = nums.rbegin(); rit != nums.rend(); ++rit) {
 }
 ```
 
+## shareptr共享所有权
+多个指针可以共享同一对象，通过引用计数管理生命周期,当最后一个 shared_ptr 被销毁时，对象自动释放,允许拷贝和赋值。
+
+需要多个指针共享同一对象时（如多线程、复杂所有权关系）。
+
+## unique独占所有权
+独占对象所有权，不可拷贝，但可以通过 std::move 转移所有权。
+更轻量级，性能优于 shared_ptr。
+
+独占资源管理（如工厂模式、RAII 资源封装）。
+
+## auto
+编译器根据初始化表达式自动推导变量类型。
+简化代码，避免冗长的类型声明。
+
+```cpp
+#include <vector>
+#include <map>
+
+int main() {
+    auto i = 42;                  // 推导为 int
+    auto str = "hello";           // 推导为 const char*
+    auto vec = std::vector{1, 2}; // C++17 起推导为 std::vector<int>
+
+    std::map<int, std::string> m = {{1, "one"}, {2, "two"}};
+    auto it = m.begin();          // 推导为 std::map<int, std::string>::iterator
+
+    // 结合范围 for 循环
+    for (const auto &[key, val] : m) {  // C++17 结构化绑定
+        std::cout << key << ": " << val << "\n";
+    }
+}
+```
+
+## string
+std::string 是 C++ 标准库提供的字符串类，封装了字符序列（char），支持动态内存管理。
+
+底层存储类似 std::vector<char>，但额外优化了字符串操作（如短字符串优化 SSO）。
+
+自动处理内存分配和释放，无需手动管理 \0 结尾。
+
+1. 构造与初始化
+
+```cpp
+#include <string>
+std::string s1;                // 空字符串
+std::string s2 = "Hello";      // 从 C 字符串构造
+std::string s3(5, 'a');        // 重复字符："aaaaa"
+std::string s4(s2);            // 拷贝构造
+std::string s5 = "World"s;     // C++14 字面量后缀 `s`（需 `using namespace std::string_literals`）
+```
+
+2. 输入输出
+
+```cpp
+std::string s;
+std::cin >> s;                  // 读取单词（遇到空格停止）
+std::getline(std::cin, s);      // 读取整行（包括空格）
+std::cout << s << std::endl;    // 输出
+```
+
+3. 与 C 字符串互转
+
+```cpp
+// string → C 字符串
+const char* cstr = s.c_str();   // 返回只读指针（生命周期随 s）
+
+// C 字符串 → string
+const char* cstr = "Hello";
+std::string s(cstr);            // 拷贝构造
+```
+
 # STL标准库
 
 # Utilities
@@ -3254,3 +3326,5 @@ void demo_reference_collapsing(T&& arg) {
     // 当传入右值时：T 推导为 int，T&& 保持为 int&&
 }
 ```
+
+
