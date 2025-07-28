@@ -3182,33 +3182,138 @@ for(auto rit = nums.rbegin(); rit != nums.rend(); ++rit) {
 
 需要多个指针共享同一对象时（如多线程、复杂所有权关系）。
 
+1. 基本创建和使用
+```cpp
+std::shared_ptr<int> ptr1 = std::make_shared<int>(42);
+std::shared_ptr<int> ptr2(new int(42)); // 不推荐
+```
+
+2. 共享所有权
+```cpp
+std::shared_ptr<int> ptr3 = ptr1; // 引用计数变为 2
+auto ptr4 = ptr1;                 // 引用计数变为 3
+```
+
+3. 检查引用计数
+```cpp
+std::cout << ptr1.use_count(); // 输出当前引用计数
+```
+4. 重置和释放
+```cpp
+ptr1.reset();        // 引用计数减 1
+ptr2 = nullptr;      // 引用计数减 1
+```
+
+5. weak_ptr 配合使用（避免循环引用）
+```cpp
+std::weak_ptr<int> weak = ptr3;
+if (auto locked = weak.lock()) {
+    // 安全使用对象
+}
+```
+
 ## unique独占所有权
 独占对象所有权，不可拷贝，但可以通过 std::move 转移所有权。
 更轻量级，性能优于 shared_ptr。
 
 独占资源管理（如工厂模式、RAII 资源封装）。
 
+1. 基本创建和使用
+```cpp
+std::unique_ptr<int> ptr = std::make_unique<int>(42);
+std::unique_ptr<int> ptr2(new int(42)); // 不推荐
+```
+
+2. 所有权转移
+```cpp
+std::unique_ptr<int> ptr3 = std::move(ptr); // ptr 变为 nullptr
+```
+
+3. 释放和重置
+```cpp
+ptr3.reset();           // 释放对象，指针变为 nullptr
+ptr3.reset(new int(10)); // 释放旧对象，指向新对象
+```
+
+4. 获取原始指针
+```cpp
+int* raw = ptr3.get(); // 不转移所有权
+```
+
+5. 自定义删除器
+```cpp
+std::unique_ptr<FILE, decltype(&fclose)> file(fopen("test.txt", "r"), &fclose);
+```
 ## auto
 编译器根据初始化表达式自动推导变量类型。
 简化代码，避免冗长的类型声明。
 
+1. 简化复杂类型声明
+
 ```cpp
-#include <vector>
-#include <map>
+复制
+// 传统写法
+std::vector<std::string>::iterator it = vec.begin();
+std::unordered_map<std::string, std::vector<int>>::const_iterator iter = map.cbegin();
 
-int main() {
-    auto i = 42;                  // 推导为 int
-    auto str = "hello";           // 推导为 const char*
-    auto vec = std::vector{1, 2}; // C++17 起推导为 std::vector<int>
+// 使用 auto
+auto it = vec.begin();
+auto iter = map.cbegin();
+```
 
-    std::map<int, std::string> m = {{1, "one"}, {2, "two"}};
-    auto it = m.begin();          // 推导为 std::map<int, std::string>::iterator
+2. 模板和泛型编程
 
-    // 结合范围 for 循环
-    for (const auto &[key, val] : m) {  // C++17 结构化绑定
-        std::cout << key << ": " << val << "\n";
-    }
+```cpp
+复制
+template<typename T, typename U>
+auto add(T t, U u) -> decltype(t + u) {  // C++11
+    return t + u;
 }
+
+// C++14 更简洁
+template<typename T, typename U>
+auto add(T t, U u) {
+    return t + u;
+}
+```
+
+3. lambda 表达式
+
+```cpp
+复制
+auto lambda = [](int x, int y) { return x + y; };
+auto result = lambda(3, 4);
+
+// 复杂 lambda
+auto predicate = [](const std::string& s) { return s.length() > 5; };
+```
+
+4. 范围for循环
+
+```cpp
+复制
+std::vector<std::string> vec = {"hello", "world"};
+
+// 避免类型错误和冗长声明
+for (const auto& str : vec) {
+    std::cout << str << "\n";
+}
+
+// 修改元素
+for (auto& str : vec) {
+    str += "!";
+}
+```
+
+5. 函数返回值
+
+```cpp
+复制
+auto getVector() {
+    return std::vector<int>{1, 2, 3, 4, 5};
+}
+
+auto map = std::make_unique<std::map<std::string, int>>();
 ```
 
 ## string
