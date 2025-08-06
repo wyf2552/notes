@@ -3353,6 +3353,75 @@ const char* cstr = s.c_str();   // 返回只读指针（生命周期随 s）
 const char* cstr = "Hello";
 std::string s(cstr);            // 拷贝构造
 ```
+## transform
+std::transform 是定义在 <algorithm> 头文件中的一个函数模板，它有两种重载形式：
+
+一元操作版本：对单个范围内的元素进行转换
+
+二元操作版本：对两个范围内的元素进行组合转换
+
+一元操作版本
+```cpp
+OutputIt transform(InputIt first1, InputIt last1, OutputIt d_first, UnaryOperation unary_op);
+```
+first1, last1：输入范围的迭代器
+
+d_first：输出范围的起始迭代器
+
+unary_op：一元操作函数（接受一个参数）
+
+二元操作版本
+```cpp
+OutputIt transform(InputIt1 first1, InputIt1 last1, InputIt2 first2, OutputIt d_first, BinaryOperation binary_op);
+```
+
+first1, last1：第一个输入范围的迭代器
+
+first2：第二个输入范围的起始迭代器
+
+d_first：输出范围的起始迭代器
+
+binary_op：二元操作函数（接受两个参数）
+
+1. 一元操作（将vector中的元素加倍）
+```cpp
+#include <algorithm>
+#include <vector>
+
+std::vector<int> v{1, 2, 3, 4, 5};
+std::vector<int> result(v.size());
+
+std::transform(v.begin(), v.end(), result.begin(),
+    [](int x) { return x * 2; });
+// result = {2, 4, 6, 8, 10}
+```
+
+2. 二元操作（两个vector相加）
+```cpp
+#include <algorithm>
+#include <vector>
+
+std::vector<int> v1{1, 2, 3};
+std::vector<int> v2{4, 5, 6};
+std::vector<int> result(v1.size());
+
+std::transform(v1.begin(), v1.end(), v2.begin(), result.begin(),
+    [](int a, int b) { return a + b; });
+// result = {5, 7, 9}
+```
+3. 转换为字符串（如你的练习）
+```cpp
+#include <algorithm>
+#include <vector>
+#include <string>
+
+std::vector<int> v{8, 13, 21, 34, 55};
+std::vector<std::string> result(v.size());
+
+std::transform(v.begin(), v.end(), result.begin(),
+    [](int x) { return std::to_string(x * 2); });
+// result = {"16", "26", "42", "68", "110"}
+```
 
 # STL标准库
 
