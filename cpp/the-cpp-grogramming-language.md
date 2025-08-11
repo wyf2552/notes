@@ -3423,6 +3423,62 @@ std::transform(v.begin(), v.end(), result.begin(),
 // result = {"16", "26", "42", "68", "110"}
 ```
 
+## accumulate
+遍历一个范围（如数组、vector、list 等）。
+按顺序对元素进行累积计算（默认是加法，但可以自定义操作）。
+返回最终累积结果。
+
+1. 基本形式（默认加法）
+
+```cpp
+#include <numeric>
+#include <vector>
+
+std::vector<int> nums = {1, 2, 3, 4, 5};
+int sum = std::accumulate(nums.begin(), nums.end(), 0);
+// sum = 1 + 2 + 3 + 4 + 5 = 15
+```
+
+2. 自定义操作（如乘法、拼接字符串等）
+
+可以传入一个二元操作（如 std::multiplies<int>）代替默认加法：
+
+```cpp
+#include <numeric>
+#include <functional> // for std::multiplies
+
+std::vector<int> nums = {1, 2, 3, 4, 5};
+int product = std::accumulate(nums.begin(), nums.end(), 1, std::multiplies<int>());
+// product = 1 * 2 * 3 * 4 * 5 = 120
+```
+
+3. 计算数组/容器的乘积
+
+```cpp
+int arr[] = {2, 3, 4};
+int product = std::accumulate(std::begin(arr), std::end(arr), 1, std::multiplies<int>());
+// product = 2 * 3 * 4 = 24
+```
+
+4. 拼接字符串
+
+```cpp
+#include <string>
+#include <vector>
+
+std::vector<std::string> words = {"Hello", " ", "World", "!"};
+std::string sentence = std::accumulate(words.begin(), words.end(), std::string());
+// sentence = "Hello World!"
+```
+
+5. 计算浮点数的累加（避免精度问题）
+
+```cpp
+std::vector<double> floats = {0.1, 0.2, 0.3};
+double sum = std::accumulate(floats.begin(), floats.end(), 0.0);
+// sum = 0.1 + 0.2 + 0.3 = 0.6（如果用 0 初始化，会丢失精度！）
+```
+
 # STL标准库
 
 # Utilities
