@@ -3479,6 +3479,83 @@ double sum = std::accumulate(floats.begin(), floats.end(), 0.0);
 // sum = 0.1 + 0.2 + 0.3 = 0.6（如果用 0 初始化，会丢失精度！）
 ```
 
+## namespace
+命名空间（Namespace）是 C++ 中用于 组织代码 和 防止命名冲突 的重要机制。它允许将变量、函数、类等封装在一个逻辑范围内，避免与其他库或代码中的同名实体冲突。
+
+1. 定义命名空间
+
+```cpp
+namespace MyNamespace {
+    int value = 10; // 变量
+    int add(int a, int b) { return a + b; } // 函数
+    class MyClass { /*...*/ }; // 类
+}
+```
+2. 访问命名空间成员
+
+```cpp
+int sum = MyNamespace::add(2, 3); // 调用 MyNamespace 中的函数
+int val = MyNamespace::value;     // 访问 MyNamespace 中的变量
+```
+
+3. 嵌套命名空间
+
+```cpp
+namespace Outer {
+    namespace Inner {
+        std::string msg = "Hello";
+    }
+}
+
+// 访问方式：
+std::cout << Outer::Inner::msg; // 输出 "Hello"
+```
+
+4. 命名空间别名
+
+```cpp
+namespace VeryLongNamespaceName { int x = 42; }
+namespace VLN = VeryLongNamespaceName; // 别名
+
+std::cout << VLN::x; // 输出 42
+```
+
+5. 匿名命名空间
+
+```cpp
+namespace {
+    int localVar = 100; // 只能在当前文件中访问
+}
+```
+
+6. using 声明
+
+```cpp
+using MyNamespace::value; // 引入 value
+std::cout << value;      // 直接访问，无需 MyNamespace::
+```
+
+7. using 指令
+
+```cpp
+using namespace MyNamespace; // 引入整个命名空间
+std::cout << add(1, 2);     // 直接调用 add
+```
+
+8. 解决命名冲突
+
+如果两个命名空间有同名成员，需显式指定：
+
+```cpp
+namespace A { int x = 1; }
+namespace B { int x = 2; }
+
+int main() {
+    std::cout << A::x; // 1
+    std::cout << B::x; // 2
+    return 0;
+}
+```
 # STL标准库
 
 # Utilities
