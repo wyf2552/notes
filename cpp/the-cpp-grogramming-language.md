@@ -3563,6 +3563,43 @@ int main() {
 ## reference
 变量的别名，本质上是同一内存空间的另一个名称,使用&符号，如int& ref = var,必须在声明时初始化，且不能改变引用的目标,必须引用一个已存在的对象,一旦初始化就不能改变引用的对象,使用方式与普通变量相同，不需要特殊操作符
 
+## exception
+异常是C++中处理程序运行时错误的一种机制，它允许程序在检测到错误时将控制权从当前执行点转移到程序中能够处理该错误的特定位置。
+
+抛出异常(throw)
+
+```cpp
+throw 异常对象;  // 可以是任意类型的对象，但通常继承自std::exception
+```
+
+捕获异常(try-catch)
+
+```cpp
+try {
+    // 可能抛出异常的代码
+} catch (异常类型1& e) {
+    // 处理异常类型1
+} catch (异常类型2& e) {
+    // 处理异常类型2
+} catch (...) {
+    // 捕获所有未被前面处理的异常
+}
+```
+
+自定义异常类
+
+可以创建自己的异常类，通常继承自std::exception或其派生类：
+
+```cpp
+class MyException : public std::runtime_error {
+public:
+    MyException(const std::string& msg)
+        : std::runtime_error(msg) {}
+
+    // 可以添加自定义方法和属性
+    int getErrorCode() const { return 42; }
+};
+```
 
 # STL标准库
 
