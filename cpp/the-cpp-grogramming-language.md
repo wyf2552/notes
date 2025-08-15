@@ -3601,6 +3601,67 @@ public:
 };
 ```
 
+## new_delete
+new 和 delete 是 C++ 中用于动态内存管理的一对运算符，它们提供了比 C 语言中 malloc 和 free 更安全、更面向对象的内存管理方式。
+
+1. 单个对象的分配与释放
+
+```cpp
+// 分配单个对象
+Type* ptr = new Type;         // 默认初始化
+Type* ptr = new Type();       // 值初始化
+Type* ptr = new Type(arg);    // 带参数初始化
+
+// 释放单个对象
+delete ptr;
+```
+
+2. 数组的分配与释放
+
+```cpp
+// 分配数组
+Type* arr = new Type[size];       // 默认初始化
+Type* arr = new Type[size]();     // 值初始化
+Type* arr = new Type[size]{...};  // 列表初始化
+
+// 释放数组
+delete[] arr;
+```
+
+3.  基本类型
+
+```cpp
+int* p = new int(42);    // 分配一个int并初始化为42
+std::cout << *p;         // 输出42
+delete p;                // 释放内存
+```
+
+4. 自定义类型
+
+```cpp
+class MyClass {
+public:
+    MyClass(int x) : data(x) {}
+    ~MyClass() { std::cout << "Destructor called\n"; }
+    int data;
+};
+
+MyClass* obj = new MyClass(10);  // 调用构造函数
+std::cout << obj->data;          // 输出10
+delete obj;                      // 调用析构函数
+```
+
+5. 数组
+
+```cpp
+int* arr = new int[5]{1, 2, 3, 4, 5};  // 分配并初始化数组
+for (int i = 0; i < 5; ++i) {
+    std::cout << arr[i] << " ";
+}
+delete[] arr;  // 释放数组
+```
+
+
 # STL标准库
 
 # Utilities
