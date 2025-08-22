@@ -3661,6 +3661,504 @@ for (int i = 0; i < 5; ++i) {
 delete[] arr;  // 释放数组
 ```
 
+## Irvalue
+左值(lvalue)
+
+定义：指向特定内存位置的表达式（有持久状态的表达式）
+
+特点：有明确的标识（可以取地址）,可以出现在赋值语句的左侧,生命周期通常持续到作用域结束
+
+右值(rvalue)
+
+定义：临时对象或即将被销毁的对象（短暂存在的表达式）
+
+特点：没有持久的内存位置（不能取地址）,只能出现在赋值语句的右侧,生命周期通常到表达式结束
+
+1. 左值引用与右值引用
+
+```cpp
+int a = 10;
+int& lref = a;        // 左值引用
+int&& rref = 42;      // 右值引用
+// int&& rref2 = a;   // 错误：不能绑定左值到右值引用
+int&& rref3 = std::move(a);  // 正确：使用std::move转换
+```
+2. 函数重载
+
+```cpp
+void process(int& x) {
+    std::cout << "处理左值: " << x << std::endl;
+}
+
+void process(int&& x) {
+    std::cout << "处理右值: " << x << std::endl;
+}
+
+int main() {
+    int a = 10;
+    process(a);        // 调用左值版本
+    process(20);       // 调用右值版本
+    process(std::move(a)); // 调用右值版本
+}
+```
+
+3. 移动语义
+
+```cpp
+class MyString {
+    char* data;
+public:
+    // 移动构造函数
+    MyString(MyString&& other) noexcept
+        : data(other.data) {
+        other.data = nullptr;  // 防止被删除
+    }
+
+    // 移动赋值运算符
+    MyString& operator=(MyString&& other) noexcept {
+        if (this != &other) {
+            delete[] data;
+            data = other.data;
+            other.data = nullptr;
+        }
+        return *this;
+    }
+
+    ~MyString() { delete[] data; }
+};
+```
+## getline
+
+getline 是C++中用于读取整行输入的函数，它可以读取包含空格在内的完整行内容，直到遇到换行符为止。
+
+```cpp
+// 使用 cin >> 的问题
+string name;
+cin >> name;  // 输入 "John Smith" 只能读取 "John"
+
+// 使用 getline 的解决方案
+string fullName;
+getline(cin, fullName);  // 可以读取完整的 "John Smith"
+```
+
+1. 标准用法
+
+```cpp
+
+复制
+#include <iostream>
+#include <string>
+using namespace std;
+
+istream& getline(istream& is, string& str);
+istream& getline(istream& is, string& str, char delim);
+```
+
+2. getline vs cin >> 对比
+cin >> 的特点
+
+```cpp
+
+复制
+string word1, word2, word3;
+cin >> word1 >> word2 >> word3;
+// 输入: "apple banana cherry"
+// word1 = "apple"
+// word2 = "banana"
+// word3 = "cherry"
+```
+
+2. getline 的特点
+
+```cpp
+
+复制
+string line;
+getline(cin, line);
+// 输入: "apple banana cherry"
+// line = "apple banana cherry"
+```
+
+## istringstream
+istringstream（Input String Stream）是C++标准库提供的一个字符串输入流类，它允许我们从字符串中读取数据，就像从文件或键盘读取数据一样。
+
+```cpp
+// 问题：如何从字符串中提取多个数据？
+string data = "123 45.67 hello world";
+// 想要提取：int=123, double=45.67, string="hello", string="world"
+
+// 传统方法复杂且容易出错
+// istringstream 提供了优雅的解决方案
+```
+
+```cpp
+istringstream iss(字符串);
+istringstream iss;
+iss.str(字符串);  // 设置字符串内容
+```
+
+1. istringstream vs 其他输入方式对比
+与 cin 的对比
+
+```cpp
+
+复制
+// 使用 cin（从键盘输入）
+int num;
+cin >> num;
+
+// 使用 istringstream（从字符串输入）
+string data = "123";
+istringstream iss(data);
+int num;
+iss >> num;
+```
+
+与字符串解析的对比
+
+```cpp
+
+复制
+// 传统字符串解析（复杂）
+string data = "123 456 789";
+size_t pos1 = data.find(' ');
+size_t pos2 = data.find(' ', pos1 + 1);
+int a = stoi(data.substr(0, pos1));
+int b = stoi(data.substr(pos1 + 1, pos2 - pos1 - 1));
+int c = stoi(data.substr(pos2 + 1));
+
+// 使用 istringstream（简洁）
+string data = "123 456 789";
+istringstream iss(data);
+int a, b, c;
+iss >> a >> b >> c;
+```
+
+2. 构造和初始化
+
+```cpp
+
+复制
+#include <iostream>
+#include <sstream>
+using namespace std;
+
+int main() {
+    // 方法1：构造时初始化
+    istringstream iss1("hello world 123");
+
+    // 方法2：先构造，后设置内容
+    istringstream iss2;
+    iss2.str("hello world 123");
+
+    // 方法3：重置内容
+    iss1.str("new content 456");
+    iss1.clear();  // 清除错误标志
+
+    return 0;
+}
+```
+
+3. 状态检查方法
+
+```cpp
+
+复制
+#include <iostream>
+#include <sstream>
+using namespace std;
+
+void checkStreamState(istringstream& iss) {
+    cout << "good(): " << iss.good() << endl;  // 流状态良好
+    cout << "eof(): " << iss.eof() << endl;    // 到达末尾
+    cout << "fail(): " << iss.fail() << endl;  // 操作失败
+    cout << "bad(): " << iss.bad() << endl;    // 严重错误
+}
+
+int main() {
+    istringstream iss("123 abc");
+
+    int num;
+    iss >> num;  // 成功读取123
+    checkStreamState(iss);
+
+    iss >> num;  // 尝试读取abc到int，失败
+    checkStreamState(iss);
+
+    return 0;
+}
+```
+
+## map
+map是C++标准库提供的一个关联容器，它存储键值对（key-value pairs），其中每个键都是唯一的。map内部基于红黑树实现，能够自动保持键的有序性。
+
+1. 包含头文件和声明
+
+```cpp
+#include <map>
+#include <string>
+#include <iostream>
+
+// 声明一个 map
+std::map<std::string, int> myMap;
+```
+
+2. 插入元素
+
+使用 insert() 方法
+
+```cpp
+// 使用 make_pair
+myMap.insert(std::make_pair("apple", 5));
+
+// 使用 pair 构造函数
+myMap.insert(std::pair<std::string, int>("banana", 3));
+
+// C++11 及以上可以使用花括号
+myMap.insert({"orange", 7});
+```
+
+使用下标操作符 []
+
+```cpp
+myMap["grape"] = 4;  // 如果键不存在，会创建新元素
+```
+
+3. 访问元素
+
+使用下标操作符 []
+
+```cpp
+std::cout << "Apple count: " << myMap["apple"] << std::endl;
+```
+
+使用 at() 方法（如果键不存在会抛出异常）
+
+```cpp
+try {
+    std::cout << "Banana count: " << myMap.at("banana") << std::endl;
+} catch (const std::out_of_range& e) {
+    std::cout << "Key not found: " << e.what() << std::endl;
+}
+```
+
+4. 查找元素
+
+使用 find() 方法
+
+```cpp
+auto it = myMap.find("apple");
+if (it != myMap.end()) {
+    std::cout << "Found: " << it->first << " -> " << it->second << std::endl;
+} else {
+    std::cout << "Not found" << std::endl;
+}
+```
+
+使用 count() 方法
+
+```cpp
+if (myMap.count("apple") > 0) {
+    std::cout << "Key exists" << std::endl;
+}
+```
+
+5. 遍历 map
+
+使用迭代器
+
+```cpp
+for (auto it = myMap.begin(); it != myMap.end(); ++it) {
+    std::cout << it->first << ": " << it->second << std::endl;
+}
+```
+
+使用范围-based for 循环 (C++11+)
+
+```cpp
+for (const auto& pair : myMap) {
+    std::cout << pair.first << ": " << pair.second << std::endl;
+}
+```
+
+使用结构化绑定 (C++17+)
+
+```cpp
+for (const auto& [key, value] : myMap) {
+    std::cout << key << ": " << value << std::endl;
+}
+```
+
+6. 删除元素
+
+使用 erase() 方法
+
+```cpp
+// 通过键删除
+myMap.erase("apple");
+
+// 通过迭代器删除
+auto it = myMap.find("banana");
+if (it != myMap.end()) {
+    myMap.erase(it);
+}
+
+// 删除一定范围内的元素
+auto first = myMap.find("first");
+auto last = myMap.find("last");
+if (first != myMap.end() && last != myMap.end()) {
+    myMap.erase(first, last);
+}
+```
+
+7. 其他常用操作
+
+获取大小
+
+```cpp
+std::cout << "Map size: " << myMap.size() << std::endl;
+```
+
+检查是否为空
+
+```cpp
+if (myMap.empty()) {
+    std::cout << "Map is empty" << std::endl;
+}
+```
+
+清空 map
+
+```cpp
+myMap.clear();
+```
+
+获取键的比较函数
+
+```cpp
+auto comp = myMap.key_comp();
+```
+
+8. 自定义比较函数
+
+使用函数对象
+
+```cpp
+struct CaseInsensitiveCompare {
+    bool operator()(const std::string& a, const std::string& b) const {
+        return std::lexicographical_compare(
+            a.begin(), a.end(),
+            b.begin(), b.end(),
+            [](char c1, char c2) {
+                return std::tolower(c1) < std::tolower(c2);
+            });
+    }
+};
+
+std::map<std::string, int, CaseInsensitiveCompare> caseInsensitiveMap;
+```
+
+使用 lambda 表达式 (C++14+)
+
+```cpp
+auto comp = [](const std::string& a, const std::string& b) {
+    return std::lexicographical_compare(
+        a.begin(), a.end(),
+        b.begin(), b.end(),
+        [](char c1, char c2) {
+            return std::tolower(c1) < std::tolower(c2);
+        });
+};
+
+std::map<std::string, int, decltype(comp)> customMap(comp);
+```
+
+## raii
+
+RAII（资源获取即初始化）是 C++ 中的一种重要编程技术，它将资源的生命周期与对象的生命周期绑定在一起。核心思想是：资源获取在对象构造时进行资源释放在对象析构时自动进行
+
+1. 简单的 RAII 包装器
+
+```cpp
+class FileHandle {
+private:
+    FILE* file;
+
+public:
+    // 构造函数中获取资源
+    explicit FileHandle(const char* filename, const char* mode) {
+        file = fopen(filename, mode);
+        if (!file) {
+            throw std::runtime_error("无法打开文件");
+        }
+    }
+
+    // 析构函数中释放资源
+    ~FileHandle() {
+        if (file) {
+            fclose(file);
+        }
+    }
+
+    // 禁止拷贝
+    FileHandle(const FileHandle&) = delete;
+    FileHandle& operator=(const FileHandle&) = delete;
+
+    // 允许移动
+    FileHandle(FileHandle&& other) noexcept : file(other.file) {
+        other.file = nullptr;
+    }
+
+    FileHandle& operator=(FileHandle&& other) noexcept {
+        if (this != &other) {
+            if (file) fclose(file);
+            file = other.file;
+            other.file = nullptr;
+        }
+        return *this;
+    }
+
+    // 访问资源的方法
+    void write(const std::string& content) {
+        if (file) {
+            fwrite(content.c_str(), 1, content.size(), file);
+        }
+    }
+};
+```
+
+2. 使用 RAII 包装器
+
+```cpp
+void processFile() {
+    // 创建 RAII 对象，自动打开文件
+    FileHandle file("data.txt", "w");
+
+    // 使用资源
+    file.write("Hello, RAII!");
+
+    // 不需要手动关闭文件，析构函数会自动处理
+} // 文件在这里自动关闭
+```
+
+3. 异常安全示例
+
+```cpp
+void riskyOperation() {
+    FileHandle file("data.txt", "w");
+
+    file.write("开始操作...");
+
+    // 可能抛出异常的操作
+    if (someCondition) {
+        throw std::runtime_error("操作失败");
+    }
+
+    file.write("操作完成");
+
+    // 即使抛出异常，文件也会在栈展开时自动关闭
+}
+```
 
 # STL标准库
 
