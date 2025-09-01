@@ -4160,6 +4160,561 @@ void riskyOperation() {
 }
 ```
 
+## struct
+class 和 struct 都是用于定义自定义数据类型的关键字，它们都可以包含数据成员和成员函数。但它们有一些重要的区别。
+
+1. 默认访问权限
+```cpp
+struct MyStruct {
+    int data;        // 默认是 public
+    void function(); // 默认是 public
+};
+
+class MyClass {
+    int data;        // 默认是 private
+    void function(); // 默认是 private
+};
+```
+
+2. 默认继承方式
+
+```cpp
+struct DerivedStruct : BaseStruct {
+    // 默认 public 继承
+};
+
+class DerivedClass : BaseClass {
+    // 默认 private 继承
+};
+```
+
+定义和使用 struct
+
+```cpp
+#include <iostream>
+#include <string>
+
+// 定义结构体
+struct Person {
+    // 数据成员（默认public）
+    std::string name;
+    int age;
+
+    // 成员函数
+    void introduce() {
+        std::cout << "我叫" << name << "，今年" << age << "岁。" << std::endl;
+    }
+};
+
+int main() {
+    // 创建结构体实例
+    Person person;
+    person.name = "张三";  // 可以直接访问
+    person.age = 25;       // 可以直接访问
+    person.introduce();    // 调用成员函数
+
+    return 0;
+}
+```
+
+定义和使用 class
+
+```cpp
+#include <iostream>
+#include <string>
+
+// 定义类
+class Student {
+private: // 私有成员，只能在类内部访问
+    std::string id;
+    double gpa;
+
+public: // 公有成员，可以在外部访问
+    std::string name;
+    int age;
+
+    // 构造函数
+    Student(std::string n, int a, std::string i, double g)
+        : name(n), age(a), id(i), gpa(g) {}
+
+    // 公有成员函数
+    void displayInfo() {
+        std::cout << "姓名: " << name << std::endl;
+        std::cout << "年龄: " << age << std::endl;
+        std::cout << "学号: " << id << std::endl;
+        std::cout << "GPA: " << gpa << std::endl;
+    }
+
+    // 设置私有成员的公有方法（setter）
+    void setGPA(double newGPA) {
+        if (newGPA >= 0 && newGPA <= 4.0) {
+            gpa = newGPA;
+        }
+    }
+
+    // 获取私有成员的公有方法（getter）
+    double getGPA() const {
+        return gpa;
+    }
+};
+
+int main() {
+    Student student("李四", 20, "2023001", 3.8);
+
+    student.name = "李四";  // 可以直接访问公有成员
+    student.age = 20;       // 可以直接访问公有成员
+
+    // student.id = "2023001";  // 错误！私有成员不能在外部访问
+    // student.gpa = 3.8;       // 错误！私有成员不能在外部访问
+
+    student.setGPA(3.9);    // 通过公有方法修改私有成员
+    std::cout << "GPA: " << student.getGPA() << std::endl; // 通过公有方法访问私有成员
+
+    student.displayInfo();
+
+    return 0;
+}
+```
+
+struct 继承（默认 public）
+
+```cpp
+struct Animal {
+    std::string species;
+};
+
+struct Dog : Animal { // 默认 public 继承
+    std::string breed;
+
+    void bark() {
+        std::cout << species << " " << breed << " 在汪汪叫！" << std::endl;
+    }
+};
+
+int main() {
+    Dog dog;
+    dog.species = "犬科";  // 可以访问基类的public成员
+    dog.breed = "金毛";
+    dog.bark();
+
+    return 0;
+}
+```
+
+class 继承（默认 private）
+
+```cpp
+class Vehicle {
+public:
+    std::string type;
+    int wheels;
+};
+
+class Car : Vehicle { // 默认 private 继承
+    std::string model;
+
+public:
+    Car(std::string t, int w, std::string m) {
+        type = t;    // 可以访问基类的public成员（在派生类内部）
+        wheels = w;  // 可以访问基类的public成员（在派生类内部）
+        model = m;
+    }
+
+    void showInfo() {
+        std::cout << type << " " << model << " 有 " << wheels << " 个轮子" << std::endl;
+    }
+
+    // 提供访问基类成员的公有方法
+    std::string getType() const { return type; }
+    int getWheels() const { return wheels; }
+};
+
+int main() {
+    Car car("汽车", 4, "SUV");
+
+    // car.type = "汽车";    // 错误！private继承，基类成员在外部不可访问
+    // car.wheels = 4;       // 错误！private继承，基类成员在外部不可访问
+
+    std::cout << "类型: " << car.getType() << std::endl;    // 通过公有方法访问
+    std::cout << "轮子数: " << car.getWheels() << std::endl; // 通过公有方法访问
+
+    car.showInfo();
+
+    return 0;
+}
+```
+
+## cast
+
+C++ 提供了四种命名的强制类型转换操作符，比 C 风格的强制转换更安全、更明确：
+
+static_cast - 用于良性转换
+dynamic_cast - 用于多态类型的安全转换
+const_cast - 用于修改 const/volatile 属性
+reinterpret_cast - 用于低层次的重新解释
+
+1. static_cast - 静态转换
+
+```cpp
+// 基本类型转换
+double d = 3.14;
+int i = static_cast<int>(d); // i = 3
+
+// 继承层次转换
+class Base {};
+class Derived : public Base {};
+
+Derived derived;
+Base* base_ptr = static_cast<Base*>(&derived); // 向上转换，安全
+```
+
+2. dynamic_cast - 动态转换
+
+```cpp
+class Animal { virtual ~Animal() {} };
+class Dog : public Animal { void bark() {} };
+class Cat : public Animal {};
+
+Animal* animal = new Dog();
+
+// 安全向下转换
+Dog* dog = dynamic_cast<Dog*>(animal);
+if (dog) dog->bark(); // 成功转换
+
+// 转换失败
+Cat* cat = dynamic_cast<Cat*>(animal); // cat = nullptr
+```
+
+3. const_cast - 常量性转换
+
+```cpp
+// 移除 const
+const int x = 10;
+int* y = const_cast<int*>(&x); // 获得非常量指针
+
+// 添加 const
+int a = 20;
+const int* b = const_cast<const int*>(&a); // 获得常量指针
+```
+
+4. reinterpret_cast - 重新解释
+
+```cpp
+// 指针类型转换
+int num = 0x12345678;
+char* chars = reinterpret_cast<char*>(&num); // 将int指针解释为char指针
+
+// 指针与整数转换
+int value = 100;
+uintptr_t addr = reinterpret_cast<uintptr_t>(&value); // 指针转整数
+int* ptr = reinterpret_cast<int*>(addr); // 整数转指针
+```
+
+## list_init
+列表初始化（统一初始化）是 C++11 引入的一种新的初始化语法，使用大括号 {}。它提供了更统一、更安全的初始化方式。
+
+1. 基本类型初始化
+
+```cpp
+// 传统初始化
+int a = 10;
+double b = 3.14;
+
+// 列表初始化
+int c{10};         // 直接初始化
+int d = {20};      // 拷贝初始化
+double e{3.14};
+```
+
+2. 数组初始化
+
+```cpp
+// 传统数组初始化
+int arr1[3] = {1, 2, 3};
+
+// 列表初始化
+int arr2[]{1, 2, 3};          // 自动推导大小
+int arr3[5]{1, 2, 3};         // 剩余元素初始化为0
+int arr4[3] = {1, 2, 3};
+```
+
+3. STL 容器初始化
+
+```
+cpp
+#include <vector>
+#include <string>
+#include <map>
+
+// 传统方式需要多次push_back
+std::vector<int> vec1;
+vec1.push_back(1);
+vec1.push_back(2);
+vec1.push_back(3);
+
+// 列表初始化
+std::vector<int> vec2{1, 2, 3};
+std::vector<std::string> names{"Alice", "Bob", "Charlie"};
+
+std::map<std::string, int> scores{
+    {"Alice", 90},
+    {"Bob", 85},
+    {"Charlie", 95}
+};
+```
+
+4. 结构体和类初始化
+
+```cpp
+struct Point {
+    int x;
+    int y;
+    std::string name;
+};
+
+class Person {
+public:
+    std::string name;
+    int age;
+
+    Person(std::string n, int a) : name{n}, age{a} {}
+};
+
+// 结构体列表初始化
+Point p1{10, 20, "origin"};
+Point p2 = {30, 40, "target"};
+
+// 类列表初始化
+Person person{"John", 25};
+```
+
+5. 防止窄化转换（最重要的特性！）
+
+```cpp
+// 传统初始化允许窄化转换（可能产生警告）
+int a = 3.14;        // a = 3，丢失精度
+char c = 1000;       // 可能溢出，未定义行为
+
+// 列表初始化禁止窄化转换（编译错误）
+// int b{3.14};      // 错误：从double到int的窄化转换
+// char d{1000};     // 错误：从int到char的窄化转换
+
+// 允许的转换
+int e{100};          // OK
+double f{3};         // OK：int到double是拓宽转换
+```
+
+6. 函数返回值初始化
+
+```cpp
+#include <vector>
+
+std::vector<int> getNumbers() {
+    return {1, 2, 3, 4, 5};  // 直接返回初始化列表
+}
+
+auto numbers = getNumbers();  // numbers = {1, 2, 3, 4, 5}
+```
+
+7. 类中的成员初始化
+
+```cpp
+class Widget {
+private:
+    std::vector<int> data{1, 2, 3, 4, 5};  // 类成员直接初始化
+    int size{10};
+    double ratio{0.5};
+
+public:
+    Widget() = default;
+
+    Widget(std::initializer_list<int> init) : data{init} {}
+};
+```
+
+## operator
+运算符重载是C++的一个重要特性，它允许我们为自定义类型（类或结构体）重新定义运算符的行为，使得这些类型能够像内置类型一样使用运算符。
+
+1. 作为成员函数
+
+```cpp
+class MyClass {
+public:
+    ReturnType operatorOP(ArgumentType arg) {
+        // 实现
+    }
+};
+```
+
+2. 作为非成员函数
+
+```cpp
+ReturnType operatorOP(ArgumentType1 arg1, ArgumentType2 arg2) {
+    // 实现
+}
+```
+
+3. 算术运算符
+
+```cpp
+struct Vector2D {
+    double x, y;
+
+    // 成员函数形式
+    Vector2D operator+(const Vector2D& other) const {
+        return {x + other.x, y + other.y};
+    }
+
+    Vector2D operator-(const Vector2D& other) const {
+        return {x - other.x, y - other.y};
+    }
+};
+
+// 非成员函数形式（常用于标量乘法）
+Vector2D operator*(double scalar, const Vector2D& vec) {
+    return {scalar * vec.x, scalar * vec.y};
+}
+
+Vector2D operator*(const Vector2D& vec, double scalar) {
+    return scalar * vec;  // 重用上面的实现
+}
+```
+
+4. 比较运算符
+
+```cpp
+struct Vector2D {
+    double x, y;
+
+    bool operator==(const Vector2D& other) const {
+        return x == other.x && y == other.y;
+    }
+
+    bool operator!=(const Vector2D& other) const {
+        return !(*this == other);  // 重用==运算符
+    }
+
+    bool operator<(const Vector2D& other) const {
+        return (x*x + y*y) < (other.x*other.x + other.y*other.y);
+    }
+};
+```
+
+5. 流运算符（必须是非成员函数）
+
+```cpp
+#include <iostream>
+
+struct Vector2D {
+    double x, y;
+};
+
+std::ostream& operator<<(std::ostream& os, const Vector2D& vec) {
+    os << "(" << vec.x << ", " << vec.y << ")";
+    return os;
+}
+
+std::istream& operator>>(std::istream& is, Vector2D& vec) {
+    char dummy;
+    is >> dummy >> vec.x >> dummy >> vec.y >> dummy;
+    return is;
+}
+```
+
+6. 赋值运算符
+
+```cpp
+class MyString {
+private:
+    char* data;
+
+public:
+    // 拷贝赋值运算符
+    MyString& operator=(const MyString& other) {
+        if (this != &other) {  // 防止自赋值
+            delete[] data;
+            data = new char[strlen(other.data) + 1];
+            strcpy(data, other.data);
+        }
+        return *this;  // 返回引用以支持链式赋值
+    }
+
+    // 移动赋值运算符（C++11）
+    MyString& operator=(MyString&& other) noexcept {
+        if (this != &other) {
+            delete[] data;
+            data = other.data;
+            other.data = nullptr;
+        }
+        return *this;
+    }
+};
+```
+
+7. 下标运算符
+
+```cpp
+class MyArray {
+private:
+    int* arr;
+    int size;
+
+public:
+    int& operator[](int index) {
+        if (index < 0 || index >= size) {
+            throw std::out_of_range("Index out of range");
+        }
+        return arr[index];
+    }
+
+    // const版本，用于const对象
+    const int& operator[](int index) const {
+        if (index < 0 || index >= size) {
+            throw std::out_of_range("Index out of range");
+        }
+        return arr[index];
+    }
+};
+```
+
+8. 函数调用运算符（仿函数）
+
+```cpp
+class Adder {
+private:
+    int value;
+
+public:
+    Adder(int v) : value(v) {}
+
+    int operator()(int x) const {
+        return value + x;
+    }
+};
+
+// 使用
+Adder add5(5);
+int result = add5(10);  // result = 15
+```
+
+可以重载的运算符
+
++  -  *  /  %  ^  &  |  ~  !  =  <  >
++= -= *= /= %= ^= &= |= << >> >>= <<=
+== != <= >= && || ++ -- , ->* -> () []
+new new[] delete delete[]
+
+不能重载的运算符
+
+```cpp
+.       // 成员访问运算符
+.*      // 成员指针访问运算符
+::      // 作用域解析运算符
+?:      // 三元条件运算符
+sizeof  // 大小运算符
+typeid  // 类型标识运算符
+```
+
 # STL标准库
 
 # Utilities
