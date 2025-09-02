@@ -4715,6 +4715,205 @@ sizeof  // 大小运算符
 typeid  // 类型标识运算符
 ```
 
+## friend
+友元是C++中的一种机制，它允许一个函数或类访问另一个类的私有（private）和保护（protected）成员。这是一种有控制的打破封装的方式。
+
+在某些情况下，两个类需要紧密协作，或者某些外部函数需要访问类的内部实现细节，但又不想通过公有接口（这样可能会暴露过多细节或影响性能），这时就可以使用友元。
+
+1. 友元函数
+
+```cpp
+class MyClass {
+private:
+    int secret;
+
+public:
+    MyClass(int s) : secret(s) {}
+
+    // 声明友元函数
+    friend void showSecret(const MyClass& obj);
+};
+
+// 友元函数定义
+void showSecret(const MyClass& obj) {
+    std::cout << "Secret is: " << obj.secret << std::endl;  // 可以访问私有成员
+}
+
+int main() {
+    MyClass obj(42);
+    showSecret(obj);  // 输出: Secret is: 42
+    return 0;
+}
+```
+
+2. 友元类
+
+```cpp
+class MyClass {
+private:
+    int secret;
+
+public:
+    MyClass(int s) : secret(s) {}
+
+    // 声明友元类
+    friend class FriendClass;
+};
+
+class FriendClass {
+public:
+    void accessSecret(const MyClass& obj) {
+        std::cout << "Accessing secret: " << obj.secret << std::endl;
+    }
+
+    void modifySecret(MyClass& obj, int newSecret) {
+        obj.secret = newSecret;  // 甚至可以修改私有成员
+    }
+};
+```
+
+3. 友元成员函数
+
+```cpp
+class MyClass;  // 前向声明
+
+class FriendClass {
+public:
+    void accessSecret(const MyClass& obj);  // 成员函数声明
+};
+
+class MyClass {
+private:
+    int secret;
+
+public:
+    MyClass(int s) : secret(s) {}
+
+    // 只声明特定的成员函数为友元，而不是整个类
+    friend void FriendClass::accessSecret(const MyClass& obj);
+};
+
+// 成员函数定义
+void FriendClass::accessSecret(const MyClass& obj) {
+    std::cout << "Secret is: " << obj.secret << std::endl;
+}
+```
+
+4. 单向性（One-way）
+
+```cpp
+class A {
+    friend class B;  // B是A的友元
+};
+
+class B {
+    // A不是B的友元，A不能访问B的私有成员
+private:
+    int b_secret;
+};
+
+// B可以访问A的私有成员，但A不能访问B的私有成员
+```
+
+5. 不可继承（Not inheritable）
+
+```cpp
+class Base {
+    friend class Friend;
+};
+
+class Derived : public Base {
+private:
+    int derived_secret;
+};
+
+class Friend {
+public:
+    void accessBase(Base& b) {
+        // 可以访问Base的私有成员
+    }
+
+    void accessDerived(Derived& d) {
+        // 错误！不能访问Derived的私有成员
+        // int secret = d.derived_secret;
+    }
+};
+```
+
+6. 不可传递（Not transitive）
+
+```cpp
+class A {
+    friend class B;
+};
+
+class B {
+    friend class C;
+};
+
+class C {
+    // C不是A的友元，不能访问A的私有成员
+};
+```
+
+7. 重载流操作符
+
+```cpp
+class Complex {
+private:
+    double real, imag;
+
+public:
+    Complex(double r, double i) : real(r), imag(i) {}
+
+    // 重载输出操作符为友元
+    friend std::ostream& operator<<(std::ostream& os, const Complex& c);
+};
+
+std::ostream& operator<<(std::ostream& os, const Complex& c) {
+    os << "(" << c.real << " + " << c.imag << "i)";
+    return os;
+}
+```
+
+8. 数学运算
+
+```cpp
+class Vector {
+private:
+    double x, y, z;
+
+public:
+    Vector(double x, double y, double z) : x(x), y(y), z(z) {}
+
+    // 点积运算
+    friend double dot(const Vector& v1, const Vector& v2);
+};
+
+double dot(const Vector& v1, const Vector& v2) {
+    return v1.x * v2.x + v1.y * v2.y + v1.z * v2.z;
+}
+```
+
+9. 工厂模式
+
+```cpp
+class Product {
+private:
+    Product() {}  // 构造函数私有化
+
+    // 只有Factory可以创建Product实例
+    friend class Factory;
+};
+
+class Factory {
+public:
+    static Product* createProduct() {
+        return new Product();  // 可以访问私有构造函数
+    }
+};
+```
+
 # STL标准库
 
 # Utilities
