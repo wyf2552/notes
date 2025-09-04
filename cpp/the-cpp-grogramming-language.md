@@ -4914,6 +4914,109 @@ public:
 };
 ```
 
+## deque
+deque（Double-Ended Queue，双端队列）是C++标准模板库（STL）中的一个容器，它允许在队列的前端和后端都进行高效的插入和删除操作。
+
+
+1. 包含头文件和初始化
+
+```cpp
+#include <deque>
+#include <iostream>
+
+int main() {
+    // 多种初始化方式
+    std::deque<int> deq1;                 // 空deque
+    std::deque<int> deq2(5, 10);          // 5个元素，每个都是10
+    std::deque<int> deq3 = {1, 2, 3, 4};  // 初始化列表
+    std::deque<int> deq4(deq3);           // 拷贝构造
+
+    return 0;
+}
+```
+
+2. 元素访问
+
+```cpp
+std::deque<int> deq = {10, 20, 30, 40};
+
+// 随机访问
+std::cout << deq[0] << std::endl;    // 10 (不检查边界)
+std::cout << deq.at(1) << std::endl; // 20 (检查边界，越界抛出异常)
+
+// 访问首尾元素
+std::cout << deq.front() << std::endl; // 10
+std::cout << deq.back() << std::endl;  // 40
+
+// 遍历
+for (int i = 0; i < deq.size(); ++i) {
+    std::cout << deq[i] << " ";
+}
+// 输出: 10 20 30 40
+
+// 范围for循环
+for (int num : deq) {
+    std::cout << num << " ";
+}
+```
+
+3. 插入操作
+
+```cpp
+std::deque<int> deq;
+
+// 前端插入
+deq.push_front(30);  // deq: [30]
+deq.push_front(20);  // deq: [20, 30]
+deq.push_front(10);  // deq: [10, 20, 30]
+
+// 后端插入
+deq.push_back(40);   // deq: [10, 20, 30, 40]
+deq.push_back(50);   // deq: [10, 20, 30, 40, 50]
+
+// 指定位置插入
+auto it = deq.begin() + 2;
+deq.insert(it, 25);  // deq: [10, 20, 25, 30, 40, 50]
+
+// 批量插入
+deq.insert(deq.end(), {60, 70, 80});  // 在末尾插入多个元素
+```
+
+4. 删除操作
+
+```cpp
+std::deque<int> deq = {10, 20, 30, 40, 50};
+
+// 前端删除
+deq.pop_front();  // 删除10 → [20, 30, 40, 50]
+
+// 后端删除
+deq.pop_back();   // 删除50 → [20, 30, 40]
+
+// 指定位置删除
+auto it = deq.begin() + 1;
+deq.erase(it);    // 删除30 → [20, 40]
+
+// 范围删除
+deq.erase(deq.begin(), deq.end());  // 清空所有元素
+
+// 清空
+deq.clear();      // 清空deque
+```
+
+5. 容量操作
+
+```cpp
+std::deque<int> deq = {1, 2, 3};
+
+std::cout << "Size: " << deq.size() << std::endl;     // 3
+std::cout << "Empty: " << deq.empty() << std::endl;   // 0 (false)
+
+deq.resize(5);      // 调整大小为5，新增元素默认初始化
+deq.resize(8, 99);  // 调整大小为8，新增元素初始化为99
+
+std::cout << "Max size: " << deq.max_size() << std::endl;  // 最大可能
+```
 # STL标准库
 
 # Utilities
