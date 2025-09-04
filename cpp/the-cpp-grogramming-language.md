@@ -5017,6 +5017,197 @@ deq.resize(8, 99);  // 调整大小为8，新增元素初始化为99
 
 std::cout << "Max size: " << deq.max_size() << std::endl;  // 最大可能
 ```
+
+## queue
+队列是一种先进先出（FIFO - First In First Out） 的线性数据结构。就像现实生活中的排队一样，先来的人先接受服务，后来的人排在队尾。
+
+1. 包含头文件和初始化
+
+```cpp
+#include <queue>
+#include <iostream>
+
+int main() {
+    // 创建队列
+    std::queue<int> q1;                 // 空队列
+    std::queue<std::string> q2;         // 字符串队列
+
+    // 使用其他容器初始化（高级用法）
+    std::deque<int> deq = {1, 2, 3};
+    std::queue<int> q3(deq);            // 使用deque初始化
+
+    return 0;
+}
+```
+
+2. 元素操作
+
+```cpp
+std::queue<int> q;
+
+// 入队操作
+q.push(10);    // 队列: [10]
+q.push(20);    // 队列: [10, 20]
+q.push(30);    // 队列: [10, 20, 30]
+
+// 访问队首和队尾
+std::cout << "Front: " << q.front() << std::endl;  // 10
+std::cout << "Back: " << q.back() << std::endl;    // 30
+
+// 出队操作
+q.pop();       // 移除10 → 队列: [20, 30]
+std::cout << "Front after pop: " << q.front() << std::endl;  // 20
+```
+
+3. 容量查询
+
+```cpp
+std::queue<int> q;
+
+q.push(1);
+q.push(2);
+q.push(3);
+
+std::cout << "Size: " << q.size() << std::endl;     // 3
+std::cout << "Empty: " << q.empty() << std::endl;   // 0 (false)
+
+// 清空队列
+while (!q.empty()) {
+    q.pop();
+}
+std::cout << "Size after clear: " << q.size() << std::endl;  // 0
+```
+
+4. 队列的底层容器
+
+std::queue 是一个容器适配器，它基于其他容器实现。默认使用 std::deque，但可以指定其他容器：
+
+```cpp
+#include <queue>
+#include <list>
+#include <vector>
+#include <deque>
+
+int main() {
+    // 使用不同的底层容器
+    std::queue<int> q1;                     // 默认使用deque
+    std::queue<int, std::list<int>> q2;     // 使用list
+    std::queue<int, std::deque<int>> q3;    // 显式使用deque
+
+    // 注意：vector不能作为queue的底层容器，因为vector没有pop_front()
+    // std::queue<int, std::vector<int>> q4;  // 编译错误
+
+    return 0;
+}
+```
+
+5. 任务调度系统
+
+```cpp
+#include <queue>
+#include <thread>
+#include <chrono>
+
+class TaskScheduler {
+private:
+    std::queue<std::function<void()>> tasks;
+
+public:
+    void addTask(std::function<void()> task) {
+        tasks.push(task);
+    }
+
+    void processTasks() {
+        while (!tasks.empty()) {
+            auto task = tasks.front();
+            task();  // 执行任务
+            tasks.pop();
+            std::this_thread::sleep_for(std::chrono::milliseconds(100));
+        }
+    }
+};
+```
+
+6. 广度优先搜索（BFS）
+
+```cpp
+#include <queue>
+#include <vector>
+#include <iostream>
+
+void BFS(const std::vector<std::vector<int>>& graph, int start) {
+    std::vector<bool> visited(graph.size(), false);
+    std::queue<int> q;
+
+    q.push(start);
+    visited[start] = true;
+
+    while (!q.empty()) {
+        int current = q.front();
+        q.pop();
+        std::cout << "Visiting node: " << current << std::endl;
+
+        for (int neighbor : graph[current]) {
+            if (!visited[neighbor]) {
+                visited[neighbor] = true;
+                q.push(neighbor);
+            }
+        }
+    }
+}
+```
+
+7. 消息队列
+
+```cpp
+#include <queue>
+#include <string>
+#include <iostream>
+
+class MessageQueue {
+private:
+    std::queue<std::string> messages;
+
+public:
+    void sendMessage(const std::string& msg) {
+        messages.push(msg);
+        std::cout << "Message sent: " << msg << std::endl;
+    }
+
+    void processMessages() {
+        while (!messages.empty()) {
+            std::string msg = messages.front();
+            messages.pop();
+            std::cout << "Processing message: " << msg << std::endl;
+        }
+    }
+
+    size_t pendingMessages() const {
+        return messages.size();
+    }
+};
+```
+
+8. 队列的操作限制
+
+```cpp
+std::queue<int> q = {1, 2, 3, 4, 5};
+
+// 允许的操作：
+q.push(6);          // ✅ 队尾添加
+q.pop();            // ✅ 队首移除
+int front = q.front(); // ✅ 访问队首
+int back = q.back();   // ✅ 访问队尾
+bool empty = q.empty(); // ✅ 检查空
+size_t size = q.size(); // ✅ 获取大小
+
+// 不允许的操作：
+// q[2] = 10;       // ❌ 不能随机访问
+// q.insert(...);   // ❌ 不能在中间插入
+// q.erase(...);    // ❌ 不能在中间删除
+// q.sort();        // ❌ 不能排序
+```
+
 # STL标准库
 
 # Utilities
