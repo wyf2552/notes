@@ -5208,6 +5208,266 @@ size_t size = q.size(); // ✅ 获取大小
 // q.sort();        // ❌ 不能排序
 ```
 
+## stack
+栈（Stack） 是一种后进先出（LIFO - Last In First Out） 的线性数据结构。就像一叠盘子：最后放上去的盘子最先被拿走,最先放上去的盘子最后被拿走
+
+1. 包含头文件和声明
+
+```cpp
+#include <stack>
+#include <iostream>
+using namespace std;
+
+int main() {
+    stack<int> s;  // 创建一个整型栈
+    // stack<string> s;  // 字符串栈
+    // stack<double> s;  // 双精度浮点数栈
+}
+```
+
+2. 基本操作示例
+
+```cpp
+#include <stack>
+#include <iostream>
+using namespace std;
+
+int main() {
+    stack<int> s;
+
+    // 压入元素
+    s.push(10);
+    s.push(20);
+    s.push(30);
+
+    cout << "栈大小: " << s.size() << endl;  // 输出: 3
+    cout << "栈顶元素: " << s.top() << endl; // 输出: 30
+
+    // 弹出元素
+    s.pop();
+    cout << "弹出后栈顶: " << s.top() << endl; // 输出: 20
+
+    // 检查栈是否为空
+    if (!s.empty()) {
+        cout << "栈不为空" << endl;
+    }
+
+    // 遍历栈（注意：遍历会清空栈）
+    while (!s.empty()) {
+        cout << s.top() << " ";
+        s.pop();
+    }
+    // 输出: 20 10
+}
+```
+
+3. 函数调用栈
+
+```cpp
+void functionA() {
+    cout << "进入A函数" << endl;
+    // 函数调用时压栈
+}
+
+void functionB() {
+    cout << "进入B函数" << endl;
+    functionA();  // 嵌套调用
+    cout << "返回B函数" << endl;
+    // 函数返回时弹栈
+}
+
+int main() {
+    functionB();
+}
+```
+
+4. 括号匹配检查
+
+```cpp
+bool isValid(string s) {
+    stack<char> st;
+    for (char c : s) {
+        if (c == '(' || c == '[' || c == '{') {
+            st.push(c);
+        } else {
+            if (st.empty()) return false;
+            char top = st.top();
+            if ((c == ')' && top != '(') ||
+                (c == ']' && top != '[') ||
+                (c == '}' && top != '{')) {
+                return false;
+            }
+            st.pop();
+        }
+    }
+    return st.empty();
+}
+```
+
+5. 表达式求值
+
+```cpp
+// 中缀表达式转后缀表达式
+string infixToPostfix(string infix) {
+    stack<char> opStack;
+    string postfix;
+    // 实现转换逻辑...
+    return postfix;
+}
+```
+
+6. 浏览器前进后退功能
+
+```cpp
+class Browser {
+private:
+    stack<string> backStack;
+    stack<string> forwardStack;
+    string current;
+
+public:
+    void visit(string url) {
+        if (!current.empty()) {
+            backStack.push(current);
+        }
+        current = url;
+        while (!forwardStack.empty()) {
+            forwardStack.pop();
+        }
+    }
+
+    string back() {
+        if (backStack.empty()) return "";
+        forwardStack.push(current);
+        current = backStack.top();
+        backStack.pop();
+        return current;
+    }
+
+    string forward() {
+        if (forwardStack.empty()) return "";
+        backStack.push(current);
+        current = forwardStack.top();
+        forwardStack.pop();
+        return current;
+    }
+};
+```
+
+7. 空栈检查
+
+```cpp
+stack<int> s;
+
+// 错误：可能导致未定义行为
+// s.pop();
+// int value = s.top();
+
+// 正确：先检查再操作
+if (!s.empty()) {
+    s.pop();
+    int value = s.top();
+}
+```
+
+8. 自定义数据类型
+
+```cpp
+struct Person {
+    string name;
+    int age;
+
+    Person(string n, int a) : name(n), age(a) {}
+};
+
+int main() {
+    stack<Person> people;
+    people.push(Person("Alice", 25));
+    people.push(Person("Bob", 30));
+
+    cout << people.top().name << endl;  // 输出: Bob
+}
+```
+
+9. 基于数组的实现
+
+```cpp
+template<typename T>
+class ArrayStack {
+private:
+    T* data;
+    int capacity;
+    int topIndex;
+
+public:
+    ArrayStack(int size) : capacity(size), topIndex(-1) {
+        data = new T[capacity];
+    }
+
+    void push(T value) {
+        if (topIndex == capacity - 1) {
+            // 扩容逻辑...
+        }
+        data[++topIndex] = value;
+    }
+
+    void pop() {
+        if (topIndex >= 0) topIndex--;
+    }
+
+    T top() {
+        return data[topIndex];
+    }
+
+    bool empty() {
+        return topIndex == -1;
+    }
+};
+```
+
+10. 基于链表的实现
+
+```cpp
+template<typename T>
+class ListNode {
+public:
+    T data;
+    ListNode* next;
+    ListNode(T val) : data(val), next(nullptr) {}
+};
+
+template<typename T>
+class LinkedListStack {
+private:
+    ListNode<T>* head;
+
+public:
+    LinkedListStack() : head(nullptr) {}
+
+    void push(T value) {
+        ListNode<T>* newNode = new ListNode<T>(value);
+        newNode->next = head;
+        head = newNode;
+    }
+
+    void pop() {
+        if (head) {
+            ListNode<T>* temp = head;
+            head = head->next;
+            delete temp;
+        }
+    }
+
+    T top() {
+        return head->data;
+    }
+
+    bool empty() {
+        return head == nullptr;
+    }
+};
+```
+
 # STL标准库
 
 # Utilities
